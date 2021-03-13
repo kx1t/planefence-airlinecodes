@@ -1005,6 +1005,7 @@ COA,Continental Airlines,CONTINENTAL,United States
 COD,Concordavia,CONCORDAVIA,Ukraine
 COF,Confort Air,CONFORT,Canada
 COH,RAF Coltishall,COLT,United Kingdom
+COL,SC Aviation,,United States
 COM,Comair,COMAIR,United States
 CON,Continental Oil,CONOCO,United States
 COO,Corporate Airlink,CORPORATE,Canada
