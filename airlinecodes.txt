@@ -1363,6 +1363,7 @@ ECX,Ecomex Air Cargo,AIR ECOMEX,Angola
 ECY,Euroceltic Airways,ECHELON,United Kingdom
 EDC,Air Charter Scotland,SALTIRE,United Kingdom
 EDD,Líneas Aéreas Ejectuivas De Durango,LINEAS DURANGO,Mexico
+EDG,Jet Edge International,EDGE,United States
 EDJ,Edwards Jet Center of Montana,EDWARDS,United States
 EDL,Polizeihubschrauberstaffel Bayern,POLICE EDELWEISS,Germany
 EDO,Elidolomiti,ELIDOLOMITI,Italy
@@ -1785,6 +1786,7 @@ FYA,Servicios Aéreos Integrales / Flyant,FLYANT,Spain
 FYE,Easy Link Aviation Services,FLYME,Nigeria
 FYG,Flying Service,FLYING GROUP,Belgium
 FYH,Flyhy Cargo Airlines,FLY HIGH,Thailand
+FYL,Flying Group,FLYING GROUP,Belgium
 FYN,Comfort Air,FLYNN,Germany
 FYS,American Flyers,AMERICAN FLYERS,United States
 GAA,Business Express,BIZEX,United States
@@ -2418,12 +2420,14 @@ JEL,Tal Air Charters,JETEL,Canada
 JEM,Emerald Airways,GEMSTONE,United Kingdom
 JET,Wind Jet,GHIBLI,Italy
 JEV,Lagun Air,,Spain
+JFA,JetFly Aviation,JETFLY,Luxembourg
 JFC,LTV Jet Fleet Corporation,JET-FLEET,United States
 JFK,Keenair Charter -,KEENAIR,United Kingdom
 JFY,Foster Yeoman,YEOMAN,United Kingdom
 JIA,PSA Airlines,BLUE STREAK,United States
 JIM,Sark International Airways,SARK,United Kingdom
 JJM,Regional Geodata Air,GEODATA,Spain
+JKR,Justice Air,JOKER,United States
 JKA,LeTourneau University,JACKET,United States
 JKY,Helicopter & Aviation Services,JOCKEY,United Kingdom
 JLA,MIA Airlines,SALLINE,Romania
