@@ -3954,6 +3954,7 @@ RKW,Rockwell Collins Avionics,ROCKWELL,United States
 RLA,Airlinair,AIRLINAIR,France
 RLE,Rico Linhas Aéreas,RICO,Brazil
 RLH,Ruili Airlines,SENDI,China
+RLJ,Empyreal Jet Service,,United States
 RLL,Air Leone,AEROLEONE,Sierra Leone
 RLM,Royal American Airways,ROYAL AMERICAN,United States
 RLN,Aero Lanka,AERO LANKA,Sri Lanka
