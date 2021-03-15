@@ -1,1 +1,1 @@
-2021-03-15 18:27:13 EDTYEL: (flight examples: YEL10 YEL10)
+Airline code "YEL", examples: YEL10 YEL10, date added: 2021-03-15 18:31:23 EDT
