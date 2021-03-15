@@ -1390,6 +1390,7 @@ EGL,Capital Trading Aviation,PRESTIGE,United Kingdom
 EGN,Eagle Aviation France,FRENCH EAGLE,France
 EGO,Gauteng Air Cargo,GAUTENG,South Africa
 EGR,Eagle Air,EAGLE SIERRA,Sierra Leone
+EGS,National Jets,EVERGLADES,United States
 EGU,Eagle Air,AFRICAN EAGLE,Uganda
 EGV,Enrique Gleisner Vivanco,GLEISNER,Chile
 EGX,Eagle Air Company,THAI EAGLE,Thailand
@@ -1851,6 +1852,7 @@ GEA,Guinea Ecuatorial Airlines,GEASA,Equatorial Guinea
 GEC,Lufthansa Cargo,LUFTHANSA CARGO,Germany
 GED,Europe Air Lines,LANGUEDOC,France
 GEE,Geesair,GEESAIR,Canada
+GEL,GeoSky,SKY GEORGIA,Georgia
 GEN,GENSA,GENSA-BRASIL,Brazil
 GES,Gestair,GESTAIR,Spain
 GET,Get High,AIR FLOW,Portugal
@@ -4070,6 +4072,7 @@ RVC,Richards Aviation,RIVER CITY,United States
 RVE,Airventure,AIRVENTURE,Belgium
 RVF,Ravn Alaska,RAVEN FLIGHT,United States
 RVI,Aero Servicios,AERO SERVICIOS,Mexico
+RVJ,Aircraft Management Group Inc,RIVERS JET,United Status
 RVL,Airvallee,AIR VALLEE,Italy
 RVM,River Ministries Air Charter,RIVER,South Africa
 RVN,Raven Air,RAVEN U-S,United States
