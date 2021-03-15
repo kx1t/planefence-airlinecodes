@@ -2806,6 +2806,7 @@ LSU,Laus,LAUS AIR,Croatia
 LSV,Slovenian Ministry of Defence,,Slovenia
 LSY,Lindsay Aviation,LINDSAY AIR,United States
 LTA,LIFT Academy,LIFT,United States
+LTC,Charter Jets,LATCHARTER,Latvia
 LTD,Executive Express Aviation/JA Air Charter,LIGHT SPEED,United States
 LTE,LTE International Airways,FUN JET,Spain
 LTF,Lufttaxi Fluggesellschaft,Garfield,Germany
