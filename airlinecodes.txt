@@ -1265,6 +1265,7 @@ DON,Donair Flying Club,DONAIR,United Kingdom
 DOP,Dancopter,DANCOPTER,Denmark
 DOR,Dornier,DORNIER,Germany
 DOT,Telnic Limited,DOT TEL,United Kingdom
+DOW,Best Jets Intl,DOWNTOWN,United States
 DPJ,Delta Private Jets,JET CARD,United States
 DPL,Dome Petroleum,DOME,Canada
 DQA,Island Aviation Services,,Maldives
@@ -3294,6 +3295,7 @@ NOA,Norontair,NORONTAIR,Canada
 NOC,Norcopter,NORCOPTER,Norway
 NOF,Fonnafly,FONNA,Norway
 NOH,No. 32 (The Royal) Squadron,NORTHOLT,United Kingdom
+NOJ,NovaJet,,United States
 NOK,Nok Air,NOK AIR,Thailand
 NOL,National Overseas Airlines Company,NAT AIRLINE,Egypt
 NON,Servicios Aéreos Latinoamericanos,SERVICIOS LATINO,Mexico
@@ -3425,6 +3427,7 @@ OIC,Iwamoto Crane Co Ltd,,Japan
 OIX,Orion-x,ORIONIX,Russia
 OJY,Florida Air,OHJAY,United States
 OKA,Okay Airways,OKAYJET,China
+OKC,Private Jets,THUNDERWINGS,United States
 OKJ,Okada Airlines,OKADA AIR,Nigeria
 OKL,Oklahoma Department of Public Safety,OKLAHOMA,United States
 OKP,Okapi Airways,OKAPI,Democratic Republic of Congo
@@ -3599,6 +3602,7 @@ PHE,Pawan Hans,PAWAN HANS,India
 PHG,Phoenix Aviation,PHOENIX GROUP,Kyrgyzstan
 PHH,Polizeihubschrauberstaffel Hessen,IBIS,Germany
 PHI,Philips Aviation Services,PHILAIR,Netherlands
+PHJ,Peach Jet Airlines,,United States
 PHL,Phillips Michigan City Flying Service,PHILLIPS,United States
 PHM,Petroleum Helicopters,PETROLEUM,United States
 PHN,Phoenix Air Lines,PHOENIX BRASIL,Brazil
