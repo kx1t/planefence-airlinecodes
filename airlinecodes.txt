@@ -2418,6 +2418,7 @@ JBU,Jet Blue,JETBLUE,United States
 JCH,Trading Air Cargo,TRADING CARGO,Mauritania
 JCM,Secure Air Charter,SECUREAIR,United States
 JCR,Rotterdam Jet Center,ROTTERDAM JETCENTER,Netherlands
+JCY,Jet City,JETCITY,United States
 JDC,Deere and Company,JOHN DEERE,United States
 JEE,Ambjek Air Services,AMBJEK AIR,Nigeria
 JEL,Tal Air Charters,JETEL,Canada
