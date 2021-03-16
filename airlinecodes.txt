@@ -3948,6 +3948,7 @@ RIU,Riau Airlines,RIAU AIR,Indonesia
 RIV,APG Airlines,RIVERA,France
 RIX,Rectrix Aviation,RECTRIX,United States
 RJA,Royal Jordanian,JORDANIAN,Jordan
+RJC,Richmor Aviation,COLUMBIA JET,United States
 RJM,Millen Corporation,MILLEN,United Kingdom
 RJS,Aeroservicios Jet,ASERJET,Mexico
 RJT,RA Jet Aeroservicios,RA JET,Mexico
