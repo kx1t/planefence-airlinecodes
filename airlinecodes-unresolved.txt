@@ -1,1 +1,1 @@
-Airline code "RJC", examples: RJC072,
+Airline code "RJC", examples: RJC072, RJC072,
