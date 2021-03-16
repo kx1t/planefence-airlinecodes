@@ -9,7 +9,7 @@ sed 's/^\([A-Z0-9]\{3\}\).*/\1/g' /var/www/php/airline-missed.txt 2>/dev/null | 
 
 while read -r missed
 do
-	grep "^$missed," /var/www/php/airlinecodes.txt 2>&1 >/dev/null || echo "Airline code \"$missed\", examples: $(grep "^$missed" /var/www/php/airline-missed.txt |xargs), date added: $(date +"%Y-%m-%d %H:%M:%S %Z")" > airlinecodes-unresolved.txt
+	grep "^$missed," /var/www/php/airlinecodes.txt 2>&1 >/dev/null || echo "Airline code \"$missed\", examples: $(grep "^$missed" /var/www/php/airline-missed.txt |xargs)" > airlinecodes-unresolved.txt
 done < /tmp/missed
 
 # remove dupes:
