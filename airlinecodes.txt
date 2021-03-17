@@ -610,6 +610,7 @@ BKV,Bukovyna,BUKOVYNA,Ukraine
 BLA,All Charter Limited,ALL CHARTER,United Kingdom
 BLB,Blue Bird Aviation,BLUEBIRD SUDAN,Sudan
 BLC,Bellesavia,BELLESAVIA,Belarus
+BLD,Bournemouth Commercial Flight Training Center,,United Kingdom
 BLE,Blue Line,BLUE BERRY,France
 BLF,Blue1,BLUEFIN,Finland
 BLG,Belgavia,BELGAVIA,Belgium
