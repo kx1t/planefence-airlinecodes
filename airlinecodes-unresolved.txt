@@ -1,1 +1,1 @@
-Airline code "PVD", examples: PVD29P, PVD29P, PVD29P,
+Airline code "LDX", examples: LDX18,
