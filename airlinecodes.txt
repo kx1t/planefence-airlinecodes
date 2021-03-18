@@ -2216,6 +2216,7 @@ HVK,Turkish Air Force,TURKISH AIRFORCE,Turkey
 HVL,Heavylift International,HEAVYLIFT INTERNATIONAL,United Arab Emirates
 HVN,Vietnam Airlines,VIET NAM AIRLINES,Vietnam
 HVY,Heavylift Cargo Airlines,HEAVY CARGO,Australia
+HWA,Hillwood Airways,Hillwood,United States
 HWD,HPM Investments,FLITEWISE,United Kingdom
 HWY,Highland Airways,HIWAY,United Kingdom
 HXA,China Express Airlines,CHINA EXPRESS,China
