@@ -311,6 +311,7 @@ APY,APA Internacional,APA INTERNACIONAL,Dominican Republic
 AQA,Aeroatlas, S.A.,ATCO,Colombia
 AQL,Aquila Air Ltd.,AQUILA,Canada
 AQO,Aluminum Company Of America,ALCOA SHUTTLE,United States
+AQS,Airstream,,United States
 AQT,Aviones de Renta de Quintana Roo, S.A. de C.V.,AVIOQUINTANA,Mexico
 AQZ,Aerodyne Charter Company,QUANZA,United States
 ARA,Arik Air,ARIK AIR,Nigeria
@@ -2416,6 +2417,7 @@ JAR,Airlink,AIRLINK,Austria
 JAS,Jet Aviation Flight Services,,United States
 JBA,Helijet,HELIJET,Canada
 JBU,Jet Blue,JETBLUE,United States
+JCB,J C Bamford,,United Kingdom
 JCH,Trading Air Cargo,TRADING CARGO,Mauritania
 JCM,Secure Air Charter,SECUREAIR,United States
 JCR,Rotterdam Jet Center,ROTTERDAM JETCENTER,Netherlands
@@ -3771,6 +3773,7 @@ PUE,Aeropuelche,PUELCHE,Chile
 PUR,Spurwing Airlines,SPURWING,South Africa
 PUV,Publivoo,PUBLIVOO,Portugal
 PVA,Aerotransportes Privados,TRANSPRIVADO,Mexico
+PVD,PADAVIATION,,Italy
 PVG,Privilege Style Líneas Aéreas,PRIVILEGE,Spain
 PVI,Panavia,,Panama
 PVK,Association of Private Pilots of Kazakhstan,BORIS,Kazakhstan
