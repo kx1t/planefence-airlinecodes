@@ -2683,6 +2683,7 @@ LDL,Aerologic,,Russia
 LDM,LaudaMotion,LAUDA MOTION,Austria
 LDN,Al-Donas Airlines,ALDONAS AIR,Nigeria
 LDR,Aero Lider,AEROLIDER,Mexico
+LDX,SPARFELL Luftfahrt,LAUDAMOTION,Austria
 LEA,Unijet,LEADAIR,France
 LEB,Lebap,LEBAP,Turkmenistan
 LEC,Linex,LECA,Central African Republic
