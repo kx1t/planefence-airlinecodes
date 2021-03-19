@@ -1186,6 +1186,7 @@ DBR,Dutchbird,DUTCHBIRD,Netherlands
 DCA,Dreamcatcher Airways,DREAM CATCHER,United Kingdom
 DCC,Caribbean Air Cargo,CARICARGO,Barbados
 DCE,Dutch Caribbean Express,DUTCH CARIBBEAN,Netherlands Antilles
+DCF,Aeropartner,,Czech Republic
 DCL,Transportes Aéreos Don Carlos,DON CARLOS,Chile
 DCM,FLTPLAN (anonymized service),DOT COM,United States
 DCN,Federal Armed Forces,DIPLOMATIC CLEARANCE,Germany
