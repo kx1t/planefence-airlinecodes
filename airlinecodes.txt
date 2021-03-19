@@ -5163,6 +5163,7 @@ VLB,Air Volta,VOLTA,Bulgaria
 VLE,C.A.I. Second,VOLA,Italy
 VLF,DFS UK Limited,VOLANTE,United Kingdom
 VLG,Vueling Airlines,VUELING,Spain
+VLJ,Valljet,VALLJET,Canada
 VLK,Vladivostok Air,VLADAIR,Russia
 VLL,RAF Valley SAR Training Unit,,United Kingdom
 VLM,VLM Airlines,RUBENS,Belgium
