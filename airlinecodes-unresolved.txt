@@ -1,1 +1,1 @@
-Airline code "VCG", examples: VCG1XP,
+Airline code "VCG", examples: VCG1XP, VCG1XP,
