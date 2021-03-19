@@ -2424,6 +2424,7 @@ JCM,Secure Air Charter,SECUREAIR,United States
 JCR,Rotterdam Jet Center,ROTTERDAM JETCENTER,Netherlands
 JCY,Jet City,JETCITY,United States
 JDC,Deere and Company,JOHN DEERE,United States
+JDI,Blue Jet,JEDI,Poland
 JEE,Ambjek Air Services,AMBJEK AIR,Nigeria
 JEL,Tal Air Charters,JETEL,Canada
 JEM,Emerald Airways,GEMSTONE,United Kingdom
@@ -4032,6 +4033,7 @@ RRB,Aero Club de Castellon,,Spain
 RRC,Aero Roca,AEROROCA,Mexico
 RRE,Aerotransportes Internacionales De Torreon,AERO TORREON,Mexico
 RRF,Royal Air Force,KITTY,United Kingdom
+RRH,Redstar Aviation,STAR CRESCENT,Turkey
 RRL,Rolls-Royce Limited,MERLIN,United Kingdom
 RRO,Aerocredo,,Russia
 RRR,Royal Air Force,ASCOT,United Kingdom
@@ -5106,6 +5108,7 @@ VBG,North-West Air Transport Company - Vyborg,VYBORG AIR,Russia
 VBW,Air Burkina,BURKINA,Burkina Faso
 VCA,VICA - Viacao Charter Aéreos,VICA,Brazil
 VCB,Real Aero Club de Vizcaya,,Spain
+VCG,Catreus,THUNDERCAT,United Kingdom
 VCH,Consorcio Helitec,CONSORCIO HELITEC,Venezuela
 VCI,CI-Tours,CI-TOURS,Ivory Coast
 VCM,Volare Air Charter Company,CARMEN,United States
