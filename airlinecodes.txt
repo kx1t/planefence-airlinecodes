@@ -5491,3 +5491,11 @@ ZAW,Zoom Airways,ZED AIR,Bangladesh
 ZBA,Boskovic Air Charters Limited,BOSKY,Kenya
 ZMA,Zambezi Airlines,ZAMBEZI WINGS,Zambia
 ZZM,Agence Nationale des Aerodromes et de la Meteorologie,,Ivory Coast
+CWG,Clear Wing,CLEARWING,United States
+JST,Eastern Australia Airlines,,Australia
+PEG,Pegasus Elite Aviation,,United States
+FDC,Garden City Helicopters,,New Zealand
+ITL,Ital Fly,,Italy
+FSE,Alpine Flightservice,,Switzerland
+TKK,FlyADVANCED,,United States
+APK,Air Peace,,New Zealand
