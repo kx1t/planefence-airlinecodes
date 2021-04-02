@@ -5499,3 +5499,5 @@ ITL,Ital Fly,,Italy
 FSE,Alpine Flightservice,,Switzerland
 TKK,FlyADVANCED,,United States
 APK,Air Peace,,New Zealand
+MVJ,Mira Vista Aviation,,United Status
+ORT,ORTAC AOC,,United Kingdom
