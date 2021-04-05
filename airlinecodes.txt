@@ -5501,3 +5501,11 @@ TKK,FlyADVANCED,,United States
 APK,Air Peace,,New Zealand
 MVJ,Mira Vista Aviation,,United Status
 ORT,ORTAC AOC,,United Kingdom
+AYY,Air Alliance Express,,Germany
+HBN,Hibernian Airlines,,Ireland
+ENZ,Jota Aviation,,United Kingdom
+EUL,Euro Link,,Germany
+WKT,Whiteknight UK MOD,,United Kingdom
+OXF,Oxford Aviation Academy,,United Kingdom
+JEF,JetFlite,,Finland
+ORT,Ortac AOC,,United Kingdom
