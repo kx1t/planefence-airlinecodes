@@ -5509,3 +5509,11 @@ WKT,Whiteknight UK MOD,,United Kingdom
 OXF,Oxford Aviation Academy,,United Kingdom
 JEF,JetFlite,,Finland
 ORT,Ortac AOC,,United Kingdom
+AXA,Avag Air,,Austria
+CMB,USAF Camber,,United States
+TUG,Turkmenistan Airlines,,Turkmenistan
+ALE,Alliance Executive Jets,,Malta
+GER,German Airways,,Germany
+NJU,NetJets UK,,United Kingdom
+ELG,Elangeni,,Austria
+GPX,GP Aviation,,Bulgaria
