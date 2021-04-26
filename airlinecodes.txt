@@ -5517,3 +5517,15 @@ GER,German Airways,,Germany
 NJU,NetJets UK,,United Kingdom
 ELG,Elangeni,,Austria
 GPX,GP Aviation,,Bulgaria
+ZXP,Netherlands Police,,Netherlands
+MDI,IAS Medical,,United Kingdom
+ALE,Alliance Executive Jets,,Malta
+KPO,NXT Jet,,United States
+EEL,Eagle European,,United Kingdom
+KDY,Lyon Aviation,,United States
+JIT,Jet It,,United States
+RHH,Red Star Aviation,,Turkey
+MDK,Air Wanganui Air Ambulance,,New Zealand
+AMD,Garden City Helicopters,,New Zealand
+BTX,Volkswagen Air Service,,Germany
+LFT,Life Flight,,New Zealand
