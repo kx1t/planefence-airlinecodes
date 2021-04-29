@@ -28,6 +28,7 @@ pushd $AIRLINENAMESDIR && tar -czvf backup.tgz ./* && popd && mv $AIRLINENAMESDI
 
 
 # now write it back to the repo:
+git remote set-url origin git@github.com:kx1t/planefence-airlinecodes
 git add -A *
 git commit -m "auto-upload $(date)"
 git push
