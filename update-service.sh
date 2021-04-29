@@ -1,8 +1,10 @@
 #!/bin/bash
 
 AIRLINENAMESDIR=~/airlinenames
+WORKDIR=~/git/planefence-airlinecodes
+GITREPO=kx1t/planefence-airlinecodes
 
-[[ ! -d ~/git/planefence-airlinecodes ]] && git clone https://github.com/kx1t/planefence-airlinecodes ~/git/planefence-airlinecodes
+[[ ! -d $WORKDIR ]] && git clone https://github.com/$GITREPO $WORKDIR
 pushd ~/git/planefence-airlinecodes
 git pull --all
 cp -fu airlinecodes.txt $AIRLINENAMESDIR
@@ -28,7 +30,7 @@ pushd $AIRLINENAMESDIR && tar -czvf backup.tgz ./* && popd && mv $AIRLINENAMESDI
 
 
 # now write it back to the repo:
-git remote set-url origin git@github.com:kx1t/planefence-airlinecodes
+git remote set-url origin git@github.com:$GITREPO
 git add -A *
 git commit -m "auto-upload $(date)"
 git push
