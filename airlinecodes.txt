@@ -5526,3 +5526,6 @@ ZBA,Boskovic Air Charters Limited,BOSKY,Kenya
 ZMA,Zambezi Airlines,ZAMBEZI WINGS,Zambia
 ZXP,Netherlands Police,,Netherlands
 ZZM,Agence Nationale des Aerodromes et de la Meteorologie,,Ivory Coast
+ISC,Isles of Scilly Skybus,,United Kingdom
+MMF,Netherlands Air Force,,Netherlands
+OPM,Fireblade Aviation,,South Africa
