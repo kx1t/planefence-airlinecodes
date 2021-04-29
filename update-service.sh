@@ -1,11 +1,11 @@
 #!/bin/bash
 
-AIRLINENAMESDIR=~/airlinenames
-WORKDIR=~/git/planefence-airlinecodes
+AIRLINENAMESDIR=/home/planefence/airlinenames
+WORKDIR=/home/planefence/git/planefence-airlinecodes
 GITREPO=kx1t/planefence-airlinecodes
 
 [[ ! -d $WORKDIR ]] && git clone https://github.com/$GITREPO $WORKDIR
-pushd ~/git/planefence-airlinecodes
+pushd $WORKDIR
 git pull --all
 cp -fu airlinecodes.txt $AIRLINENAMESDIR
 
@@ -24,6 +24,7 @@ cat $tmpfile2 airlinecodes-unresolved.txt | awk -F',' '!seen[$1]++' > $tmpfile
 mv -f $tmpfile airlinecodes-unresolved.txt
 touch airlinecodes-unresolved.txt
 rm $tmpfile2
+rm -f $AIRLINENAMESDIR/airline-missed.txt
 
 # back up the server dir:
 pushd $AIRLINENAMESDIR && tar -czvf backup.tgz ./* && popd && mv $AIRLINENAMESDIR/backup.tgz .
