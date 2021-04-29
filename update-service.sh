@@ -18,7 +18,7 @@ do
 done < $tmpfile
 
 # remove dupes:
-cat $tmpfile2 airlinecodes-unresolved.txt | awk -F',' '!seen[$1]++' airlinecodes-unresolved.txt > $tmpfile
+cat $tmpfile2 airlinecodes-unresolved.txt | awk -F',' '!seen[$1]++' > $tmpfile
 mv -f $tmpfile airlinecodes-unresolved.txt
 touch airlinecodes-unresolved.txt
 rm $tmpfile2
