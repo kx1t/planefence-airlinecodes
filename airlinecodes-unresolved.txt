@@ -1,3 +1,4 @@
+Airline code "HLL", examples:HLL45,407924,Fri Apr 30 19:25:42 UTC 2021
 Airline code "SYO", examples:SYO09,40327F,Fri Apr 30 11:44:12 UTC 2021
 Airline code "OOH", examples:OOH1234,4TEST,Thu Apr 29 18:28:25 UTC 2021
 Airline code "OOF", examples:OOF27,449BD7,Wed Apr 28 09:31:13 EDT 2021 OOF55,449BF3,Tue Apr 27 13:58:02 EDT 2021
