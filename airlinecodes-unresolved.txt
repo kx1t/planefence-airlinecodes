@@ -1,3 +1,4 @@
+Airline code "VLZ", examples:VLZ138A,43ECD8,Sun May 2 14:06:13 UTC 2021
 Airline code "OOH", examples:OOH52,44A3F0,Sun May 2 13:54:01 UTC 2021
 Airline code "PPJ", examples:PPJ839,AAE0DB,Sun May 2 00:54:30 UTC 2021
 Airline code "WDW", examples:WDW124,A34B66,Sat May 1 02:01:06 UTC 2021
