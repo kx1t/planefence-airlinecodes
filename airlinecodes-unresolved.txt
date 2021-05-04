@@ -1,4 +1,4 @@
-Airline code "EXD", examples:EXD008,,Tue May 4 16:39:01 UTC 2021
+Airline code "EXD", examples:EXD008,,Tue May 4 18:39:03 UTC 2021
 Airline code "PPJ", examples:PPJ282,AC1BAF,Tue May 4 02:29:39 UTC 2021
 Airline code "KFB", examples:KFB583,A78116,Tue May 4 01:10:22 UTC 2021
 Airline code "WDW", examples:WDW124,A34B66,Tue May 4 01:10:20 UTC 2021
