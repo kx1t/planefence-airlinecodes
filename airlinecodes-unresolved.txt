@@ -1,5 +1,5 @@
+Airline code "MJS", examples:MJS4412,AC38AF,Wed May 5 18:56:36 UTC 2021
 Airline code "EXD", examples:EXD008,,Wed May 5 17:33:56 UTC 2021
-Airline code "MJS", examples:MJS4412,AC38AF,Wed May 5 16:48:29 UTC 2021
 Airline code "WMN", examples:WMN528,A6A8A1,Wed May 5 13:56:03 UTC 2021
 Airline code "PPJ", examples:PPJ282,AC1BAF,Tue May 4 21:41:10 UTC 2021 PPJ282,AC1BAF,Tue May 4 21:14:35 UTC 2021
 Airline code "KFB", examples:KFB583,A78116,Tue May 4 01:10:22 UTC 2021
