@@ -1,6 +1,6 @@
+Airline code "VKG", examples:VKG4143,45D966,Sat May 8 14:36:25 UTC 2021
 Airline code "OOG", examples:OOG54,449FF2,Sat May 8 12:45:02 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Sat May 8 12:52:34 UTC 2021
-Airline code "VKG", examples:VKG4143,45D966,Sat May 8 11:02:32 UTC 2021
 Airline code "VLZ", examples:VLZ131A,43EE07,Fri May 7 17:27:01 UTC 2021
 Airline code "EZF", examples:EZF9427,407049,Fri May 7 15:59:01 UTC 2021
 Airline code "SYO", examples:SYO03,40327F,Fri May 7 15:59:00 UTC 2021
