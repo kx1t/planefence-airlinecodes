@@ -1,3 +1,4 @@
+Airline code "FSF", examples:FSF42A,461987,Mon May 10 07:31:55 UTC 2021
 Airline code "NTF", examples:NTF141,49D43F,Sun May 9 17:17:56 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Sun May 9 16:16:58 UTC 2021
 Airline code "OOI", examples:OOI04,44A7C0,Sun May 9 16:07:13 UTC 2021
