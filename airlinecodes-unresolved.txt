@@ -1,4 +1,4 @@
-Airline code "FSF", examples:FSF100A,4643C5,Tue May 11 04:11:16 UTC 2021
+Airline code "FSF", examples:FSF100A,4643C5,Tue May 11 10:10:24 UTC 2021
 Airline code "KFB", examples:KFB998,ADF0FF,Tue May 11 01:19:54 UTC 2021
 Airline code "NTF", examples:NTF141,49D43F,Sun May 9 17:17:56 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Sun May 9 16:16:58 UTC 2021
