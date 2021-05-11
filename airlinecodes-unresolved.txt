@@ -1,4 +1,4 @@
-Airline code "ZSJ", examples:ZSJ0N,,Tue May 11 19:01:39 UTC 2021
+Airline code "ZSJ", examples:ZSJ0N,,Tue May 11 21:02:14 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Tue May 11 18:34:34 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Tue May 11 18:32:38 UTC 2021
 Airline code "N85", examples:N852ND,,Tue May 11 17:14:53 UTC 2021
