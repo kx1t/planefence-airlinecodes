@@ -1,3 +1,4 @@
+Airline code "SYO", examples:SYO09,40327F,Sun May 16 09:39:59 UTC 2021
 Airline code "VLZ", examples:VLZ146A,43EE1E,Fri May 14 11:24:24 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Thu May 13 17:53:37 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Thu May 13 17:51:31 UTC 2021
@@ -9,7 +10,6 @@ Airline code "FSF", examples:FSF100A,4643C5,Tue May 11 18:34:34 UTC 2021
 Airline code "N85", examples:N852ND,,Tue May 11 17:14:53 UTC 2021
 Airline code "KFB", examples:KFB998,ADF0FF,Tue May 11 01:19:54 UTC 2021
 Airline code "NTF", examples:NTF141,49D43F,Sun May 9 17:17:56 UTC 2021
-Airline code "SYO", examples:SYO03,40327F,Sun May 9 15:49:54 UTC 2021
 Airline code "OOG", examples:OOG54,449FF2,Sat May 8 17:49:18 UTC 2021
 Airline code "VKG", examples:VKG4143,45D966,Sat May 8 14:36:25 UTC 2021
 Airline code "EZF", examples:EZF9427,407049,Fri May 7 15:59:01 UTC 2021
