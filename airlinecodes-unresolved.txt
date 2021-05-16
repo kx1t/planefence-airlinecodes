@@ -1,4 +1,4 @@
-Airline code "SYO", examples:SYO09,40327F,Sun May 16 09:39:59 UTC 2021
+Airline code "SYO", examples:SYO09,40327F,Sun May 16 11:54:00 UTC 2021
 Airline code "VLZ", examples:VLZ146A,43EE1E,Fri May 14 11:24:24 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Thu May 13 17:53:37 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Thu May 13 17:51:31 UTC 2021
