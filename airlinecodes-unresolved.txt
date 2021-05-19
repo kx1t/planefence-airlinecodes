@@ -1,5 +1,5 @@
-Airline code "WMN", examples:WMN302,A3280A,Wed May 19 13:02:20 UTC 2021
-Airline code "HLL", examples:HLL01,40122E,Wed May 19 11:36:56 UTC 2021
+Airline code "HLL", examples:HLL01,40122E,Wed May 19 15:51:44 UTC 2021
+Airline code "WMN", examples:WMN302,A3280A,Wed May 19 15:56:47 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Wed May 19 10:19:37 UTC 2021
 Airline code "AXE", examples:AXE101P,505CF8,Mon May 17 11:31:12 UTC 2021
 Airline code "SYO", examples:SYO09,40327F,Sun May 16 11:54:00 UTC 2021
