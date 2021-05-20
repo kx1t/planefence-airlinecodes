@@ -1,3 +1,4 @@
+Airline code "RDN", examples:RDN925,A6E32B,Thu May 20 13:00:03 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Thu May 20 09:07:35 UTC 2021
 Airline code "WMN", examples:WMN302,A3280A,Wed May 19 23:02:36 UTC 2021
 Airline code "HLL", examples:HLL01,40122E,Wed May 19 15:51:44 UTC 2021
