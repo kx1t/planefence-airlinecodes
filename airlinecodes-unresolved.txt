@@ -1,3 +1,4 @@
+Airline code "NSH", examples:NSH5,AD488B,Tue May 25 17:54:02 UTC 2021
 Airline code "GCK", examples:GCK21,440964,Tue May 25 14:57:55 UTC 2021
 Airline code "RKK", examples:RKK28,A14B9B,Tue May 25 02:06:55 UTC 2021
 Airline code "TJD", examples:TJD023,300829,Mon May 24 11:49:54 UTC 2021
