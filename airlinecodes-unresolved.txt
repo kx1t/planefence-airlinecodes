@@ -1,3 +1,4 @@
+Airline code "ZSJ", examples:ZSJ0N,00A163,Wed May 26 11:56:52 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Wed May 26 03:52:28 UTC 2021
 Airline code "PPJ", examples:PPJ430,A72894,Wed May 26 03:52:30 UTC 2021
 Airline code "MAO", examples:MAO2,A0B5AA,Wed May 26 01:52:17 UTC 2021
@@ -20,7 +21,6 @@ Airline code "OOE", examples:OOE06,4497C2,Thu May 13 17:53:37 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Thu May 13 17:51:31 UTC 2021
 Airline code "OOI", examples:OOI16,44A7CC,Thu May 13 17:53:35 UTC 2021
 Airline code "FDJ", examples:FDJ288,A2EC8B,Thu May 13 00:52:31 UTC 2021
-Airline code "ZSJ", examples:ZSJ0N,,Tue May 11 21:02:14 UTC 2021
 Airline code "N85", examples:N852ND,,Tue May 11 17:14:53 UTC 2021
 Airline code "KFB", examples:KFB998,ADF0FF,Tue May 11 01:19:54 UTC 2021
 Airline code "NTF", examples:NTF141,49D43F,Sun May 9 17:17:56 UTC 2021
