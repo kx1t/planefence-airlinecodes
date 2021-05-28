@@ -2088,7 +2088,7 @@ HEI,Aerohein,AEROHEIN,Chile
 HEL,Helicol,HELICOL,Colombia
 HEM,CHC Helicopter,HEMS,Australia
 HEN,Helicópteros Y Vehículos Nacionales Aéreos,HELINAC,Mexico
-HER,Hex'Air,HEX AIRLINE,France
+HER,Hera Flight,,United States
 HET,TAF Helicopters,HELITAF,Spain
 HEX,Honiara Cargo Express,HONIARA CARGO,Solomon Islands
 HEZ,Arrow Aviation,ARROW,Israel
