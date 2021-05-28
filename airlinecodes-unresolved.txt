@@ -1,6 +1,6 @@
+Airline code "CSB", examples:CSB588,A894D0,Fri May 28 19:43:44 UTC 2021
+Airline code "PPJ", examples:PPJ430,A72894,Fri May 28 19:43:49 UTC 2021
 Airline code "RQT", examples:RQT10,A97D2B,Fri May 28 18:07:20 UTC 2021
-Airline code "CSB", examples:CSB588,A894D0,Fri May 28 16:11:55 UTC 2021
-Airline code "PPJ", examples:PPJ430,A72894,Fri May 28 15:31:29 UTC 2021
 Airline code "SXI", examples:SXI2131,405F78,Fri May 28 14:35:42 UTC 2021
 Airline code "GCK", examples:GCK21,440964,Wed May 26 13:44:31 UTC 2021
 Airline code "ZSJ", examples:ZSJ0N,00A163,Wed May 26 11:56:52 UTC 2021
