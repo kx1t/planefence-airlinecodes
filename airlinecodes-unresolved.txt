@@ -1,3 +1,4 @@
+Airline code "FSF", examples:FSF126A,461A82,Mon May 31 10:09:04 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Mon May 31 07:41:18 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Mon May 31 05:29:45 UTC 2021
 Airline code "TVP", examples:TVP7300,49D2EE,Sun May 30 17:03:07 UTC 2021
@@ -21,7 +22,6 @@ Airline code "WMN", examples:WMN160,A0F347,Sun May 23 02:43:48 UTC 2021
 Airline code "ACO", examples:ACO2907,A069B7,Sat May 22 21:50:17 UTC 2021
 Airline code "GIS", examples:GIS1,C81E79,Fri May 21 22:08:08 UTC 2021
 Airline code "RDN", examples:RDN925,A6E32B,Fri May 21 01:05:19 UTC 2021
-Airline code "FSF", examples:FSF100A,4643C5,Thu May 20 18:24:36 UTC 2021
 Airline code "HLL", examples:HLL01,40122E,Wed May 19 15:51:44 UTC 2021
 Airline code "AXE", examples:AXE101P,505CF8,Mon May 17 11:31:12 UTC 2021
 Airline code "SYO", examples:SYO09,40327F,Sun May 16 11:54:00 UTC 2021
