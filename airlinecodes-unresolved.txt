@@ -1,3 +1,4 @@
+Airline code "NSH", examples:NSH339,A3B8DA,Mon May 31 22:35:54 UTC 2021 NSH339,A3B8DA,Mon May 31 22:33:05 UTC 2021
 Airline code "UWD", examples:UWD56,A0E0CC,Mon May 31 21:35:16 UTC 2021 UWD77,AD9E7A,Mon May 31 21:29:58 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Mon May 31 17:06:19 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Mon May 31 16:14:08 UTC 2021
@@ -15,7 +16,6 @@ Airline code "PPJ", examples:PPJ430,A72894,Fri May 28 22:42:43 UTC 2021
 Airline code "SXI", examples:SXI2131,405F78,Fri May 28 14:35:42 UTC 2021
 Airline code "GCK", examples:GCK21,440964,Wed May 26 13:44:31 UTC 2021
 Airline code "ZSJ", examples:ZSJ0N,00A163,Wed May 26 11:56:52 UTC 2021
-Airline code "NSH", examples:NSH5,AD488B,Wed May 26 03:52:28 UTC 2021
 Airline code "MAO", examples:MAO2,A0B5AA,Wed May 26 01:52:17 UTC 2021
 Airline code "RKK", examples:RKK28,A14B9B,Tue May 25 02:06:55 UTC 2021
 Airline code "TJD", examples:TJD023,300829,Mon May 24 11:49:54 UTC 2021
