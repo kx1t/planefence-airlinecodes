@@ -1,5 +1,6 @@
-Airline code "NSH", examples:NSH339,A3B8DA,Tue Jun 1 00:36:13 UTC 2021
-Airline code "UWD", examples:UWD77,AD9E7A,Tue Jun 1 00:36:02 UTC 2021
+Airline code "CSB", examples:CSB188,A894D0,Tue Jun 1 01:15:38 UTC 2021
+Airline code "NSH", examples:NSH339,A3B8DA,Tue Jun 1 01:17:10 UTC 2021
+Airline code "UWD", examples:UWD56,A0E0CC,Tue Jun 1 01:16:59 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Mon May 31 17:06:19 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Mon May 31 16:14:08 UTC 2021
 Airline code "OOD", examples:OOD80,44900C,Mon May 31 16:47:02 UTC 2021
@@ -11,7 +12,6 @@ Airline code "OOG", examples:OOG77,449C09,Sun May 30 13:01:00 UTC 2021
 Airline code "OOI", examples:OOI04,44A7C0,Sun May 30 13:01:02 UTC 2021
 Airline code "HRE", examples:HRE22D,3D1A96,Sat May 29 08:39:54 UTC 2021
 Airline code "RQT", examples:RQT10,A97D2B,Sat May 29 01:38:22 UTC 2021
-Airline code "CSB", examples:CSB588,A894D0,Fri May 28 22:42:40 UTC 2021
 Airline code "PPJ", examples:PPJ430,A72894,Fri May 28 22:42:43 UTC 2021
 Airline code "SXI", examples:SXI2131,405F78,Fri May 28 14:35:42 UTC 2021
 Airline code "GCK", examples:GCK21,440964,Wed May 26 13:44:31 UTC 2021
