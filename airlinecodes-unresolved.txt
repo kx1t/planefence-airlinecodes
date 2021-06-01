@@ -1,4 +1,4 @@
-Airline code "NBM", examples:NBM1124,C0227B,Tue Jun 1 14:52:36 UTC 2021
+Airline code "NBM", examples:NBM1124,C0227B,Tue Jun 1 18:50:50 UTC 2021
 Airline code "LRQ", examples:LRQ201A,4D0290,Tue Jun 1 12:55:23 UTC 2021
 Airline code "NSH", examples:NSH339,A3B8DA,Tue Jun 1 03:02:03 UTC 2021
 Airline code "UWD", examples:UWD77,AD9E7A,Tue Jun 1 03:01:52 UTC 2021
