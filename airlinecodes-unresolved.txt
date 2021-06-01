@@ -1,5 +1,5 @@
-Airline code "NSH", examples:NSH339,A3B8DA,Mon May 31 22:35:54 UTC 2021 NSH339,A3B8DA,Mon May 31 22:33:05 UTC 2021
-Airline code "UWD", examples:UWD56,A0E0CC,Mon May 31 21:35:16 UTC 2021 UWD77,AD9E7A,Mon May 31 21:29:58 UTC 2021
+Airline code "NSH", examples:NSH339,A3B8DA,Tue Jun 1 00:36:13 UTC 2021
+Airline code "UWD", examples:UWD77,AD9E7A,Tue Jun 1 00:36:02 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Mon May 31 17:06:19 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Mon May 31 16:14:08 UTC 2021
 Airline code "OOD", examples:OOD80,44900C,Mon May 31 16:47:02 UTC 2021
