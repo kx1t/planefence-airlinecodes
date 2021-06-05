@@ -1,4 +1,4 @@
-Airline code "NBM", examples:NBM1124,C0227B,Fri Jun 4 23:30:40 UTC 2021
+Airline code "NBM", examples:NBM1124,C0227B,Sat Jun 5 02:15:56 UTC 2021
 Airline code "EGC", examples:EGC580,A77651,Thu Jun 3 01:37:07 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Wed Jun 2 14:16:13 UTC 2021
 Airline code "LRQ", examples:LRQ201A,4D0290,Tue Jun 1 12:55:23 UTC 2021
