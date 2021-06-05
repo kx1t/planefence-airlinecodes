@@ -1,3 +1,4 @@
+Airline code "VKG", examples:VKG1118,45D969,Sat Jun 5 05:29:19 UTC 2021
 Airline code "CSB", examples:CSB188,A894D0,Sat Jun 5 03:27:43 UTC 2021 CSB188,A894D0,Sat Jun 5 03:25:56 UTC 2021
 Airline code "FHM", examples:FHM5173,4D21B1,Sat Jun 5 03:43:30 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Sat Jun 5 02:15:56 UTC 2021
@@ -34,7 +35,6 @@ Airline code "FDJ", examples:FDJ288,A2EC8B,Thu May 13 00:52:31 UTC 2021
 Airline code "N85", examples:N852ND,,Tue May 11 17:14:53 UTC 2021
 Airline code "KFB", examples:KFB998,ADF0FF,Tue May 11 01:19:54 UTC 2021
 Airline code "NTF", examples:NTF141,49D43F,Sun May 9 17:17:56 UTC 2021
-Airline code "VKG", examples:VKG4143,45D966,Sat May 8 14:36:25 UTC 2021
 Airline code "EZF", examples:EZF9427,407049,Fri May 7 15:59:01 UTC 2021
 Airline code "MJS", examples:MJS4412,AC38AF,Wed May 5 23:48:21 UTC 2021
 Airline code "EXD", examples:EXD008,,Wed May 5 21:34:43 UTC 2021
