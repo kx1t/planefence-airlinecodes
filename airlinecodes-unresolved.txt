@@ -1,4 +1,4 @@
-Airline code "NBM", examples:NBM1124,C0227B,Sat Jun 5 22:57:25 UTC 2021
+Airline code "NBM", examples:NBM1124,C0227B,Sun Jun 6 02:47:12 UTC 2021
 Airline code "JTN", examples:JTN151,A6CF20,Sat Jun 5 15:22:32 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Sat Jun 5 11:23:49 UTC 2021
 Airline code "VKG", examples:VKG1119,45D969,Sat Jun 5 10:41:56 UTC 2021
