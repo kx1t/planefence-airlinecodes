@@ -1,3 +1,4 @@
+Airline code "TJD", examples:TJD440,3001EC,Mon Jun 7 10:06:55 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Sun Jun 6 02:47:12 UTC 2021
 Airline code "JTN", examples:JTN151,A6CF20,Sat Jun 5 15:22:32 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Sat Jun 5 11:23:49 UTC 2021
@@ -24,7 +25,6 @@ Airline code "GCK", examples:GCK21,440964,Wed May 26 13:44:31 UTC 2021
 Airline code "ZSJ", examples:ZSJ0N,00A163,Wed May 26 11:56:52 UTC 2021
 Airline code "MAO", examples:MAO2,A0B5AA,Wed May 26 01:52:17 UTC 2021
 Airline code "RKK", examples:RKK28,A14B9B,Tue May 25 02:06:55 UTC 2021
-Airline code "TJD", examples:TJD023,300829,Mon May 24 11:49:54 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Sun May 23 02:43:48 UTC 2021
 Airline code "ACO", examples:ACO2907,A069B7,Sat May 22 21:50:17 UTC 2021
 Airline code "GIS", examples:GIS1,C81E79,Fri May 21 22:08:08 UTC 2021
