@@ -1,3 +1,4 @@
+Airline code "OOG", examples:OOG88,449C14,Mon Jun 7 18:30:27 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Mon Jun 7 17:12:44 UTC 2021
 Airline code "TJD", examples:TJD440,3001EC,Mon Jun 7 10:06:55 UTC 2021
 Airline code "JTN", examples:JTN151,A6CF20,Sat Jun 5 15:22:32 UTC 2021
@@ -15,7 +16,6 @@ Airline code "FSF", examples:FSF126A,461A82,Mon May 31 10:09:04 UTC 2021
 Airline code "TVP", examples:TVP7300,49D2EE,Sun May 30 17:03:07 UTC 2021
 Airline code "OOE", examples:OOE88,449414,Sun May 30 13:48:48 UTC 2021
 Airline code "OOF", examples:OOF60,449BF8,Sun May 30 13:46:43 UTC 2021
-Airline code "OOG", examples:OOG77,449C09,Sun May 30 13:01:00 UTC 2021
 Airline code "OOI", examples:OOI04,44A7C0,Sun May 30 13:01:02 UTC 2021
 Airline code "HRE", examples:HRE22D,3D1A96,Sat May 29 08:39:54 UTC 2021
 Airline code "RQT", examples:RQT10,A97D2B,Sat May 29 01:38:22 UTC 2021
