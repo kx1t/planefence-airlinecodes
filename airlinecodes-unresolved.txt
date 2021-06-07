@@ -1,3 +1,4 @@
+Airline code "DXT", examples:DXT9677,140AE2,Mon Jun 7 22:13:58 UTC 2021
 Airline code "OOG", examples:OOG88,449C14,Mon Jun 7 18:30:27 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Mon Jun 7 17:12:44 UTC 2021
 Airline code "TJD", examples:TJD440,3001EC,Mon Jun 7 10:06:55 UTC 2021
