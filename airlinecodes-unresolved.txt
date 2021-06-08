@@ -1,3 +1,4 @@
+Airline code "INI", examples:INI222,343183,Tue Jun 8 18:57:10 UTC 2021
 Airline code "OOD", examples:OOD80,44900C,Tue Jun 8 16:11:09 UTC 2021
 Airline code "OOH", examples:OOH52,44A3F0,Tue Jun 8 16:09:01 UTC 2021
 Airline code "HZA", examples:HZA22,7101AC,Tue Jun 8 10:09:38 UTC 2021
