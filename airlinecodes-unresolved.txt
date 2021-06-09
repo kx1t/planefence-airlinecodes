@@ -1,3 +1,4 @@
+Airline code "OOE", examples:OOE06,4497C2,Wed Jun 9 18:03:14 UTC 2021
 Airline code "OOF", examples:OOF05,449BC1,Wed Jun 9 16:10:23 UTC 2021
 Airline code "OOH", examples:OOH91,44A017,Wed Jun 9 16:12:30 UTC 2021
 Airline code "OOI", examples:OOI04,44A7C0,Wed Jun 9 16:12:31 UTC 2021
@@ -23,7 +24,6 @@ Airline code "LRQ", examples:LRQ201A,4D0290,Tue Jun 1 12:55:23 UTC 2021
 Airline code "NSH", examples:NSH339,A3B8DA,Tue Jun 1 03:02:03 UTC 2021
 Airline code "UWD", examples:UWD77,AD9E7A,Tue Jun 1 03:01:52 UTC 2021
 Airline code "TVP", examples:TVP7300,49D2EE,Sun May 30 17:03:07 UTC 2021
-Airline code "OOE", examples:OOE88,449414,Sun May 30 13:48:48 UTC 2021
 Airline code "HRE", examples:HRE22D,3D1A96,Sat May 29 08:39:54 UTC 2021
 Airline code "RQT", examples:RQT10,A97D2B,Sat May 29 01:38:22 UTC 2021
 Airline code "PPJ", examples:PPJ430,A72894,Fri May 28 22:42:43 UTC 2021
