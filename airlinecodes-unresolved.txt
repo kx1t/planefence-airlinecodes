@@ -1,3 +1,4 @@
+Airline code "CSB", examples:CSB588,A894D0,Thu Jun 10 12:29:40 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Wed Jun 9 20:33:54 UTC 2021
 Airline code "OOF", examples:OOF05,449BC1,Wed Jun 9 20:33:52 UTC 2021
 Airline code "OOH", examples:OOH91,44A017,Wed Jun 9 20:33:48 UTC 2021
@@ -19,7 +20,6 @@ Airline code "OOG", examples:OOG88,449C14,Mon Jun 7 18:30:27 UTC 2021
 Airline code "TJD", examples:TJD440,3001EC,Mon Jun 7 10:06:55 UTC 2021
 Airline code "JTN", examples:JTN151,A6CF20,Sat Jun 5 15:22:32 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Sat Jun 5 11:23:49 UTC 2021
-Airline code "CSB", examples:CSB188,A894D0,Sat Jun 5 03:27:43 UTC 2021 CSB188,A894D0,Sat Jun 5 03:25:56 UTC 2021
 Airline code "LRQ", examples:LRQ201A,4D0290,Tue Jun 1 12:55:23 UTC 2021
 Airline code "NSH", examples:NSH339,A3B8DA,Tue Jun 1 03:02:03 UTC 2021
 Airline code "UWD", examples:UWD77,AD9E7A,Tue Jun 1 03:01:52 UTC 2021
