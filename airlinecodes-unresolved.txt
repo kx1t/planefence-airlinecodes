@@ -1,8 +1,8 @@
+Airline code "CSB", examples:CSB588,A894D0,Fri Jun 11 12:34:09 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Fri Jun 11 11:11:51 UTC 2021
 Airline code "FHM", examples:FHM5171,4D21B1,Fri Jun 11 04:24:20 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Thu Jun 10 18:32:39 UTC 2021
 Airline code "EGC", examples:EGC580,A77651,Thu Jun 10 15:42:06 UTC 2021
-Airline code "CSB", examples:CSB588,A894D0,Thu Jun 10 12:29:40 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Wed Jun 9 20:33:54 UTC 2021
 Airline code "OOF", examples:OOF05,449BC1,Wed Jun 9 20:33:52 UTC 2021
 Airline code "OOI", examples:OOI04,44A7C0,Wed Jun 9 20:33:49 UTC 2021
