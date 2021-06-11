@@ -1,3 +1,4 @@
+Airline code "HLL", examples:HLL45,407924,Fri Jun 11 10:05:01 UTC 2021
 Airline code "FHM", examples:FHM5171,4D21B1,Fri Jun 11 04:24:20 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Thu Jun 10 18:32:39 UTC 2021
 Airline code "EGC", examples:EGC580,A77651,Thu Jun 10 15:42:06 UTC 2021
@@ -35,7 +36,6 @@ Airline code "WMN", examples:WMN160,A0F347,Sun May 23 02:43:48 UTC 2021
 Airline code "ACO", examples:ACO2907,A069B7,Sat May 22 21:50:17 UTC 2021
 Airline code "GIS", examples:GIS1,C81E79,Fri May 21 22:08:08 UTC 2021
 Airline code "RDN", examples:RDN925,A6E32B,Fri May 21 01:05:19 UTC 2021
-Airline code "HLL", examples:HLL01,40122E,Wed May 19 15:51:44 UTC 2021
 Airline code "AXE", examples:AXE101P,505CF8,Mon May 17 11:31:12 UTC 2021
 Airline code "SYO", examples:SYO09,40327F,Sun May 16 11:54:00 UTC 2021
 Airline code "VLZ", examples:VLZ146A,43EE1E,Fri May 14 11:24:24 UTC 2021
