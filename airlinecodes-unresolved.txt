@@ -1,3 +1,4 @@
+Airline code "NSH", examples:NSH301,A32427,Tue Jun 15 19:05:01 UTC 2021
 Airline code "IFG", examples:IFG55,A26A2C,Tue Jun 15 17:34:18 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Tue Jun 15 17:49:01 UTC 2021
 Airline code "BKS", examples:BKS901,A886DF,Tue Jun 15 16:53:31 UTC 2021
@@ -34,7 +35,6 @@ Airline code "TJD", examples:TJD440,3001EC,Mon Jun 7 10:06:55 UTC 2021
 Airline code "JTN", examples:JTN151,A6CF20,Sat Jun 5 15:22:32 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Sat Jun 5 11:23:49 UTC 2021
 Airline code "LRQ", examples:LRQ201A,4D0290,Tue Jun 1 12:55:23 UTC 2021
-Airline code "NSH", examples:NSH339,A3B8DA,Tue Jun 1 03:02:03 UTC 2021
 Airline code "UWD", examples:UWD77,AD9E7A,Tue Jun 1 03:01:52 UTC 2021
 Airline code "TVP", examples:TVP7300,49D2EE,Sun May 30 17:03:07 UTC 2021
 Airline code "HRE", examples:HRE22D,3D1A96,Sat May 29 08:39:54 UTC 2021
