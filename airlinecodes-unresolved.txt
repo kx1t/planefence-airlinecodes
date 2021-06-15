@@ -1,3 +1,4 @@
+Airline code "XGN", examples:XGN900,AC7140,Tue Jun 15 01:00:29 UTC 2021
 Airline code "FSF", examples:FSF410A,460861,Mon Jun 14 16:38:17 UTC 2021
 Airline code "TIV", examples:TIV707,A97076,Mon Jun 14 16:23:16 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Mon Jun 14 14:49:12 UTC 2021
