@@ -1,5 +1,5 @@
+Airline code "XGN", examples:XGN900,AC7140,Tue Jun 15 23:21:29 UTC 2021
 Airline code "BKS", examples:BKS901,A886DF,Tue Jun 15 20:45:43 UTC 2021
-Airline code "XGN", examples:XGN900,AC7140,Tue Jun 15 20:54:14 UTC 2021
 Airline code "NSH", examples:NSH301,A32427,Tue Jun 15 19:05:01 UTC 2021
 Airline code "IFG", examples:IFG55,A26A2C,Tue Jun 15 17:34:18 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Tue Jun 15 17:49:01 UTC 2021
