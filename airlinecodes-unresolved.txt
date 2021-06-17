@@ -1,7 +1,7 @@
+Airline code "CSB", examples:CSB188,A894D0,Thu Jun 17 03:11:08 UTC 2021
 Airline code "RFV", examples:RFV82A,407359,Thu Jun 17 00:33:25 UTC 2021 RFV82A,407359,Thu Jun 17 00:33:08 UTC 2021
 Airline code "GCK", examples:GCK21,440964,Wed Jun 16 09:47:39 UTC 2021 GCK21,440964,Wed Jun 16 09:47:38 UTC 2021 GCK21,440964,Wed Jun 16 09:35:40 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Wed Jun 16 08:30:48 UTC 2021
-Airline code "CSB", examples:CSB588,A894D0,Wed Jun 16 01:58:54 UTC 2021
 Airline code "NSH", examples:NSH301,A32427,Wed Jun 16 01:59:02 UTC 2021
 Airline code "XGN", examples:XGN900,AC7140,Tue Jun 15 23:21:29 UTC 2021
 Airline code "BKS", examples:BKS901,A886DF,Tue Jun 15 20:45:43 UTC 2021
