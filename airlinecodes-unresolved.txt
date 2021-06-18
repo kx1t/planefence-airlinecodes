@@ -1,3 +1,4 @@
+Airline code "NBM", examples:NBM1124,C0227B,Fri Jun 18 17:51:50 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Fri Jun 18 13:25:44 UTC 2021
 Airline code "SAR", examples:SAR164,48A5F0,Fri Jun 18 13:27:40 UTC 2021
 Airline code "FSP", examples:FSP236,A22123,Thu Jun 17 20:28:18 UTC 2021
@@ -31,7 +32,6 @@ Airline code "ZSJ", examples:ZSJ0N,00A163,Tue Jun 8 10:29:40 UTC 2021
 Airline code "TYP", examples:TYP31201,43C77B,Tue Jun 8 09:48:00 UTC 2021
 Airline code "VKG", examples:VKG1274,45D066,Tue Jun 8 06:09:02 UTC 2021
 Airline code "VND", examples:VND896,30061C,Tue Jun 8 06:45:52 UTC 2021
-Airline code "NBM", examples:NBM1124,C0227B,Tue Jun 8 00:21:22 UTC 2021
 Airline code "DXT", examples:DXT9677,140AE2,Mon Jun 7 22:13:58 UTC 2021
 Airline code "OOG", examples:OOG88,449C14,Mon Jun 7 18:30:27 UTC 2021
 Airline code "TJD", examples:TJD440,3001EC,Mon Jun 7 10:06:55 UTC 2021
