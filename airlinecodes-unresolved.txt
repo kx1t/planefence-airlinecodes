@@ -1,4 +1,4 @@
-Airline code "NBM", examples:NBM1124,C0227B,Fri Jun 18 21:25:44 UTC 2021
+Airline code "NBM", examples:NBM1124,C0227B,Sat Jun 19 02:56:22 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Fri Jun 18 13:25:44 UTC 2021
 Airline code "SAR", examples:SAR164,48A5F0,Fri Jun 18 13:27:40 UTC 2021
 Airline code "FSP", examples:FSP236,A22123,Thu Jun 17 20:28:18 UTC 2021
