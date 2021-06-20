@@ -1,3 +1,4 @@
+Airline code "TJD", examples:TJD650,3007A9,Sun Jun 20 15:25:34 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Sun Jun 20 11:39:58 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Sat Jun 19 17:08:45 UTC 2021
 Airline code "OOF", examples:OOF05,449BC1,Sat Jun 19 17:06:29 UTC 2021
@@ -35,7 +36,6 @@ Airline code "VKG", examples:VKG1274,45D066,Tue Jun 8 06:09:02 UTC 2021
 Airline code "VND", examples:VND896,30061C,Tue Jun 8 06:45:52 UTC 2021
 Airline code "DXT", examples:DXT9677,140AE2,Mon Jun 7 22:13:58 UTC 2021
 Airline code "OOG", examples:OOG88,449C14,Mon Jun 7 18:30:27 UTC 2021
-Airline code "TJD", examples:TJD440,3001EC,Mon Jun 7 10:06:55 UTC 2021
 Airline code "JTN", examples:JTN151,A6CF20,Sat Jun 5 15:22:32 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Sat Jun 5 11:23:49 UTC 2021
 Airline code "LRQ", examples:LRQ201A,4D0290,Tue Jun 1 12:55:23 UTC 2021
