@@ -1,6 +1,6 @@
+Airline code "OOE", examples:OOE06,4497C2,Sun Jun 20 16:56:40 UTC 2021
+Airline code "OOH", examples:OOH84,44A010,Sun Jun 20 16:58:47 UTC 2021
 Airline code "TJD", examples:TJD650,3007A9,Sun Jun 20 15:25:34 UTC 2021
-Airline code "OOH", examples:OOH84,44A010,Sun Jun 20 11:39:58 UTC 2021
-Airline code "OOE", examples:OOE06,4497C2,Sat Jun 19 17:08:45 UTC 2021
 Airline code "OOF", examples:OOF05,449BC1,Sat Jun 19 17:06:29 UTC 2021
 Airline code "OOI", examples:OOI16,44A7CC,Sat Jun 19 16:23:29 UTC 2021
 Airline code "SYO", examples:SYO09,40327F,Sat Jun 19 09:10:53 UTC 2021
