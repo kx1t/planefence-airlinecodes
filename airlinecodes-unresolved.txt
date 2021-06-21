@@ -1,3 +1,4 @@
+Airline code "RQT", examples:RQT10,A97D2B,Mon Jun 21 10:59:03 UTC 2021 RQT10,A97D2B,Mon Jun 21 10:52:28 UTC 2021
 Airline code "PGN", examples:PGN752,AA2242,Sun Jun 20 18:08:15 UTC 2021
 Airline code "OOD", examples:OOD80,44900C,Sun Jun 20 17:16:19 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Sun Jun 20 16:56:40 UTC 2021
@@ -43,7 +44,6 @@ Airline code "LRQ", examples:LRQ201A,4D0290,Tue Jun 1 12:55:23 UTC 2021
 Airline code "UWD", examples:UWD77,AD9E7A,Tue Jun 1 03:01:52 UTC 2021
 Airline code "TVP", examples:TVP7300,49D2EE,Sun May 30 17:03:07 UTC 2021
 Airline code "HRE", examples:HRE22D,3D1A96,Sat May 29 08:39:54 UTC 2021
-Airline code "RQT", examples:RQT10,A97D2B,Sat May 29 01:38:22 UTC 2021
 Airline code "PPJ", examples:PPJ430,A72894,Fri May 28 22:42:43 UTC 2021
 Airline code "SXI", examples:SXI2131,405F78,Fri May 28 14:35:42 UTC 2021
 Airline code "MAO", examples:MAO2,A0B5AA,Wed May 26 01:52:17 UTC 2021
