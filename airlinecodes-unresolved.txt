@@ -1,3 +1,4 @@
+Airline code "RFV", examples:RFV82A,407359,Wed Jun 23 00:50:19 UTC 2021
 Airline code "PGN", examples:PGN752,AA2242,Tue Jun 22 23:33:43 UTC 2021
 Airline code "GCK", examples:GCK40,4408D8,Tue Jun 22 09:33:25 UTC 2021
 Airline code "CSB", examples:CSB188,A894D0,Tue Jun 22 03:38:25 UTC 2021
@@ -13,7 +14,6 @@ Airline code "NBM", examples:NBM1124,C0227B,Sat Jun 19 02:56:22 UTC 2021
 Airline code "SAR", examples:SAR164,48A5F0,Fri Jun 18 13:27:40 UTC 2021
 Airline code "FSP", examples:FSP236,A22123,Thu Jun 17 20:28:18 UTC 2021
 Airline code "IFG", examples:IFG55,A26A2C,Thu Jun 17 17:38:21 UTC 2021
-Airline code "RFV", examples:RFV82A,407359,Thu Jun 17 00:33:25 UTC 2021 RFV82A,407359,Thu Jun 17 00:33:08 UTC 2021
 Airline code "NSH", examples:NSH301,A32427,Wed Jun 16 01:59:02 UTC 2021
 Airline code "XGN", examples:XGN900,AC7140,Tue Jun 15 23:21:29 UTC 2021
 Airline code "BKS", examples:BKS901,A886DF,Tue Jun 15 20:45:43 UTC 2021
