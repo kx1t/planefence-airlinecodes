@@ -1,3 +1,4 @@
+Airline code "NBM", examples:NBM1124,C0227B,Thu Jun 24 09:18:14 UTC 2021
 Airline code "PPJ", examples:PPJ442,AAE0D3,Thu Jun 24 02:04:15 UTC 2021
 Airline code "IFG", examples:IFG55,A26A2C,Thu Jun 24 00:05:06 UTC 2021
 Airline code "LVW", examples:LVW357,C01460,Wed Jun 23 20:55:43 UTC 2021
@@ -13,7 +14,6 @@ Airline code "TJD", examples:TJD650,3007A9,Sun Jun 20 15:25:34 UTC 2021
 Airline code "OOF", examples:OOF05,449BC1,Sat Jun 19 17:06:29 UTC 2021
 Airline code "OOI", examples:OOI16,44A7CC,Sat Jun 19 16:23:29 UTC 2021
 Airline code "SYO", examples:SYO09,40327F,Sat Jun 19 09:10:53 UTC 2021
-Airline code "NBM", examples:NBM1124,C0227B,Sat Jun 19 02:56:22 UTC 2021
 Airline code "SAR", examples:SAR164,48A5F0,Fri Jun 18 13:27:40 UTC 2021
 Airline code "FSP", examples:FSP236,A22123,Thu Jun 17 20:28:18 UTC 2021
 Airline code "NSH", examples:NSH301,A32427,Wed Jun 16 01:59:02 UTC 2021
