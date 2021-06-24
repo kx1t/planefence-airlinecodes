@@ -1,3 +1,4 @@
+Airline code "INI", examples:INI141,342247,Thu Jun 24 22:13:29 UTC 2021
 Airline code "PPJ", examples:PPJ442,AAE0D3,Thu Jun 24 20:25:33 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Thu Jun 24 16:30:25 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Thu Jun 24 16:21:13 UTC 2021
@@ -32,7 +33,6 @@ Airline code "EGC", examples:EGC580,A77651,Fri Jun 11 16:57:33 UTC 2021
 Airline code "FHM", examples:FHM5171,4D21B1,Fri Jun 11 16:44:11 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Fri Jun 11 11:11:51 UTC 2021
 Airline code "GPW", examples:GPW28,42515E,Tue Jun 8 19:22:21 UTC 2021 GPW28,42515E,Tue Jun 8 19:22:12 UTC 2021
-Airline code "INI", examples:INI222,343183,Tue Jun 8 19:33:03 UTC 2021
 Airline code "HZA", examples:HZA22,7101AC,Tue Jun 8 10:09:38 UTC 2021
 Airline code "ZSJ", examples:ZSJ0N,00A163,Tue Jun 8 10:29:40 UTC 2021
 Airline code "TYP", examples:TYP31201,43C77B,Tue Jun 8 09:48:00 UTC 2021
