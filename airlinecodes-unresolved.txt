@@ -1,5 +1,5 @@
+Airline code "NBM", examples:NBM1124,C0227B,Fri Jun 25 20:12:07 UTC 2021
 Airline code "KFB", examples:KFB21,A1D81F,Fri Jun 25 19:35:25 UTC 2021
-Airline code "NBM", examples:NBM1124,C0227B,Fri Jun 25 17:13:00 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Fri Jun 25 17:40:16 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Fri Jun 25 12:22:39 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Fri Jun 25 02:28:32 UTC 2021
