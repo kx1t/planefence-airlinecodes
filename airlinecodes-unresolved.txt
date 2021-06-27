@@ -1,3 +1,4 @@
+Airline code "OOG", examples:OOG77,449C09,Sun Jun 27 07:55:44 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Sun Jun 27 02:31:30 UTC 2021
 Airline code "RFV", examples:RFV82B,407359,Sun Jun 27 02:07:51 UTC 2021
 Airline code "OOD", examples:OOD95,44901B,Sat Jun 26 18:28:01 UTC 2021
@@ -39,7 +40,6 @@ Airline code "TYP", examples:TYP31201,43C77B,Tue Jun 8 09:48:00 UTC 2021
 Airline code "VKG", examples:VKG1274,45D066,Tue Jun 8 06:09:02 UTC 2021
 Airline code "VND", examples:VND896,30061C,Tue Jun 8 06:45:52 UTC 2021
 Airline code "DXT", examples:DXT9677,140AE2,Mon Jun 7 22:13:58 UTC 2021
-Airline code "OOG", examples:OOG88,449C14,Mon Jun 7 18:30:27 UTC 2021
 Airline code "JTN", examples:JTN151,A6CF20,Sat Jun 5 15:22:32 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Sat Jun 5 11:23:49 UTC 2021
 Airline code "LRQ", examples:LRQ201A,4D0290,Tue Jun 1 12:55:23 UTC 2021
