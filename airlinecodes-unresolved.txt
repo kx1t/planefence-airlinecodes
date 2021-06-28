@@ -1,3 +1,4 @@
+Airline code "PNO", examples:PNO729,C04122,Mon Jun 28 15:30:29 UTC 2021
 Airline code "IFG", examples:IFG55,A26A2C,Mon Jun 28 14:44:10 UTC 2021
 Airline code "FSF", examples:FSF516Y,461A82,Mon Jun 28 07:51:56 UTC 2021 FSF516Y,461A82,Mon Jun 28 07:51:56 UTC 2021 FSF516Y,461A82,Mon Jun 28 07:51:56 UTC 2021
 Airline code "RFV", examples:RFV82B,407359,Mon Jun 28 02:13:58 UTC 2021
