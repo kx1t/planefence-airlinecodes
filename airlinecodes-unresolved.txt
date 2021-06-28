@@ -1,3 +1,4 @@
+Airline code "IFG", examples:IFG55,A26A2C,Mon Jun 28 14:44:10 UTC 2021
 Airline code "FSF", examples:FSF516Y,461A82,Mon Jun 28 07:51:56 UTC 2021 FSF516Y,461A82,Mon Jun 28 07:51:56 UTC 2021 FSF516Y,461A82,Mon Jun 28 07:51:56 UTC 2021
 Airline code "RFV", examples:RFV82B,407359,Mon Jun 28 02:13:58 UTC 2021
 Airline code "MDO", examples:MDO2236,4D21DD,Sun Jun 27 18:14:34 UTC 2021
@@ -14,7 +15,6 @@ Airline code "KFB", examples:KFB21,A1D81F,Fri Jun 25 19:35:25 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Fri Jun 25 12:22:39 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Fri Jun 25 02:28:32 UTC 2021
 Airline code "INI", examples:INI141,342247,Thu Jun 24 22:13:29 UTC 2021
-Airline code "IFG", examples:IFG55,A26A2C,Thu Jun 24 00:05:06 UTC 2021
 Airline code "LVW", examples:LVW357,C01460,Wed Jun 23 20:55:43 UTC 2021
 Airline code "PGN", examples:PGN752,AA2242,Tue Jun 22 23:33:43 UTC 2021
 Airline code "GCK", examples:GCK40,4408D8,Tue Jun 22 09:33:25 UTC 2021
