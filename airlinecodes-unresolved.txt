@@ -1,3 +1,5 @@
+Airline code "EYY", examples:EYY35YF,407796,Fri Jul 2 13:46:59 UTC 2021
+Airline code "GCK", examples:GCK17,44046E,Fri Jul 2 13:20:50 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Fri Jul 2 12:29:01 UTC 2021
 Airline code "SLQ", examples:SLQ726,C0753B,Fri Jul 2 12:54:43 UTC 2021
 Airline code "RFV", examples:RFV82A,407359,Fri Jul 2 00:25:38 UTC 2021
@@ -24,7 +26,6 @@ Airline code "FSP", examples:FSP181,A145F4,Fri Jun 25 02:28:32 UTC 2021
 Airline code "INI", examples:INI141,342247,Thu Jun 24 22:13:29 UTC 2021
 Airline code "LVW", examples:LVW357,C01460,Wed Jun 23 20:55:43 UTC 2021
 Airline code "PGN", examples:PGN752,AA2242,Tue Jun 22 23:33:43 UTC 2021
-Airline code "GCK", examples:GCK40,4408D8,Tue Jun 22 09:33:25 UTC 2021
 Airline code "RQT", examples:RQT10,A97D2B,Tue Jun 22 02:26:16 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Sun Jun 20 16:56:40 UTC 2021
 Airline code "TJD", examples:TJD650,3007A9,Sun Jun 20 15:25:34 UTC 2021
