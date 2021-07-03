@@ -1,11 +1,11 @@
-Airline code "GCK", examples:GCK17,44046E,Fri Jul 2 23:54:42 UTC 2021
-Airline code "JAZ", examples:JAZ213,C00B9C,Fri Jul 2 23:54:51 UTC 2021
-Airline code "NBM", examples:NBM1124,C0227B,Fri Jul 2 23:54:47 UTC 2021
+Airline code "GCK", examples:GCK17,44046E,Sat Jul 3 03:32:34 UTC 2021
+Airline code "JAZ", examples:JAZ213,C00B9C,Sat Jul 3 03:32:43 UTC 2021
+Airline code "NBM", examples:NBM1124,C0227B,Sat Jul 3 03:32:39 UTC 2021
+Airline code "RFV", examples:RFV82B,407359,Sat Jul 3 03:13:18 UTC 2021 RFV82B,407359,Sat Jul 3 03:12:18 UTC 2021
 Airline code "EYY", examples:EYY35YF,407796,Fri Jul 2 15:26:16 UTC 2021
 Airline code "SLQ", examples:SLQ726,C0753B,Fri Jul 2 15:36:39 UTC 2021
 Airline code "SYB", examples:SYB016,C052A4,Fri Jul 2 15:34:51 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Fri Jul 2 12:29:01 UTC 2021
-Airline code "RFV", examples:RFV82A,407359,Fri Jul 2 00:25:38 UTC 2021
 Airline code "VND", examples:VND1012,300762,Thu Jul 1 07:05:40 UTC 2021 VND1012,300762,Thu Jul 1 07:04:41 UTC 2021 VND1012,300762,Thu Jul 1 07:04:20 UTC 2021
 Airline code "TXH", examples:TXH4891,C03C2B,Thu Jul 1 03:38:37 UTC 2021
 Airline code "TKM", examples:TKM55,A73A51,Wed Jun 30 20:15:02 UTC 2021
