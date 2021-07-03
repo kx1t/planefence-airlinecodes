@@ -1,5 +1,5 @@
-Airline code "FSF", examples:FSF348A,461A82,Sat Jul 3 12:19:07 UTC 2021
-Airline code "VKG", examples:VKG1247,45D963,Sat Jul 3 11:55:42 UTC 2021
+Airline code "FSF", examples:FSF348A,461A82,Sat Jul 3 15:06:02 UTC 2021
+Airline code "VKG", examples:VKG1247,45D963,Sat Jul 3 15:06:06 UTC 2021
 Airline code "GCK", examples:GCK17,44046E,Sat Jul 3 03:32:34 UTC 2021
 Airline code "JAZ", examples:JAZ213,C00B9C,Sat Jul 3 03:32:43 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Sat Jul 3 03:32:39 UTC 2021
