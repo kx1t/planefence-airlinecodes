@@ -1,3 +1,4 @@
+Airline code "UWD", examples:UWD56,A0E0CC,Sat Jul 3 20:19:19 UTC 2021
 Airline code "TKM", examples:TKM55,A73A51,Sat Jul 3 16:49:25 UTC 2021
 Airline code "FSF", examples:FSF348A,461A82,Sat Jul 3 15:06:02 UTC 2021
 Airline code "VKG", examples:VKG1247,45D963,Sat Jul 3 15:06:06 UTC 2021
@@ -54,7 +55,6 @@ Airline code "DXT", examples:DXT9677,140AE2,Mon Jun 7 22:13:58 UTC 2021
 Airline code "JTN", examples:JTN151,A6CF20,Sat Jun 5 15:22:32 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Sat Jun 5 11:23:49 UTC 2021
 Airline code "LRQ", examples:LRQ201A,4D0290,Tue Jun 1 12:55:23 UTC 2021
-Airline code "UWD", examples:UWD77,AD9E7A,Tue Jun 1 03:01:52 UTC 2021
 Airline code "TVP", examples:TVP7300,49D2EE,Sun May 30 17:03:07 UTC 2021
 Airline code "HRE", examples:HRE22D,3D1A96,Sat May 29 08:39:54 UTC 2021
 Airline code "SXI", examples:SXI2131,405F78,Fri May 28 14:35:42 UTC 2021
