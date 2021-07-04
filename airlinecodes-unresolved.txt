@@ -1,3 +1,4 @@
+Airline code "FTO", examples:FTO382,A46462,Sun Jul 4 16:22:48 UTC 2021
 Airline code "JTD", examples:JTD473,45AB4E,Sun Jul 4 15:42:17 UTC 2021
 Airline code "RJE", examples:RJE43,A520E2,Sun Jul 4 15:04:46 UTC 2021
 Airline code "FHM", examples:FHM5171,4D21B1,Sun Jul 4 12:35:44 UTC 2021
