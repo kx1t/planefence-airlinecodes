@@ -1,7 +1,7 @@
+Airline code "JTD", examples:JTD559,45AB4E,Mon Jul 5 05:38:27 UTC 2021
+Airline code "VKG", examples:VKG1124,45D069,Mon Jul 5 05:33:27 UTC 2021
 Airline code "FTO", examples:FTO382,A46462,Mon Jul 5 03:53:32 UTC 2021
-Airline code "JTD", examples:JTD574,45AB4E,Sun Jul 4 23:50:11 UTC 2021
 Airline code "LRQ", examples:LRQ265E,4D0293,Sun Jul 4 23:54:44 UTC 2021
-Airline code "VKG", examples:VKG1269,45D963,Sun Jul 4 22:11:08 UTC 2021
 Airline code "RJE", examples:RJE43,A520E2,Sun Jul 4 15:04:46 UTC 2021
 Airline code "FHM", examples:FHM5171,4D21B1,Sun Jul 4 12:35:44 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Sun Jul 4 11:06:59 UTC 2021
