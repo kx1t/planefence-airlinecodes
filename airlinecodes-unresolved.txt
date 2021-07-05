@@ -1,6 +1,7 @@
+Airline code "JTD", examples:JTD574,45AB4E,Sun Jul 4 23:50:11 UTC 2021
+Airline code "LRQ", examples:LRQ265E,4D0293,Sun Jul 4 23:54:44 UTC 2021
 Airline code "VKG", examples:VKG1269,45D963,Sun Jul 4 22:11:08 UTC 2021
 Airline code "FTO", examples:FTO382,A46462,Sun Jul 4 16:22:48 UTC 2021
-Airline code "JTD", examples:JTD473,45AB4E,Sun Jul 4 15:42:17 UTC 2021
 Airline code "RJE", examples:RJE43,A520E2,Sun Jul 4 15:04:46 UTC 2021
 Airline code "FHM", examples:FHM5171,4D21B1,Sun Jul 4 12:35:44 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Sun Jul 4 11:06:59 UTC 2021
@@ -56,7 +57,6 @@ Airline code "TYP", examples:TYP31201,43C77B,Tue Jun 8 09:48:00 UTC 2021
 Airline code "DXT", examples:DXT9677,140AE2,Mon Jun 7 22:13:58 UTC 2021
 Airline code "JTN", examples:JTN151,A6CF20,Sat Jun 5 15:22:32 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Sat Jun 5 11:23:49 UTC 2021
-Airline code "LRQ", examples:LRQ201A,4D0290,Tue Jun 1 12:55:23 UTC 2021
 Airline code "TVP", examples:TVP7300,49D2EE,Sun May 30 17:03:07 UTC 2021
 Airline code "HRE", examples:HRE22D,3D1A96,Sat May 29 08:39:54 UTC 2021
 Airline code "SXI", examples:SXI2131,405F78,Fri May 28 14:35:42 UTC 2021
