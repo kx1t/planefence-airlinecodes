@@ -1,7 +1,7 @@
+Airline code "VKG", examples:VKG1187,45D064,Wed Jul 7 16:25:21 UTC 2021
 Airline code "JTD", examples:JTD9302,45AB4E,Wed Jul 7 14:37:11 UTC 2021
 Airline code "NTF", examples:NTF291T,49D045,Wed Jul 7 07:14:49 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Wed Jul 7 06:58:09 UTC 2021
-Airline code "VKG", examples:VKG1186,45D064,Wed Jul 7 06:07:48 UTC 2021
 Airline code "CSB", examples:CSB188,A894D0,Wed Jul 7 04:04:52 UTC 2021
 Airline code "FHM", examples:FHM5171,4D21B1,Wed Jul 7 04:28:32 UTC 2021
 Airline code "RFV", examples:RFV82C,407359,Wed Jul 7 03:19:00 UTC 2021
