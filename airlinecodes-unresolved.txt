@@ -1,5 +1,5 @@
+Airline code "FSF", examples:FSF100A,4643C5,Thu Jul 8 19:19:45 UTC 2021
 Airline code "JTD", examples:JTD9568,45AB4E,Thu Jul 8 16:45:40 UTC 2021
-Airline code "FSF", examples:FSF75W,460D4C,Thu Jul 8 15:10:04 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Thu Jul 8 12:18:28 UTC 2021
 Airline code "HMJ", examples:HMJ203,4D21E8,Thu Jul 8 09:46:43 UTC 2021
 Airline code "VKG", examples:VKG1272,45D963,Thu Jul 8 05:35:24 UTC 2021
