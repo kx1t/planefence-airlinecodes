@@ -1,15 +1,16 @@
+Airline code "JTD", examples:JTD532,45AB4E,Fri Jul 9 15:53:44 UTC 2021
+Airline code "NTF", examples:NTF292T,49D045,Fri Jul 9 15:16:40 UTC 2021
+Airline code "VKG", examples:VKG1116,45D067,Fri Jul 9 15:52:43 UTC 2021
+Airline code "VND", examples:VND1054,300224,Fri Jul 9 15:21:56 UTC 2021
 Airline code "EZZ", examples:EZZ2505,4D223E,Fri Jul 9 14:15:36 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Fri Jul 9 12:32:29 UTC 2021
-Airline code "JTD", examples:JTD378,45AB4D,Fri Jul 9 12:21:39 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Fri Jul 9 08:45:13 UTC 2021
-Airline code "VKG", examples:VKG1256,45D963,Fri Jul 9 05:28:27 UTC 2021
 Airline code "NSH", examples:NSH845,AB92F7,Fri Jul 9 03:51:08 UTC 2021
 Airline code "FSP", examples:FSP377,A44E32,Thu Jul 8 20:24:18 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Thu Jul 8 19:19:45 UTC 2021
 Airline code "HMJ", examples:HMJ203,4D21E8,Thu Jul 8 09:46:43 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Thu Jul 8 00:31:21 UTC 2021
 Airline code "OOD", examples:OOD55,4493F3,Wed Jul 7 18:19:38 UTC 2021
-Airline code "NTF", examples:NTF291T,49D045,Wed Jul 7 07:14:49 UTC 2021
 Airline code "FHM", examples:FHM5171,4D21B1,Wed Jul 7 04:28:32 UTC 2021
 Airline code "RFV", examples:RFV82C,407359,Wed Jul 7 03:19:00 UTC 2021
 Airline code "TXH", examples:TXH4891,C03C2B,Tue Jul 6 21:30:33 UTC 2021
@@ -25,7 +26,6 @@ Airline code "NBM", examples:NBM1124,C0227B,Sat Jul 3 03:32:39 UTC 2021
 Airline code "EYY", examples:EYY35YF,407796,Fri Jul 2 15:26:16 UTC 2021
 Airline code "SLQ", examples:SLQ726,C0753B,Fri Jul 2 15:36:39 UTC 2021
 Airline code "SYB", examples:SYB016,C052A4,Fri Jul 2 15:34:51 UTC 2021
-Airline code "VND", examples:VND1012,300762,Thu Jul 1 07:05:40 UTC 2021 VND1012,300762,Thu Jul 1 07:04:41 UTC 2021 VND1012,300762,Thu Jul 1 07:04:20 UTC 2021
 Airline code "FBU", examples:FBU718,39C48D,Wed Jun 30 18:25:59 UTC 2021
 Airline code "WZM", examples:WZM324,A37E06,Tue Jun 29 22:15:50 UTC 2021
 Airline code "IPF", examples:IPF02,728666,Tue Jun 29 21:09:53 UTC 2021
