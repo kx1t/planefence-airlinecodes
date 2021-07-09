@@ -1,3 +1,4 @@
+Airline code "VLZ", examples:VLZ200A,43EC73,Fri Jul 9 18:18:57 UTC 2021
 Airline code "XCH", examples:XCH492,43E7ED,Fri Jul 9 16:46:57 UTC 2021
 Airline code "JTD", examples:JTD532,45AB4E,Fri Jul 9 15:53:44 UTC 2021
 Airline code "NTF", examples:NTF292T,49D045,Fri Jul 9 15:16:40 UTC 2021
@@ -34,7 +35,6 @@ Airline code "PNO", examples:PNO729,C04122,Tue Jun 29 03:58:40 UTC 2021 PNO729,C
 Airline code "IFG", examples:IFG55,A26A2C,Tue Jun 29 02:47:13 UTC 2021
 Airline code "MDO", examples:MDO2236,4D21DD,Sun Jun 27 18:14:34 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Sun Jun 27 11:19:40 UTC 2021
-Airline code "VLZ", examples:VLZ189A,43EC73,Sun Jun 27 11:34:34 UTC 2021
 Airline code "OOF", examples:OOF98,44981E,Sun Jun 27 09:47:55 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Sun Jun 27 08:43:49 UTC 2021
 Airline code "OOG", examples:OOG77,449C09,Sun Jun 27 07:55:44 UTC 2021
