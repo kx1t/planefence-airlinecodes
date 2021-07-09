@@ -1,10 +1,10 @@
+Airline code "VKG", examples:VKG1256,45D963,Fri Jul 9 05:28:27 UTC 2021
 Airline code "NSH", examples:NSH845,AB92F7,Fri Jul 9 03:51:08 UTC 2021
 Airline code "FSP", examples:FSP377,A44E32,Thu Jul 8 20:24:18 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Thu Jul 8 19:19:45 UTC 2021
 Airline code "JTD", examples:JTD9568,45AB4E,Thu Jul 8 16:45:40 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Thu Jul 8 12:18:28 UTC 2021
 Airline code "HMJ", examples:HMJ203,4D21E8,Thu Jul 8 09:46:43 UTC 2021
-Airline code "VKG", examples:VKG1272,45D963,Thu Jul 8 05:35:24 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Thu Jul 8 00:31:21 UTC 2021
 Airline code "OOD", examples:OOD55,4493F3,Wed Jul 7 18:19:38 UTC 2021
 Airline code "NTF", examples:NTF291T,49D045,Wed Jul 7 07:14:49 UTC 2021
