@@ -1,7 +1,7 @@
+Airline code "JTD", examples:JTD420,45AB4D,Sun Jul 11 11:28:00 UTC 2021
 Airline code "MDO", examples:MDO2244,4D21A8,Sun Jul 11 10:27:42 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Sun Jul 11 09:32:18 UTC 2021
 Airline code "OOF", examples:OOF27,449BD7,Sun Jul 11 08:24:12 UTC 2021
-Airline code "JTD", examples:JTD573,45AB4E,Sun Jul 11 05:33:32 UTC 2021
 Airline code "KFB", examples:KFB69,A2A270,Sat Jul 10 15:26:07 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Sat Jul 10 10:19:03 UTC 2021
 Airline code "CSB", examples:CSB188,A894D0,Sat Jul 10 03:05:33 UTC 2021
