@@ -1,10 +1,10 @@
+Airline code "JTD", examples:JTD573,45AB4E,Sun Jul 11 05:33:32 UTC 2021
 Airline code "KFB", examples:KFB69,A2A270,Sat Jul 10 15:26:07 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Sat Jul 10 10:19:03 UTC 2021
 Airline code "CSB", examples:CSB188,A894D0,Sat Jul 10 03:05:33 UTC 2021
 Airline code "TKM", examples:TKM88,AB0069,Fri Jul 9 21:04:54 UTC 2021
 Airline code "VLZ", examples:VLZ200A,43EC73,Fri Jul 9 18:18:57 UTC 2021
 Airline code "XCH", examples:XCH492,43E7ED,Fri Jul 9 16:46:57 UTC 2021
-Airline code "JTD", examples:JTD532,45AB4E,Fri Jul 9 15:53:44 UTC 2021
 Airline code "NTF", examples:NTF292T,49D045,Fri Jul 9 15:16:40 UTC 2021
 Airline code "VKG", examples:VKG1116,45D067,Fri Jul 9 15:52:43 UTC 2021
 Airline code "VND", examples:VND1054,300224,Fri Jul 9 15:21:56 UTC 2021
