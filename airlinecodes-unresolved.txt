@@ -1,3 +1,4 @@
+Airline code "VND", examples:VND1048,30061C,Sun Jul 11 18:47:57 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Sun Jul 11 17:41:01 UTC 2021
 Airline code "OOG", examples:OOG54,449FF2,Sun Jul 11 17:19:40 UTC 2021
 Airline code "OOE", examples:OOE88,449414,Sun Jul 11 16:47:38 UTC 2021
@@ -12,7 +13,6 @@ Airline code "CSB", examples:CSB188,A894D0,Sat Jul 10 03:05:33 UTC 2021
 Airline code "VLZ", examples:VLZ200A,43EC73,Fri Jul 9 18:18:57 UTC 2021
 Airline code "XCH", examples:XCH492,43E7ED,Fri Jul 9 16:46:57 UTC 2021
 Airline code "NTF", examples:NTF292T,49D045,Fri Jul 9 15:16:40 UTC 2021
-Airline code "VND", examples:VND1054,300224,Fri Jul 9 15:21:56 UTC 2021
 Airline code "EZZ", examples:EZZ2505,4D223E,Fri Jul 9 14:15:36 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Fri Jul 9 08:45:13 UTC 2021
 Airline code "NSH", examples:NSH845,AB92F7,Fri Jul 9 03:51:08 UTC 2021
