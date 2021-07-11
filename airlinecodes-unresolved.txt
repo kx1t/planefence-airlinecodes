@@ -1,6 +1,6 @@
+Airline code "VKG", examples:VKG1268,45D963,Sun Jul 11 14:26:21 UTC 2021
 Airline code "OOG", examples:OOG88,449C14,Sun Jul 11 13:55:24 UTC 2021
 Airline code "OOH", examples:OOH88,44A014,Sun Jul 11 13:44:43 UTC 2021
-Airline code "VKG", examples:VKG1269,45D963,Sun Jul 11 12:10:05 UTC 2021
 Airline code "JTD", examples:JTD420,45AB4D,Sun Jul 11 11:28:00 UTC 2021
 Airline code "MDO", examples:MDO2244,4D21A8,Sun Jul 11 10:27:42 UTC 2021
 Airline code "OOF", examples:OOF27,449BD7,Sun Jul 11 08:24:12 UTC 2021
