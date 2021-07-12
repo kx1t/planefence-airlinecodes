@@ -1,3 +1,4 @@
+Airline code "RQT", examples:RQT36,A09247,Mon Jul 12 18:12:24 UTC 2021
 Airline code "RFV", examples:RFV82C,407359,Mon Jul 12 17:09:19 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Mon Jul 12 16:15:53 UTC 2021
 Airline code "TJD", examples:TJD403,3007A6,Mon Jul 12 15:30:30 UTC 2021
@@ -46,7 +47,6 @@ Airline code "PPJ", examples:PPJ442,AAE0D3,Fri Jun 25 21:33:28 UTC 2021 PPJ442,A
 Airline code "INI", examples:INI141,342247,Thu Jun 24 22:13:29 UTC 2021
 Airline code "LVW", examples:LVW357,C01460,Wed Jun 23 20:55:43 UTC 2021
 Airline code "PGN", examples:PGN752,AA2242,Tue Jun 22 23:33:43 UTC 2021
-Airline code "RQT", examples:RQT10,A97D2B,Tue Jun 22 02:26:16 UTC 2021
 Airline code "OOI", examples:OOI16,44A7CC,Sat Jun 19 16:23:29 UTC 2021
 Airline code "SAR", examples:SAR164,48A5F0,Fri Jun 18 13:27:40 UTC 2021
 Airline code "XGN", examples:XGN900,AC7140,Tue Jun 15 23:21:29 UTC 2021
