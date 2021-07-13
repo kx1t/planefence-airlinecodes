@@ -1,3 +1,4 @@
+Airline code "PGN", examples:PGN41,A4D375,Tue Jul 13 17:00:00 UTC 2021
 Airline code "PPJ", examples:PPJ442,AAE0D3,Tue Jul 13 15:17:53 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Tue Jul 13 12:31:36 UTC 2021
 Airline code "JTD", examples:JTD328,45AB4E,Tue Jul 13 12:54:11 UTC 2021
@@ -47,7 +48,6 @@ Airline code "PNO", examples:PNO729,C04122,Tue Jun 29 03:58:40 UTC 2021 PNO729,C
 Airline code "IFG", examples:IFG55,A26A2C,Tue Jun 29 02:47:13 UTC 2021
 Airline code "INI", examples:INI141,342247,Thu Jun 24 22:13:29 UTC 2021
 Airline code "LVW", examples:LVW357,C01460,Wed Jun 23 20:55:43 UTC 2021
-Airline code "PGN", examples:PGN752,AA2242,Tue Jun 22 23:33:43 UTC 2021
 Airline code "OOI", examples:OOI16,44A7CC,Sat Jun 19 16:23:29 UTC 2021
 Airline code "SAR", examples:SAR164,48A5F0,Fri Jun 18 13:27:40 UTC 2021
 Airline code "XGN", examples:XGN900,AC7140,Tue Jun 15 23:21:29 UTC 2021
