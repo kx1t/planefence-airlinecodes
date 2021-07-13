@@ -1,9 +1,9 @@
+Airline code "CSB", examples:CSB588,A894D0,Tue Jul 13 12:31:36 UTC 2021
+Airline code "JTD", examples:JTD328,45AB4E,Tue Jul 13 12:54:11 UTC 2021
 Airline code "NTP", examples:NTP101P,40676F,Tue Jul 13 11:35:38 UTC 2021
 Airline code "VKG", examples:VKG1093,45D069,Tue Jul 13 11:34:02 UTC 2021
-Airline code "JTD", examples:JTD327,45AB4E,Tue Jul 13 06:49:36 UTC 2021
 Airline code "RQT", examples:RQT36,A09247,Tue Jul 13 01:56:29 UTC 2021
 Airline code "RFV", examples:RFV82C,407359,Mon Jul 12 17:09:19 UTC 2021
-Airline code "CSB", examples:CSB588,A894D0,Mon Jul 12 16:15:53 UTC 2021
 Airline code "TJD", examples:TJD403,3007A6,Mon Jul 12 15:30:30 UTC 2021
 Airline code "UWD", examples:UWD77,AD9E7A,Mon Jul 12 15:49:15 UTC 2021
 Airline code "ARN", examples:ARN143,00A2E4,Mon Jul 12 08:11:05 UTC 2021
