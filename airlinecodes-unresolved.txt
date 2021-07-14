@@ -1,3 +1,5 @@
+Airline code "GKY", examples:GKY343,4241C2,Wed Jul 14 08:33:16 UTC 2021
+Airline code "RUK", examples:RUK3677,40775C,Wed Jul 14 08:15:43 UTC 2021
 Airline code "JTD", examples:JTD217,45AB4D,Wed Jul 14 06:54:36 UTC 2021
 Airline code "VKG", examples:VKG1186,45D064,Wed Jul 14 06:05:32 UTC 2021
 Airline code "HST", examples:HST464,503E44,Wed Jul 14 00:41:43 UTC 2021
