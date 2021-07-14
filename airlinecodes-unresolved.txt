@@ -1,3 +1,4 @@
+Airline code "HST", examples:HST464,503E44,Wed Jul 14 00:41:43 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Tue Jul 13 19:27:30 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Tue Jul 13 19:27:15 UTC 2021
 Airline code "VND", examples:VND1063,30061C,Tue Jul 13 19:37:55 UTC 2021
