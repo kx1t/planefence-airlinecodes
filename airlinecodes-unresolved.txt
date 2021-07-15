@@ -1,7 +1,8 @@
+Airline code "JTD", examples:JTD568,45AB4E,Thu Jul 15 17:03:35 UTC 2021
+Airline code "RDN", examples:RDN318,A6E6E2,Thu Jul 15 17:46:42 UTC 2021
 Airline code "INI", examples:INI243,343183,Thu Jul 15 14:09:41 UTC 2021 INI243,343183,Thu Jul 15 14:09:37 UTC 2021
 Airline code "BAO", examples:BAO739I,3CB089,Thu Jul 15 12:02:01 UTC 2021
 Airline code "VKG", examples:VKG1273,45D069,Thu Jul 15 12:36:04 UTC 2021
-Airline code "JTD", examples:JTD567,45AB4E,Thu Jul 15 09:28:48 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Wed Jul 14 23:48:10 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Wed Jul 14 17:41:32 UTC 2021 HLY95,4076F4,Wed Jul 14 17:41:24 UTC 2021
 Airline code "TKM", examples:TKM55,A73A51,Wed Jul 14 17:07:30 UTC 2021
@@ -77,7 +78,6 @@ Airline code "RKK", examples:RKK28,A14B9B,Tue May 25 02:06:55 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Sun May 23 02:43:48 UTC 2021
 Airline code "ACO", examples:ACO2907,A069B7,Sat May 22 21:50:17 UTC 2021
 Airline code "GIS", examples:GIS1,C81E79,Fri May 21 22:08:08 UTC 2021
-Airline code "RDN", examples:RDN925,A6E32B,Fri May 21 01:05:19 UTC 2021
 Airline code "AXE", examples:AXE101P,505CF8,Mon May 17 11:31:12 UTC 2021
 Airline code "FDJ", examples:FDJ288,A2EC8B,Thu May 13 00:52:31 UTC 2021
 Airline code "N85", examples:N852ND,,Tue May 11 17:14:53 UTC 2021
