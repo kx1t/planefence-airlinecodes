@@ -1,3 +1,4 @@
+Airline code "MMO", examples:MMO1820,4D2025,Fri Jul 16 04:10:17 UTC 2021
 Airline code "PUP", examples:PUP163,40275C,Thu Jul 15 18:43:45 UTC 2021
 Airline code "JTD", examples:JTD568,45AB4E,Thu Jul 15 17:03:35 UTC 2021
 Airline code "RDN", examples:RDN318,A6E6E2,Thu Jul 15 17:46:42 UTC 2021
