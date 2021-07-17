@@ -1,3 +1,4 @@
+Airline code "EZZ", examples:EZZ1903,501C0C,Sat Jul 17 07:32:07 UTC 2021
 Airline code "TKM", examples:TKM55,A73A51,Fri Jul 16 16:48:46 UTC 2021
 Airline code "VKG", examples:VKG1952,45D067,Fri Jul 16 16:58:01 UTC 2021
 Airline code "HLY", examples:HLY95,407A20,Fri Jul 16 15:33:03 UTC 2021 HLY95,407A20,Fri Jul 16 15:32:44 UTC 2021
@@ -33,7 +34,6 @@ Airline code "HLL", examples:HLL45,407924,Sat Jul 10 10:19:03 UTC 2021
 Airline code "VLZ", examples:VLZ200A,43EC73,Fri Jul 9 18:18:57 UTC 2021
 Airline code "XCH", examples:XCH492,43E7ED,Fri Jul 9 16:46:57 UTC 2021
 Airline code "NTF", examples:NTF292T,49D045,Fri Jul 9 15:16:40 UTC 2021
-Airline code "EZZ", examples:EZZ2505,4D223E,Fri Jul 9 14:15:36 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Fri Jul 9 08:45:13 UTC 2021
 Airline code "NSH", examples:NSH845,AB92F7,Fri Jul 9 03:51:08 UTC 2021
 Airline code "FSP", examples:FSP377,A44E32,Thu Jul 8 20:24:18 UTC 2021
