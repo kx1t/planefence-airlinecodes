@@ -1,5 +1,5 @@
+Airline code "JTD", examples:JTD573,45AB4E,Sun Jul 18 13:04:48 UTC 2021
 Airline code "VKG", examples:VKG1083,45D067,Sun Jul 18 12:52:41 UTC 2021
-Airline code "JTD", examples:JTD573,45AB4E,Sun Jul 18 10:04:40 UTC 2021
 Airline code "OOF", examples:OOF05,449BC1,Sun Jul 18 10:01:24 UTC 2021
 Airline code "OOI", examples:OOI20,44A7D0,Sun Jul 18 10:38:47 UTC 2021
 Airline code "OOH", examples:OOH52,44A3F0,Sun Jul 18 07:38:33 UTC 2021
