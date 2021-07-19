@@ -1,7 +1,7 @@
-Airline code "VKG", examples:VKG1124,45D067,Mon Jul 19 06:06:57 UTC 2021
+Airline code "JTD", examples:JTD574,45AB4E,Mon Jul 19 07:04:29 UTC 2021
+Airline code "VKG", examples:VKG1277,45D069,Mon Jul 19 07:04:26 UTC 2021
 Airline code "PPJ", examples:PPJ442,AAE0D3,Mon Jul 19 00:02:23 UTC 2021
 Airline code "TIV", examples:TIV707,A97076,Sun Jul 18 23:22:10 UTC 2021
-Airline code "JTD", examples:JTD573,45AB4E,Sun Jul 18 17:04:59 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Sun Jul 18 17:38:03 UTC 2021
 Airline code "HMJ", examples:HMJ203,4D21E8,Sun Jul 18 16:36:20 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Sun Jul 18 16:07:17 UTC 2021
