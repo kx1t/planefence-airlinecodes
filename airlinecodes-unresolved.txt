@@ -1,3 +1,4 @@
+Airline code "AVL", examples:AVL242,AD8401,Mon Jul 19 22:35:29 UTC 2021
 Airline code "OOG", examples:OOG54,449FF2,Mon Jul 19 15:40:55 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Mon Jul 19 11:24:38 UTC 2021
 Airline code "SYO", examples:SYO03,40327F,Mon Jul 19 09:39:48 UTC 2021
