@@ -1,3 +1,4 @@
+Airline code "TIV", examples:TIV707,A97076,Sun Jul 18 23:22:10 UTC 2021
 Airline code "JTD", examples:JTD573,45AB4E,Sun Jul 18 17:04:59 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Sun Jul 18 17:38:03 UTC 2021
 Airline code "VKG", examples:VKG1255,45D069,Sun Jul 18 17:04:50 UTC 2021
@@ -63,7 +64,6 @@ Airline code "LVW", examples:LVW357,C01460,Wed Jun 23 20:55:43 UTC 2021
 Airline code "SAR", examples:SAR164,48A5F0,Fri Jun 18 13:27:40 UTC 2021
 Airline code "XGN", examples:XGN900,AC7140,Tue Jun 15 23:21:29 UTC 2021
 Airline code "BKS", examples:BKS901,A886DF,Tue Jun 15 20:45:43 UTC 2021
-Airline code "TIV", examples:TIV707,A97076,Mon Jun 14 16:23:16 UTC 2021
 Airline code "OMM", examples:OMM425,505E2C,Mon Jun 14 06:57:47 UTC 2021 OMM425,505E2C,Mon Jun 14 06:57:47 UTC 2021
 Airline code "GRN", examples:GRN03,40706E,Sun Jun 13 14:13:25 UTC 2021
 Airline code "KAF", examples:KAF001,71BC65,Sun Jun 13 14:09:12 UTC 2021 KAF001,71BC65,Sun Jun 13 14:08:35 UTC 2021
