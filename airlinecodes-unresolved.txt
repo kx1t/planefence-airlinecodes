@@ -1,3 +1,4 @@
+Airline code "CSB", examples:CSB188,A894D0,Tue Jul 20 03:54:53 UTC 2021
 Airline code "AVL", examples:AVL242,AD8401,Mon Jul 19 22:35:29 UTC 2021
 Airline code "OOG", examples:OOG54,449FF2,Mon Jul 19 15:40:55 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Mon Jul 19 11:24:38 UTC 2021
@@ -24,7 +25,6 @@ Airline code "BAO", examples:BAO739I,3CB089,Thu Jul 15 12:02:01 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Wed Jul 14 23:48:10 UTC 2021
 Airline code "GKY", examples:GKY343,4241C2,Wed Jul 14 08:33:16 UTC 2021
 Airline code "HST", examples:HST464,503E44,Wed Jul 14 00:41:43 UTC 2021
-Airline code "CSB", examples:CSB588,A894D0,Tue Jul 13 19:27:30 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Tue Jul 13 19:27:15 UTC 2021
 Airline code "VND", examples:VND1063,30061C,Tue Jul 13 19:37:55 UTC 2021
 Airline code "NTP", examples:NTP101P,40676F,Tue Jul 13 11:35:38 UTC 2021
