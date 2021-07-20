@@ -1,4 +1,4 @@
-Airline code "VKG", examples:VKG1274,45D069,Tue Jul 20 05:56:24 UTC 2021
+Airline code "VKG", examples:VKG1274,45D069,Tue Jul 20 11:04:43 UTC 2021
 Airline code "CSB", examples:CSB188,A894D0,Tue Jul 20 03:54:53 UTC 2021
 Airline code "AVL", examples:AVL242,AD8401,Mon Jul 19 22:35:29 UTC 2021
 Airline code "OOG", examples:OOG54,449FF2,Mon Jul 19 15:40:55 UTC 2021
