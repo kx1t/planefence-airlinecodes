@@ -1,3 +1,4 @@
+Airline code "LRQ", examples:LRQ290K,4D0290,Wed Jul 21 08:49:30 UTC 2021
 Airline code "JTD", examples:JTD217,45AB4E,Wed Jul 21 06:34:24 UTC 2021
 Airline code "VKG", examples:VKG1186,45D068,Wed Jul 21 06:07:25 UTC 2021
 Airline code "VLZ", examples:VLZ207A,43EC73,Wed Jul 21 06:54:11 UTC 2021
@@ -49,7 +50,6 @@ Airline code "FSF", examples:FSF100A,4643C5,Thu Jul 8 19:19:45 UTC 2021
 Airline code "OOD", examples:OOD55,4493F3,Wed Jul 7 18:19:38 UTC 2021
 Airline code "FHM", examples:FHM5171,4D21B1,Wed Jul 7 04:28:32 UTC 2021
 Airline code "TXH", examples:TXH4891,C03C2B,Tue Jul 6 21:30:33 UTC 2021
-Airline code "LRQ", examples:LRQ247G,4D0293,Tue Jul 6 15:07:23 UTC 2021
 Airline code "FTO", examples:FTO382,A46462,Mon Jul 5 03:53:32 UTC 2021
 Airline code "RJE", examples:RJE43,A520E2,Sun Jul 4 15:04:46 UTC 2021
 Airline code "GCK", examples:GCK17,44046E,Sat Jul 3 03:32:34 UTC 2021
