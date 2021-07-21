@@ -1,3 +1,4 @@
+Airline code "HYS", examples:HYS473,4A08A5,Wed Jul 21 20:23:47 UTC 2021
 Airline code "FTO", examples:FTO383,A46819,Wed Jul 21 18:14:29 UTC 2021
 Airline code "JTD", examples:JTD217,45AB4E,Wed Jul 21 18:05:03 UTC 2021
 Airline code "LRQ", examples:LRQ290K,4D0290,Wed Jul 21 18:05:13 UTC 2021
@@ -27,7 +28,6 @@ Airline code "MMO", examples:MMO1820,4D2025,Fri Jul 16 04:10:17 UTC 2021
 Airline code "PUP", examples:PUP163,40275C,Thu Jul 15 18:43:45 UTC 2021
 Airline code "RDN", examples:RDN318,A6E6E2,Thu Jul 15 17:46:42 UTC 2021
 Airline code "INI", examples:INI243,343183,Thu Jul 15 14:09:41 UTC 2021 INI243,343183,Thu Jul 15 14:09:37 UTC 2021
-Airline code "HYS", examples:HYS474,4A08A5,Wed Jul 14 23:48:10 UTC 2021
 Airline code "GKY", examples:GKY343,4241C2,Wed Jul 14 08:33:16 UTC 2021
 Airline code "HST", examples:HST464,503E44,Wed Jul 14 00:41:43 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Tue Jul 13 19:27:15 UTC 2021
