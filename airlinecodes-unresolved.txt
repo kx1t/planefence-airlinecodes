@@ -1,6 +1,6 @@
+Airline code "JTD", examples:JTD217,45AB4E,Wed Jul 21 09:04:44 UTC 2021
+Airline code "VKG", examples:VKG1186,45D068,Wed Jul 21 09:04:41 UTC 2021
 Airline code "LRQ", examples:LRQ290K,4D0290,Wed Jul 21 08:49:30 UTC 2021
-Airline code "JTD", examples:JTD217,45AB4E,Wed Jul 21 06:34:24 UTC 2021
-Airline code "VKG", examples:VKG1186,45D068,Wed Jul 21 06:07:25 UTC 2021
 Airline code "VLZ", examples:VLZ207A,43EC73,Wed Jul 21 06:54:11 UTC 2021
 Airline code "CSB", examples:CSB188,A894D0,Wed Jul 21 03:25:45 UTC 2021 CSB188,A894D0,Wed Jul 21 03:25:00 UTC 2021
 Airline code "IFG", examples:IFG225,A1F52F,Tue Jul 20 18:14:25 UTC 2021
