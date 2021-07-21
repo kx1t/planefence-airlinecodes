@@ -1,8 +1,8 @@
+Airline code "FTO", examples:FTO383,A46819,Wed Jul 21 18:14:29 UTC 2021
+Airline code "JTD", examples:JTD217,45AB4E,Wed Jul 21 18:05:03 UTC 2021
+Airline code "LRQ", examples:LRQ290K,4D0290,Wed Jul 21 18:05:13 UTC 2021
+Airline code "VKG", examples:VKG1186,45D068,Wed Jul 21 18:05:00 UTC 2021
 Airline code "RUK", examples:RUK1642,40775C,Wed Jul 21 16:07:13 UTC 2021
-Airline code "FTO", examples:FTO383,A46819,Wed Jul 21 15:49:10 UTC 2021
-Airline code "JTD", examples:JTD217,45AB4E,Wed Jul 21 15:04:58 UTC 2021
-Airline code "LRQ", examples:LRQ290K,4D0290,Wed Jul 21 15:05:08 UTC 2021
-Airline code "VKG", examples:VKG1186,45D068,Wed Jul 21 15:04:55 UTC 2021
 Airline code "VLZ", examples:VLZ207A,43EC73,Wed Jul 21 06:54:11 UTC 2021
 Airline code "CSB", examples:CSB188,A894D0,Wed Jul 21 03:25:45 UTC 2021 CSB188,A894D0,Wed Jul 21 03:25:00 UTC 2021
 Airline code "IFG", examples:IFG225,A1F52F,Tue Jul 20 18:14:25 UTC 2021
