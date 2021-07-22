@@ -1,7 +1,7 @@
+Airline code "JTD", examples:JTD568,45AB4E,Thu Jul 22 21:05:51 UTC 2021
+Airline code "VKG", examples:VKG1272,45D069,Thu Jul 22 21:04:59 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Thu Jul 22 20:36:51 UTC 2021
-Airline code "VKG", examples:VKG1272,45D069,Thu Jul 22 18:04:56 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Thu Jul 22 17:23:32 UTC 2021
-Airline code "JTD", examples:JTD568,45AB4E,Thu Jul 22 17:21:27 UTC 2021
 Airline code "TKM", examples:TKM55,A73A51,Thu Jul 22 16:45:24 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Thu Jul 22 12:40:30 UTC 2021
 Airline code "EGC", examples:EGC322,A37666,Thu Jul 22 00:11:14 UTC 2021
