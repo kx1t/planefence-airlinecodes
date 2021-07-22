@@ -1,3 +1,4 @@
+Airline code "EGC", examples:EGC322,A37666,Thu Jul 22 00:11:14 UTC 2021
 Airline code "JTD", examples:JTD217,45AB4E,Wed Jul 21 21:05:11 UTC 2021
 Airline code "LRQ", examples:LRQ290K,4D0290,Wed Jul 21 21:05:22 UTC 2021
 Airline code "RUK", examples:RUK1642,40775C,Wed Jul 21 21:05:58 UTC 2021
@@ -68,7 +69,6 @@ Airline code "XGN", examples:XGN900,AC7140,Tue Jun 15 23:21:29 UTC 2021
 Airline code "OMM", examples:OMM425,505E2C,Mon Jun 14 06:57:47 UTC 2021 OMM425,505E2C,Mon Jun 14 06:57:47 UTC 2021
 Airline code "GRN", examples:GRN03,40706E,Sun Jun 13 14:13:25 UTC 2021
 Airline code "KAF", examples:KAF001,71BC65,Sun Jun 13 14:09:12 UTC 2021 KAF001,71BC65,Sun Jun 13 14:08:35 UTC 2021
-Airline code "EGC", examples:EGC580,A77651,Fri Jun 11 16:57:33 UTC 2021
 Airline code "GPW", examples:GPW28,42515E,Tue Jun 8 19:22:21 UTC 2021 GPW28,42515E,Tue Jun 8 19:22:12 UTC 2021
 Airline code "HZA", examples:HZA22,7101AC,Tue Jun 8 10:09:38 UTC 2021
 Airline code "ZSJ", examples:ZSJ0N,00A163,Tue Jun 8 10:29:40 UTC 2021
