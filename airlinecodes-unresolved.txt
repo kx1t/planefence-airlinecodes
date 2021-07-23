@@ -1,7 +1,8 @@
+Airline code "GFM", examples:GFM5X,4AC998,Fri Jul 23 21:05:24 UTC 2021
+Airline code "JTD", examples:JTD531,45AB4E,Fri Jul 23 21:05:09 UTC 2021
+Airline code "PGN", examples:PGN41,A4D375,Fri Jul 23 21:20:04 UTC 2021
+Airline code "VKG", examples:VKG1256,45D069,Fri Jul 23 21:05:07 UTC 2021
 Airline code "NSH", examples:NSH900,AC7029,Fri Jul 23 16:05:21 UTC 2021
-Airline code "GFM", examples:GFM5X,4AC998,Fri Jul 23 13:05:06 UTC 2021
-Airline code "JTD", examples:JTD378,45AB4D,Fri Jul 23 13:05:29 UTC 2021
-Airline code "VKG", examples:VKG1257,45D069,Fri Jul 23 13:05:22 UTC 2021
 Airline code "VLZ", examples:VLZ223A,43EE07,Fri Jul 23 13:40:08 UTC 2021
 Airline code "RDF", examples:RDF20,3DD821,Fri Jul 23 09:41:53 UTC 2021 RDF20,3DD821,Fri Jul 23 09:41:53 UTC 2021
 Airline code "VCF", examples:VCF1EG,40753B,Fri Jul 23 09:43:06 UTC 2021
@@ -37,7 +38,6 @@ Airline code "RDN", examples:RDN318,A6E6E2,Thu Jul 15 17:46:42 UTC 2021
 Airline code "INI", examples:INI243,343183,Thu Jul 15 14:09:41 UTC 2021 INI243,343183,Thu Jul 15 14:09:37 UTC 2021
 Airline code "GKY", examples:GKY343,4241C2,Wed Jul 14 08:33:16 UTC 2021
 Airline code "HST", examples:HST464,503E44,Wed Jul 14 00:41:43 UTC 2021
-Airline code "PGN", examples:PGN41,A4D375,Tue Jul 13 19:27:15 UTC 2021
 Airline code "VND", examples:VND1063,30061C,Tue Jul 13 19:37:55 UTC 2021
 Airline code "NTP", examples:NTP101P,40676F,Tue Jul 13 11:35:38 UTC 2021
 Airline code "RQT", examples:RQT36,A09247,Tue Jul 13 01:56:29 UTC 2021
