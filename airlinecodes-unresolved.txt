@@ -1,3 +1,4 @@
+Airline code "TIV", examples:TIV690,A92C9D,Fri Jul 23 22:17:13 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Fri Jul 23 21:05:24 UTC 2021
 Airline code "JTD", examples:JTD531,45AB4E,Fri Jul 23 21:05:09 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Fri Jul 23 21:20:04 UTC 2021
@@ -7,7 +8,6 @@ Airline code "VLZ", examples:VLZ223A,43EE07,Fri Jul 23 13:40:08 UTC 2021
 Airline code "RDF", examples:RDF20,3DD821,Fri Jul 23 09:41:53 UTC 2021 RDF20,3DD821,Fri Jul 23 09:41:53 UTC 2021
 Airline code "VCF", examples:VCF1EG,40753B,Fri Jul 23 09:43:06 UTC 2021
 Airline code "FSF", examples:FSF890Y,460944,Fri Jul 23 08:37:05 UTC 2021
-Airline code "TIV", examples:TIV690,A92C9D,Thu Jul 22 20:36:51 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Thu Jul 22 17:23:32 UTC 2021
 Airline code "TKM", examples:TKM55,A73A51,Thu Jul 22 16:45:24 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Thu Jul 22 12:40:30 UTC 2021
