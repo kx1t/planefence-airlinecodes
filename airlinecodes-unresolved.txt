@@ -1,5 +1,5 @@
-Airline code "JTD", examples:JTD389,45AB4D,Sat Jul 24 06:04:30 UTC 2021
-Airline code "VKG", examples:VKG1953,45D963,Sat Jul 24 06:04:22 UTC 2021
+Airline code "JTD", examples:JTD389,45AB4D,Sat Jul 24 10:04:40 UTC 2021
+Airline code "VKG", examples:VKG1953,45D963,Sat Jul 24 10:04:33 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Fri Jul 23 22:17:13 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Fri Jul 23 21:05:24 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Fri Jul 23 21:20:04 UTC 2021
