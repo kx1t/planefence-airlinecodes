@@ -1,3 +1,5 @@
+Airline code "EGT", examples:EGT202,451C29,Mon Jul 26 07:59:56 UTC 2021 EGT202,451C29,Mon Jul 26 07:59:54 UTC 2021 EGT202,451C29,Mon Jul 26 07:58:20 UTC 2021
+Airline code "LRQ", examples:LRQ303C,4D0285,Mon Jul 26 07:53:16 UTC 2021 LRQ303C,4D0285,Mon Jul 26 07:53:14 UTC 2021 LRQ303C,4D0285,Mon Jul 26 07:51:40 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4E,Mon Jul 26 05:04:23 UTC 2021
 Airline code "VKG", examples:VKG1277,45D069,Mon Jul 26 05:04:21 UTC 2021
 Airline code "PPJ", examples:PPJ108,A022A7,Mon Jul 26 03:25:01 UTC 2021
@@ -14,7 +16,6 @@ Airline code "FSF", examples:FSF890Y,460944,Fri Jul 23 08:37:05 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Thu Jul 22 17:23:32 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Thu Jul 22 12:40:30 UTC 2021
 Airline code "EGC", examples:EGC322,A37666,Thu Jul 22 00:11:14 UTC 2021
-Airline code "LRQ", examples:LRQ290K,4D0290,Wed Jul 21 21:05:22 UTC 2021
 Airline code "RUK", examples:RUK1642,40775C,Wed Jul 21 21:05:58 UTC 2021
 Airline code "FTO", examples:FTO383,A46819,Wed Jul 21 18:14:29 UTC 2021
 Airline code "IFG", examples:IFG225,A1F52F,Tue Jul 20 18:14:25 UTC 2021
