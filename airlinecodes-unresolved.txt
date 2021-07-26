@@ -1,7 +1,9 @@
+Airline code "FSF", examples:FSF100A,4643C5,Mon Jul 26 12:12:32 UTC 2021
+Airline code "JTD", examples:JTD574,45AB4E,Mon Jul 26 12:04:40 UTC 2021
+Airline code "VKG", examples:VKG1277,45D069,Mon Jul 26 12:04:38 UTC 2021
+Airline code "VND", examples:VND1121,300254,Mon Jul 26 12:44:49 UTC 2021
 Airline code "EGT", examples:EGT202,451C29,Mon Jul 26 07:59:56 UTC 2021 EGT202,451C29,Mon Jul 26 07:59:54 UTC 2021 EGT202,451C29,Mon Jul 26 07:58:20 UTC 2021
 Airline code "LRQ", examples:LRQ303C,4D0285,Mon Jul 26 07:53:16 UTC 2021 LRQ303C,4D0285,Mon Jul 26 07:53:14 UTC 2021 LRQ303C,4D0285,Mon Jul 26 07:51:40 UTC 2021
-Airline code "JTD", examples:JTD574,45AB4E,Mon Jul 26 05:04:23 UTC 2021
-Airline code "VKG", examples:VKG1277,45D069,Mon Jul 26 05:04:21 UTC 2021
 Airline code "PPJ", examples:PPJ108,A022A7,Mon Jul 26 03:25:01 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Sun Jul 25 21:04:59 UTC 2021
 Airline code "TKM", examples:TKM55,A73A51,Sun Jul 25 16:40:52 UTC 2021
@@ -12,7 +14,6 @@ Airline code "PGN", examples:PGN41,A4D375,Fri Jul 23 21:20:04 UTC 2021
 Airline code "NSH", examples:NSH900,AC7029,Fri Jul 23 16:05:21 UTC 2021
 Airline code "RDF", examples:RDF20,3DD821,Fri Jul 23 09:41:53 UTC 2021 RDF20,3DD821,Fri Jul 23 09:41:53 UTC 2021
 Airline code "VCF", examples:VCF1EG,40753B,Fri Jul 23 09:43:06 UTC 2021
-Airline code "FSF", examples:FSF890Y,460944,Fri Jul 23 08:37:05 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Thu Jul 22 17:23:32 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Thu Jul 22 12:40:30 UTC 2021
 Airline code "EGC", examples:EGC322,A37666,Thu Jul 22 00:11:14 UTC 2021
@@ -39,7 +40,6 @@ Airline code "RDN", examples:RDN318,A6E6E2,Thu Jul 15 17:46:42 UTC 2021
 Airline code "INI", examples:INI243,343183,Thu Jul 15 14:09:41 UTC 2021 INI243,343183,Thu Jul 15 14:09:37 UTC 2021
 Airline code "GKY", examples:GKY343,4241C2,Wed Jul 14 08:33:16 UTC 2021
 Airline code "HST", examples:HST464,503E44,Wed Jul 14 00:41:43 UTC 2021
-Airline code "VND", examples:VND1063,30061C,Tue Jul 13 19:37:55 UTC 2021
 Airline code "NTP", examples:NTP101P,40676F,Tue Jul 13 11:35:38 UTC 2021
 Airline code "RQT", examples:RQT36,A09247,Tue Jul 13 01:56:29 UTC 2021
 Airline code "RFV", examples:RFV82C,407359,Mon Jul 12 17:09:19 UTC 2021
