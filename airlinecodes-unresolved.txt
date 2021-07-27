@@ -1,3 +1,4 @@
+Airline code "EGT", examples:EGT601,451C29,Tue Jul 27 17:38:14 UTC 2021 EGT601,451C29,Tue Jul 27 17:37:25 UTC 2021
 Airline code "NSH", examples:NSH301,A32427,Tue Jul 27 16:39:59 UTC 2021
 Airline code "XCH", examples:XCH494,43E7ED,Tue Jul 27 14:22:31 UTC 2021
 Airline code "JTD", examples:JTD327,45AB4D,Tue Jul 27 13:04:51 UTC 2021
@@ -10,7 +11,6 @@ Airline code "FSP", examples:FSP236,A22123,Mon Jul 26 16:38:48 UTC 2021
 Airline code "PGN", examples:PGN819W,AB2AE6,Mon Jul 26 16:24:10 UTC 2021
 Airline code "GCE", examples:GCE0P,4012E0,Mon Jul 26 13:28:29 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Mon Jul 26 12:12:32 UTC 2021
-Airline code "EGT", examples:EGT202,451C29,Mon Jul 26 07:59:56 UTC 2021 EGT202,451C29,Mon Jul 26 07:59:54 UTC 2021 EGT202,451C29,Mon Jul 26 07:58:20 UTC 2021
 Airline code "LRQ", examples:LRQ303C,4D0285,Mon Jul 26 07:53:16 UTC 2021 LRQ303C,4D0285,Mon Jul 26 07:53:14 UTC 2021 LRQ303C,4D0285,Mon Jul 26 07:51:40 UTC 2021
 Airline code "PPJ", examples:PPJ108,A022A7,Mon Jul 26 03:25:01 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Sun Jul 25 21:04:59 UTC 2021
