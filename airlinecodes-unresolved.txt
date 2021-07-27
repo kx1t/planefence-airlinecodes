@@ -1,5 +1,5 @@
-Airline code "JTD", examples:JTD327,45AB4D,Tue Jul 27 06:49:24 UTC 2021
-Airline code "VKG", examples:VKG1274,45D069,Tue Jul 27 05:31:23 UTC 2021
+Airline code "JTD", examples:JTD327,45AB4D,Tue Jul 27 10:04:49 UTC 2021
+Airline code "VKG", examples:VKG1274,45D069,Tue Jul 27 10:04:44 UTC 2021
 Airline code "CSB", examples:CSB188,A894D0,Tue Jul 27 03:18:21 UTC 2021 CSB188,A894D0,Tue Jul 27 03:17:56 UTC 2021
 Airline code "JPV", examples:JPV284P,440A05,Mon Jul 26 21:05:52 UTC 2021
 Airline code "RUK", examples:RUK3677,407BDC,Mon Jul 26 21:05:45 UTC 2021
