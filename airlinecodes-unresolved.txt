@@ -1,3 +1,4 @@
+Airline code "RUK", examples:RUK3677,40775C,Wed Jul 28 07:53:31 UTC 2021
 Airline code "JTD", examples:JTD217,45AB4A,Wed Jul 28 06:45:25 UTC 2021
 Airline code "VKG", examples:VKG1186,45D067,Wed Jul 28 05:58:24 UTC 2021
 Airline code "EGT", examples:EGT601,451C29,Tue Jul 27 17:38:14 UTC 2021 EGT601,451C29,Tue Jul 27 17:37:25 UTC 2021
@@ -5,7 +6,6 @@ Airline code "NSH", examples:NSH301,A32427,Tue Jul 27 16:39:59 UTC 2021
 Airline code "XCH", examples:XCH494,43E7ED,Tue Jul 27 14:22:31 UTC 2021
 Airline code "CSB", examples:CSB188,A894D0,Tue Jul 27 03:18:21 UTC 2021 CSB188,A894D0,Tue Jul 27 03:17:56 UTC 2021
 Airline code "JPV", examples:JPV284P,440A05,Mon Jul 26 21:05:52 UTC 2021
-Airline code "RUK", examples:RUK3677,407BDC,Mon Jul 26 21:05:45 UTC 2021
 Airline code "VND", examples:VND1121,300254,Mon Jul 26 21:05:41 UTC 2021
 Airline code "FSP", examples:FSP236,A22123,Mon Jul 26 16:38:48 UTC 2021
 Airline code "PGN", examples:PGN819W,AB2AE6,Mon Jul 26 16:24:10 UTC 2021
