@@ -1,3 +1,4 @@
+Airline code "HST", examples:HST501,503E44,Wed Jul 28 09:04:48 UTC 2021
 Airline code "RUK", examples:RUK3677,40775C,Wed Jul 28 07:53:31 UTC 2021
 Airline code "JTD", examples:JTD217,45AB4A,Wed Jul 28 06:45:25 UTC 2021
 Airline code "VKG", examples:VKG1186,45D067,Wed Jul 28 05:58:24 UTC 2021
@@ -42,7 +43,6 @@ Airline code "PUP", examples:PUP163,40275C,Thu Jul 15 18:43:45 UTC 2021
 Airline code "RDN", examples:RDN318,A6E6E2,Thu Jul 15 17:46:42 UTC 2021
 Airline code "INI", examples:INI243,343183,Thu Jul 15 14:09:41 UTC 2021 INI243,343183,Thu Jul 15 14:09:37 UTC 2021
 Airline code "GKY", examples:GKY343,4241C2,Wed Jul 14 08:33:16 UTC 2021
-Airline code "HST", examples:HST464,503E44,Wed Jul 14 00:41:43 UTC 2021
 Airline code "NTP", examples:NTP101P,40676F,Tue Jul 13 11:35:38 UTC 2021
 Airline code "RQT", examples:RQT36,A09247,Tue Jul 13 01:56:29 UTC 2021
 Airline code "RFV", examples:RFV82C,407359,Mon Jul 12 17:09:19 UTC 2021
