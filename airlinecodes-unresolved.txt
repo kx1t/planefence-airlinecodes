@@ -1,3 +1,4 @@
+Airline code "FWR", examples:FWR4444,A0FE58,Thu Jul 29 16:05:58 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Thu Jul 29 13:05:03 UTC 2021
 Airline code "JTD", examples:JTD567,45AB4E,Thu Jul 29 13:05:00 UTC 2021
 Airline code "VKG", examples:VKG1272,45D069,Thu Jul 29 13:04:45 UTC 2021
