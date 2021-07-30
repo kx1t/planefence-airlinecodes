@@ -1,10 +1,10 @@
+Airline code "HST", examples:HST502,503E44,Thu Jul 29 23:13:21 UTC 2021
 Airline code "EGC", examples:EGC580,A77651,Thu Jul 29 20:10:41 UTC 2021
 Airline code "FWR", examples:FWR4444,A0FE58,Thu Jul 29 19:35:01 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Thu Jul 29 13:05:03 UTC 2021
 Airline code "JTD", examples:JTD567,45AB4E,Thu Jul 29 13:05:00 UTC 2021
 Airline code "VKG", examples:VKG1272,45D069,Thu Jul 29 13:04:45 UTC 2021
 Airline code "FTO", examples:FTO382,A46462,Thu Jul 29 12:01:01 UTC 2021
-Airline code "HST", examples:HST501,503E44,Wed Jul 28 21:05:16 UTC 2021
 Airline code "RJE", examples:RJE43,A520E2,Wed Jul 28 21:00:24 UTC 2021
 Airline code "RUK", examples:RUK3677,40775C,Wed Jul 28 21:05:09 UTC 2021
 Airline code "HYS", examples:HYS473,4A08A5,Wed Jul 28 20:55:42 UTC 2021
