@@ -1,3 +1,4 @@
+Airline code "LRQ", examples:LRQ326F,4D028E,Fri Jul 30 13:03:27 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Fri Jul 30 11:14:06 UTC 2021
 Airline code "HST", examples:HST502,503E44,Fri Jul 30 11:04:37 UTC 2021
 Airline code "JTD", examples:JTD531,45AB4E,Fri Jul 30 11:04:48 UTC 2021
@@ -20,7 +21,6 @@ Airline code "JPV", examples:JPV284P,440A05,Mon Jul 26 21:05:52 UTC 2021
 Airline code "VND", examples:VND1121,300254,Mon Jul 26 21:05:41 UTC 2021
 Airline code "FSP", examples:FSP236,A22123,Mon Jul 26 16:38:48 UTC 2021
 Airline code "GCE", examples:GCE0P,4012E0,Mon Jul 26 13:28:29 UTC 2021
-Airline code "LRQ", examples:LRQ303C,4D0285,Mon Jul 26 07:53:16 UTC 2021 LRQ303C,4D0285,Mon Jul 26 07:53:14 UTC 2021 LRQ303C,4D0285,Mon Jul 26 07:51:40 UTC 2021
 Airline code "PPJ", examples:PPJ108,A022A7,Mon Jul 26 03:25:01 UTC 2021
 Airline code "VLZ", examples:VLZ181A,43EE3B,Sun Jul 25 07:08:17 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Fri Jul 23 22:17:13 UTC 2021
