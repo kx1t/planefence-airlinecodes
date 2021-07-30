@@ -1,3 +1,4 @@
+Airline code "HMJ", examples:HMJ209,4D212B,Fri Jul 30 10:15:33 UTC 2021
 Airline code "HST", examples:HST502,503E44,Fri Jul 30 08:04:30 UTC 2021
 Airline code "JTD", examples:JTD531,45AB4E,Fri Jul 30 08:04:41 UTC 2021
 Airline code "VKG", examples:VKG1256,45D069,Fri Jul 30 08:04:39 UTC 2021
@@ -34,7 +35,6 @@ Airline code "OOG", examples:OOG54,449FF2,Mon Jul 19 15:40:55 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Mon Jul 19 11:24:38 UTC 2021
 Airline code "SYO", examples:SYO03,40327F,Mon Jul 19 09:39:48 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Sun Jul 18 17:38:03 UTC 2021
-Airline code "HMJ", examples:HMJ203,4D21E8,Sun Jul 18 16:36:20 UTC 2021
 Airline code "OOI", examples:OOI20,44A7D0,Sun Jul 18 10:38:47 UTC 2021
 Airline code "HLY", examples:HLY95,407A20,Sat Jul 17 13:58:49 UTC 2021 HLY95,407A20,Sat Jul 17 13:58:22 UTC 2021
 Airline code "EZZ", examples:EZZ1903,501C0C,Sat Jul 17 07:32:07 UTC 2021
