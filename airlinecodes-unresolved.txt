@@ -1,3 +1,4 @@
+Airline code "CSB", examples:CSB188,A894D0,Sat Jul 31 03:22:21 UTC 2021
 Airline code "HMJ", examples:HMJ209,4D212B,Fri Jul 30 21:05:36 UTC 2021
 Airline code "HST", examples:HST502,503E44,Fri Jul 30 21:05:04 UTC 2021
 Airline code "JTD", examples:JTD531,45AB4E,Fri Jul 30 21:05:14 UTC 2021
@@ -14,7 +15,6 @@ Airline code "RJE", examples:RJE43,A520E2,Wed Jul 28 21:00:24 UTC 2021
 Airline code "HYS", examples:HYS473,4A08A5,Wed Jul 28 20:55:42 UTC 2021
 Airline code "PGN", examples:PGN819W,AB2AE6,Wed Jul 28 19:17:28 UTC 2021
 Airline code "TKM", examples:TKM55,A73A51,Wed Jul 28 17:15:53 UTC 2021
-Airline code "CSB", examples:CSB588,A894D0,Wed Jul 28 12:35:15 UTC 2021
 Airline code "EGT", examples:EGT601,451C29,Tue Jul 27 17:38:14 UTC 2021 EGT601,451C29,Tue Jul 27 17:37:25 UTC 2021
 Airline code "NSH", examples:NSH301,A32427,Tue Jul 27 16:39:59 UTC 2021
 Airline code "XCH", examples:XCH494,43E7ED,Tue Jul 27 14:22:31 UTC 2021
