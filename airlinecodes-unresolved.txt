@@ -1,3 +1,4 @@
+Airline code "PGN", examples:PGN333,A3A1F2,Sun Aug 1 15:55:47 UTC 2021
 Airline code "FSP", examples:FSP423,A50702,Sun Aug 1 14:42:17 UTC 2021 FSP423,A50702,Sun Aug 1 14:34:57 UTC 2021
 Airline code "JTD", examples:JTD508,45AB4E,Sun Aug 1 14:35:22 UTC 2021
 Airline code "VKG", examples:VKG1255,45D069,Sun Aug 1 14:35:24 UTC 2021
@@ -19,7 +20,6 @@ Airline code "FSF", examples:FSF100A,4643C5,Thu Jul 29 13:05:03 UTC 2021
 Airline code "FTO", examples:FTO382,A46462,Thu Jul 29 12:01:01 UTC 2021
 Airline code "RJE", examples:RJE43,A520E2,Wed Jul 28 21:00:24 UTC 2021
 Airline code "HYS", examples:HYS473,4A08A5,Wed Jul 28 20:55:42 UTC 2021
-Airline code "PGN", examples:PGN819W,AB2AE6,Wed Jul 28 19:17:28 UTC 2021
 Airline code "TKM", examples:TKM55,A73A51,Wed Jul 28 17:15:53 UTC 2021
 Airline code "EGT", examples:EGT601,451C29,Tue Jul 27 17:38:14 UTC 2021 EGT601,451C29,Tue Jul 27 17:37:25 UTC 2021
 Airline code "NSH", examples:NSH301,A32427,Tue Jul 27 16:39:59 UTC 2021
