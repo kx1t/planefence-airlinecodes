@@ -1,3 +1,4 @@
+Airline code "MJS", examples:MJS3693,A36878,Sun Aug 1 03:15:36 UTC 2021 MJS3693,A36878,Sun Aug 1 03:14:57 UTC 2021
 Airline code "XCH", examples:XCH495,43E7ED,Sat Jul 31 16:21:14 UTC 2021
 Airline code "JTD", examples:JTD389,45AB4D,Sat Jul 31 14:04:53 UTC 2021
 Airline code "VKG", examples:VKG1246,45D069,Sat Jul 31 14:04:54 UTC 2021
@@ -92,6 +93,5 @@ Airline code "AXE", examples:AXE101P,505CF8,Mon May 17 11:31:12 UTC 2021
 Airline code "FDJ", examples:FDJ288,A2EC8B,Thu May 13 00:52:31 UTC 2021
 Airline code "N85", examples:N852ND,,Tue May 11 17:14:53 UTC 2021
 Airline code "EZF", examples:EZF9427,407049,Fri May 7 15:59:01 UTC 2021
-Airline code "MJS", examples:MJS4412,AC38AF,Wed May 5 23:48:21 UTC 2021
 Airline code "EXD", examples:EXD008,,Wed May 5 21:34:43 UTC 2021
 Airline code "WDW", examples:WDW124,A34B66,Tue May 4 01:10:20 UTC 2021
