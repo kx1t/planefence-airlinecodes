@@ -1,7 +1,7 @@
+Airline code "JTD", examples:JTD508,45AB4E,Sun Aug 1 11:04:36 UTC 2021
+Airline code "VKG", examples:VKG1255,45D069,Sun Aug 1 11:04:37 UTC 2021
 Airline code "MDO", examples:MDO2259,4D2197,Sun Aug 1 10:23:45 UTC 2021
 Airline code "OOF", examples:OOF98,44981E,Sun Aug 1 10:17:23 UTC 2021
-Airline code "JTD", examples:JTD508,45AB4E,Sun Aug 1 07:04:25 UTC 2021
-Airline code "VKG", examples:VKG1255,45D069,Sun Aug 1 07:04:27 UTC 2021
 Airline code "MJS", examples:MJS3693,A36878,Sun Aug 1 03:15:36 UTC 2021 MJS3693,A36878,Sun Aug 1 03:14:57 UTC 2021
 Airline code "XCH", examples:XCH495,43E7ED,Sat Jul 31 16:21:14 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Sat Jul 31 09:32:49 UTC 2021
