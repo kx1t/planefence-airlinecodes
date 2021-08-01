@@ -1,3 +1,4 @@
+Airline code "HNW", examples:HNW757,AA34CE,Sun Aug 1 20:19:59 UTC 2021
 Airline code "MDO", examples:MDO2260,4D2197,Sun Aug 1 19:11:30 UTC 2021
 Airline code "FSP", examples:FSP423,A50702,Sun Aug 1 18:18:01 UTC 2021
 Airline code "JPV", examples:JPV452P,3C942D,Sun Aug 1 17:53:49 UTC 2021
