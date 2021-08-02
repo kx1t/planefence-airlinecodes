@@ -1,3 +1,4 @@
+Airline code "GCK", examples:GCK17,44046E,Mon Aug 2 00:41:28 UTC 2021
 Airline code "HNW", examples:HNW757,AA34CE,Sun Aug 1 20:19:59 UTC 2021
 Airline code "MDO", examples:MDO2260,4D2197,Sun Aug 1 19:11:30 UTC 2021
 Airline code "FSP", examples:FSP423,A50702,Sun Aug 1 18:18:01 UTC 2021
@@ -60,7 +61,6 @@ Airline code "NTF", examples:NTF292T,49D045,Fri Jul 9 15:16:40 UTC 2021
 Airline code "OOD", examples:OOD55,4493F3,Wed Jul 7 18:19:38 UTC 2021
 Airline code "FHM", examples:FHM5171,4D21B1,Wed Jul 7 04:28:32 UTC 2021
 Airline code "TXH", examples:TXH4891,C03C2B,Tue Jul 6 21:30:33 UTC 2021
-Airline code "GCK", examples:GCK17,44046E,Sat Jul 3 03:32:34 UTC 2021
 Airline code "JAZ", examples:JAZ213,C00B9C,Sat Jul 3 03:32:43 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Sat Jul 3 03:32:39 UTC 2021
 Airline code "EYY", examples:EYY35YF,407796,Fri Jul 2 15:26:16 UTC 2021
