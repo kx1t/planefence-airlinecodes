@@ -1,10 +1,10 @@
+Airline code "HST", examples:HST702,503E44,Wed Aug 4 14:05:17 UTC 2021
+Airline code "VKG", examples:VKG1194,45D969,Wed Aug 4 14:41:18 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Wed Aug 4 13:53:15 UTC 2021
 Airline code "IEI", examples:IEI2801,33FE1E,Wed Aug 4 13:57:09 UTC 2021 IEI2801,33FE1E,Wed Aug 4 13:57:08 UTC 2021 IEI2801,33FE1E,Wed Aug 4 13:56:53 UTC 2021
 Airline code "JPV", examples:JPV452,3C942D,Wed Aug 4 13:46:53 UTC 2021
 Airline code "JLC", examples:JLC23,A635AD,Wed Aug 4 12:15:01 UTC 2021
 Airline code "OOF", examples:OOF81,44980D,Wed Aug 4 12:33:43 UTC 2021
-Airline code "VKG", examples:VKG1194,45D969,Wed Aug 4 12:04:53 UTC 2021
-Airline code "HST", examples:HST702,503E44,Wed Aug 4 11:28:40 UTC 2021
 Airline code "KAF", examples:KAF3229,706216,Wed Aug 4 09:54:29 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Wed Aug 4 09:06:49 UTC 2021
 Airline code "REH", examples:REH101,AB709B,Wed Aug 4 04:55:06 UTC 2021
