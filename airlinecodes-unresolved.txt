@@ -1,6 +1,6 @@
+Airline code "VKG", examples:VKG1194,45D969,Wed Aug 4 07:41:27 UTC 2021
 Airline code "REH", examples:REH101,AB709B,Wed Aug 4 04:55:06 UTC 2021
 Airline code "JTD", examples:JTD327,45AB4A,Tue Aug 3 21:05:08 UTC 2021
-Airline code "VKG", examples:VKG1275,45D069,Tue Aug 3 20:29:51 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Tue Aug 3 17:34:50 UTC 2021
 Airline code "FHM", examples:FHM6026,4D224A,Tue Aug 3 16:58:48 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Tue Aug 3 14:56:03 UTC 2021
