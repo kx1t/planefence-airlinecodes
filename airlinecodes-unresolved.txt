@@ -1,3 +1,5 @@
+Airline code "FWR", examples:FWR404,A4F13F,Thu Aug 5 19:28:48 UTC 2021
+Airline code "NSH", examples:NSH845,AB92F7,Thu Aug 5 19:13:43 UTC 2021
 Airline code "JTD", examples:JTD568,45AB4D,Thu Aug 5 16:54:18 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Thu Aug 5 15:24:11 UTC 2021
 Airline code "NTF", examples:NTF358S,49D0A2,Thu Aug 5 15:04:55 UTC 2021
@@ -31,11 +33,9 @@ Airline code "RUK", examples:RUK3677,407BDC,Fri Jul 30 21:05:22 UTC 2021
 Airline code "MMO", examples:MMO180P,4D2025,Fri Jul 30 19:27:37 UTC 2021
 Airline code "LRQ", examples:LRQ326F,4D028E,Fri Jul 30 15:10:59 UTC 2021
 Airline code "EGC", examples:EGC580,A77651,Thu Jul 29 20:10:41 UTC 2021
-Airline code "FWR", examples:FWR4444,A0FE58,Thu Jul 29 19:35:01 UTC 2021
 Airline code "FTO", examples:FTO382,A46462,Thu Jul 29 12:01:01 UTC 2021
 Airline code "RJE", examples:RJE43,A520E2,Wed Jul 28 21:00:24 UTC 2021
 Airline code "EGT", examples:EGT601,451C29,Tue Jul 27 17:38:14 UTC 2021 EGT601,451C29,Tue Jul 27 17:37:25 UTC 2021
-Airline code "NSH", examples:NSH301,A32427,Tue Jul 27 16:39:59 UTC 2021
 Airline code "VND", examples:VND1121,300254,Mon Jul 26 21:05:41 UTC 2021
 Airline code "GCE", examples:GCE0P,4012E0,Mon Jul 26 13:28:29 UTC 2021
 Airline code "PPJ", examples:PPJ108,A022A7,Mon Jul 26 03:25:01 UTC 2021
