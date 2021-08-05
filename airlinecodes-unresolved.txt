@@ -1,3 +1,4 @@
+Airline code "PGN", examples:PGN819W,AB2AE6,Thu Aug 5 20:29:15 UTC 2021 PGN819W,AB2AE6,Thu Aug 5 20:21:53 UTC 2021
 Airline code "FWR", examples:FWR404,A4F13F,Thu Aug 5 19:28:48 UTC 2021
 Airline code "NSH", examples:NSH845,AB92F7,Thu Aug 5 19:13:43 UTC 2021
 Airline code "JTD", examples:JTD568,45AB4D,Thu Aug 5 16:54:18 UTC 2021
@@ -19,7 +20,6 @@ Airline code "OOF", examples:OOF81,44980D,Wed Aug 4 12:33:43 UTC 2021
 Airline code "KAF", examples:KAF3229,706216,Wed Aug 4 09:54:29 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Tue Aug 3 17:34:50 UTC 2021
 Airline code "FHM", examples:FHM6026,4D224A,Tue Aug 3 16:58:48 UTC 2021
-Airline code "PGN", examples:PGN41,A4D375,Tue Aug 3 13:40:58 UTC 2021
 Airline code "HYS", examples:HYS251,4A4D79,Mon Aug 2 21:07:03 UTC 2021
 Airline code "GCK", examples:GCK17,44046E,Mon Aug 2 16:04:50 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Mon Aug 2 16:05:50 UTC 2021
