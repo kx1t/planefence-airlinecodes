@@ -1,3 +1,4 @@
+Airline code "JTD", examples:JTD568,45AB4D,Thu Aug 5 16:54:18 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Thu Aug 5 15:24:11 UTC 2021
 Airline code "NTF", examples:NTF358S,49D0A2,Thu Aug 5 15:04:55 UTC 2021
 Airline code "VKG", examples:VKG1273,45D069,Thu Aug 5 14:57:58 UTC 2021
@@ -14,7 +15,6 @@ Airline code "IEI", examples:IEI2801,33FE1E,Wed Aug 4 13:57:09 UTC 2021 IEI2801,
 Airline code "JPV", examples:JPV452,3C942D,Wed Aug 4 13:46:53 UTC 2021
 Airline code "OOF", examples:OOF81,44980D,Wed Aug 4 12:33:43 UTC 2021
 Airline code "KAF", examples:KAF3229,706216,Wed Aug 4 09:54:29 UTC 2021
-Airline code "JTD", examples:JTD327,45AB4A,Tue Aug 3 21:05:08 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Tue Aug 3 17:34:50 UTC 2021
 Airline code "FHM", examples:FHM6026,4D224A,Tue Aug 3 16:58:48 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Tue Aug 3 13:40:58 UTC 2021
