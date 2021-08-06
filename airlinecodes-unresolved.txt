@@ -1,9 +1,10 @@
+Airline code "HNW", examples:HNW757,AA34CE,Fri Aug 6 18:23:17 UTC 2021
+Airline code "WMN", examples:WMN160,A0F347,Fri Aug 6 18:14:42 UTC 2021
 Airline code "FSP", examples:FSP423,A50702,Fri Aug 6 16:51:37 UTC 2021
 Airline code "JTD", examples:JTD532,45AB4D,Fri Aug 6 15:32:32 UTC 2021
 Airline code "VKG", examples:VKG1256,45D069,Fri Aug 6 15:04:57 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Fri Aug 6 14:51:20 UTC 2021
 Airline code "OFL", examples:OFL06C,391DC2,Fri Aug 6 14:18:51 UTC 2021
-Airline code "WMN", examples:WMN160,A0F347,Fri Aug 6 13:12:11 UTC 2021
 Airline code "SYO", examples:SYO03,40327F,Fri Aug 6 10:43:40 UTC 2021
 Airline code "XCH", examples:XCH496,43E7ED,Fri Aug 6 10:02:38 UTC 2021
 Airline code "FWR", examples:FWR404,A4F13F,Fri Aug 6 04:19:06 UTC 2021
@@ -17,7 +18,6 @@ Airline code "JLC", examples:JLC23,A635AD,Thu Aug 5 03:57:09 UTC 2021
 Airline code "REH", examples:REH101,AB709B,Thu Aug 5 03:56:47 UTC 2021
 Airline code "XLJ", examples:XLJ605,A7DA01,Thu Aug 5 03:58:26 UTC 2021
 Airline code "XEN", examples:XEN43,A522E4,Wed Aug 4 23:34:15 UTC 2021
-Airline code "HNW", examples:HNW757,AA34CE,Wed Aug 4 18:58:38 UTC 2021 HNW757,AA34CE,Wed Aug 4 18:58:37 UTC 2021
 Airline code "OOH", examples:OOH52,44A3F0,Wed Aug 4 17:08:45 UTC 2021
 Airline code "HST", examples:HST702,503E44,Wed Aug 4 14:05:17 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Wed Aug 4 13:53:15 UTC 2021
