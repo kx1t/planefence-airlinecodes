@@ -1,3 +1,4 @@
+Airline code "FSP", examples:FSP423,A50702,Fri Aug 6 16:51:37 UTC 2021
 Airline code "JTD", examples:JTD532,45AB4D,Fri Aug 6 15:32:32 UTC 2021
 Airline code "VKG", examples:VKG1256,45D069,Fri Aug 6 15:04:57 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Fri Aug 6 14:51:20 UTC 2021
@@ -30,7 +31,6 @@ Airline code "HYS", examples:HYS251,4A4D79,Mon Aug 2 21:07:03 UTC 2021
 Airline code "GCK", examples:GCK17,44046E,Mon Aug 2 16:04:50 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Mon Aug 2 16:05:50 UTC 2021
 Airline code "MDO", examples:MDO2268,4D2197,Mon Aug 2 14:46:38 UTC 2021
-Airline code "FSP", examples:FSP423,A50702,Mon Aug 2 13:28:03 UTC 2021
 Airline code "TKM", examples:TKM55,A73A51,Sun Aug 1 16:34:07 UTC 2021
 Airline code "MJS", examples:MJS3693,A36878,Sun Aug 1 03:15:36 UTC 2021 MJS3693,A36878,Sun Aug 1 03:14:57 UTC 2021
 Airline code "HMJ", examples:HMJ209,4D212B,Fri Jul 30 21:05:36 UTC 2021
