@@ -1,13 +1,13 @@
+Airline code "JTD", examples:JTD532,45AB4D,Fri Aug 6 15:32:32 UTC 2021
+Airline code "VKG", examples:VKG1256,45D069,Fri Aug 6 15:04:57 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Fri Aug 6 14:51:20 UTC 2021
 Airline code "OFL", examples:OFL06C,391DC2,Fri Aug 6 14:18:51 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Fri Aug 6 13:12:11 UTC 2021
-Airline code "VKG", examples:VKG1256,45D069,Fri Aug 6 11:04:44 UTC 2021
 Airline code "SYO", examples:SYO03,40327F,Fri Aug 6 10:43:40 UTC 2021
 Airline code "XCH", examples:XCH496,43E7ED,Fri Aug 6 10:02:38 UTC 2021
 Airline code "FWR", examples:FWR404,A4F13F,Fri Aug 6 04:19:06 UTC 2021
 Airline code "NSH", examples:NSH301,A32427,Thu Aug 5 22:29:23 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Thu Aug 5 21:06:01 UTC 2021
-Airline code "JTD", examples:JTD568,45AB4D,Thu Aug 5 21:06:10 UTC 2021
 Airline code "NTF", examples:NTF358S,49D0A2,Thu Aug 5 21:05:15 UTC 2021
 Airline code "PPJ", examples:PPJ430,A72894,Thu Aug 5 21:49:02 UTC 2021
 Airline code "PGN", examples:PGN819W,AB2AE6,Thu Aug 5 20:29:15 UTC 2021 PGN819W,AB2AE6,Thu Aug 5 20:21:53 UTC 2021
