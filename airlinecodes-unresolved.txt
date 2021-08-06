@@ -1,3 +1,4 @@
+Airline code "FWR", examples:FWR404,A4F13F,Fri Aug 6 04:19:06 UTC 2021
 Airline code "NSH", examples:NSH301,A32427,Thu Aug 5 22:29:23 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Thu Aug 5 21:06:01 UTC 2021
 Airline code "JTD", examples:JTD568,45AB4D,Thu Aug 5 21:06:10 UTC 2021
@@ -6,7 +7,6 @@ Airline code "PPJ", examples:PPJ430,A72894,Thu Aug 5 21:49:02 UTC 2021
 Airline code "VKG", examples:VKG1272,45D069,Thu Aug 5 21:05:11 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Thu Aug 5 21:01:27 UTC 2021
 Airline code "PGN", examples:PGN819W,AB2AE6,Thu Aug 5 20:29:15 UTC 2021 PGN819W,AB2AE6,Thu Aug 5 20:21:53 UTC 2021
-Airline code "FWR", examples:FWR404,A4F13F,Thu Aug 5 19:28:48 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Thu Aug 5 12:55:17 UTC 2021
 Airline code "JLC", examples:JLC23,A635AD,Thu Aug 5 03:57:09 UTC 2021
 Airline code "REH", examples:REH101,AB709B,Thu Aug 5 03:56:47 UTC 2021
