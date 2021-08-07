@@ -1,4 +1,4 @@
-Airline code "FSP", examples:FSP181,A145F4,Sat Aug 7 16:10:47 UTC 2021
+Airline code "FSP", examples:FSP181,A145F4,Sat Aug 7 18:14:44 UTC 2021
 Airline code "JTD", examples:JTD389,45AB4E,Sat Aug 7 15:04:55 UTC 2021
 Airline code "LRQ", examples:LRQ350K,4D0285,Sat Aug 7 15:39:33 UTC 2021
 Airline code "VKG", examples:VKG1953,45D963,Sat Aug 7 15:04:47 UTC 2021
