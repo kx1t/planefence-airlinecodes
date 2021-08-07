@@ -1,3 +1,5 @@
+Airline code "FSF", examples:FSF345P,460944,Sat Aug 7 08:20:49 UTC 2021
+Airline code "OOF", examples:OOF98,44981E,Sat Aug 7 08:50:56 UTC 2021
 Airline code "JTD", examples:JTD389,45AB4E,Sat Aug 7 05:21:23 UTC 2021
 Airline code "VKG", examples:VKG246,45D069,Sat Aug 7 05:24:24 UTC 2021
 Airline code "HNW", examples:HNW757,AA34CE,Fri Aug 6 18:23:17 UTC 2021
@@ -9,7 +11,6 @@ Airline code "SYO", examples:SYO03,40327F,Fri Aug 6 10:43:40 UTC 2021
 Airline code "XCH", examples:XCH496,43E7ED,Fri Aug 6 10:02:38 UTC 2021
 Airline code "FWR", examples:FWR404,A4F13F,Fri Aug 6 04:19:06 UTC 2021
 Airline code "NSH", examples:NSH301,A32427,Thu Aug 5 22:29:23 UTC 2021
-Airline code "FSF", examples:FSF100A,4643C5,Thu Aug 5 21:06:01 UTC 2021
 Airline code "NTF", examples:NTF358S,49D0A2,Thu Aug 5 21:05:15 UTC 2021
 Airline code "PPJ", examples:PPJ430,A72894,Thu Aug 5 21:49:02 UTC 2021
 Airline code "PGN", examples:PGN819W,AB2AE6,Thu Aug 5 20:29:15 UTC 2021 PGN819W,AB2AE6,Thu Aug 5 20:21:53 UTC 2021
@@ -23,7 +24,6 @@ Airline code "HST", examples:HST702,503E44,Wed Aug 4 14:05:17 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Wed Aug 4 13:53:15 UTC 2021
 Airline code "IEI", examples:IEI2801,33FE1E,Wed Aug 4 13:57:09 UTC 2021 IEI2801,33FE1E,Wed Aug 4 13:57:08 UTC 2021 IEI2801,33FE1E,Wed Aug 4 13:56:53 UTC 2021
 Airline code "JPV", examples:JPV452,3C942D,Wed Aug 4 13:46:53 UTC 2021
-Airline code "OOF", examples:OOF81,44980D,Wed Aug 4 12:33:43 UTC 2021
 Airline code "KAF", examples:KAF3229,706216,Wed Aug 4 09:54:29 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Tue Aug 3 17:34:50 UTC 2021
 Airline code "FHM", examples:FHM6026,4D224A,Tue Aug 3 16:58:48 UTC 2021
