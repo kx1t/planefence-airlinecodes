@@ -1,10 +1,12 @@
+Airline code "DHR", examples:DHR1,A0B60C,Sun Aug 8 15:58:14 UTC 2021
+Airline code "EGC", examples:EGC580,A77651,Sun Aug 8 15:34:06 UTC 2021
+Airline code "HYS", examples:HYS474,4A08A5,Sun Aug 8 15:04:57 UTC 2021
+Airline code "JTD", examples:JTD474,45AB4D,Sun Aug 8 15:05:40 UTC 2021
+Airline code "JTG", examples:JTG573,45AB4D,Sun Aug 8 15:05:04 UTC 2021
+Airline code "VKG", examples:VKG1115,45D963,Sun Aug 8 15:04:55 UTC 2021
 Airline code "HLY", examples:HLY95,407A20,Sun Aug 8 14:52:06 UTC 2021
 Airline code "RUK", examples:RUK3677,40775C,Sun Aug 8 14:33:16 UTC 2021
 Airline code "SYO", examples:SYO03,40327F,Sun Aug 8 14:21:36 UTC 2021
-Airline code "JTD", examples:JTD474,45AB4D,Sun Aug 8 13:00:47 UTC 2021
-Airline code "HYS", examples:HYS474,4A08A5,Sun Aug 8 12:04:40 UTC 2021
-Airline code "JTG", examples:JTG573,45AB4D,Sun Aug 8 12:04:47 UTC 2021
-Airline code "VKG", examples:VKG1115,45D963,Sun Aug 8 12:04:37 UTC 2021
 Airline code "JTZ", examples:JTZ317,A361FE,Sun Aug 8 03:57:32 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Sat Aug 7 18:14:44 UTC 2021
 Airline code "LRQ", examples:LRQ350K,4D0285,Sat Aug 7 15:39:33 UTC 2021
@@ -43,7 +45,6 @@ Airline code "TKM", examples:TKM55,A73A51,Sun Aug 1 16:34:07 UTC 2021
 Airline code "MJS", examples:MJS3693,A36878,Sun Aug 1 03:15:36 UTC 2021 MJS3693,A36878,Sun Aug 1 03:14:57 UTC 2021
 Airline code "HMJ", examples:HMJ209,4D212B,Fri Jul 30 21:05:36 UTC 2021
 Airline code "MMO", examples:MMO180P,4D2025,Fri Jul 30 19:27:37 UTC 2021
-Airline code "EGC", examples:EGC580,A77651,Thu Jul 29 20:10:41 UTC 2021
 Airline code "FTO", examples:FTO382,A46462,Thu Jul 29 12:01:01 UTC 2021
 Airline code "RJE", examples:RJE43,A520E2,Wed Jul 28 21:00:24 UTC 2021
 Airline code "EGT", examples:EGT601,451C29,Tue Jul 27 17:38:14 UTC 2021 EGT601,451C29,Tue Jul 27 17:37:25 UTC 2021
