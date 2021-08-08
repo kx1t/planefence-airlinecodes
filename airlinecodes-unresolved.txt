@@ -1,9 +1,9 @@
+Airline code "JTD", examples:JTD474,45AB4D,Sun Aug 8 13:00:47 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Sun Aug 8 12:04:40 UTC 2021
 Airline code "JTG", examples:JTG573,45AB4D,Sun Aug 8 12:04:47 UTC 2021
 Airline code "VKG", examples:VKG1115,45D963,Sun Aug 8 12:04:37 UTC 2021
 Airline code "JTZ", examples:JTZ317,A361FE,Sun Aug 8 03:57:32 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Sat Aug 7 18:14:44 UTC 2021
-Airline code "JTD", examples:JTD389,45AB4E,Sat Aug 7 15:04:55 UTC 2021
 Airline code "LRQ", examples:LRQ350K,4D0285,Sat Aug 7 15:39:33 UTC 2021
 Airline code "VLZ", examples:VLZ235A,43EE3B,Sat Aug 7 14:42:53 UTC 2021
 Airline code "OOG", examples:OOG54,449FF2,Sat Aug 7 11:32:28 UTC 2021
