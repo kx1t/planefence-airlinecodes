@@ -1,3 +1,5 @@
+Airline code "HZA", examples:HZA22,7101AC,Mon Aug 9 13:23:14 UTC 2021
+Airline code "RUK", examples:RUK3677,407BDC,Mon Aug 9 13:18:04 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Mon Aug 9 12:05:07 UTC 2021
 Airline code "JTD", examples:JTD559,45AB4E,Mon Aug 9 12:04:51 UTC 2021
 Airline code "VKG", examples:VKG1269,45D069,Mon Aug 9 12:04:41 UTC 2021
@@ -9,7 +11,6 @@ Airline code "JTZ", examples:JTZ317,A361FE,Mon Aug 9 04:07:22 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Sun Aug 8 15:04:57 UTC 2021
 Airline code "JTG", examples:JTG573,45AB4D,Sun Aug 8 15:05:04 UTC 2021
 Airline code "HLY", examples:HLY95,407A20,Sun Aug 8 14:52:06 UTC 2021
-Airline code "RUK", examples:RUK3677,40775C,Sun Aug 8 14:33:16 UTC 2021
 Airline code "SYO", examples:SYO03,40327F,Sun Aug 8 14:21:36 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Sat Aug 7 18:14:44 UTC 2021
 Airline code "LRQ", examples:LRQ350K,4D0285,Sat Aug 7 15:39:33 UTC 2021
@@ -89,7 +90,6 @@ Airline code "XGN", examples:XGN900,AC7140,Tue Jun 15 23:21:29 UTC 2021
 Airline code "OMM", examples:OMM425,505E2C,Mon Jun 14 06:57:47 UTC 2021 OMM425,505E2C,Mon Jun 14 06:57:47 UTC 2021
 Airline code "GRN", examples:GRN03,40706E,Sun Jun 13 14:13:25 UTC 2021
 Airline code "GPW", examples:GPW28,42515E,Tue Jun 8 19:22:21 UTC 2021 GPW28,42515E,Tue Jun 8 19:22:12 UTC 2021
-Airline code "HZA", examples:HZA22,7101AC,Tue Jun 8 10:09:38 UTC 2021
 Airline code "ZSJ", examples:ZSJ0N,00A163,Tue Jun 8 10:29:40 UTC 2021
 Airline code "TYP", examples:TYP31201,43C77B,Tue Jun 8 09:48:00 UTC 2021
 Airline code "DXT", examples:DXT9677,140AE2,Mon Jun 7 22:13:58 UTC 2021
