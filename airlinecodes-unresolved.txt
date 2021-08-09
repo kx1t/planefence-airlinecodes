@@ -1,10 +1,10 @@
+Airline code "VKG", examples:VKG1269,45D069,Mon Aug 9 01:04:20 UTC 2021
 Airline code "JTZ", examples:JTZ317,A361FE,Sun Aug 8 17:20:55 UTC 2021
 Airline code "DHR", examples:DHR1,A0B60C,Sun Aug 8 15:58:14 UTC 2021
 Airline code "EGC", examples:EGC580,A77651,Sun Aug 8 15:34:06 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Sun Aug 8 15:04:57 UTC 2021
 Airline code "JTD", examples:JTD474,45AB4D,Sun Aug 8 15:05:40 UTC 2021
 Airline code "JTG", examples:JTG573,45AB4D,Sun Aug 8 15:05:04 UTC 2021
-Airline code "VKG", examples:VKG1115,45D963,Sun Aug 8 15:04:55 UTC 2021
 Airline code "HLY", examples:HLY95,407A20,Sun Aug 8 14:52:06 UTC 2021
 Airline code "RUK", examples:RUK3677,40775C,Sun Aug 8 14:33:16 UTC 2021
 Airline code "SYO", examples:SYO03,40327F,Sun Aug 8 14:21:36 UTC 2021
