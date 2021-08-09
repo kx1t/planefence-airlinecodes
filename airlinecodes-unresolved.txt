@@ -1,3 +1,4 @@
+Airline code "FJO", examples:FJO54A,4D2330,Mon Aug 9 08:47:38 UTC 2021
 Airline code "VKG", examples:VKG1269,45D069,Mon Aug 9 06:04:25 UTC 2021
 Airline code "JTD", examples:JTD559,45AB4E,Mon Aug 9 05:45:25 UTC 2021
 Airline code "DHR", examples:DHR1,A0B60C,Mon Aug 9 04:06:36 UTC 2021
