@@ -1,9 +1,10 @@
+Airline code "EGC", examples:EGC580,A77651,Mon Aug 9 11:56:08 UTC 2021
+Airline code "RTG", examples:RTG5202,47923C,Mon Aug 9 11:41:47 UTC 2021
 Airline code "RDF", examples:RDF18,3DD821,Mon Aug 9 10:11:59 UTC 2021 RDF18,3DD821,Mon Aug 9 10:11:43 UTC 2021
 Airline code "JTD", examples:JTD559,45AB4E,Mon Aug 9 09:04:43 UTC 2021
 Airline code "VKG", examples:VKG1269,45D069,Mon Aug 9 09:04:33 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Mon Aug 9 08:47:38 UTC 2021
 Airline code "DHR", examples:DHR1,A0B60C,Mon Aug 9 04:06:36 UTC 2021
-Airline code "EGC", examples:EGC580,A77651,Mon Aug 9 04:06:31 UTC 2021
 Airline code "JTZ", examples:JTZ317,A361FE,Mon Aug 9 04:07:22 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Sun Aug 8 15:04:57 UTC 2021
 Airline code "JTG", examples:JTG573,45AB4D,Sun Aug 8 15:05:04 UTC 2021
