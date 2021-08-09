@@ -1,5 +1,5 @@
+Airline code "FLT", examples:FLT724TR,A9B421,Mon Aug 9 18:14:41 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Mon Aug 9 17:05:20 UTC 2021
-Airline code "FLT", examples:FLT724TR,A9B421,Mon Aug 9 17:40:34 UTC 2021 FLT724TR,A9B421,Mon Aug 9 17:39:20 UTC 2021
 Airline code "JTD", examples:JTD559,45AB4E,Mon Aug 9 17:05:03 UTC 2021
 Airline code "RTG", examples:RTG5202,47923C,Mon Aug 9 17:05:36 UTC 2021
 Airline code "RUK", examples:RUK3677,407BDC,Mon Aug 9 17:05:46 UTC 2021
