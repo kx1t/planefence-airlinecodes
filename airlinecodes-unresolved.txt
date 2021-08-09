@@ -1,5 +1,5 @@
+Airline code "PGN", examples:PGN41,A4D375,Mon Aug 9 15:43:28 UTC 2021
 Airline code "FLT", examples:FLT724TR,A9B421,Mon Aug 9 14:00:17 UTC 2021
-Airline code "PGN", examples:PGN41,A4D375,Mon Aug 9 14:43:32 UTC 2021 PGN41,A4D375,Mon Aug 9 14:39:00 UTC 2021
 Airline code "HZA", examples:HZA22,7101AC,Mon Aug 9 13:23:14 UTC 2021
 Airline code "RUK", examples:RUK3677,407BDC,Mon Aug 9 13:18:04 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Mon Aug 9 12:05:07 UTC 2021
