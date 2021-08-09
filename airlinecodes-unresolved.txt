@@ -1,3 +1,4 @@
+Airline code "RDF", examples:RDF18,3DD821,Mon Aug 9 10:11:59 UTC 2021 RDF18,3DD821,Mon Aug 9 10:11:43 UTC 2021
 Airline code "JTD", examples:JTD559,45AB4E,Mon Aug 9 09:04:43 UTC 2021
 Airline code "VKG", examples:VKG1269,45D069,Mon Aug 9 09:04:33 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Mon Aug 9 08:47:38 UTC 2021
@@ -52,7 +53,6 @@ Airline code "EGT", examples:EGT601,451C29,Tue Jul 27 17:38:14 UTC 2021 EGT601,4
 Airline code "VND", examples:VND1121,300254,Mon Jul 26 21:05:41 UTC 2021
 Airline code "GCE", examples:GCE0P,4012E0,Mon Jul 26 13:28:29 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Fri Jul 23 22:17:13 UTC 2021
-Airline code "RDF", examples:RDF20,3DD821,Fri Jul 23 09:41:53 UTC 2021 RDF20,3DD821,Fri Jul 23 09:41:53 UTC 2021
 Airline code "VCF", examples:VCF1EG,40753B,Fri Jul 23 09:43:06 UTC 2021
 Airline code "IFG", examples:IFG225,A1F52F,Tue Jul 20 18:14:25 UTC 2021
 Airline code "BKS", examples:BKS902,A886DF,Tue Jul 20 16:21:12 UTC 2021
