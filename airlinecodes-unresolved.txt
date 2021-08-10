@@ -1,3 +1,4 @@
+Airline code "XCH", examples:XCH498,43E7ED,Tue Aug 10 13:07:31 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Tue Aug 10 12:34:48 UTC 2021
 Airline code "JTD", examples:JTD328,45AB4A,Tue Aug 10 12:49:50 UTC 2021
 Airline code "VKG", examples:VKG1132,45D067,Tue Aug 10 11:04:44 UTC 2021
@@ -27,7 +28,6 @@ Airline code "OOF", examples:OOF98,44981E,Sat Aug 7 08:50:56 UTC 2021
 Airline code "HNW", examples:HNW757,AA34CE,Fri Aug 6 18:23:17 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Fri Aug 6 18:14:42 UTC 2021
 Airline code "OFL", examples:OFL06C,391DC2,Fri Aug 6 14:18:51 UTC 2021
-Airline code "XCH", examples:XCH496,43E7ED,Fri Aug 6 10:02:38 UTC 2021
 Airline code "FWR", examples:FWR404,A4F13F,Fri Aug 6 04:19:06 UTC 2021
 Airline code "NSH", examples:NSH301,A32427,Thu Aug 5 22:29:23 UTC 2021
 Airline code "NTF", examples:NTF358S,49D0A2,Thu Aug 5 21:05:15 UTC 2021
