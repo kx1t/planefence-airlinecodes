@@ -1,3 +1,4 @@
+Airline code "VND", examples:VND1153,440B43,Wed Aug 11 08:08:11 UTC 2021
 Airline code "VKG", examples:VKG1194,45D069,Wed Aug 11 07:49:29 UTC 2021
 Airline code "PGN", examples:PGN436,A53AE8,Tue Aug 10 16:23:40 UTC 2021
 Airline code "RJE", examples:RJE43,A520E2,Tue Aug 10 16:54:29 UTC 2021
@@ -54,7 +55,6 @@ Airline code "HMJ", examples:HMJ209,4D212B,Fri Jul 30 21:05:36 UTC 2021
 Airline code "MMO", examples:MMO180P,4D2025,Fri Jul 30 19:27:37 UTC 2021
 Airline code "FTO", examples:FTO382,A46462,Thu Jul 29 12:01:01 UTC 2021
 Airline code "EGT", examples:EGT601,451C29,Tue Jul 27 17:38:14 UTC 2021 EGT601,451C29,Tue Jul 27 17:37:25 UTC 2021
-Airline code "VND", examples:VND1121,300254,Mon Jul 26 21:05:41 UTC 2021
 Airline code "GCE", examples:GCE0P,4012E0,Mon Jul 26 13:28:29 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Fri Jul 23 22:17:13 UTC 2021
 Airline code "VCF", examples:VCF1EG,40753B,Fri Jul 23 09:43:06 UTC 2021
