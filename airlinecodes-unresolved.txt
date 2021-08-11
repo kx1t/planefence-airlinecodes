@@ -1,10 +1,10 @@
+Airline code "VKG", examples:VKG1194,45D069,Wed Aug 11 07:49:29 UTC 2021
 Airline code "PGN", examples:PGN436,A53AE8,Tue Aug 10 16:23:40 UTC 2021
 Airline code "RJE", examples:RJE43,A520E2,Tue Aug 10 16:54:29 UTC 2021
 Airline code "GKY", examples:GKY707,4241C2,Tue Aug 10 14:28:32 UTC 2021
 Airline code "XCH", examples:XCH498,43E7ED,Tue Aug 10 13:07:31 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Tue Aug 10 12:34:48 UTC 2021
 Airline code "JTD", examples:JTD328,45AB4A,Tue Aug 10 12:49:50 UTC 2021
-Airline code "VKG", examples:VKG1132,45D067,Tue Aug 10 11:04:44 UTC 2021
 Airline code "EGC", examples:EGC580,A77651,Mon Aug 9 20:39:11 UTC 2021
 Airline code "HZA", examples:HZA22,7101AC,Mon Aug 9 20:17:11 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Mon Aug 9 19:01:57 UTC 2021
