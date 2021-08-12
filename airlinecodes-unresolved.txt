@@ -1,3 +1,4 @@
+Airline code "JTZ", examples:JTZ839,AB7AF5,Thu Aug 12 12:35:52 UTC 2021
 Airline code "LRQ", examples:LRQ358H,4D0285,Thu Aug 12 11:04:54 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Thu Aug 12 10:06:42 UTC 2021
 Airline code "OOI", examples:OOI20,44A7D0,Thu Aug 12 10:37:25 UTC 2021
@@ -20,7 +21,6 @@ Airline code "RTG", examples:RTG5202,47923C,Mon Aug 9 17:05:36 UTC 2021
 Airline code "RUK", examples:RUK3677,407BDC,Mon Aug 9 17:05:46 UTC 2021
 Airline code "RDF", examples:RDF18,3DD821,Mon Aug 9 10:11:59 UTC 2021 RDF18,3DD821,Mon Aug 9 10:11:43 UTC 2021
 Airline code "DHR", examples:DHR1,A0B60C,Mon Aug 9 04:06:36 UTC 2021
-Airline code "JTZ", examples:JTZ317,A361FE,Mon Aug 9 04:07:22 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Sun Aug 8 15:04:57 UTC 2021
 Airline code "JTG", examples:JTG573,45AB4D,Sun Aug 8 15:05:04 UTC 2021
 Airline code "HLY", examples:HLY95,407A20,Sun Aug 8 14:52:06 UTC 2021
