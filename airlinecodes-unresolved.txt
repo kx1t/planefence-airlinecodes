@@ -1,3 +1,4 @@
+Airline code "LRQ", examples:LRQ358H,4D0285,Thu Aug 12 08:26:28 UTC 2021
 Airline code "HNW", examples:HNW757,AA34CE,Wed Aug 11 16:58:03 UTC 2021 HNW757,AA34CE,Wed Aug 11 16:51:16 UTC 2021
 Airline code "JTD", examples:JTD218,45AB4A,Wed Aug 11 16:53:29 UTC 2021
 Airline code "VKG", examples:VKG1217,45D067,Wed Aug 11 16:46:28 UTC 2021
@@ -22,7 +23,6 @@ Airline code "JTG", examples:JTG573,45AB4D,Sun Aug 8 15:05:04 UTC 2021
 Airline code "HLY", examples:HLY95,407A20,Sun Aug 8 14:52:06 UTC 2021
 Airline code "SYO", examples:SYO03,40327F,Sun Aug 8 14:21:36 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Sat Aug 7 18:14:44 UTC 2021
-Airline code "LRQ", examples:LRQ350K,4D0285,Sat Aug 7 15:39:33 UTC 2021
 Airline code "VLZ", examples:VLZ235A,43EE3B,Sat Aug 7 14:42:53 UTC 2021
 Airline code "OOG", examples:OOG54,449FF2,Sat Aug 7 11:32:28 UTC 2021
 Airline code "OOH", examples:OOH88,44A014,Sat Aug 7 09:41:44 UTC 2021
