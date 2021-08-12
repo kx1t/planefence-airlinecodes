@@ -1,6 +1,6 @@
+Airline code "JTD", examples:JTD567,45AB4E,Thu Aug 12 09:40:32 UTC 2021
 Airline code "LRQ", examples:LRQ358H,4D0285,Thu Aug 12 08:26:28 UTC 2021
 Airline code "HNW", examples:HNW757,AA34CE,Wed Aug 11 16:58:03 UTC 2021 HNW757,AA34CE,Wed Aug 11 16:51:16 UTC 2021
-Airline code "JTD", examples:JTD218,45AB4A,Wed Aug 11 16:53:29 UTC 2021
 Airline code "VKG", examples:VKG1217,45D067,Wed Aug 11 16:46:28 UTC 2021
 Airline code "VND", examples:VND1153,440B43,Wed Aug 11 08:08:11 UTC 2021
 Airline code "PGN", examples:PGN436,A53AE8,Tue Aug 10 16:23:40 UTC 2021
