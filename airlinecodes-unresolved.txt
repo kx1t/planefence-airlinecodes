@@ -1,3 +1,4 @@
+Airline code "HLY", examples:HLY95,407A20,Sat Aug 14 12:59:33 UTC 2021 HLY95,407A20,Sat Aug 14 12:18:05 UTC 2021
 Airline code "FSF", examples:FSF991A,461A82,Sat Aug 14 11:19:37 UTC 2021
 Airline code "OOF", examples:OOF60,449BF8,Sat Aug 14 11:09:38 UTC 2021
 Airline code "JTD", examples:JTD389,45AB4A,Sat Aug 14 10:04:40 UTC 2021
@@ -15,7 +16,6 @@ Airline code "REH", examples:REH101,AB709B,Fri Aug 13 04:00:40 UTC 2021
 Airline code "JTZ", examples:JTZ412,A4DCBA,Thu Aug 12 18:57:04 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Thu Aug 12 18:14:48 UTC 2021
 Airline code "LRQ", examples:LRQ358H,4D0285,Thu Aug 12 17:05:11 UTC 2021
-Airline code "HLY", examples:HLY95,407A20,Thu Aug 12 15:24:41 UTC 2021
 Airline code "HNW", examples:HNW757,AA34CE,Wed Aug 11 16:58:03 UTC 2021 HNW757,AA34CE,Wed Aug 11 16:51:16 UTC 2021
 Airline code "VND", examples:VND1153,440B43,Wed Aug 11 08:08:11 UTC 2021
 Airline code "PGN", examples:PGN436,A53AE8,Tue Aug 10 16:23:40 UTC 2021
