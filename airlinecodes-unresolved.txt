@@ -1,3 +1,4 @@
+Airline code "GFM", examples:GFM5X,4AC998,Sun Aug 15 18:23:42 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Sun Aug 15 15:18:23 UTC 2021
 Airline code "JTD", examples:JTD420,45AB4A,Sun Aug 15 14:05:13 UTC 2021
 Airline code "RUK", examples:RUK3677,407BDC,Sun Aug 15 14:29:02 UTC 2021
@@ -53,7 +54,6 @@ Airline code "JPV", examples:JPV452,3C942D,Wed Aug 4 13:46:53 UTC 2021
 Airline code "KAF", examples:KAF3229,706216,Wed Aug 4 09:54:29 UTC 2021
 Airline code "FHM", examples:FHM6026,4D224A,Tue Aug 3 16:58:48 UTC 2021
 Airline code "GCK", examples:GCK17,44046E,Mon Aug 2 16:04:50 UTC 2021
-Airline code "GFM", examples:GFM5X,4AC998,Mon Aug 2 16:05:50 UTC 2021
 Airline code "MDO", examples:MDO2268,4D2197,Mon Aug 2 14:46:38 UTC 2021
 Airline code "TKM", examples:TKM55,A73A51,Sun Aug 1 16:34:07 UTC 2021
 Airline code "MJS", examples:MJS3693,A36878,Sun Aug 1 03:15:36 UTC 2021 MJS3693,A36878,Sun Aug 1 03:14:57 UTC 2021
