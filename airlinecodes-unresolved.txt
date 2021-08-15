@@ -1,8 +1,8 @@
+Airline code "JTD", examples:JTD420,45AB4A,Sun Aug 15 11:15:34 UTC 2021
+Airline code "VKG", examples:VKG1255,45D067,Sun Aug 15 11:04:32 UTC 2021
 Airline code "OOH", examples:OOH74,44A006,Sun Aug 15 08:07:16 UTC 2021
 Airline code "FSF", examples:FSF747F,460047,Sun Aug 15 07:39:14 UTC 2021
-Airline code "VKG", examples:VKG1255,45D067,Sun Aug 15 07:04:25 UTC 2021
 Airline code "HYS", examples:HYS473,4A08A5,Sat Aug 14 21:02:56 UTC 2021
-Airline code "JTD", examples:JTD389,45AB4A,Sat Aug 14 21:05:10 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Sat Aug 14 17:13:46 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Sat Aug 14 17:32:51 UTC 2021
 Airline code "RQT", examples:RQT36,A09247,Sat Aug 14 17:31:10 UTC 2021
