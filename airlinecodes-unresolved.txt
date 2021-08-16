@@ -1,7 +1,8 @@
+Airline code "GCL", examples:GCL178,3C4D87,Mon Aug 16 15:04:46 UTC 2021
+Airline code "KFB", examples:KFB69,A2A270,Mon Aug 16 15:34:15 UTC 2021
 Airline code "JTD", examples:JTD560,45AB4E,Mon Aug 16 14:21:12 UTC 2021
 Airline code "VKG", examples:VKG1199,45D065,Mon Aug 16 14:05:34 UTC 2021
 Airline code "PGN", examples:PGN436,A53AE8,Mon Aug 16 13:17:40 UTC 2021
-Airline code "GCL", examples:GCL178,3C4D87,Mon Aug 16 12:04:42 UTC 2021
 Airline code "FSF", examples:FSF945A,461A82,Mon Aug 16 06:51:38 UTC 2021 FSF945A,461A82,Mon Aug 16 06:51:36 UTC 2021
 Airline code "RUK", examples:RUK3677,407BDC,Sun Aug 15 19:05:45 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Sun Aug 15 18:23:42 UTC 2021
@@ -75,7 +76,6 @@ Airline code "NTP", examples:NTP101P,40676F,Tue Jul 13 11:35:38 UTC 2021
 Airline code "RFV", examples:RFV82C,407359,Mon Jul 12 17:09:19 UTC 2021
 Airline code "UWD", examples:UWD77,AD9E7A,Mon Jul 12 15:49:15 UTC 2021
 Airline code "ARN", examples:ARN143,00A2E4,Mon Jul 12 08:11:05 UTC 2021
-Airline code "KFB", examples:KFB69,A2A270,Sat Jul 10 15:26:07 UTC 2021
 Airline code "TXH", examples:TXH4891,C03C2B,Tue Jul 6 21:30:33 UTC 2021
 Airline code "JAZ", examples:JAZ213,C00B9C,Sat Jul 3 03:32:43 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Sat Jul 3 03:32:39 UTC 2021
