@@ -1,5 +1,5 @@
+Airline code "GKY", examples:GKY685,42483E,Mon Aug 16 19:08:26 UTC 2021
 Airline code "FSF", examples:FSF544H,461981,Mon Aug 16 16:42:53 UTC 2021
-Airline code "GKY", examples:GKY685,42483E,Mon Aug 16 16:55:32 UTC 2021
 Airline code "GCL", examples:GCL178,3C4D87,Mon Aug 16 15:04:46 UTC 2021
 Airline code "KFB", examples:KFB69,A2A270,Mon Aug 16 15:34:15 UTC 2021
 Airline code "JTD", examples:JTD560,45AB4E,Mon Aug 16 14:21:12 UTC 2021
