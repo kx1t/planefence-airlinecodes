@@ -1,3 +1,4 @@
+Airline code "PGN", examples:PGN436,A53AE8,Mon Aug 16 13:17:40 UTC 2021
 Airline code "GCL", examples:GCL178,3C4D87,Mon Aug 16 12:04:42 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4E,Mon Aug 16 12:04:40 UTC 2021
 Airline code "VKG", examples:VKG1292,45D067,Mon Aug 16 12:04:50 UTC 2021
@@ -26,7 +27,6 @@ Airline code "NSH", examples:NSH5,AD488B,Thu Aug 12 18:14:48 UTC 2021
 Airline code "LRQ", examples:LRQ358H,4D0285,Thu Aug 12 17:05:11 UTC 2021
 Airline code "HNW", examples:HNW757,AA34CE,Wed Aug 11 16:58:03 UTC 2021 HNW757,AA34CE,Wed Aug 11 16:51:16 UTC 2021
 Airline code "VND", examples:VND1153,440B43,Wed Aug 11 08:08:11 UTC 2021
-Airline code "PGN", examples:PGN436,A53AE8,Tue Aug 10 16:23:40 UTC 2021
 Airline code "RJE", examples:RJE43,A520E2,Tue Aug 10 16:54:29 UTC 2021
 Airline code "GKY", examples:GKY707,4241C2,Tue Aug 10 14:28:32 UTC 2021
 Airline code "XCH", examples:XCH498,43E7ED,Tue Aug 10 13:07:31 UTC 2021
