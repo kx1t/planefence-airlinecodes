@@ -1,6 +1,6 @@
+Airline code "GCL", examples:GCL176,3C4D87,Tue Aug 17 07:04:28 UTC 2021
+Airline code "VKG", examples:VKG1293,45D067,Tue Aug 17 07:04:27 UTC 2021
 Airline code "JTD", examples:JTD327,45AB4A,Tue Aug 17 06:47:27 UTC 2021
-Airline code "GCL", examples:GCL176,3C4D87,Tue Aug 17 02:04:22 UTC 2021
-Airline code "VKG", examples:VKG1293,45D067,Tue Aug 17 02:04:21 UTC 2021
 Airline code "GKY", examples:GKY685,42483E,Mon Aug 16 19:08:26 UTC 2021
 Airline code "FSF", examples:FSF544H,461981,Mon Aug 16 16:42:53 UTC 2021
 Airline code "KFB", examples:KFB69,A2A270,Mon Aug 16 15:34:15 UTC 2021
