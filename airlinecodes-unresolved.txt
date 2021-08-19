@@ -1,3 +1,4 @@
+Airline code "NBM", examples:NBM1124,C0227B,Thu Aug 19 10:03:29 UTC 2021
 Airline code "XCH", examples:XCH416,43E7ED,Thu Aug 19 07:02:55 UTC 2021
 Airline code "GCL", examples:GCL176,3C4D87,Thu Aug 19 06:04:29 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Thu Aug 19 06:04:27 UTC 2021
@@ -79,7 +80,6 @@ Airline code "UWD", examples:UWD77,AD9E7A,Mon Jul 12 15:49:15 UTC 2021
 Airline code "ARN", examples:ARN143,00A2E4,Mon Jul 12 08:11:05 UTC 2021
 Airline code "TXH", examples:TXH4891,C03C2B,Tue Jul 6 21:30:33 UTC 2021
 Airline code "JAZ", examples:JAZ213,C00B9C,Sat Jul 3 03:32:43 UTC 2021
-Airline code "NBM", examples:NBM1124,C0227B,Sat Jul 3 03:32:39 UTC 2021
 Airline code "EYY", examples:EYY35YF,407796,Fri Jul 2 15:26:16 UTC 2021
 Airline code "SLQ", examples:SLQ726,C0753B,Fri Jul 2 15:36:39 UTC 2021
 Airline code "SYB", examples:SYB016,C052A4,Fri Jul 2 15:34:51 UTC 2021
