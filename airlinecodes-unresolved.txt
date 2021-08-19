@@ -1,3 +1,4 @@
+Airline code "XCH", examples:XCH416,43E7ED,Thu Aug 19 07:02:55 UTC 2021
 Airline code "GCL", examples:GCL176,3C4D87,Thu Aug 19 06:04:29 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Thu Aug 19 06:04:27 UTC 2021
 Airline code "VKG", examples:VKG1272,45D067,Thu Aug 19 05:18:23 UTC 2021
@@ -34,7 +35,6 @@ Airline code "JTZ", examples:JTZ412,A4DCBA,Thu Aug 12 18:57:04 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Thu Aug 12 18:14:48 UTC 2021
 Airline code "HNW", examples:HNW757,AA34CE,Wed Aug 11 16:58:03 UTC 2021 HNW757,AA34CE,Wed Aug 11 16:51:16 UTC 2021
 Airline code "RJE", examples:RJE43,A520E2,Tue Aug 10 16:54:29 UTC 2021
-Airline code "XCH", examples:XCH498,43E7ED,Tue Aug 10 13:07:31 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Tue Aug 10 12:34:48 UTC 2021
 Airline code "EGC", examples:EGC580,A77651,Mon Aug 9 20:39:11 UTC 2021
 Airline code "HZA", examples:HZA22,7101AC,Mon Aug 9 20:17:11 UTC 2021
