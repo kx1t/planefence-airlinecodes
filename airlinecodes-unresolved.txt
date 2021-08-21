@@ -1,3 +1,4 @@
+Airline code "EGC", examples:EGC580,A77651,Sat Aug 21 21:04:05 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Sat Aug 21 20:25:50 UTC 2021
 Airline code "PPJ", examples:PPJ921,A4AB61,Sat Aug 21 17:08:32 UTC 2021
 Airline code "JTD", examples:JTD389,45AB4D,Sat Aug 21 16:04:54 UTC 2021
@@ -46,7 +47,6 @@ Airline code "NSH", examples:NSH5,AD488B,Thu Aug 12 18:14:48 UTC 2021
 Airline code "HNW", examples:HNW757,AA34CE,Wed Aug 11 16:58:03 UTC 2021 HNW757,AA34CE,Wed Aug 11 16:51:16 UTC 2021
 Airline code "RJE", examples:RJE43,A520E2,Tue Aug 10 16:54:29 UTC 2021
 Airline code "CSB", examples:CSB588,A894D0,Tue Aug 10 12:34:48 UTC 2021
-Airline code "EGC", examples:EGC580,A77651,Mon Aug 9 20:39:11 UTC 2021
 Airline code "HZA", examples:HZA22,7101AC,Mon Aug 9 20:17:11 UTC 2021
 Airline code "RDF", examples:RDF18,3DD821,Mon Aug 9 10:11:59 UTC 2021 RDF18,3DD821,Mon Aug 9 10:11:43 UTC 2021
 Airline code "JTG", examples:JTG573,45AB4D,Sun Aug 8 15:05:04 UTC 2021
