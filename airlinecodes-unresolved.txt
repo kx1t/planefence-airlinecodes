@@ -1,3 +1,4 @@
+Airline code "FOX", examples:FOX1364,478DEF,Sat Aug 21 15:51:15 UTC 2021
 Airline code "OOH", examples:OOH92,44A018,Sat Aug 21 13:22:10 UTC 2021
 Airline code "OOI", examples:OOI16,44A7CC,Sat Aug 21 13:06:01 UTC 2021
 Airline code "RJR", examples:RJR004,4D2292,Sat Aug 21 13:32:25 UTC 2021
