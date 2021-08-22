@@ -1,3 +1,4 @@
+Airline code "GCK", examples:GCK18,440834,Sun Aug 22 02:33:22 UTC 2021
 Airline code "XEN", examples:XEN89,43E72D,Sun Aug 22 00:17:47 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Sat Aug 21 23:05:23 UTC 2021
 Airline code "EGC", examples:EGC580,A77651,Sat Aug 21 21:04:05 UTC 2021
@@ -64,7 +65,6 @@ Airline code "IEI", examples:IEI2801,33FE1E,Wed Aug 4 13:57:09 UTC 2021 IEI2801,
 Airline code "JPV", examples:JPV452,3C942D,Wed Aug 4 13:46:53 UTC 2021
 Airline code "KAF", examples:KAF3229,706216,Wed Aug 4 09:54:29 UTC 2021
 Airline code "FHM", examples:FHM6026,4D224A,Tue Aug 3 16:58:48 UTC 2021
-Airline code "GCK", examples:GCK17,44046E,Mon Aug 2 16:04:50 UTC 2021
 Airline code "MDO", examples:MDO2268,4D2197,Mon Aug 2 14:46:38 UTC 2021
 Airline code "TKM", examples:TKM55,A73A51,Sun Aug 1 16:34:07 UTC 2021
 Airline code "MJS", examples:MJS3693,A36878,Sun Aug 1 03:15:36 UTC 2021 MJS3693,A36878,Sun Aug 1 03:14:57 UTC 2021
