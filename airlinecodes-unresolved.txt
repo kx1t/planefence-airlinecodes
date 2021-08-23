@@ -1,3 +1,4 @@
+Airline code "OSF", examples:OSF11T,3F9A92,Mon Aug 23 10:16:40 UTC 2021
 Airline code "BNO", examples:BNO92J,47A48C,Mon Aug 23 09:38:32 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4E,Mon Aug 23 09:04:30 UTC 2021
 Airline code "VKG", examples:VKG1124,45D069,Mon Aug 23 09:04:33 UTC 2021
