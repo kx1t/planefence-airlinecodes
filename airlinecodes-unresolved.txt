@@ -1,3 +1,5 @@
+Airline code "CSB", examples:CSB588,C025D2,Mon Aug 23 08:46:36 UTC 2021
+Airline code "TJD", examples:TJD401,3001F3,Mon Aug 23 08:38:37 UTC 2021
 Airline code "JTD", examples:JTD559,45AB4E,Mon Aug 23 05:35:07 UTC 2021
 Airline code "VKG", examples:VKG1124,45D069,Mon Aug 23 05:25:06 UTC 2021
 Airline code "FBU", examples:FBU719,39C498,Mon Aug 23 04:00:21 UTC 2021
@@ -40,7 +42,6 @@ Airline code "KFB", examples:KFB69,A2A270,Mon Aug 16 15:34:15 UTC 2021
 Airline code "RUK", examples:RUK3677,407BDC,Sun Aug 15 19:05:45 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Sat Aug 14 17:13:46 UTC 2021
 Airline code "OOD", examples:OOD80,44900C,Sat Aug 14 15:11:22 UTC 2021
-Airline code "TJD", examples:TJD401,3001F3,Sat Aug 14 15:49:05 UTC 2021
 Airline code "DHR", examples:DHR1,A0B60C,Fri Aug 13 23:22:10 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Fri Aug 13 16:25:55 UTC 2021
 Airline code "INI", examples:INI151,342247,Fri Aug 13 13:49:26 UTC 2021
@@ -49,7 +50,6 @@ Airline code "JTZ", examples:JTZ412,A4DCBA,Thu Aug 12 18:57:04 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Thu Aug 12 18:14:48 UTC 2021
 Airline code "HNW", examples:HNW757,AA34CE,Wed Aug 11 16:58:03 UTC 2021 HNW757,AA34CE,Wed Aug 11 16:51:16 UTC 2021
 Airline code "RJE", examples:RJE43,A520E2,Tue Aug 10 16:54:29 UTC 2021
-Airline code "CSB", examples:CSB588,A894D0,Tue Aug 10 12:34:48 UTC 2021
 Airline code "HZA", examples:HZA22,7101AC,Mon Aug 9 20:17:11 UTC 2021
 Airline code "RDF", examples:RDF18,3DD821,Mon Aug 9 10:11:59 UTC 2021 RDF18,3DD821,Mon Aug 9 10:11:43 UTC 2021
 Airline code "JTG", examples:JTG573,45AB4D,Sun Aug 8 15:05:04 UTC 2021
