@@ -1,3 +1,4 @@
+Airline code "HLY", examples:HLY95,407A20,Mon Aug 23 12:02:21 UTC 2021
 Airline code "HMJ", examples:HMJ209,4D212B,Mon Aug 23 11:43:59 UTC 2021
 Airline code "PPJ", examples:PPJ839,AAE0DB,Mon Aug 23 11:25:48 UTC 2021
 Airline code "OSF", examples:OSF11T,3F9A92,Mon Aug 23 10:16:40 UTC 2021
@@ -39,7 +40,6 @@ Airline code "FLT", examples:FLT724TR,A9B421,Wed Aug 18 23:01:41 UTC 2021
 Airline code "EZZ", examples:EZZ2020,4D223E,Wed Aug 18 19:06:00 UTC 2021
 Airline code "VND", examples:VND702,30061C,Wed Aug 18 12:30:26 UTC 2021
 Airline code "LRQ", examples:LRQ379J,4D028E,Wed Aug 18 06:53:16 UTC 2021
-Airline code "HLY", examples:HLY95,407A20,Tue Aug 17 13:37:34 UTC 2021
 Airline code "GKY", examples:GKY685,42483E,Mon Aug 16 19:08:26 UTC 2021
 Airline code "KFB", examples:KFB69,A2A270,Mon Aug 16 15:34:15 UTC 2021
 Airline code "RUK", examples:RUK3677,407BDC,Sun Aug 15 19:05:45 UTC 2021
