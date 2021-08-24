@@ -1,3 +1,4 @@
+Airline code "GCL", examples:GCL176,3C4D87,Tue Aug 24 01:10:21 UTC 2021
 Airline code "BNO", examples:BNO92J,47A48C,Mon Aug 23 21:05:25 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4E,Mon Aug 23 21:04:58 UTC 2021
 Airline code "OSF", examples:OSF11T,3F9A92,Mon Aug 23 21:05:30 UTC 2021
@@ -30,7 +31,6 @@ Airline code "NDL", examples:NDL191,C08199,Fri Aug 20 03:59:35 UTC 2021 NDL191,C
 Airline code "SLQ", examples:SLQ726,C07535,Fri Aug 20 03:57:34 UTC 2021
 Airline code "SYB", examples:SYB888,C07F4F,Fri Aug 20 03:57:36 UTC 2021
 Airline code "BAO", examples:BAO108N,3C0FE6,Thu Aug 19 21:06:08 UTC 2021
-Airline code "GCL", examples:GCL176,3C4D87,Thu Aug 19 21:05:02 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Thu Aug 19 21:05:00 UTC 2021
 Airline code "RTG", examples:RTG5205,47923C,Thu Aug 19 21:05:50 UTC 2021
 Airline code "PGN", examples:PGN333,A3A1F2,Thu Aug 19 13:20:50 UTC 2021 PGN333,A3A1F2,Thu Aug 19 13:20:46 UTC 2021
