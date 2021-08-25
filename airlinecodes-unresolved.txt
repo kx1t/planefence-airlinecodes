@@ -1,3 +1,4 @@
+Airline code "NWC", examples:NWC9015,1427E0,Wed Aug 25 12:36:28 UTC 2021
 Airline code "GCL", examples:GCL176,3C4D98,Wed Aug 25 10:04:40 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Wed Aug 25 10:05:03 UTC 2021
 Airline code "JTD", examples:JTD217,45AB4D,Wed Aug 25 10:04:55 UTC 2021
@@ -11,7 +12,6 @@ Airline code "FSP", examples:FSP236,A22123,Wed Aug 25 03:56:08 UTC 2021
 Airline code "FWR", examples:FWR98,A7C3A7,Wed Aug 25 03:58:49 UTC 2021
 Airline code "FSF", examples:FSF28N,461A82,Tue Aug 24 21:05:41 UTC 2021
 Airline code "JPV", examples:JPV284P,440A05,Tue Aug 24 21:05:42 UTC 2021
-Airline code "NWC", examples:NWC9015,1427E0,Tue Aug 24 15:55:17 UTC 2021
 Airline code "PGN", examples:PGN819W,AB2AE6,Tue Aug 24 15:04:22 UTC 2021
 Airline code "XCH", examples:XCH501,43E7ED,Tue Aug 24 08:50:10 UTC 2021
 Airline code "TJD", examples:TJD975,300829,Tue Aug 24 06:35:08 UTC 2021
