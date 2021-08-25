@@ -1,3 +1,4 @@
+Airline code "EZZ", examples:EZZ2020,4D223E,Wed Aug 25 20:58:11 UTC 2021
 Airline code "GCL", examples:GCL176,3C4D98,Wed Aug 25 17:04:57 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Wed Aug 25 17:05:18 UTC 2021
 Airline code "JTD", examples:JTD218,45AB4D,Wed Aug 25 17:02:44 UTC 2021
@@ -41,7 +42,6 @@ Airline code "HYS", examples:HYS474,4A08A5,Thu Aug 19 21:05:00 UTC 2021
 Airline code "RTG", examples:RTG5205,47923C,Thu Aug 19 21:05:50 UTC 2021
 Airline code "XLJ", examples:XLJ41,A4D7E0,Thu Aug 19 02:22:21 UTC 2021
 Airline code "FLT", examples:FLT724TR,A9B421,Wed Aug 18 23:01:41 UTC 2021
-Airline code "EZZ", examples:EZZ2020,4D223E,Wed Aug 18 19:06:00 UTC 2021
 Airline code "VND", examples:VND702,30061C,Wed Aug 18 12:30:26 UTC 2021
 Airline code "LRQ", examples:LRQ379J,4D028E,Wed Aug 18 06:53:16 UTC 2021
 Airline code "GKY", examples:GKY685,42483E,Mon Aug 16 19:08:26 UTC 2021
