@@ -1,10 +1,10 @@
+Airline code "VKG", examples:VKG1272,45D964,Thu Aug 26 09:04:39 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Thu Aug 26 08:41:25 UTC 2021
 Airline code "FBU", examples:FBU718,39C494,Thu Aug 26 02:41:39 UTC 2021
 Airline code "GCL", examples:GCL176,3C4D98,Wed Aug 25 21:05:00 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Wed Aug 25 21:05:24 UTC 2021
 Airline code "JTD", examples:JTD217,45AB4D,Wed Aug 25 21:05:15 UTC 2021
 Airline code "RUK", examples:RUK1642,407BDC,Wed Aug 25 21:06:09 UTC 2021
-Airline code "VKG", examples:VKG1194,45D067,Wed Aug 25 21:05:22 UTC 2021
 Airline code "EZZ", examples:EZZ2020,4D223E,Wed Aug 25 20:58:11 UTC 2021
 Airline code "OOF", examples:OOF05,449BC1,Wed Aug 25 16:59:30 UTC 2021
 Airline code "NWC", examples:NWC9015,1427E0,Wed Aug 25 12:36:28 UTC 2021
