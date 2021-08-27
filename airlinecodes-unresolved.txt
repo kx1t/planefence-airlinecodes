@@ -1,3 +1,4 @@
+Airline code "KFB", examples:KFB60,A7C583,Fri Aug 27 18:18:17 UTC 2021
 Airline code "FBU", examples:FBU719,39C494,Fri Aug 27 17:28:15 UTC 2021
 Airline code "XEN", examples:XEN89,43E72D,Fri Aug 27 15:02:16 UTC 2021
 Airline code "PGN", examples:PGN819W,AB2AE6,Fri Aug 27 14:43:48 UTC 2021
@@ -14,7 +15,6 @@ Airline code "EEW", examples:EEW5522,AC8B43,Fri Aug 27 02:39:11 UTC 2021
 Airline code "MJS", examples:MJS8012,A1D4DA,Fri Aug 27 02:39:25 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Fri Aug 27 02:39:17 UTC 2021
 Airline code "WMN", examples:WMN302,A3280A,Fri Aug 27 02:39:26 UTC 2021
-Airline code "KFB", examples:KFB60,A7C583,Thu Aug 26 19:45:02 UTC 2021
 Airline code "VLZ", examples:VLZ279A,43EE07,Thu Aug 26 14:58:16 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Thu Aug 26 08:41:25 UTC 2021
 Airline code "GCL", examples:GCL176,3C4D98,Wed Aug 25 21:05:00 UTC 2021
