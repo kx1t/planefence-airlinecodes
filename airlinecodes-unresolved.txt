@@ -1,11 +1,11 @@
+Airline code "BNO", examples:BNO91J,47A48C,Fri Aug 27 13:04:53 UTC 2021
+Airline code "JTD", examples:JTD378,45AB4D,Fri Aug 27 13:05:25 UTC 2021
+Airline code "LRQ", examples:LRQ403C,4D0285,Fri Aug 27 13:04:58 UTC 2021
 Airline code "FOX", examples:FOX8921,478731,Fri Aug 27 12:53:52 UTC 2021
 Airline code "NTF", examples:NTF878,49D3E9,Fri Aug 27 12:05:08 UTC 2021
 Airline code "VKG", examples:VKG1257,45D964,Fri Aug 27 12:05:21 UTC 2021
-Airline code "JTD", examples:JTD531,45AB4E,Fri Aug 27 11:04:48 UTC 2021
-Airline code "BNO", examples:BNO91J,47A48C,Fri Aug 27 10:04:44 UTC 2021
 Airline code "FBU", examples:FBU719,39C494,Fri Aug 27 10:36:13 UTC 2021
 Airline code "HLY", examples:HLY95,407A20,Fri Aug 27 10:22:57 UTC 2021
-Airline code "LRQ", examples:LRQ403C,4D0285,Fri Aug 27 10:04:50 UTC 2021
 Airline code "CSB", examples:CSB188,C025D2,Fri Aug 27 04:34:56 UTC 2021
 Airline code "EEW", examples:EEW5522,AC8B43,Fri Aug 27 02:39:11 UTC 2021
 Airline code "MJS", examples:MJS8012,A1D4DA,Fri Aug 27 02:39:25 UTC 2021
