@@ -1,3 +1,4 @@
+Airline code "SBE", examples:SBE600,A7C847,Fri Aug 27 01:59:40 UTC 2021
 Airline code "EEW", examples:EEW5522,AC8B43,Fri Aug 27 00:07:01 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Fri Aug 27 00:07:06 UTC 2021
 Airline code "MJS", examples:MJS8012,A1D4DA,Thu Aug 26 22:55:55 UTC 2021
@@ -5,7 +6,6 @@ Airline code "WMN", examples:WMN302,A3280A,Thu Aug 26 22:55:56 UTC 2021
 Airline code "JTD", examples:JTD568,45AB4E,Thu Aug 26 21:06:06 UTC 2021
 Airline code "VKG", examples:VKG1272,45D964,Thu Aug 26 21:05:08 UTC 2021
 Airline code "KFB", examples:KFB60,A7C583,Thu Aug 26 19:45:02 UTC 2021
-Airline code "SBE", examples:SBE600,A7C847,Thu Aug 26 18:59:39 UTC 2021
 Airline code "VLZ", examples:VLZ279A,43EE07,Thu Aug 26 14:58:16 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Thu Aug 26 08:41:25 UTC 2021
 Airline code "FBU", examples:FBU718,39C494,Thu Aug 26 02:41:39 UTC 2021
