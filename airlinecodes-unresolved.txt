@@ -1,3 +1,4 @@
+Airline code "FOX", examples:FOX1364,478731,Sat Aug 28 15:45:55 UTC 2021
 Airline code "PGN", examples:PGN600,A7C813,Sat Aug 28 14:14:28 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Sat Aug 28 13:52:04 UTC 2021 FJO54A,4D2330,Sat Aug 28 13:51:52 UTC 2021
 Airline code "GCL", examples:GCL337,3C4D98,Sat Aug 28 11:04:33 UTC 2021
@@ -12,7 +13,6 @@ Airline code "FBU", examples:FBU719,39C494,Fri Aug 27 17:28:15 UTC 2021
 Airline code "XEN", examples:XEN89,43E72D,Fri Aug 27 15:02:16 UTC 2021
 Airline code "BNO", examples:BNO91J,47A48C,Fri Aug 27 13:04:53 UTC 2021
 Airline code "LRQ", examples:LRQ403C,4D0285,Fri Aug 27 13:04:58 UTC 2021
-Airline code "FOX", examples:FOX8921,478731,Fri Aug 27 12:53:52 UTC 2021
 Airline code "NTF", examples:NTF878,49D3E9,Fri Aug 27 12:05:08 UTC 2021
 Airline code "CSB", examples:CSB188,C025D2,Fri Aug 27 04:34:56 UTC 2021
 Airline code "EEW", examples:EEW5522,AC8B43,Fri Aug 27 02:39:11 UTC 2021
