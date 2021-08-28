@@ -1,3 +1,4 @@
+Airline code "FJO", examples:FJO54A,4D2330,Sat Aug 28 13:52:04 UTC 2021 FJO54A,4D2330,Sat Aug 28 13:51:52 UTC 2021
 Airline code "GCL", examples:GCL337,3C4D98,Sat Aug 28 11:04:33 UTC 2021
 Airline code "JTD", examples:JTD389,45AB4D,Sat Aug 28 11:04:41 UTC 2021
 Airline code "VKG", examples:VKG1118,45D069,Sat Aug 28 11:04:37 UTC 2021
@@ -55,7 +56,6 @@ Airline code "GKY", examples:GKY685,42483E,Mon Aug 16 19:08:26 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Sat Aug 14 17:13:46 UTC 2021
 Airline code "OOD", examples:OOD80,44900C,Sat Aug 14 15:11:22 UTC 2021
 Airline code "DHR", examples:DHR1,A0B60C,Fri Aug 13 23:22:10 UTC 2021
-Airline code "FJO", examples:FJO54A,4D2330,Fri Aug 13 16:25:55 UTC 2021
 Airline code "INI", examples:INI151,342247,Fri Aug 13 13:49:26 UTC 2021
 Airline code "REH", examples:REH101,AB709B,Fri Aug 13 04:00:40 UTC 2021
 Airline code "JTZ", examples:JTZ412,A4DCBA,Thu Aug 12 18:57:04 UTC 2021
