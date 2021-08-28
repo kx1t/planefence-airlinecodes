@@ -1,9 +1,9 @@
+Airline code "SBE", examples:SBE600,A7C847,Sat Aug 28 01:59:48 UTC 2021
 Airline code "GCL", examples:GCL337,3C4D98,Fri Aug 27 23:28:23 UTC 2021
 Airline code "KFB", examples:KFB60,A7C583,Fri Aug 27 18:18:17 UTC 2021
 Airline code "FBU", examples:FBU719,39C494,Fri Aug 27 17:28:15 UTC 2021
 Airline code "XEN", examples:XEN89,43E72D,Fri Aug 27 15:02:16 UTC 2021
 Airline code "PGN", examples:PGN819W,AB2AE6,Fri Aug 27 14:43:48 UTC 2021
-Airline code "SBE", examples:SBE600,A7C847,Fri Aug 27 14:03:37 UTC 2021
 Airline code "BNO", examples:BNO91J,47A48C,Fri Aug 27 13:04:53 UTC 2021
 Airline code "JTD", examples:JTD378,45AB4D,Fri Aug 27 13:05:25 UTC 2021
 Airline code "LRQ", examples:LRQ403C,4D0285,Fri Aug 27 13:04:58 UTC 2021
