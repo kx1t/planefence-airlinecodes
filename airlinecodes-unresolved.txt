@@ -1,3 +1,4 @@
+Airline code "HMJ", examples:HMJ203,4D21E8,Sat Aug 28 07:12:35 UTC 2021
 Airline code "GCL", examples:GCL337,3C4D98,Sat Aug 28 05:04:22 UTC 2021
 Airline code "JTD", examples:JTD389,45AB4D,Sat Aug 28 05:30:26 UTC 2021
 Airline code "VKG", examples:VKG1118,45D069,Sat Aug 28 04:53:26 UTC 2021
@@ -31,7 +32,6 @@ Airline code "JPV", examples:JPV284P,440A05,Tue Aug 24 21:05:42 UTC 2021
 Airline code "XCH", examples:XCH501,43E7ED,Tue Aug 24 08:50:10 UTC 2021
 Airline code "TJD", examples:TJD975,300829,Tue Aug 24 06:35:08 UTC 2021
 Airline code "OSF", examples:OSF11T,3F9A92,Mon Aug 23 21:05:30 UTC 2021
-Airline code "HMJ", examples:HMJ209,4D212B,Mon Aug 23 11:43:59 UTC 2021
 Airline code "PPJ", examples:PPJ839,AAE0DB,Mon Aug 23 11:25:48 UTC 2021
 Airline code "GCK", examples:GCK18,440834,Sun Aug 22 21:04:56 UTC 2021
 Airline code "EGC", examples:EGC580,A77651,Sun Aug 22 13:38:10 UTC 2021
