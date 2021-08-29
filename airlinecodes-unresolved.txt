@@ -1,3 +1,4 @@
+Airline code "HRF", examples:HRF132,AADFD2,Sun Aug 29 16:31:51 UTC 2021 HRF132,AADFD2,Sun Aug 29 16:30:39 UTC 2021
 Airline code "FOX", examples:FOX1362,478E7A,Sun Aug 29 14:04:47 UTC 2021
 Airline code "JTD", examples:JTD573,45AB4E,Sun Aug 29 14:04:45 UTC 2021
 Airline code "VKG", examples:VKG1255,45D964,Sun Aug 29 14:04:38 UTC 2021
