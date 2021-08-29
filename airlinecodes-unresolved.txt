@@ -1,8 +1,8 @@
+Airline code "FOX", examples:FOX1362,478E7A,Sun Aug 29 14:04:47 UTC 2021
+Airline code "JTD", examples:JTD573,45AB4E,Sun Aug 29 14:04:45 UTC 2021
+Airline code "VKG", examples:VKG1255,45D964,Sun Aug 29 14:04:38 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Sun Aug 29 11:07:29 UTC 2021
-Airline code "FOX", examples:FOX1362,478E7A,Sun Aug 29 10:04:50 UTC 2021
-Airline code "JTD", examples:JTD573,45AB4E,Sun Aug 29 10:04:49 UTC 2021
 Airline code "OCJ", examples:OCJ202,50011A,Sun Aug 29 10:29:15 UTC 2021 OCJ202,50011A,Sun Aug 29 10:28:56 UTC 2021
-Airline code "VKG", examples:VKG1255,45D964,Sun Aug 29 10:04:41 UTC 2021
 Airline code "VLZ", examples:VLZ275A,43EC73,Sun Aug 29 09:22:36 UTC 2021
 Airline code "HLY", examples:HLY47,4076F4,Sun Aug 29 06:04:12 UTC 2021 HLY47,4076F4,Sun Aug 29 06:03:54 UTC 2021
 Airline code "PGN", examples:PGN600,A7C813,Sun Aug 29 01:59:28 UTC 2021
