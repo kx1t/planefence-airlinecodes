@@ -1,3 +1,4 @@
+Airline code "EGC", examples:EGC322,A37666,Sun Aug 29 19:42:11 UTC 2021
 Airline code "KFB", examples:KFB60,A7C583,Sun Aug 29 18:23:12 UTC 2021
 Airline code "FOX", examples:FOX1362,478E7A,Sun Aug 29 17:04:55 UTC 2021
 Airline code "JTD", examples:JTD573,45AB4E,Sun Aug 29 17:04:53 UTC 2021
@@ -38,7 +39,6 @@ Airline code "TJD", examples:TJD975,300829,Tue Aug 24 06:35:08 UTC 2021
 Airline code "OSF", examples:OSF11T,3F9A92,Mon Aug 23 21:05:30 UTC 2021
 Airline code "PPJ", examples:PPJ839,AAE0DB,Mon Aug 23 11:25:48 UTC 2021
 Airline code "GCK", examples:GCK18,440834,Sun Aug 22 21:04:56 UTC 2021
-Airline code "EGC", examples:EGC580,A77651,Sun Aug 22 13:38:10 UTC 2021
 Airline code "TIV", examples:TIV685,A917B1,Sun Aug 22 13:46:25 UTC 2021
 Airline code "RJR", examples:RJR004,4D2292,Sat Aug 21 13:32:25 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Sat Aug 21 08:37:28 UTC 2021
