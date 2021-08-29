@@ -1,3 +1,4 @@
+Airline code "KFB", examples:KFB60,A7C583,Sun Aug 29 18:23:12 UTC 2021
 Airline code "FOX", examples:FOX1362,478E7A,Sun Aug 29 17:04:55 UTC 2021
 Airline code "JTD", examples:JTD573,45AB4E,Sun Aug 29 17:04:53 UTC 2021
 Airline code "VKG", examples:VKG1255,45D964,Sun Aug 29 17:04:46 UTC 2021
@@ -12,7 +13,6 @@ Airline code "TVQ", examples:TVQ6823,49D283,Sat Aug 28 16:05:18 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Sat Aug 28 13:52:04 UTC 2021 FJO54A,4D2330,Sat Aug 28 13:51:52 UTC 2021
 Airline code "HMJ", examples:HMJ203,4D21E8,Sat Aug 28 07:12:35 UTC 2021
 Airline code "SBE", examples:SBE600,A7C847,Sat Aug 28 01:59:48 UTC 2021
-Airline code "KFB", examples:KFB60,A7C583,Fri Aug 27 18:18:17 UTC 2021
 Airline code "FBU", examples:FBU719,39C494,Fri Aug 27 17:28:15 UTC 2021
 Airline code "XEN", examples:XEN89,43E72D,Fri Aug 27 15:02:16 UTC 2021
 Airline code "BNO", examples:BNO91J,47A48C,Fri Aug 27 13:04:53 UTC 2021
