@@ -1,3 +1,4 @@
+Airline code "VLZ", examples:VLZ275A,43EC73,Sun Aug 29 09:22:36 UTC 2021
 Airline code "HLY", examples:HLY47,4076F4,Sun Aug 29 06:04:12 UTC 2021 HLY47,4076F4,Sun Aug 29 06:03:54 UTC 2021
 Airline code "PGN", examples:PGN600,A7C813,Sun Aug 29 01:59:28 UTC 2021
 Airline code "GCL", examples:GCL337,3C4D98,Sat Aug 28 16:04:48 UTC 2021
@@ -19,7 +20,6 @@ Airline code "EEW", examples:EEW5522,AC8B43,Fri Aug 27 02:39:11 UTC 2021
 Airline code "MJS", examples:MJS8012,A1D4DA,Fri Aug 27 02:39:25 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Fri Aug 27 02:39:17 UTC 2021
 Airline code "WMN", examples:WMN302,A3280A,Fri Aug 27 02:39:26 UTC 2021
-Airline code "VLZ", examples:VLZ279A,43EE07,Thu Aug 26 14:58:16 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Thu Aug 26 08:41:25 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Wed Aug 25 21:05:24 UTC 2021
 Airline code "RUK", examples:RUK1642,407BDC,Wed Aug 25 21:06:09 UTC 2021
