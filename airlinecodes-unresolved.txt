@@ -1,7 +1,9 @@
-Airline code "RQT", examples:RQT10,A97D2B,Mon Aug 30 16:05:02 UTC 2021
+Airline code "FSP", examples:FSP423,A50702,Mon Aug 30 18:27:42 UTC 2021 FSP423,A50702,Mon Aug 30 18:20:21 UTC 2021
+Airline code "HYS", examples:HYS473,4A08A5,Mon Aug 30 18:42:42 UTC 2021
+Airline code "RQT", examples:RQT10,A97D2B,Mon Aug 30 18:37:36 UTC 2021
+Airline code "WFN", examples:WFN3518,C0256E,Mon Aug 30 18:37:31 UTC 2021
 Airline code "FSF", examples:FSF42A,461A82,Mon Aug 30 15:06:48 UTC 2021 FSF42A,461A82,Mon Aug 30 15:06:41 UTC 2021
 Airline code "PPJ", examples:PPJ921,A4AB61,Mon Aug 30 14:47:01 UTC 2021
-Airline code "WFN", examples:WFN3518,C0256E,Mon Aug 30 14:54:20 UTC 2021
 Airline code "VKG", examples:VKG1124,45D963,Mon Aug 30 13:04:47 UTC 2021
 Airline code "PGN", examples:PGN600,A7C813,Mon Aug 30 00:57:44 UTC 2021
 Airline code "MBK", examples:MBK601,C00381,Sun Aug 29 22:39:37 UTC 2021
@@ -35,7 +37,6 @@ Airline code "EZZ", examples:EZZ2020,4D223E,Wed Aug 25 20:58:11 UTC 2021
 Airline code "OOF", examples:OOF05,449BC1,Wed Aug 25 16:59:30 UTC 2021
 Airline code "NWC", examples:NWC9015,1427E0,Wed Aug 25 12:36:28 UTC 2021
 Airline code "OOI", examples:OOI20,44A7D0,Wed Aug 25 09:20:02 UTC 2021
-Airline code "FSP", examples:FSP236,A22123,Wed Aug 25 03:56:08 UTC 2021
 Airline code "FWR", examples:FWR98,A7C3A7,Wed Aug 25 03:58:49 UTC 2021
 Airline code "JPV", examples:JPV284P,440A05,Tue Aug 24 21:05:42 UTC 2021
 Airline code "XCH", examples:XCH501,43E7ED,Tue Aug 24 08:50:10 UTC 2021
@@ -51,7 +52,6 @@ Airline code "NDL", examples:NDL191,C08199,Fri Aug 20 03:59:35 UTC 2021 NDL191,C
 Airline code "SLQ", examples:SLQ726,C07535,Fri Aug 20 03:57:34 UTC 2021
 Airline code "SYB", examples:SYB888,C07F4F,Fri Aug 20 03:57:36 UTC 2021
 Airline code "BAO", examples:BAO108N,3C0FE6,Thu Aug 19 21:06:08 UTC 2021
-Airline code "HYS", examples:HYS474,4A08A5,Thu Aug 19 21:05:00 UTC 2021
 Airline code "RTG", examples:RTG5205,47923C,Thu Aug 19 21:05:50 UTC 2021
 Airline code "XLJ", examples:XLJ41,A4D7E0,Thu Aug 19 02:22:21 UTC 2021
 Airline code "FLT", examples:FLT724TR,A9B421,Wed Aug 18 23:01:41 UTC 2021
