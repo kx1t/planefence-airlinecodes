@@ -1,10 +1,10 @@
+Airline code "VKG", examples:VKG1124,45D963,Mon Aug 30 19:04:58 UTC 2021
 Airline code "FSP", examples:FSP423,A50702,Mon Aug 30 18:27:42 UTC 2021 FSP423,A50702,Mon Aug 30 18:20:21 UTC 2021
 Airline code "HYS", examples:HYS473,4A08A5,Mon Aug 30 18:42:42 UTC 2021
 Airline code "RQT", examples:RQT10,A97D2B,Mon Aug 30 18:37:36 UTC 2021
 Airline code "WFN", examples:WFN3518,C0256E,Mon Aug 30 18:37:31 UTC 2021
 Airline code "FSF", examples:FSF42A,461A82,Mon Aug 30 15:06:48 UTC 2021 FSF42A,461A82,Mon Aug 30 15:06:41 UTC 2021
 Airline code "PPJ", examples:PPJ921,A4AB61,Mon Aug 30 14:47:01 UTC 2021
-Airline code "VKG", examples:VKG1124,45D963,Mon Aug 30 13:04:47 UTC 2021
 Airline code "PGN", examples:PGN600,A7C813,Mon Aug 30 00:57:44 UTC 2021
 Airline code "MBK", examples:MBK601,C00381,Sun Aug 29 22:39:37 UTC 2021
 Airline code "EGC", examples:EGC322,A37666,Sun Aug 29 19:42:11 UTC 2021
