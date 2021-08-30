@@ -1,3 +1,4 @@
+Airline code "WFN", examples:WFN3518,C0256E,Mon Aug 30 12:11:05 UTC 2021
 Airline code "VKG", examples:VKG1124,45D963,Mon Aug 30 08:04:32 UTC 2021
 Airline code "PGN", examples:PGN600,A7C813,Mon Aug 30 00:57:44 UTC 2021
 Airline code "MBK", examples:MBK601,C00381,Sun Aug 29 22:39:37 UTC 2021
