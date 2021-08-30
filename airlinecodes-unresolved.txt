@@ -1,3 +1,4 @@
+Airline code "PGN", examples:PGN600,A7C813,Mon Aug 30 00:57:44 UTC 2021
 Airline code "MBK", examples:MBK601,C00381,Sun Aug 29 22:39:37 UTC 2021
 Airline code "PPJ", examples:PPJ438,AAF264,Sun Aug 29 22:36:22 UTC 2021
 Airline code "EGC", examples:EGC322,A37666,Sun Aug 29 19:42:11 UTC 2021
@@ -10,7 +11,6 @@ Airline code "OOH", examples:OOH84,44A010,Sun Aug 29 11:07:29 UTC 2021
 Airline code "OCJ", examples:OCJ202,50011A,Sun Aug 29 10:29:15 UTC 2021 OCJ202,50011A,Sun Aug 29 10:28:56 UTC 2021
 Airline code "VLZ", examples:VLZ275A,43EC73,Sun Aug 29 09:22:36 UTC 2021
 Airline code "HLY", examples:HLY47,4076F4,Sun Aug 29 06:04:12 UTC 2021 HLY47,4076F4,Sun Aug 29 06:03:54 UTC 2021
-Airline code "PGN", examples:PGN600,A7C813,Sun Aug 29 01:59:28 UTC 2021
 Airline code "GCL", examples:GCL337,3C4D98,Sat Aug 28 16:04:48 UTC 2021
 Airline code "TVQ", examples:TVQ6823,49D283,Sat Aug 28 16:05:18 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Sat Aug 28 13:52:04 UTC 2021 FJO54A,4D2330,Sat Aug 28 13:51:52 UTC 2021
