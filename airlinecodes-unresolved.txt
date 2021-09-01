@@ -1,5 +1,5 @@
+Airline code "VKG", examples:VKG1784,45D067,Wed Sep 1 10:04:49 UTC 2021
 Airline code "JTD", examples:JTD217,45AB4A,Wed Sep 1 09:04:41 UTC 2021
-Airline code "VKG", examples:VKG1784,45D067,Wed Sep 1 09:04:47 UTC 2021
 Airline code "FSF", examples:FSF197X,4633EC,Wed Sep 1 07:29:14 UTC 2021
 Airline code "PCT", examples:PCT341,3F9AE8,Wed Sep 1 07:29:28 UTC 2021
 Airline code "TJD", examples:TJD850,300288,Wed Sep 1 07:46:34 UTC 2021 TJD850,300288,Wed Sep 1 07:46:21 UTC 2021
