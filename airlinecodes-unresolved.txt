@@ -1,3 +1,4 @@
+Airline code "VKG", examples:VKG1784,45D067,Wed Sep 1 08:04:46 UTC 2021
 Airline code "FSF", examples:FSF197X,4633EC,Wed Sep 1 07:29:14 UTC 2021
 Airline code "PCT", examples:PCT341,3F9AE8,Wed Sep 1 07:29:28 UTC 2021
 Airline code "TJD", examples:TJD850,300288,Wed Sep 1 07:46:34 UTC 2021 TJD850,300288,Wed Sep 1 07:46:21 UTC 2021
@@ -8,7 +9,6 @@ Airline code "FWR", examples:FWR1049,A0FE84,Tue Aug 31 22:35:57 UTC 2021
 Airline code "PGN", examples:PGN819,AB2AE6,Tue Aug 31 20:19:59 UTC 2021
 Airline code "RDN", examples:RDN0522,A6E6E2,Tue Aug 31 20:12:04 UTC 2021
 Airline code "WFN", examples:WFN3518,C0256E,Tue Aug 31 20:11:58 UTC 2021
-Airline code "VKG", examples:VKG1293,45D964,Tue Aug 31 18:04:51 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Tue Aug 31 17:42:33 UTC 2021
 Airline code "INI", examples:INI222,343183,Tue Aug 31 15:36:44 UTC 2021
 Airline code "OOF", examples:OOF81,44980D,Tue Aug 31 13:40:02 UTC 2021
