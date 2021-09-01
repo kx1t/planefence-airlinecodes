@@ -1,7 +1,8 @@
-Airline code "VKG", examples:VKG1784,45D067,Wed Sep 1 10:04:49 UTC 2021
+Airline code "PCT", examples:PCT341,3F9AE8,Wed Sep 1 11:04:49 UTC 2021
+Airline code "VKG", examples:VKG1784,45D067,Wed Sep 1 11:04:52 UTC 2021
+Airline code "VLZ", examples:VLZ299A,43ECD8,Wed Sep 1 11:53:36 UTC 2021 VLZ299A,43ECD8,Wed Sep 1 11:53:22 UTC 2021
 Airline code "JTD", examples:JTD217,45AB4A,Wed Sep 1 09:04:41 UTC 2021
 Airline code "FSF", examples:FSF197X,4633EC,Wed Sep 1 07:29:14 UTC 2021
-Airline code "PCT", examples:PCT341,3F9AE8,Wed Sep 1 07:29:28 UTC 2021
 Airline code "TJD", examples:TJD850,300288,Wed Sep 1 07:46:34 UTC 2021 TJD850,300288,Wed Sep 1 07:46:21 UTC 2021
 Airline code "EZZ", examples:EZZ2712,501C0C,Wed Sep 1 06:41:29 UTC 2021
 Airline code "CSB", examples:CSB188,C025D2,Wed Sep 1 03:08:50 UTC 2021
@@ -23,7 +24,6 @@ Airline code "KFB", examples:KFB60,A7C583,Sun Aug 29 18:23:12 UTC 2021
 Airline code "FOX", examples:FOX1362,478E7A,Sun Aug 29 17:04:55 UTC 2021
 Airline code "HRF", examples:HRF132,AADFD2,Sun Aug 29 16:31:51 UTC 2021 HRF132,AADFD2,Sun Aug 29 16:30:39 UTC 2021
 Airline code "OCJ", examples:OCJ202,50011A,Sun Aug 29 10:29:15 UTC 2021 OCJ202,50011A,Sun Aug 29 10:28:56 UTC 2021
-Airline code "VLZ", examples:VLZ275A,43EC73,Sun Aug 29 09:22:36 UTC 2021
 Airline code "HLY", examples:HLY47,4076F4,Sun Aug 29 06:04:12 UTC 2021 HLY47,4076F4,Sun Aug 29 06:03:54 UTC 2021
 Airline code "GCL", examples:GCL337,3C4D98,Sat Aug 28 16:04:48 UTC 2021
 Airline code "TVQ", examples:TVQ6823,49D283,Sat Aug 28 16:05:18 UTC 2021
