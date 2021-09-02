@@ -1,7 +1,7 @@
+Airline code "VKG", examples:VKG1273,45D963,Thu Sep 2 16:05:44 UTC 2021 VKG1272,45D963,Thu Sep 2 16:05:04 UTC 2021
 Airline code "BNO", examples:BNO1N,47C39C,Thu Sep 2 15:05:05 UTC 2021
 Airline code "HYS", examples:HYS244,4A4D79,Thu Sep 2 15:28:34 UTC 2021
 Airline code "JTD", examples:JTD567,45AB4D,Thu Sep 2 15:05:19 UTC 2021
-Airline code "VKG", examples:VKG1273,45D963,Thu Sep 2 15:05:42 UTC 2021 VKG1272,45D963,Thu Sep 2 15:04:59 UTC 2021
 Airline code "OMM", examples:OMM355,505ED6,Thu Sep 2 14:42:33 UTC 2021
 Airline code "OOG", examples:OOG54,449FF2,Thu Sep 2 14:59:20 UTC 2021
 Airline code "SZS", examples:SZS527,4CAFCE,Thu Sep 2 14:36:18 UTC 2021
