@@ -1,11 +1,12 @@
+Airline code "BNO", examples:BNO1N,47C39C,Thu Sep 2 15:05:05 UTC 2021
+Airline code "HYS", examples:HYS244,4A4D79,Thu Sep 2 15:28:34 UTC 2021
+Airline code "JTD", examples:JTD567,45AB4D,Thu Sep 2 15:05:19 UTC 2021
+Airline code "VKG", examples:VKG1273,45D963,Thu Sep 2 15:05:42 UTC 2021 VKG1272,45D963,Thu Sep 2 15:04:59 UTC 2021
 Airline code "OMM", examples:OMM355,505ED6,Thu Sep 2 14:42:33 UTC 2021
 Airline code "OOG", examples:OOG54,449FF2,Thu Sep 2 14:59:20 UTC 2021
 Airline code "SZS", examples:SZS527,4CAFCE,Thu Sep 2 14:36:18 UTC 2021
-Airline code "VKG", examples:VKG1273,45D963,Thu Sep 2 14:05:33 UTC 2021 VKG1272,45D963,Thu Sep 2 14:04:54 UTC 2021
-Airline code "BNO", examples:BNO1N,47C39C,Thu Sep 2 13:04:54 UTC 2021
 Airline code "XCH", examples:XCH507,43E7ED,Thu Sep 2 13:48:28 UTC 2021 XCH507,43E7ED,Thu Sep 2 13:47:51 UTC 2021
 Airline code "CSB", examples:CSB588,C025D2,Thu Sep 2 12:13:07 UTC 2021
-Airline code "JTD", examples:JTD567,45AB4D,Thu Sep 2 12:05:07 UTC 2021
 Airline code "OOE", examples:OOE26,4497D6,Thu Sep 2 12:47:20 UTC 2021
 Airline code "UAQ", examples:UAQ01,400EB6,Thu Sep 2 11:36:18 UTC 2021
 Airline code "OOF", examples:OOF81,44980D,Thu Sep 2 09:39:04 UTC 2021
@@ -25,7 +26,6 @@ Airline code "WFN", examples:WFN3518,C0256E,Tue Aug 31 20:11:58 UTC 2021
 Airline code "INI", examples:INI222,343183,Tue Aug 31 15:36:44 UTC 2021
 Airline code "RQT", examples:RQT10,A97D2B,Mon Aug 30 21:47:21 UTC 2021
 Airline code "FSP", examples:FSP423,A50702,Mon Aug 30 18:27:42 UTC 2021 FSP423,A50702,Mon Aug 30 18:20:21 UTC 2021
-Airline code "HYS", examples:HYS473,4A08A5,Mon Aug 30 18:42:42 UTC 2021
 Airline code "PPJ", examples:PPJ921,A4AB61,Mon Aug 30 14:47:01 UTC 2021
 Airline code "MBK", examples:MBK601,C00381,Sun Aug 29 22:39:37 UTC 2021
 Airline code "EGC", examples:EGC322,A37666,Sun Aug 29 19:42:11 UTC 2021
