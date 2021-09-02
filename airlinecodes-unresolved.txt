@@ -1,9 +1,10 @@
+Airline code "BNO", examples:BNO1N,47C39C,Thu Sep 2 13:04:54 UTC 2021
+Airline code "VKG", examples:VKG1273,45D963,Thu Sep 2 13:14:55 UTC 2021 VKG1272,45D963,Thu Sep 2 13:04:48 UTC 2021
+Airline code "XCH", examples:XCH507,43E7ED,Thu Sep 2 13:48:28 UTC 2021 XCH507,43E7ED,Thu Sep 2 13:47:51 UTC 2021
 Airline code "CSB", examples:CSB588,C025D2,Thu Sep 2 12:13:07 UTC 2021
 Airline code "JTD", examples:JTD567,45AB4D,Thu Sep 2 12:05:07 UTC 2021
 Airline code "OOE", examples:OOE26,4497D6,Thu Sep 2 12:47:20 UTC 2021
-Airline code "VKG", examples:VKG1272,45D963,Thu Sep 2 12:04:48 UTC 2021
 Airline code "UAQ", examples:UAQ01,400EB6,Thu Sep 2 11:36:18 UTC 2021
-Airline code "BNO", examples:BNO1N,47C39C,Thu Sep 2 10:04:49 UTC 2021
 Airline code "OMM", examples:OMM355,505ED6,Thu Sep 2 09:56:35 UTC 2021 OMM355,505ED6,Thu Sep 2 09:54:58 UTC 2021
 Airline code "OOF", examples:OOF81,44980D,Thu Sep 2 09:39:04 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Thu Sep 2 08:43:27 UTC 2021
@@ -47,7 +48,6 @@ Airline code "WMN", examples:WMN302,A3280A,Fri Aug 27 02:39:26 UTC 2021
 Airline code "RUK", examples:RUK1642,407BDC,Wed Aug 25 21:06:09 UTC 2021
 Airline code "NWC", examples:NWC9015,1427E0,Wed Aug 25 12:36:28 UTC 2021
 Airline code "JPV", examples:JPV284P,440A05,Tue Aug 24 21:05:42 UTC 2021
-Airline code "XCH", examples:XCH501,43E7ED,Tue Aug 24 08:50:10 UTC 2021
 Airline code "OSF", examples:OSF11T,3F9A92,Mon Aug 23 21:05:30 UTC 2021
 Airline code "GCK", examples:GCK18,440834,Sun Aug 22 21:04:56 UTC 2021
 Airline code "TIV", examples:TIV685,A917B1,Sun Aug 22 13:46:25 UTC 2021
