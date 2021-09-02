@@ -1,4 +1,5 @@
-Airline code "VKG", examples:VKG1272,45D963,Thu Sep 2 06:04:35 UTC 2021
+Airline code "BNO", examples:BNO1N,47C39C,Thu Sep 2 07:07:31 UTC 2021
+Airline code "VKG", examples:VKG1272,45D963,Thu Sep 2 07:04:39 UTC 2021
 Airline code "VLZ", examples:VLZ275A,43EC73,Thu Sep 2 06:28:25 UTC 2021 VLZ275A,43EC73,Thu Sep 2 06:27:46 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Wed Sep 1 23:54:35 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Wed Sep 1 21:05:41 UTC 2021
@@ -35,7 +36,6 @@ Airline code "HMJ", examples:HMJ203,4D21E8,Sat Aug 28 07:12:35 UTC 2021
 Airline code "SBE", examples:SBE600,A7C847,Sat Aug 28 01:59:48 UTC 2021
 Airline code "FBU", examples:FBU719,39C494,Fri Aug 27 17:28:15 UTC 2021
 Airline code "XEN", examples:XEN89,43E72D,Fri Aug 27 15:02:16 UTC 2021
-Airline code "BNO", examples:BNO91J,47A48C,Fri Aug 27 13:04:53 UTC 2021
 Airline code "LRQ", examples:LRQ403C,4D0285,Fri Aug 27 13:04:58 UTC 2021
 Airline code "NTF", examples:NTF878,49D3E9,Fri Aug 27 12:05:08 UTC 2021
 Airline code "EEW", examples:EEW5522,AC8B43,Fri Aug 27 02:39:11 UTC 2021
