@@ -1,5 +1,6 @@
+Airline code "UAQ", examples:UAQ01,400EB6,Thu Sep 2 11:36:18 UTC 2021
+Airline code "VKG", examples:VKG1272,45D963,Thu Sep 2 11:04:43 UTC 2021
 Airline code "BNO", examples:BNO1N,47C39C,Thu Sep 2 10:04:49 UTC 2021
-Airline code "VKG", examples:VKG1272,45D963,Thu Sep 2 10:04:43 UTC 2021
 Airline code "JTD", examples:JTD567,45AB4D,Thu Sep 2 09:40:32 UTC 2021
 Airline code "OMM", examples:OMM355,505ED6,Thu Sep 2 09:56:35 UTC 2021 OMM355,505ED6,Thu Sep 2 09:54:58 UTC 2021
 Airline code "OOF", examples:OOF81,44980D,Thu Sep 2 09:39:04 UTC 2021
