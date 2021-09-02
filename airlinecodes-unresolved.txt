@@ -1,10 +1,10 @@
+Airline code "SZS", examples:SZS527,4CAFCE,Thu Sep 2 20:05:56 UTC 2021
+Airline code "VKG", examples:VKG1273,45D963,Thu Sep 2 20:05:46 UTC 2021 VKG1272,45D963,Thu Sep 2 20:05:07 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Thu Sep 2 19:21:27 UTC 2021
-Airline code "VKG", examples:VKG1273,45D963,Thu Sep 2 19:05:43 UTC 2021 VKG1272,45D963,Thu Sep 2 19:05:05 UTC 2021
 Airline code "BNO", examples:BNO1N,47C39C,Thu Sep 2 18:05:07 UTC 2021
 Airline code "HYS", examples:HYS244,4A4D79,Thu Sep 2 18:05:58 UTC 2021
 Airline code "JTD", examples:JTD567,45AB4D,Thu Sep 2 18:05:21 UTC 2021
 Airline code "PCT", examples:PCT345,3F9AE8,Thu Sep 2 18:59:59 UTC 2021
-Airline code "SZS", examples:SZS527,4CAFCE,Thu Sep 2 17:05:49 UTC 2021
 Airline code "OMM", examples:OMM355,505ED6,Thu Sep 2 14:42:33 UTC 2021
 Airline code "OOG", examples:OOG54,449FF2,Thu Sep 2 14:59:20 UTC 2021
 Airline code "XCH", examples:XCH507,43E7ED,Thu Sep 2 13:48:28 UTC 2021 XCH507,43E7ED,Thu Sep 2 13:47:51 UTC 2021
