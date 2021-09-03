@@ -1,6 +1,14 @@
+Airline code "CGF", examples:CGF176,451E29,Fri Sep 3 14:05:48 UTC 2021
+Airline code "DFC", examples:DFC64D,49D253,Fri Sep 3 14:07:10 UTC 2021
+Airline code "JKH", examples:JKH32C,3CE624,Fri Sep 3 14:07:54 UTC 2021
+Airline code "LHA", examples:LHA4225,7BC007,Fri Sep 3 14:06:04 UTC 2021
+Airline code "LWG", examples:LWG1671,39A56F,Fri Sep 3 14:07:57 UTC 2021
+Airline code "SZS", examples:SZS527,4CAFCE,Fri Sep 3 14:48:40 UTC 2021
+Airline code "VKG", examples:VKG1257,45D963,Fri Sep 3 14:07:34 UTC 2021 VKG1257,45D963,Fri Sep 3 14:07:32 UTC 2021 VKG4059,45D067,Fri Sep 3 14:07:25 UTC 2021 VKG1256,45D963,Fri Sep 3 14:06:19 UTC 2021 VKG1256,45D963,Fri Sep 3 14:06:17 UTC 2021 VKG1474,45D067,Fri Sep 3 14:06:13 UTC 2021
+Airline code "VPC", examples:VPC2,51111F,Fri Sep 3 14:07:15 UTC 2021
+Airline code "WRC", examples:WRC7007,4D2307,Fri Sep 3 14:08:03 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Fri Sep 3 13:05:03 UTC 2021
 Airline code "JTD", examples:JTD377,45AB4A,Fri Sep 3 13:04:55 UTC 2021
-Airline code "VKG", examples:VKG1257,45D963,Fri Sep 3 13:05:30 UTC 2021 VKG1257,45D963,Fri Sep 3 13:05:28 UTC 2021 VKG4059,45D067,Fri Sep 3 13:05:25 UTC 2021 VKG1256,45D963,Fri Sep 3 13:04:53 UTC 2021 VKG1256,45D963,Fri Sep 3 13:04:51 UTC 2021 VKG1474,45D067,Fri Sep 3 13:04:49 UTC 2021
 Airline code "FSP", examples:FSP423,A50702,Fri Sep 3 12:57:46 UTC 2021 FSP423,A50702,Fri Sep 3 12:53:03 UTC 2021
 Airline code "BOH", examples:BOH522,49D335,Fri Sep 3 11:59:28 UTC 2021
 Airline code "OOH", examples:OOH74,44A006,Fri Sep 3 08:59:12 UTC 2021
@@ -8,7 +16,6 @@ Airline code "RDN", examples:RDN0522,A6E6E2,Thu Sep 2 23:50:19 UTC 2021
 Airline code "BNO", examples:BNO1N,47C39C,Thu Sep 2 21:05:13 UTC 2021
 Airline code "HYS", examples:HYS244,4A4D79,Thu Sep 2 21:06:03 UTC 2021
 Airline code "PCT", examples:PCT345,3F9AE8,Thu Sep 2 21:06:23 UTC 2021
-Airline code "SZS", examples:SZS527,4CAFCE,Thu Sep 2 20:05:56 UTC 2021
 Airline code "OMM", examples:OMM355,505ED6,Thu Sep 2 14:42:33 UTC 2021
 Airline code "OOG", examples:OOG54,449FF2,Thu Sep 2 14:59:20 UTC 2021
 Airline code "XCH", examples:XCH507,43E7ED,Thu Sep 2 13:48:28 UTC 2021 XCH507,43E7ED,Thu Sep 2 13:47:51 UTC 2021
