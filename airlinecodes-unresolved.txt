@@ -1,9 +1,11 @@
+Airline code "JKH", examples:JKH32C,3CE624,Sat Sep 4 11:05:38 UTC 2021
+Airline code "LRQ", examples:LRQ425E,4D0285,Sat Sep 4 11:11:14 UTC 2021
+Airline code "SZS", examples:SZS525,4CAFCE,Sat Sep 4 11:04:53 UTC 2021
+Airline code "VKG", examples:VKG1748,45D966,Sat Sep 4 11:04:51 UTC 2021 VKG1858,45D064,Sat Sep 4 11:04:45 UTC 2021 VKG1858,45D064,Sat Sep 4 11:04:43 UTC 2021 VKG1246,45D963,Sat Sep 4 11:04:41 UTC 2021 VKG1118,45D069,Sat Sep 4 11:04:40 UTC 2021
 Airline code "JTD", examples:JTD389,45AB4E,Sat Sep 4 10:04:42 UTC 2021
 Airline code "MOZ", examples:MOZ118,4405AE,Sat Sep 4 10:04:57 UTC 2021
-Airline code "VKG", examples:VKG1748,45D966,Sat Sep 4 10:04:52 UTC 2021 VKG1858,45D064,Sat Sep 4 10:04:46 UTC 2021 VKG1858,45D064,Sat Sep 4 10:04:43 UTC 2021 VKG1246,45D963,Sat Sep 4 10:04:40 UTC 2021 VKG1118,45D069,Sat Sep 4 10:04:39 UTC 2021
 Airline code "FSF", examples:FSF760P,461987,Sat Sep 4 09:19:13 UTC 2021
 Airline code "JAF", examples:JAF80M,44A835,Sat Sep 4 09:27:21 UTC 2021
-Airline code "SZS", examples:SZS525,4CAFCE,Sat Sep 4 09:04:48 UTC 2021
 Airline code "VLZ", examples:VLZ289A,43EC73,Sat Sep 4 08:18:13 UTC 2021
 Airline code "CSB", examples:CSB188,C025D2,Sat Sep 4 03:16:04 UTC 2021 CSB188,C025D2,Sat Sep 4 03:15:46 UTC 2021
 Airline code "PPJ", examples:PPJ438,AAF264,Sat Sep 4 01:12:10 UTC 2021
@@ -13,7 +15,6 @@ Airline code "BFD", examples:BFD03K,3CBDEB,Fri Sep 3 20:06:16 UTC 2021
 Airline code "CGF", examples:CGF176,451E29,Fri Sep 3 20:05:01 UTC 2021
 Airline code "DFC", examples:DFC64D,49D253,Fri Sep 3 20:05:35 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Fri Sep 3 20:05:21 UTC 2021
-Airline code "JKH", examples:JKH32C,3CE624,Fri Sep 3 20:05:57 UTC 2021
 Airline code "LWG", examples:LWG1671,39A56F,Fri Sep 3 20:06:00 UTC 2021
 Airline code "VPC", examples:VPC2,51111F,Fri Sep 3 20:05:37 UTC 2021
 Airline code "WRC", examples:WRC7007,4D2307,Fri Sep 3 20:06:04 UTC 2021
@@ -53,7 +54,6 @@ Airline code "HMJ", examples:HMJ203,4D21E8,Sat Aug 28 07:12:35 UTC 2021
 Airline code "SBE", examples:SBE600,A7C847,Sat Aug 28 01:59:48 UTC 2021
 Airline code "FBU", examples:FBU719,39C494,Fri Aug 27 17:28:15 UTC 2021
 Airline code "XEN", examples:XEN89,43E72D,Fri Aug 27 15:02:16 UTC 2021
-Airline code "LRQ", examples:LRQ403C,4D0285,Fri Aug 27 13:04:58 UTC 2021
 Airline code "NTF", examples:NTF878,49D3E9,Fri Aug 27 12:05:08 UTC 2021
 Airline code "EEW", examples:EEW5522,AC8B43,Fri Aug 27 02:39:11 UTC 2021
 Airline code "MJS", examples:MJS8012,A1D4DA,Fri Aug 27 02:39:25 UTC 2021
