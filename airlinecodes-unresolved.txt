@@ -1,3 +1,8 @@
+Airline code "FOX", examples:FOX1364,478731,Sat Sep 4 21:06:04 UTC 2021
+Airline code "JKH", examples:JKH32A,3E3F1F,Sat Sep 4 21:05:59 UTC 2021
+Airline code "MOZ", examples:MOZ118,4405AE,Sat Sep 4 21:05:20 UTC 2021
+Airline code "SZS", examples:SZS525,4CAFCE,Sat Sep 4 21:05:16 UTC 2021
+Airline code "VKG", examples:VKG1859,45D064,Sat Sep 4 21:05:42 UTC 2021 VKG1247,45D963,Sat Sep 4 21:05:39 UTC 2021 VKG1748,45D966,Sat Sep 4 21:05:14 UTC 2021 VKG1858,45D064,Sat Sep 4 21:05:08 UTC 2021 VKG1858,45D064,Sat Sep 4 21:05:05 UTC 2021 VKG1246,45D963,Sat Sep 4 21:05:04 UTC 2021 VKG1118,45D069,Sat Sep 4 21:05:02 UTC 2021
 Airline code "ASJ", examples:ASJ473,39C8A9,Sat Sep 4 20:02:27 UTC 2021
 Airline code "DFC", examples:DFC21C,49D44A,Sat Sep 4 20:01:57 UTC 2021
 Airline code "FLJ", examples:FLJ51S,4078E7,Sat Sep 4 20:02:24 UTC 2021
@@ -7,14 +12,9 @@ Airline code "JTD", examples:JTD390,45AB4E,Sat Sep 4 20:05:40 UTC 2021
 Airline code "JTZ", examples:JTZ328,A38D34,Sat Sep 4 20:01:14 UTC 2021
 Airline code "LRQ", examples:LRQ425E,4D0285,Sat Sep 4 20:02:18 UTC 2021
 Airline code "ULC", examples:ULC21,4D2199,Sat Sep 4 20:02:28 UTC 2021
-Airline code "VKG", examples:VKG1859,45D064,Sat Sep 4 20:05:36 UTC 2021 VKG1247,45D963,Sat Sep 4 20:05:34 UTC 2021 VKG1748,45D966,Sat Sep 4 20:05:10 UTC 2021 VKG1858,45D064,Sat Sep 4 20:05:04 UTC 2021 VKG1858,45D064,Sat Sep 4 20:05:02 UTC 2021 VKG1246,45D963,Sat Sep 4 20:05:00 UTC 2021 VKG1118,45D069,Sat Sep 4 20:04:59 UTC 2021
 Airline code "VLZ", examples:VLZ289A,43EC73,Sat Sep 4 20:02:00 UTC 2021
 Airline code "VPC", examples:VPC11,511114,Sat Sep 4 20:02:38 UTC 2021
-Airline code "JKH", examples:JKH32C,3CE624,Sat Sep 4 19:05:33 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Sat Sep 4 19:55:12 UTC 2021
-Airline code "FOX", examples:FOX1364,478731,Sat Sep 4 18:06:00 UTC 2021
-Airline code "MOZ", examples:MOZ118,4405AE,Sat Sep 4 18:05:16 UTC 2021
-Airline code "SZS", examples:SZS525,4CAFCE,Sat Sep 4 18:05:11 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Sat Sep 4 16:59:45 UTC 2021
 Airline code "FSP", examples:FSP423,A50702,Sat Sep 4 15:08:34 UTC 2021
 Airline code "OOD", examples:OOD95,44901B,Sat Sep 4 14:47:40 UTC 2021
