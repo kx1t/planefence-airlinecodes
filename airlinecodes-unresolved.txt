@@ -1,3 +1,4 @@
+Airline code "CSB", examples:CSB188,C025D2,Sat Sep 4 03:16:04 UTC 2021 CSB188,C025D2,Sat Sep 4 03:15:46 UTC 2021
 Airline code "PPJ", examples:PPJ438,AAF264,Sat Sep 4 01:12:10 UTC 2021
 Airline code "JTZ", examples:JTZ680,A9037B,Fri Sep 3 23:03:57 UTC 2021
 Airline code "JTD", examples:JTD377,45AB4A,Fri Sep 3 21:05:14 UTC 2021
@@ -25,7 +26,6 @@ Airline code "PCT", examples:PCT345,3F9AE8,Thu Sep 2 21:06:23 UTC 2021
 Airline code "OMM", examples:OMM355,505ED6,Thu Sep 2 14:42:33 UTC 2021
 Airline code "OOG", examples:OOG54,449FF2,Thu Sep 2 14:59:20 UTC 2021
 Airline code "XCH", examples:XCH507,43E7ED,Thu Sep 2 13:48:28 UTC 2021 XCH507,43E7ED,Thu Sep 2 13:47:51 UTC 2021
-Airline code "CSB", examples:CSB588,C025D2,Thu Sep 2 12:13:07 UTC 2021
 Airline code "OOE", examples:OOE26,4497D6,Thu Sep 2 12:47:20 UTC 2021
 Airline code "UAQ", examples:UAQ01,400EB6,Thu Sep 2 11:36:18 UTC 2021
 Airline code "VLZ", examples:VLZ275A,43EC73,Thu Sep 2 06:28:25 UTC 2021 VLZ275A,43EC73,Thu Sep 2 06:27:46 UTC 2021
