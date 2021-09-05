@@ -1,3 +1,4 @@
+Airline code "AZV", examples:AZV777,42444A,Sun Sep 5 06:12:31 UTC 2021
 Airline code "FOX", examples:FOX1362,478DEF,Sun Sep 5 05:43:25 UTC 2021
 Airline code "JTD", examples:JTD573,45AB4D,Sun Sep 5 05:54:27 UTC 2021
 Airline code "JKH", examples:JKH32A,3E3F1F,Sat Sep 4 21:05:59 UTC 2021
