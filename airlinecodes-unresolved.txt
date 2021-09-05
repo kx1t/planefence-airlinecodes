@@ -1,8 +1,8 @@
+Airline code "VKG", examples:VKG1269,45D963,Sun Sep 5 15:05:22 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Sun Sep 5 14:04:58 UTC 2021
 Airline code "JME", examples:JME515U,4948B5,Sun Sep 5 14:02:43 UTC 2021 JME515U,4948B5,Sun Sep 5 14:01:55 UTC 2021
 Airline code "JTD", examples:JTD573,45AB4D,Sun Sep 5 14:04:56 UTC 2021
 Airline code "SZS", examples:SZS527,4CAFCE,Sun Sep 5 14:44:12 UTC 2021
-Airline code "VKG", examples:VKG1269,45D963,Sun Sep 5 14:05:27 UTC 2021
 Airline code "VXS", examples:VXS605,407714,Sun Sep 5 14:17:44 UTC 2021 VXS605,407714,Sun Sep 5 14:16:55 UTC 2021
 Airline code "ASJ", examples:ASJ333,399224,Sun Sep 5 13:05:22 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Sun Sep 5 13:52:55 UTC 2021
