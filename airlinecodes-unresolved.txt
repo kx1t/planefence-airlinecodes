@@ -1,3 +1,4 @@
+Airline code "JAZ", examples:JAZ7935,C017ED,Mon Sep 6 01:23:47 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4E,Sun Sep 5 23:20:19 UTC 2021
 Airline code "ASJ", examples:ASJ333,399224,Sun Sep 5 21:05:14 UTC 2021
 Airline code "FOX", examples:FOX1363,478DEF,Sun Sep 5 21:05:25 UTC 2021
@@ -120,7 +121,6 @@ Airline code "RFV", examples:RFV82C,407359,Mon Jul 12 17:09:19 UTC 2021
 Airline code "UWD", examples:UWD77,AD9E7A,Mon Jul 12 15:49:15 UTC 2021
 Airline code "ARN", examples:ARN143,00A2E4,Mon Jul 12 08:11:05 UTC 2021
 Airline code "TXH", examples:TXH4891,C03C2B,Tue Jul 6 21:30:33 UTC 2021
-Airline code "JAZ", examples:JAZ213,C00B9C,Sat Jul 3 03:32:43 UTC 2021
 Airline code "EYY", examples:EYY35YF,407796,Fri Jul 2 15:26:16 UTC 2021
 Airline code "WZM", examples:WZM324,A37E06,Tue Jun 29 22:15:50 UTC 2021
 Airline code "IPF", examples:IPF02,728666,Tue Jun 29 21:09:53 UTC 2021
