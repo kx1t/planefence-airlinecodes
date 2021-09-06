@@ -1,9 +1,9 @@
+Airline code "SZS", examples:SZS525,4CAF82,Mon Sep 6 09:04:47 UTC 2021
+Airline code "VKG", examples:VKG1124,45D068,Mon Sep 6 09:04:41 UTC 2021 VKG1292,45D963,Mon Sep 6 09:04:38 UTC 2021
 Airline code "FSF", examples:FSF409N,461981,Mon Sep 6 08:22:44 UTC 2021
-Airline code "VKG", examples:VKG1124,45D068,Mon Sep 6 08:04:45 UTC 2021 VKG1292,45D963,Mon Sep 6 08:04:42 UTC 2021
 Airline code "AZV", examples:AZV777,42445B,Mon Sep 6 07:04:37 UTC 2021
 Airline code "JTD", examples:JTD559,45AB4E,Mon Sep 6 07:04:40 UTC 2021
 Airline code "EFF", examples:EFF006,4CAB82,Mon Sep 6 06:27:03 UTC 2021 EFF006,4CAB82,Mon Sep 6 06:26:47 UTC 2021
-Airline code "SZS", examples:SZS525,4CAF82,Mon Sep 6 06:58:43 UTC 2021
 Airline code "JAZ", examples:JAZ7935,C017ED,Mon Sep 6 01:23:47 UTC 2021
 Airline code "ASJ", examples:ASJ333,399224,Sun Sep 5 21:05:14 UTC 2021
 Airline code "FOX", examples:FOX1363,478DEF,Sun Sep 5 21:05:25 UTC 2021
