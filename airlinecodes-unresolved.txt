@@ -1,16 +1,17 @@
+Airline code "FJO", examples:FJO54A,4D2330,Mon Sep 6 17:11:03 UTC 2021 FJO54A,4D2330,Mon Sep 6 17:10:39 UTC 2021
+Airline code "JAZ", examples:JAZ7935,C017ED,Mon Sep 6 17:47:35 UTC 2021
+Airline code "MJF", examples:MJF007,44054C,Mon Sep 6 17:05:33 UTC 2021
+Airline code "VKG", examples:VKG1124,45D068,Mon Sep 6 17:05:02 UTC 2021 VKG1292,45D963,Mon Sep 6 17:04:59 UTC 2021
 Airline code "AZV", examples:AZV777,42445B,Mon Sep 6 16:04:53 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Mon Sep 6 16:26:35 UTC 2021
 Airline code "KLJ", examples:KLJ3171,503CB9,Mon Sep 6 16:05:43 UTC 2021
 Airline code "LHA", examples:LHA4226,7BC007,Mon Sep 6 16:43:35 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Mon Sep 6 16:05:06 UTC 2021
-Airline code "VKG", examples:VKG1124,45D068,Mon Sep 6 16:05:00 UTC 2021 VKG1292,45D963,Mon Sep 6 16:04:57 UTC 2021
 Airline code "EFF", examples:EFF006,4CAB82,Mon Sep 6 15:29:39 UTC 2021
 Airline code "FLJ", examples:FLJ63T,407BF5,Mon Sep 6 15:38:02 UTC 2021 FLJ63T,407BF5,Mon Sep 6 15:37:39 UTC 2021
 Airline code "JTD", examples:JTD560,45AB4E,Mon Sep 6 15:05:39 UTC 2021
 Airline code "BOH", examples:BOH713,49D3AC,Mon Sep 6 14:36:01 UTC 2021 BOH713,49D3AC,Mon Sep 6 14:35:50 UTC 2021
-Airline code "MJF", examples:MJF007,44054C,Mon Sep 6 14:05:26 UTC 2021
 Airline code "JPV", examples:JPV452,3C942D,Mon Sep 6 13:32:17 UTC 2021
-Airline code "JAZ", examples:JAZ7935,C017ED,Mon Sep 6 12:40:25 UTC 2021
 Airline code "GSH", examples:GSH991,896403,Mon Sep 6 10:45:06 UTC 2021
 Airline code "IAM", examples:IAM4680,33FFE5,Mon Sep 6 10:32:47 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Mon Sep 6 10:06:54 UTC 2021
@@ -69,7 +70,6 @@ Airline code "HRF", examples:HRF132,AADFD2,Sun Aug 29 16:31:51 UTC 2021 HRF132,A
 Airline code "OCJ", examples:OCJ202,50011A,Sun Aug 29 10:29:15 UTC 2021 OCJ202,50011A,Sun Aug 29 10:28:56 UTC 2021
 Airline code "GCL", examples:GCL337,3C4D98,Sat Aug 28 16:04:48 UTC 2021
 Airline code "TVQ", examples:TVQ6823,49D283,Sat Aug 28 16:05:18 UTC 2021
-Airline code "FJO", examples:FJO54A,4D2330,Sat Aug 28 13:52:04 UTC 2021 FJO54A,4D2330,Sat Aug 28 13:51:52 UTC 2021
 Airline code "HMJ", examples:HMJ203,4D21E8,Sat Aug 28 07:12:35 UTC 2021
 Airline code "SBE", examples:SBE600,A7C847,Sat Aug 28 01:59:48 UTC 2021
 Airline code "FBU", examples:FBU719,39C494,Fri Aug 27 17:28:15 UTC 2021
