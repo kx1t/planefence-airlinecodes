@@ -1,5 +1,6 @@
+Airline code "AEG", examples:AEG403,5110C8,Tue Sep 7 03:38:21 UTC 2021
+Airline code "AZV", examples:AZV535,424489,Tue Sep 7 03:04:22 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Tue Sep 7 02:04:21 UTC 2021
-Airline code "AZV", examples:AZV535,424489,Tue Sep 7 00:34:19 UTC 2021
 Airline code "RJE", examples:RJE43,A520E2,Tue Sep 7 00:34:41 UTC 2021
 Airline code "JTD", examples:JTD560,45AB4E,Mon Sep 6 21:05:52 UTC 2021
 Airline code "VKG", examples:VKG1124,45D068,Mon Sep 6 21:05:10 UTC 2021 VKG1292,45D963,Mon Sep 6 21:05:07 UTC 2021
