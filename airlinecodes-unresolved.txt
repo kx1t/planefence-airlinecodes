@@ -1,9 +1,10 @@
+Airline code "AEG", examples:AEG403,5110C8,Wed Sep 8 07:04:30 UTC 2021
+Airline code "AZV", examples:AZV777,3749F5,Wed Sep 8 07:04:26 UTC 2021
+Airline code "DFC", examples:DFC2KA,49D086,Wed Sep 8 07:04:32 UTC 2021
+Airline code "VKG", examples:VKG1194,45D068,Wed Sep 8 07:37:27 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Wed Sep 8 06:39:27 UTC 2021
 Airline code "JTD", examples:JTD217,45AB4A,Wed Sep 8 06:46:27 UTC 2021
 Airline code "TEU", examples:TEU14,4D220F,Wed Sep 8 06:41:44 UTC 2021
-Airline code "AEG", examples:AEG403,5110C8,Wed Sep 8 04:04:24 UTC 2021
-Airline code "AZV", examples:AZV777,3749F5,Wed Sep 8 04:04:21 UTC 2021
-Airline code "DFC", examples:DFC2KA,49D086,Wed Sep 8 04:58:21 UTC 2021
 Airline code "RFV", examples:RFV82B,407359,Wed Sep 8 02:29:05 UTC 2021
 Airline code "BAO", examples:BAO141G,3C86C7,Tue Sep 7 21:06:11 UTC 2021
 Airline code "EAU", examples:EAU58Z,4D231F,Tue Sep 7 21:05:39 UTC 2021
@@ -14,7 +15,6 @@ Airline code "NBM", examples:NBM1124,C0227B,Tue Sep 7 21:34:27 UTC 2021
 Airline code "PCT", examples:PCT354,3F9AE8,Tue Sep 7 21:06:33 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Tue Sep 7 21:05:22 UTC 2021
 Airline code "VCJ", examples:VCJ99A,4D21C3,Tue Sep 7 21:06:00 UTC 2021
-Airline code "VKG", examples:VKG1133,45D068,Tue Sep 7 21:06:36 UTC 2021 VKG1275,45D963,Tue Sep 7 21:06:35 UTC 2021 VKG1092,45D963,Tue Sep 7 21:06:04 UTC 2021 VKG1093,45D963,Tue Sep 7 21:05:49 UTC 2021 VKG1664,45D065,Tue Sep 7 21:05:15 UTC 2021 VKG1122,45D069,Tue Sep 7 21:05:13 UTC 2021 VKG1132,45D068,Tue Sep 7 21:05:11 UTC 2021 VKG1274,45D963,Tue Sep 7 21:05:09 UTC 2021 VKG1132,45D068,Tue Sep 7 21:05:08 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Tue Sep 7 20:04:56 UTC 2021
 Airline code "ULC", examples:ULC77,4D229E,Tue Sep 7 20:05:20 UTC 2021
 Airline code "OOD", examples:OOD80,44900C,Tue Sep 7 17:55:20 UTC 2021
