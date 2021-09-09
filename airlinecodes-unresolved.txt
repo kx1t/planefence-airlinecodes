@@ -1,3 +1,4 @@
+Airline code "AEG", examples:AEG401,5110C8,Thu Sep 9 21:28:20 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Thu Sep 9 20:06:11 UTC 2021
 Airline code "JPV", examples:JPV284,440A05,Thu Sep 9 20:05:46 UTC 2021
 Airline code "JTD", examples:JTD567,45AB4E,Thu Sep 9 20:05:28 UTC 2021
@@ -17,7 +18,6 @@ Airline code "IAM", examples:IAM0103,33FFB8,Thu Sep 9 10:24:03 UTC 2021
 Airline code "KLJ", examples:KLJ989,503CB9,Thu Sep 9 08:05:42 UTC 2021
 Airline code "RFV", examples:RFV82B,407359,Thu Sep 9 02:18:39 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Wed Sep 8 22:44:10 UTC 2021 AZD491,4B0139,Wed Sep 8 22:38:35 UTC 2021
-Airline code "AEG", examples:AEG403,5110C8,Wed Sep 8 20:05:08 UTC 2021
 Airline code "AZV", examples:AZV777,3749F5,Wed Sep 8 20:05:05 UTC 2021
 Airline code "DFC", examples:DFC2KA,49D086,Wed Sep 8 20:05:11 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Wed Sep 8 20:06:18 UTC 2021
