@@ -1,3 +1,5 @@
+Airline code "JAF", examples:JAF85D,44A835,Thu Sep 9 18:10:05 UTC 2021
+Airline code "RSP", examples:RSP69,A77A78,Thu Sep 9 18:06:55 UTC 2021
 Airline code "GSH", examples:GSH057,896403,Thu Sep 9 17:04:13 UTC 2021
 Airline code "JTD", examples:JTD567,45AB4E,Thu Sep 9 16:05:21 UTC 2021
 Airline code "RDF", examples:RDF18,3DD821,Thu Sep 9 16:30:44 UTC 2021
@@ -8,7 +10,6 @@ Airline code "JME", examples:JME210N,3431C9,Thu Sep 9 14:41:12 UTC 2021
 Airline code "SZS", examples:SZS527,4CAF82,Thu Sep 9 14:30:18 UTC 2021
 Airline code "VXS", examples:VXS109,4075CD,Thu Sep 9 14:19:11 UTC 2021 VXS109,4075CD,Thu Sep 9 14:18:51 UTC 2021
 Airline code "FLJ", examples:FLJ52R,407A2A,Thu Sep 9 13:17:51 UTC 2021 FLJ52R,407A2A,Thu Sep 9 13:17:11 UTC 2021
-Airline code "JAF", examples:JAF4H,44A821,Thu Sep 9 12:58:01 UTC 2021
 Airline code "JNL", examples:JNL1854,4858C7,Thu Sep 9 12:49:57 UTC 2021
 Airline code "HLY", examples:HLY95,407A20,Thu Sep 9 10:34:50 UTC 2021 HLY95,407A20,Thu Sep 9 10:34:10 UTC 2021
 Airline code "IAM", examples:IAM0103,33FFB8,Thu Sep 9 10:24:03 UTC 2021
