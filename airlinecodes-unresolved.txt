@@ -1,3 +1,4 @@
+Airline code "FSF", examples:FSF671J,460D4C,Fri Sep 10 15:15:08 UTC 2021 FSF671J,460D4C,Fri Sep 10 15:12:07 UTC 2021 FSF652C,461987,Fri Sep 10 15:04:43 UTC 2021 FSF652C,461987,Fri Sep 10 15:04:40 UTC 2021
 Airline code "ASJ", examples:ASJ193,398675,Fri Sep 10 14:42:45 UTC 2021
 Airline code "JKH", examples:JKH324,3CE39A,Fri Sep 10 14:05:32 UTC 2021
 Airline code "PCT", examples:PCT361,3F9AE8,Fri Sep 10 14:04:48 UTC 2021
@@ -5,7 +6,6 @@ Airline code "SZS", examples:SZS527,4CAF82,Fri Sep 10 14:38:44 UTC 2021
 Airline code "VKG", examples:VKG1257,45D963,Fri Sep 10 14:05:37 UTC 2021
 Airline code "VXS", examples:VXS110,4075CD,Fri Sep 10 14:33:43 UTC 2021
 Airline code "BAO", examples:BAO143O,3C5E4F,Fri Sep 10 13:05:42 UTC 2021
-Airline code "FSF", examples:FSF467U,461A82,Fri Sep 10 13:05:05 UTC 2021
 Airline code "JTD", examples:JTD378,45AB4A,Fri Sep 10 13:05:37 UTC 2021
 Airline code "LHA", examples:LHA4226,7BC007,Fri Sep 10 13:05:39 UTC 2021
 Airline code "RUK", examples:RUK3677,40775C,Fri Sep 10 13:05:06 UTC 2021
