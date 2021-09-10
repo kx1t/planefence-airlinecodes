@@ -1,4 +1,5 @@
-Airline code "JTZ", examples:JTZ516,A678E5,Thu Sep 9 23:21:03 UTC 2021
+Airline code "JTZ", examples:JTZ412,A4DCBA,Fri Sep 10 00:39:05 UTC 2021 JTZ412,A4DCBA,Fri Sep 10 00:29:06 UTC 2021
+Airline code "RFV", examples:RFV82A,407359,Fri Sep 10 00:42:51 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Thu Sep 9 22:54:00 UTC 2021
 Airline code "JAF", examples:JAF8WM,44A82F,Thu Sep 9 22:35:19 UTC 2021
 Airline code "KFB", examples:KFB961,AD61B8,Thu Sep 9 22:10:01 UTC 2021
@@ -21,7 +22,6 @@ Airline code "RDF", examples:RDF18,3DD821,Thu Sep 9 16:30:44 UTC 2021
 Airline code "JME", examples:JME210N,3431C9,Thu Sep 9 14:41:12 UTC 2021
 Airline code "IAM", examples:IAM0103,33FFB8,Thu Sep 9 10:24:03 UTC 2021
 Airline code "KLJ", examples:KLJ989,503CB9,Thu Sep 9 08:05:42 UTC 2021
-Airline code "RFV", examples:RFV82B,407359,Thu Sep 9 02:18:39 UTC 2021
 Airline code "AZV", examples:AZV777,3749F5,Wed Sep 8 20:05:05 UTC 2021
 Airline code "DFC", examples:DFC2KA,49D086,Wed Sep 8 20:05:11 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Wed Sep 8 20:06:18 UTC 2021
