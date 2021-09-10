@@ -1,12 +1,12 @@
+Airline code "FSF", examples:FSF467U,461A82,Fri Sep 10 10:04:55 UTC 2021
+Airline code "JAF", examples:JAF7CX,44D1A1,Fri Sep 10 10:16:01 UTC 2021
+Airline code "JKH", examples:JKH32C,3CE624,Fri Sep 10 10:41:59 UTC 2021 JKH32C,3CE624,Fri Sep 10 10:41:17 UTC 2021
+Airline code "RUK", examples:RUK3677,40775C,Fri Sep 10 10:04:57 UTC 2021
+Airline code "VXS", examples:VXS4,4056A2,Fri Sep 10 10:42:00 UTC 2021 VXS4,4056A2,Fri Sep 10 10:41:18 UTC 2021
 Airline code "HLY", examples:HLY95,407A20,Fri Sep 10 08:19:23 UTC 2021
 Airline code "JTD", examples:JTD531,45AB4E,Fri Sep 10 08:04:50 UTC 2021
 Airline code "LHA", examples:LHA4225,7BC007,Fri Sep 10 08:04:48 UTC 2021
 Airline code "PCT", examples:PCT361,3F9AE8,Fri Sep 10 08:04:36 UTC 2021
-Airline code "VXS", examples:VXS4,4056A2,Fri Sep 10 08:40:17 UTC 2021 VXS4,4056A2,Fri Sep 10 08:39:25 UTC 2021
-Airline code "FSF", examples:FSF467U,461A82,Fri Sep 10 07:32:31 UTC 2021
-Airline code "JAF", examples:JAF9332,44A831,Fri Sep 10 07:55:59 UTC 2021
-Airline code "JKH", examples:JKH32C,3CE624,Fri Sep 10 07:16:17 UTC 2021 JKH32C,3CE624,Fri Sep 10 07:15:24 UTC 2021
-Airline code "RUK", examples:RUK3677,40775C,Fri Sep 10 07:34:31 UTC 2021
 Airline code "JTZ", examples:JTZ412,A4DCBA,Fri Sep 10 00:39:05 UTC 2021 JTZ412,A4DCBA,Fri Sep 10 00:29:06 UTC 2021
 Airline code "RFV", examples:RFV82A,407359,Fri Sep 10 00:42:51 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Thu Sep 9 22:54:00 UTC 2021
