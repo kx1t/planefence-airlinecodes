@@ -1,3 +1,4 @@
+Airline code "CSB", examples:CSB188,C025D2,Sat Sep 11 03:18:33 UTC 2021
 Airline code "BAO", examples:BAO143O,3C5E4F,Fri Sep 10 20:06:05 UTC 2021
 Airline code "FRV", examples:FRV0915,02012D,Fri Sep 10 20:40:48 UTC 2021
 Airline code "FSF", examples:FSF467U,461A82,Fri Sep 10 20:05:30 UTC 2021
@@ -65,7 +66,6 @@ Airline code "VND", examples:VND1257,300762,Sun Sep 5 13:52:57 UTC 2021
 Airline code "MOZ", examples:MOZ118,4405AE,Sat Sep 4 21:05:20 UTC 2021
 Airline code "VLZ", examples:VLZ289A,43EC73,Sat Sep 4 20:02:00 UTC 2021
 Airline code "FSP", examples:FSP423,A50702,Sat Sep 4 15:08:34 UTC 2021
-Airline code "CSB", examples:CSB188,C025D2,Sat Sep 4 03:16:04 UTC 2021 CSB188,C025D2,Sat Sep 4 03:15:46 UTC 2021
 Airline code "BFD", examples:BFD03K,3CBDEB,Fri Sep 3 20:06:16 UTC 2021
 Airline code "CGF", examples:CGF176,451E29,Fri Sep 3 20:05:01 UTC 2021
 Airline code "LWG", examples:LWG1671,39A56F,Fri Sep 3 20:06:00 UTC 2021
