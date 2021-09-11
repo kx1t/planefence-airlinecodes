@@ -1,3 +1,6 @@
+Airline code "ASJ", examples:ASJ317,39C8A9,Sat Sep 11 12:40:48 UTC 2021 ASJ317,39C8A9,Sat Sep 11 12:40:47 UTC 2021
+Airline code "FSF", examples:FSF100A,4643C5,Sat Sep 11 12:28:42 UTC 2021
+Airline code "OOH", examples:OOH49,44A3ED,Sat Sep 11 12:45:49 UTC 2021
 Airline code "BAO", examples:BAO154O,3C5E4F,Sat Sep 11 11:50:38 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Sat Sep 11 11:26:38 UTC 2021
 Airline code "JAF", examples:JAF7DY,44B438,Sat Sep 11 11:53:54 UTC 2021
@@ -6,7 +9,6 @@ Airline code "JTD", examples:JTD389,45AB4A,Sat Sep 11 11:04:42 UTC 2021
 Airline code "MJF", examples:MJF73G,4404D0,Sat Sep 11 11:49:48 UTC 2021 MJF73G,4404D0,Sat Sep 11 11:49:47 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Sat Sep 11 11:04:49 UTC 2021
 Airline code "VKG", examples:VKG1953,45D068,Sat Sep 11 11:04:34 UTC 2021
-Airline code "FSF", examples:FSF336A,461A82,Sat Sep 11 09:18:55 UTC 2021 FSF336A,461A82,Sat Sep 11 09:18:55 UTC 2021 FSF336A,461A82,Sat Sep 11 09:17:27 UTC 2021
 Airline code "LWG", examples:LWG1571,39AE32,Sat Sep 11 09:02:47 UTC 2021 LWG1571,39AE32,Sat Sep 11 09:02:46 UTC 2021
 Airline code "OOD", examples:OOD80,44900C,Sat Sep 11 09:19:09 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Sat Sep 11 08:29:44 UTC 2021
@@ -14,7 +16,6 @@ Airline code "CSB", examples:CSB188,C025D2,Sat Sep 11 03:18:33 UTC 2021
 Airline code "FRV", examples:FRV0915,02012D,Fri Sep 10 20:40:48 UTC 2021
 Airline code "PCT", examples:PCT361,3F9AE8,Fri Sep 10 20:05:08 UTC 2021
 Airline code "RUK", examples:RUK3677,40775C,Fri Sep 10 20:05:31 UTC 2021
-Airline code "ASJ", examples:ASJ193,398675,Fri Sep 10 19:06:19 UTC 2021
 Airline code "LHA", examples:LHA4226,7BC007,Fri Sep 10 19:05:54 UTC 2021
 Airline code "HLY", examples:HLY95,407A20,Fri Sep 10 16:16:44 UTC 2021 HLY95,407A20,Fri Sep 10 16:16:41 UTC 2021
 Airline code "JME", examples:JME210N,3431C9,Fri Sep 10 16:13:44 UTC 2021 JME210N,3431C9,Fri Sep 10 16:12:41 UTC 2021
@@ -39,7 +40,6 @@ Airline code "DFC", examples:DFC2KA,49D086,Wed Sep 8 20:05:11 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Wed Sep 8 20:06:18 UTC 2021
 Airline code "JBC", examples:JBC774C,49D4E4,Wed Sep 8 20:06:17 UTC 2021
 Airline code "EZZ", examples:EZZ441W,501C0B,Wed Sep 8 18:16:46 UTC 2021
-Airline code "OOH", examples:OOH66,44A3FE,Wed Sep 8 16:40:15 UTC 2021
 Airline code "GKY", examples:GKY069,42483E,Wed Sep 8 15:48:47 UTC 2021
 Airline code "DCW", examples:DCW1,4D2184,Wed Sep 8 14:20:59 UTC 2021
 Airline code "TJD", examples:TJD401,3001F3,Wed Sep 8 13:57:19 UTC 2021 TJD401,3001F3,Wed Sep 8 13:57:18 UTC 2021
