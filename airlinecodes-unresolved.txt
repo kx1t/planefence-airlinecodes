@@ -1,3 +1,4 @@
+Airline code "NBM", examples:NBM1124,C0227B,Sun Sep 12 02:43:04 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Sun Sep 12 00:37:19 UTC 2021
 Airline code "BAO", examples:BAO154O,3C5E4F,Sat Sep 11 20:05:34 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Sat Sep 11 20:05:30 UTC 2021
@@ -10,7 +11,6 @@ Airline code "SZS", examples:SZS525,4CAF82,Sat Sep 11 20:05:07 UTC 2021
 Airline code "VKG", examples:VKG1953,45D068,Sat Sep 11 20:04:52 UTC 2021
 Airline code "GSH", examples:GSH129,896403,Sat Sep 11 18:25:50 UTC 2021 GSH129,896403,Sat Sep 11 18:25:50 UTC 2021
 Airline code "JCL", examples:JCL2,3CC95A,Sat Sep 11 18:43:18 UTC 2021
-Airline code "NBM", examples:NBM1124,C0227B,Sat Sep 11 18:20:33 UTC 2021
 Airline code "JNL", examples:JNL0839,485D61,Sat Sep 11 15:11:12 UTC 2021
 Airline code "GCK", examples:GCK40,4408D8,Sat Sep 11 14:19:48 UTC 2021 GCK40,4408D8,Sat Sep 11 14:19:48 UTC 2021
 Airline code "TIV", examples:TIV685,A917B1,Sat Sep 11 14:32:34 UTC 2021 TIV685,A917B1,Sat Sep 11 14:31:15 UTC 2021
