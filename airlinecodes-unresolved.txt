@@ -1,12 +1,12 @@
+Airline code "FOX", examples:FOX1362,478DEF,Sun Sep 12 05:49:24 UTC 2021
+Airline code "JTD", examples:JTD573,45AB4E,Sun Sep 12 05:33:23 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Sun Sep 12 04:04:27 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Sun Sep 12 02:43:04 UTC 2021
 Airline code "BAO", examples:BAO154O,3C5E4F,Sat Sep 11 20:05:34 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Sat Sep 11 20:05:30 UTC 2021
-Airline code "FOX", examples:FOX1364,478731,Sat Sep 11 20:05:55 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Sat Sep 11 20:05:39 UTC 2021
 Airline code "JAF", examples:JAF99E,44A835,Sat Sep 11 20:54:04 UTC 2021
 Airline code "JKH", examples:JKH32A,3E3F1F,Sat Sep 11 20:05:33 UTC 2021
-Airline code "JTD", examples:JTD389,45AB4A,Sat Sep 11 20:05:00 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Sat Sep 11 20:05:07 UTC 2021
 Airline code "VKG", examples:VKG1953,45D068,Sat Sep 11 20:04:52 UTC 2021
 Airline code "GSH", examples:GSH129,896403,Sat Sep 11 18:25:50 UTC 2021 GSH129,896403,Sat Sep 11 18:25:50 UTC 2021
