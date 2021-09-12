@@ -1,3 +1,5 @@
+Airline code "OOG", examples:OOG77,449C09,Sun Sep 12 08:39:34 UTC 2021
+Airline code "XGO", examples:XGO4RK,3E4082,Sun Sep 12 08:54:31 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Sun Sep 12 07:04:25 UTC 2021
 Airline code "FOX", examples:FOX1362,478DEF,Sun Sep 12 05:49:24 UTC 2021
 Airline code "JTD", examples:JTD573,45AB4E,Sun Sep 12 05:33:23 UTC 2021
@@ -76,7 +78,6 @@ Airline code "WRC", examples:WRC7007,4D2307,Fri Sep 3 20:06:04 UTC 2021
 Airline code "RDN", examples:RDN0522,A6E6E2,Thu Sep 2 23:50:19 UTC 2021
 Airline code "BNO", examples:BNO1N,47C39C,Thu Sep 2 21:05:13 UTC 2021
 Airline code "OMM", examples:OMM355,505ED6,Thu Sep 2 14:42:33 UTC 2021
-Airline code "OOG", examples:OOG54,449FF2,Thu Sep 2 14:59:20 UTC 2021
 Airline code "XCH", examples:XCH507,43E7ED,Thu Sep 2 13:48:28 UTC 2021 XCH507,43E7ED,Thu Sep 2 13:47:51 UTC 2021
 Airline code "UAQ", examples:UAQ01,400EB6,Thu Sep 2 11:36:18 UTC 2021
 Airline code "FWR", examples:FWR1049,A0FE84,Tue Aug 31 22:35:57 UTC 2021
