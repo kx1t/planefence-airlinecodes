@@ -1,8 +1,9 @@
+Airline code "GFM", examples:GFM5X,4AC998,Mon Sep 13 05:52:27 UTC 2021
+Airline code "JTD", examples:JTD559,45AB4E,Mon Sep 13 05:27:25 UTC 2021
+Airline code "VKG", examples:VKG1124,45D068,Mon Sep 13 05:17:25 UTC 2021
 Airline code "LRQ", examples:LRQ454D,4D0290,Mon Sep 13 04:01:05 UTC 2021
-Airline code "JTD", examples:JTD574,45AB4E,Sun Sep 12 23:45:19 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Sun Sep 12 23:43:20 UTC 2021
 Airline code "JAF", examples:JAF8WM,44A82F,Sun Sep 12 21:49:14 UTC 2021
-Airline code "VKG", examples:VKG4201,45D069,Sun Sep 12 21:05:28 UTC 2021
 Airline code "XGO", examples:XGO4RK,3E4082,Sun Sep 12 21:05:21 UTC 2021
 Airline code "BAO", examples:BAO156O,3C5E4F,Sun Sep 12 20:34:21 UTC 2021
 Airline code "FOX", examples:FOX1362,478DEF,Sun Sep 12 20:05:16 UTC 2021
@@ -55,7 +56,6 @@ Airline code "IAM", examples:IAM0103,33FFB8,Thu Sep 9 10:24:03 UTC 2021
 Airline code "KLJ", examples:KLJ989,503CB9,Thu Sep 9 08:05:42 UTC 2021
 Airline code "AZV", examples:AZV777,3749F5,Wed Sep 8 20:05:05 UTC 2021
 Airline code "DFC", examples:DFC2KA,49D086,Wed Sep 8 20:05:11 UTC 2021
-Airline code "GFM", examples:GFM5X,4AC998,Wed Sep 8 20:06:18 UTC 2021
 Airline code "EZZ", examples:EZZ441W,501C0B,Wed Sep 8 18:16:46 UTC 2021
 Airline code "GKY", examples:GKY069,42483E,Wed Sep 8 15:48:47 UTC 2021
 Airline code "DCW", examples:DCW1,4D2184,Wed Sep 8 14:20:59 UTC 2021
