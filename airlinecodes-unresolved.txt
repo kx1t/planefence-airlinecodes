@@ -1,3 +1,4 @@
+Airline code "FLJ", examples:FLJ63T,407BF5,Mon Sep 13 18:08:18 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Mon Sep 13 17:05:06 UTC 2021
 Airline code "BAO", examples:BAO158P,3C5070,Mon Sep 13 17:05:23 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Mon Sep 13 17:05:03 UTC 2021
@@ -37,7 +38,6 @@ Airline code "VLZ", examples:VLZ232A,43ECD8,Sun Sep 12 16:42:57 UTC 2021 VLZ232A
 Airline code "EXD", examples:EXD005,00A097,Sun Sep 12 15:28:54 UTC 2021
 Airline code "HLY", examples:HLY95,407A20,Sun Sep 12 15:41:56 UTC 2021
 Airline code "TJD", examples:TJD440,3001EC,Sun Sep 12 15:42:09 UTC 2021
-Airline code "FLJ", examples:FLJ61H,407AE1,Sun Sep 12 13:54:06 UTC 2021
 Airline code "JBC", examples:JBC789B,49D4E4,Sun Sep 12 13:59:26 UTC 2021
 Airline code "OOF", examples:OOF05,449BC1,Sun Sep 12 12:27:48 UTC 2021
 Airline code "OOG", examples:OOG54,449FF2,Sun Sep 12 11:25:00 UTC 2021
