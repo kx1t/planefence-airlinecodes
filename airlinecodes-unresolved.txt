@@ -1,3 +1,5 @@
+Airline code "AEG", examples:AEG444,5110C8,Mon Sep 13 21:49:15 UTC 2021
+Airline code "GJE", examples:GJE3105,A11DAF,Mon Sep 13 21:44:39 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Mon Sep 13 20:05:10 UTC 2021
 Airline code "BAO", examples:BAO158P,3C5070,Mon Sep 13 20:05:27 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Mon Sep 13 20:05:08 UTC 2021
@@ -19,7 +21,6 @@ Airline code "ASJ", examples:ASJ606,398675,Mon Sep 13 14:44:04 UTC 2021 ASJ606,3
 Airline code "EFF", examples:EFF006,4CAB82,Mon Sep 13 14:43:59 UTC 2021 EFF006,4CAB82,Mon Sep 13 14:43:04 UTC 2021
 Airline code "OOI", examples:OOI20,44A7D0,Mon Sep 13 14:38:49 UTC 2021
 Airline code "XCH", examples:XCH511,43E7ED,Mon Sep 13 14:14:04 UTC 2021 XCH511,43E7ED,Mon Sep 13 14:13:59 UTC 2021
-Airline code "GJE", examples:GJE3105,A11DAF,Mon Sep 13 13:12:38 UTC 2021
 Airline code "IEI", examples:IEI2856,33FE0B,Mon Sep 13 13:57:11 UTC 2021 IEI2856,33FE0B,Mon Sep 13 13:56:59 UTC 2021
 Airline code "MOZ", examples:MOZ118,4405AE,Mon Sep 13 13:48:22 UTC 2021
 Airline code "XGO", examples:XGO4MN,3E4082,Mon Sep 13 13:33:04 UTC 2021 XGO4MN,3E4082,Mon Sep 13 13:32:59 UTC 2021
@@ -58,7 +59,6 @@ Airline code "RFV", examples:RFV82A,407359,Fri Sep 10 00:42:51 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Thu Sep 9 22:54:00 UTC 2021
 Airline code "KFB", examples:KFB961,AD61B8,Thu Sep 9 22:10:01 UTC 2021
 Airline code "PPJ", examples:PPJ839,AAE0DB,Thu Sep 9 22:18:00 UTC 2021 PPJ839,AAE0DB,Thu Sep 9 22:14:13 UTC 2021
-Airline code "AEG", examples:AEG401,5110C8,Thu Sep 9 21:28:20 UTC 2021
 Airline code "JPV", examples:JPV284,440A05,Thu Sep 9 20:05:46 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Thu Sep 9 19:05:56 UTC 2021
 Airline code "RSP", examples:RSP69,A77A78,Thu Sep 9 18:06:55 UTC 2021
