@@ -1,3 +1,4 @@
+Airline code "FSP", examples:FSP423,A50702,Mon Sep 13 16:57:18 UTC 2021
 Airline code "ASJ", examples:ASJ606,398675,Mon Sep 13 14:44:04 UTC 2021 ASJ606,398675,Mon Sep 13 14:44:00 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Mon Sep 13 14:04:56 UTC 2021
 Airline code "BAO", examples:BAO158P,3C5070,Mon Sep 13 14:05:15 UTC 2021
@@ -80,7 +81,6 @@ Airline code "VPC", examples:VPC2,51111F,Sun Sep 5 19:15:07 UTC 2021
 Airline code "MDO", examples:MDO2260,4D21DD,Sun Sep 5 18:19:43 UTC 2021
 Airline code "FTD", examples:FTD502,A64160,Sun Sep 5 16:50:21 UTC 2021
 Airline code "VND", examples:VND1257,300762,Sun Sep 5 13:52:57 UTC 2021
-Airline code "FSP", examples:FSP423,A50702,Sat Sep 4 15:08:34 UTC 2021
 Airline code "BFD", examples:BFD03K,3CBDEB,Fri Sep 3 20:06:16 UTC 2021
 Airline code "CGF", examples:CGF176,451E29,Fri Sep 3 20:05:01 UTC 2021
 Airline code "WRC", examples:WRC7007,4D2307,Fri Sep 3 20:06:04 UTC 2021
