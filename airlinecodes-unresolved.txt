@@ -1,3 +1,4 @@
+Airline code "LRQ", examples:LRQ454D,4D0290,Mon Sep 13 04:01:05 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4E,Sun Sep 12 23:45:19 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Sun Sep 12 23:43:20 UTC 2021
 Airline code "JAF", examples:JAF8WM,44A82F,Sun Sep 12 21:49:14 UTC 2021
@@ -40,7 +41,6 @@ Airline code "CSB", examples:CSB188,C025D2,Sat Sep 11 03:18:33 UTC 2021
 Airline code "FRV", examples:FRV0915,02012D,Fri Sep 10 20:40:48 UTC 2021
 Airline code "PCT", examples:PCT361,3F9AE8,Fri Sep 10 20:05:08 UTC 2021
 Airline code "LHA", examples:LHA4226,7BC007,Fri Sep 10 19:05:54 UTC 2021
-Airline code "LRQ", examples:LRQ445E,4D0290,Fri Sep 10 11:23:56 UTC 2021
 Airline code "JTZ", examples:JTZ412,A4DCBA,Fri Sep 10 00:39:05 UTC 2021 JTZ412,A4DCBA,Fri Sep 10 00:29:06 UTC 2021
 Airline code "RFV", examples:RFV82A,407359,Fri Sep 10 00:42:51 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Thu Sep 9 22:54:00 UTC 2021
