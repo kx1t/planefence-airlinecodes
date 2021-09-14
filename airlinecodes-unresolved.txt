@@ -1,3 +1,4 @@
+Airline code "JCL", examples:JCL2,3CC95A,Tue Sep 14 08:13:12 UTC 2021
 Airline code "AEG", examples:AEG444,5110C8,Tue Sep 14 07:04:25 UTC 2021
 Airline code "FLJ", examples:FLJ51S,4078E7,Tue Sep 14 07:46:07 UTC 2021
 Airline code "ICF", examples:ICF201,5000B9,Tue Sep 14 08:00:01 UTC 2021
@@ -16,7 +17,6 @@ Airline code "GJE", examples:GJE3105,A11DAF,Mon Sep 13 21:44:39 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Mon Sep 13 20:05:10 UTC 2021
 Airline code "BAO", examples:BAO158P,3C5070,Mon Sep 13 20:05:27 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Mon Sep 13 20:05:08 UTC 2021
-Airline code "JCL", examples:JCL3,3CD07A,Mon Sep 13 20:06:07 UTC 2021
 Airline code "JEI", examples:JEI414,3CC194,Mon Sep 13 20:05:26 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Mon Sep 13 20:05:30 UTC 2021
 Airline code "KLJ", examples:KLJ3341,503CB7,Mon Sep 13 20:06:21 UTC 2021
