@@ -1,3 +1,4 @@
+Airline code "CSB", examples:CSB188,C025D2,Tue Sep 14 03:12:38 UTC 2021
 Airline code "AEG", examples:AEG444,5110C8,Tue Sep 14 02:04:29 UTC 2021
 Airline code "PCT", examples:PCT368,3F9AE8,Tue Sep 14 02:04:31 UTC 2021
 Airline code "VKG", examples:VKG1293,45D963,Tue Sep 14 02:04:32 UTC 2021
@@ -53,7 +54,6 @@ Airline code "TIV", examples:TIV685,A917B1,Sat Sep 11 14:32:34 UTC 2021 TIV685,A
 Airline code "OOH", examples:OOH49,44A3ED,Sat Sep 11 12:45:49 UTC 2021
 Airline code "LWG", examples:LWG1571,39AE32,Sat Sep 11 09:02:47 UTC 2021 LWG1571,39AE32,Sat Sep 11 09:02:46 UTC 2021
 Airline code "OOD", examples:OOD80,44900C,Sat Sep 11 09:19:09 UTC 2021
-Airline code "CSB", examples:CSB188,C025D2,Sat Sep 11 03:18:33 UTC 2021
 Airline code "FRV", examples:FRV0915,02012D,Fri Sep 10 20:40:48 UTC 2021
 Airline code "JTZ", examples:JTZ412,A4DCBA,Fri Sep 10 00:39:05 UTC 2021 JTZ412,A4DCBA,Fri Sep 10 00:29:06 UTC 2021
 Airline code "RFV", examples:RFV82A,407359,Fri Sep 10 00:42:51 UTC 2021
