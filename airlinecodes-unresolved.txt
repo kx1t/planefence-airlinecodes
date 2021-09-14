@@ -1,3 +1,4 @@
+Airline code "FSP", examples:FSP181,A145F4,Tue Sep 14 21:02:36 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Tue Sep 14 20:15:15 UTC 2021
 Airline code "DFC", examples:DFC71K,49D086,Tue Sep 14 19:05:03 UTC 2021
 Airline code "FLJ", examples:FLJ51S,4078E7,Tue Sep 14 19:05:06 UTC 2021
@@ -30,7 +31,6 @@ Airline code "JEI", examples:JEI414,3CC194,Mon Sep 13 20:05:26 UTC 2021
 Airline code "KLJ", examples:KLJ3341,503CB7,Mon Sep 13 20:06:21 UTC 2021
 Airline code "LHA", examples:LHA4225,7BC007,Mon Sep 13 20:05:58 UTC 2021
 Airline code "SYB", examples:SYB233,C055AD,Mon Sep 13 20:05:12 UTC 2021
-Airline code "FSP", examples:FSP423,A50702,Mon Sep 13 16:57:18 UTC 2021
 Airline code "ASJ", examples:ASJ606,398675,Mon Sep 13 14:44:04 UTC 2021 ASJ606,398675,Mon Sep 13 14:44:00 UTC 2021
 Airline code "EFF", examples:EFF006,4CAB82,Mon Sep 13 14:43:59 UTC 2021 EFF006,4CAB82,Mon Sep 13 14:43:04 UTC 2021
 Airline code "OOI", examples:OOI20,44A7D0,Mon Sep 13 14:38:49 UTC 2021
