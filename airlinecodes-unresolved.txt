@@ -1,3 +1,4 @@
+Airline code "NBM", examples:NBM1124,C0227B,Tue Sep 14 20:15:15 UTC 2021
 Airline code "DFC", examples:DFC71K,49D086,Tue Sep 14 19:05:03 UTC 2021
 Airline code "FLJ", examples:FLJ51S,4078E7,Tue Sep 14 19:05:06 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Tue Sep 14 19:05:33 UTC 2021
@@ -10,7 +11,6 @@ Airline code "EMM", examples:EMM006,4D2168,Tue Sep 14 18:17:46 UTC 2021
 Airline code "JAF", examples:JAF49C,44A8A2,Tue Sep 14 18:32:35 UTC 2021
 Airline code "JCL", examples:JCL2,3CC95A,Tue Sep 14 18:05:29 UTC 2021
 Airline code "MJF", examples:MJF279,4403E0,Tue Sep 14 18:05:49 UTC 2021
-Airline code "NBM", examples:NBM1124,C0227B,Tue Sep 14 18:05:38 UTC 2021
 Airline code "PCT", examples:PCT368,3F9AE8,Tue Sep 14 18:04:54 UTC 2021
 Airline code "VKG", examples:VKG1293,45D963,Tue Sep 14 18:04:55 UTC 2021
 Airline code "ICF", examples:ICF201,5000B9,Tue Sep 14 16:01:15 UTC 2021 ICF201,5000B9,Tue Sep 14 16:01:14 UTC 2021
