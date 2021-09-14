@@ -1,17 +1,18 @@
+Airline code "AEG", examples:AEG444,5110C8,Tue Sep 14 10:04:33 UTC 2021
+Airline code "DFC", examples:DFC71K,49D086,Tue Sep 14 10:04:46 UTC 2021
+Airline code "ICF", examples:ICF201,5000B9,Tue Sep 14 10:26:10 UTC 2021
+Airline code "JTD", examples:JTD327,45AB4A,Tue Sep 14 10:04:50 UTC 2021
+Airline code "PCT", examples:PCT368,3F9AE8,Tue Sep 14 10:04:36 UTC 2021
+Airline code "RDN", examples:RDN745,A6F207,Tue Sep 14 10:38:24 UTC 2021
+Airline code "VKA", examples:VKA131,5083C0,Tue Sep 14 10:04:52 UTC 2021
+Airline code "VKG", examples:VKG1293,45D963,Tue Sep 14 10:04:37 UTC 2021
 Airline code "FLJ", examples:FLJ52R,407A2A,Tue Sep 14 09:28:31 UTC 2021
 Airline code "IAM", examples:IAM4680,33FFF1,Tue Sep 14 09:38:30 UTC 2021
 Airline code "MJF", examples:MJF6B,440949,Tue Sep 14 09:03:56 UTC 2021 MJF6B,440949,Tue Sep 14 09:03:55 UTC 2021
 Airline code "JCL", examples:JCL2,3CC95A,Tue Sep 14 08:13:12 UTC 2021
-Airline code "AEG", examples:AEG444,5110C8,Tue Sep 14 07:04:25 UTC 2021
-Airline code "ICF", examples:ICF201,5000B9,Tue Sep 14 08:00:01 UTC 2021
 Airline code "NTF", examples:NTF459M,49D102,Tue Sep 14 07:58:01 UTC 2021
-Airline code "PCT", examples:PCT368,3F9AE8,Tue Sep 14 07:04:27 UTC 2021
-Airline code "DFC", examples:DFC71K,49D086,Tue Sep 14 06:10:26 UTC 2021
 Airline code "FSF", examples:FSF85G,463C6A,Tue Sep 14 06:55:55 UTC 2021
-Airline code "JTD", examples:JTD327,45AB4A,Tue Sep 14 06:44:27 UTC 2021
 Airline code "NYX", examples:NYX421,511147,Tue Sep 14 06:06:57 UTC 2021
-Airline code "VKA", examples:VKA131,5083C0,Tue Sep 14 06:59:29 UTC 2021
-Airline code "VKG", examples:VKG1122,45D068,Tue Sep 14 06:10:27 UTC 2021
 Airline code "JNL", examples:JNL1389,4858C7,Tue Sep 14 05:13:06 UTC 2021
 Airline code "CSB", examples:CSB188,C025D2,Tue Sep 14 03:12:38 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Mon Sep 13 23:05:22 UTC 2021
@@ -87,7 +88,6 @@ Airline code "VND", examples:VND1257,300762,Sun Sep 5 13:52:57 UTC 2021
 Airline code "BFD", examples:BFD03K,3CBDEB,Fri Sep 3 20:06:16 UTC 2021
 Airline code "CGF", examples:CGF176,451E29,Fri Sep 3 20:05:01 UTC 2021
 Airline code "WRC", examples:WRC7007,4D2307,Fri Sep 3 20:06:04 UTC 2021
-Airline code "RDN", examples:RDN0522,A6E6E2,Thu Sep 2 23:50:19 UTC 2021
 Airline code "BNO", examples:BNO1N,47C39C,Thu Sep 2 21:05:13 UTC 2021
 Airline code "OMM", examples:OMM355,505ED6,Thu Sep 2 14:42:33 UTC 2021
 Airline code "UAQ", examples:UAQ01,400EB6,Thu Sep 2 11:36:18 UTC 2021
