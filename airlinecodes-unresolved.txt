@@ -1,3 +1,4 @@
+Airline code "JNL", examples:JNL1389,4858C7,Tue Sep 14 05:13:06 UTC 2021
 Airline code "CSB", examples:CSB188,C025D2,Tue Sep 14 03:12:38 UTC 2021
 Airline code "AEG", examples:AEG444,5110C8,Tue Sep 14 02:04:29 UTC 2021
 Airline code "PCT", examples:PCT368,3F9AE8,Tue Sep 14 02:04:31 UTC 2021
@@ -48,7 +49,6 @@ Airline code "OOE", examples:OOE06,4497C2,Sun Sep 12 10:54:16 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Sat Sep 11 20:05:39 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Sat Sep 11 20:05:07 UTC 2021
 Airline code "GSH", examples:GSH129,896403,Sat Sep 11 18:25:50 UTC 2021 GSH129,896403,Sat Sep 11 18:25:50 UTC 2021
-Airline code "JNL", examples:JNL0839,485D61,Sat Sep 11 15:11:12 UTC 2021
 Airline code "GCK", examples:GCK40,4408D8,Sat Sep 11 14:19:48 UTC 2021 GCK40,4408D8,Sat Sep 11 14:19:48 UTC 2021
 Airline code "TIV", examples:TIV685,A917B1,Sat Sep 11 14:32:34 UTC 2021 TIV685,A917B1,Sat Sep 11 14:31:15 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Sat Sep 11 12:45:49 UTC 2021
