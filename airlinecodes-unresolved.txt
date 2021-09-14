@@ -1,3 +1,4 @@
+Airline code "AEG", examples:AEG444,5110C8,Tue Sep 14 22:04:18 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Tue Sep 14 21:02:36 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Tue Sep 14 20:15:15 UTC 2021
 Airline code "DFC", examples:DFC71K,49D086,Tue Sep 14 19:05:03 UTC 2021
@@ -6,7 +7,6 @@ Airline code "JKH", examples:JKH32C,3CE624,Tue Sep 14 19:05:33 UTC 2021
 Airline code "JTD", examples:JTD327,45AB4A,Tue Sep 14 19:05:10 UTC 2021
 Airline code "RDN", examples:RDN745,A6F207,Tue Sep 14 19:37:00 UTC 2021
 Airline code "VKA", examples:VKA131,5083C0,Tue Sep 14 19:05:11 UTC 2021
-Airline code "AEG", examples:AEG444,5110C8,Tue Sep 14 18:04:51 UTC 2021
 Airline code "BAO", examples:BAO157P,3C5070,Tue Sep 14 18:05:51 UTC 2021
 Airline code "EMM", examples:EMM006,4D2168,Tue Sep 14 18:17:46 UTC 2021
 Airline code "JAF", examples:JAF49C,44A8A2,Tue Sep 14 18:32:35 UTC 2021
