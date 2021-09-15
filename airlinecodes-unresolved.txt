@@ -1,3 +1,4 @@
+Airline code "NJM", examples:NJM959,AD579B,Wed Sep 15 15:49:21 UTC 2021
 Airline code "AEG", examples:AEG444,5110C8,Wed Sep 15 14:27:27 UTC 2021
 Airline code "BFD", examples:BFD15T,3C9654,Wed Sep 15 14:27:37 UTC 2021
 Airline code "KLJ", examples:KLJ3342,503CB7,Wed Sep 15 14:27:59 UTC 2021
