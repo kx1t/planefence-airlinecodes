@@ -1,3 +1,4 @@
+Airline code "VXS", examples:VXS115,4075CD,Wed Sep 15 11:38:25 UTC 2021
 Airline code "FLJ", examples:FLJ51S,4078E7,Wed Sep 15 10:33:20 UTC 2021 FLJ51S,4078E7,Wed Sep 15 10:33:17 UTC 2021
 Airline code "RTG", examples:RTG5210,47923C,Wed Sep 15 10:58:20 UTC 2021 RTG5210,47923C,Wed Sep 15 10:58:18 UTC 2021
 Airline code "VKG", examples:VKG1194,45D068,Wed Sep 15 10:04:46 UTC 2021
@@ -10,7 +11,6 @@ Airline code "RSY", examples:RSY8534,4CA6E6,Wed Sep 15 09:04:45 UTC 2021
 Airline code "IEI", examples:IEI2858,33FE12,Wed Sep 15 08:49:21 UTC 2021
 Airline code "KLJ", examples:KLJ3342,503CB7,Wed Sep 15 08:51:30 UTC 2021
 Airline code "TLI", examples:TLI246,3D069C,Wed Sep 15 08:44:29 UTC 2021
-Airline code "VXS", examples:VXS115,4075CD,Wed Sep 15 08:15:19 UTC 2021 VXS115,4075CD,Wed Sep 15 08:15:17 UTC 2021
 Airline code "ASJ", examples:ASJ321,398275,Wed Sep 15 07:17:19 UTC 2021 ASJ321,398275,Wed Sep 15 07:17:16 UTC 2021
 Airline code "CDX", examples:CDX554,748053,Wed Sep 15 07:27:19 UTC 2021 CDX554,748053,Wed Sep 15 07:27:16 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Wed Sep 15 07:22:39 UTC 2021
