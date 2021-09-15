@@ -1,7 +1,7 @@
+Airline code "AEG", examples:AEG444,5110C8,Wed Sep 15 02:04:18 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Wed Sep 15 01:18:04 UTC 2021
 Airline code "RDN", examples:RDN745,A6F207,Wed Sep 15 01:17:53 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Sep 14 23:44:27 UTC 2021
-Airline code "AEG", examples:AEG444,5110C8,Tue Sep 14 22:04:18 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Tue Sep 14 21:02:36 UTC 2021
 Airline code "DFC", examples:DFC71K,49D086,Tue Sep 14 19:05:03 UTC 2021
 Airline code "FLJ", examples:FLJ51S,4078E7,Tue Sep 14 19:05:06 UTC 2021
