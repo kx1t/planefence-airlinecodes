@@ -1,3 +1,4 @@
+Airline code "AZD", examples:AZD491,4B0139,Tue Sep 14 23:44:27 UTC 2021
 Airline code "AEG", examples:AEG444,5110C8,Tue Sep 14 22:04:18 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Tue Sep 14 21:02:36 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Tue Sep 14 20:15:15 UTC 2021
@@ -23,7 +24,6 @@ Airline code "FSF", examples:FSF85G,463C6A,Tue Sep 14 13:57:18 UTC 2021
 Airline code "PPJ", examples:PPJ839,AAE0DB,Tue Sep 14 13:30:13 UTC 2021
 Airline code "NTF", examples:NTF459M,49D102,Tue Sep 14 07:58:01 UTC 2021
 Airline code "CSB", examples:CSB188,C025D2,Tue Sep 14 03:12:38 UTC 2021
-Airline code "AZD", examples:AZD491,4B0139,Mon Sep 13 23:05:22 UTC 2021
 Airline code "GJE", examples:GJE3105,A11DAF,Mon Sep 13 21:44:39 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Mon Sep 13 20:05:10 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Mon Sep 13 20:05:08 UTC 2021
