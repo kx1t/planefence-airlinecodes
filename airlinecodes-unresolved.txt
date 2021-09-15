@@ -1,3 +1,4 @@
+Airline code "BFD", examples:BFD15T,3C9654,Wed Sep 15 05:55:27 UTC 2021
 Airline code "AEG", examples:AEG444,5110C8,Wed Sep 15 02:04:18 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Wed Sep 15 01:18:04 UTC 2021
 Airline code "RDN", examples:RDN745,A6F207,Wed Sep 15 01:17:53 UTC 2021
@@ -86,7 +87,6 @@ Airline code "VPC", examples:VPC2,51111F,Sun Sep 5 19:15:07 UTC 2021
 Airline code "MDO", examples:MDO2260,4D21DD,Sun Sep 5 18:19:43 UTC 2021
 Airline code "FTD", examples:FTD502,A64160,Sun Sep 5 16:50:21 UTC 2021
 Airline code "VND", examples:VND1257,300762,Sun Sep 5 13:52:57 UTC 2021
-Airline code "BFD", examples:BFD03K,3CBDEB,Fri Sep 3 20:06:16 UTC 2021
 Airline code "CGF", examples:CGF176,451E29,Fri Sep 3 20:05:01 UTC 2021
 Airline code "WRC", examples:WRC7007,4D2307,Fri Sep 3 20:06:04 UTC 2021
 Airline code "BNO", examples:BNO1N,47C39C,Thu Sep 2 21:05:13 UTC 2021
