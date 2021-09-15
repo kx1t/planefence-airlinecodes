@@ -1,12 +1,12 @@
+Airline code "NBM", examples:NBM1124,C0227B,Wed Sep 15 01:18:04 UTC 2021
+Airline code "RDN", examples:RDN745,A6F207,Wed Sep 15 01:17:53 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Sep 14 23:44:27 UTC 2021
 Airline code "AEG", examples:AEG444,5110C8,Tue Sep 14 22:04:18 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Tue Sep 14 21:02:36 UTC 2021
-Airline code "NBM", examples:NBM1124,C0227B,Tue Sep 14 20:15:15 UTC 2021
 Airline code "DFC", examples:DFC71K,49D086,Tue Sep 14 19:05:03 UTC 2021
 Airline code "FLJ", examples:FLJ51S,4078E7,Tue Sep 14 19:05:06 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Tue Sep 14 19:05:33 UTC 2021
 Airline code "JTD", examples:JTD327,45AB4A,Tue Sep 14 19:05:10 UTC 2021
-Airline code "RDN", examples:RDN745,A6F207,Tue Sep 14 19:37:00 UTC 2021
 Airline code "VKA", examples:VKA131,5083C0,Tue Sep 14 19:05:11 UTC 2021
 Airline code "BAO", examples:BAO157P,3C5070,Tue Sep 14 18:05:51 UTC 2021
 Airline code "EMM", examples:EMM006,4D2168,Tue Sep 14 18:17:46 UTC 2021
