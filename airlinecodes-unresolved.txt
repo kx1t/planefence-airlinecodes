@@ -1,7 +1,7 @@
+Airline code "RDN", examples:RDN745,A6F207,Thu Sep 16 02:04:08 UTC 2021
 Airline code "PCT", examples:PCT375,3F9AE8,Wed Sep 15 23:04:22 UTC 2021
 Airline code "AEG", examples:AEG444,5110C8,Wed Sep 15 22:04:18 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Wed Sep 15 22:50:16 UTC 2021
-Airline code "RDN", examples:RDN745,A6F207,Wed Sep 15 22:28:19 UTC 2021
 Airline code "JAF", examples:JAF3204,44D1A1,Wed Sep 15 21:30:10 UTC 2021
 Airline code "NUS", examples:NUS562,A72E95,Wed Sep 15 19:32:01 UTC 2021
 Airline code "BAO", examples:BAO157P,3C5070,Wed Sep 15 17:47:36 UTC 2021
