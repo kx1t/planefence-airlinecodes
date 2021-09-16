@@ -1,11 +1,13 @@
+Airline code "AEG", examples:AEG444,5110C8,Thu Sep 16 12:04:38 UTC 2021
+Airline code "CSB", examples:CSB588,C025D2,Thu Sep 16 12:38:28 UTC 2021
+Airline code "NJM", examples:NJM422,A50316,Thu Sep 16 12:12:55 UTC 2021
+Airline code "PCT", examples:PCT375,3F9AE8,Thu Sep 16 12:04:41 UTC 2021
+Airline code "VKG", examples:VKG1272,45D964,Thu Sep 16 12:04:49 UTC 2021
 Airline code "VLZ", examples:VLZ148A,43ECD8,Thu Sep 16 11:04:28 UTC 2021 VLZ148A,43ECD8,Thu Sep 16 11:04:22 UTC 2021
 Airline code "JAF", examples:JAF7CX,44B438,Thu Sep 16 10:13:09 UTC 2021
 Airline code "RDN", examples:RDN803,AB79E3,Thu Sep 16 10:46:28 UTC 2021 RDN803,AB79E3,Thu Sep 16 10:46:22 UTC 2021
-Airline code "AEG", examples:AEG444,5110C8,Thu Sep 16 09:04:32 UTC 2021
-Airline code "PCT", examples:PCT375,3F9AE8,Thu Sep 16 09:04:34 UTC 2021
 Airline code "VXS", examples:VXS116,4075CD,Thu Sep 16 09:23:27 UTC 2021 VXS116,4075CD,Thu Sep 16 09:23:22 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Thu Sep 16 08:00:19 UTC 2021
-Airline code "VKG", examples:VKG1272,45D964,Thu Sep 16 08:04:39 UTC 2021
 Airline code "XGO", examples:XGO4LF,3E4082,Thu Sep 16 08:16:27 UTC 2021 XGO4LF,3E4082,Thu Sep 16 08:16:21 UTC 2021
 Airline code "FSF", examples:FSF574P,461838,Thu Sep 16 07:21:19 UTC 2021
 Airline code "NYX", examples:NYX421,511147,Thu Sep 16 07:46:31 UTC 2021
@@ -19,7 +21,6 @@ Airline code "KLJ", examples:KLJ3342,503CB7,Wed Sep 15 17:05:13 UTC 2021
 Airline code "LRQ", examples:LRQ461A,4D028F,Wed Sep 15 17:40:43 UTC 2021
 Airline code "RSY", examples:RSY8534,4CA6E6,Wed Sep 15 17:05:01 UTC 2021
 Airline code "RLI", examples:RLI904,AC7F1E,Wed Sep 15 16:22:52 UTC 2021 RLI904,AC7F1E,Wed Sep 15 16:20:08 UTC 2021
-Airline code "NJM", examples:NJM959,AD579B,Wed Sep 15 15:49:21 UTC 2021
 Airline code "MJF", examples:MJF73G,4404D0,Wed Sep 15 14:22:22 UTC 2021 MJF73G,4404D0,Wed Sep 15 14:22:19 UTC 2021
 Airline code "IEI", examples:IEI2858,33FE12,Wed Sep 15 13:57:13 UTC 2021 IEI2858,33FE12,Wed Sep 15 13:57:02 UTC 2021
 Airline code "ASJ", examples:ASJ185,398675,Wed Sep 15 12:11:21 UTC 2021 ASJ185,398675,Wed Sep 15 12:11:18 UTC 2021
@@ -41,7 +42,6 @@ Airline code "ICF", examples:ICF201,5000B9,Tue Sep 14 16:01:15 UTC 2021 ICF201,5
 Airline code "IAM", examples:IAM4680,33FFF1,Tue Sep 14 14:00:49 UTC 2021
 Airline code "PPJ", examples:PPJ839,AAE0DB,Tue Sep 14 13:30:13 UTC 2021
 Airline code "NTF", examples:NTF459M,49D102,Tue Sep 14 07:58:01 UTC 2021
-Airline code "CSB", examples:CSB188,C025D2,Tue Sep 14 03:12:38 UTC 2021
 Airline code "GJE", examples:GJE3105,A11DAF,Mon Sep 13 21:44:39 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Mon Sep 13 20:05:10 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Mon Sep 13 20:05:08 UTC 2021
