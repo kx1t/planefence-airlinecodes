@@ -1,5 +1,5 @@
+Airline code "JAF", examples:JAF8KY,44D1B9,Sat Sep 18 10:34:57 UTC 2021
 Airline code "EUK", examples:EUK2202,407BE2,Sat Sep 18 09:29:48 UTC 2021
-Airline code "JAF", examples:JAF80M,44CE4F,Sat Sep 18 09:07:49 UTC 2021
 Airline code "MJF", examples:MJF6B,440949,Sat Sep 18 09:58:35 UTC 2021
 Airline code "RSY", examples:RSY7534,4CA6DB,Sat Sep 18 09:04:34 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Sat Sep 18 08:04:43 UTC 2021
