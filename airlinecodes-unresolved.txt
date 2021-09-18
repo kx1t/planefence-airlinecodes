@@ -1,3 +1,7 @@
+Airline code "FOX", examples:FOX1364,478731,Sat Sep 18 15:36:17 UTC 2021
+Airline code "TBJ", examples:TBJ91,A6BC98,Sat Sep 18 15:00:55 UTC 2021
+Airline code "VKA", examples:VKA100,5083A2,Sat Sep 18 15:56:32 UTC 2021
+Airline code "XGO", examples:XGO2KB,3E4082,Sat Sep 18 15:36:16 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Sat Sep 18 14:04:59 UTC 2021
 Airline code "FLJ", examples:FLJ51S,4078E7,Sat Sep 18 14:28:46 UTC 2021 FLJ51S,4078E7,Sat Sep 18 14:28:34 UTC 2021
 Airline code "FSF", examples:FSF433F,4633EC,Sat Sep 18 14:46:42 UTC 2021
@@ -43,7 +47,6 @@ Airline code "ASJ", examples:ASJ082,398249,Fri Sep 17 11:07:36 UTC 2021 ASJ082,3
 Airline code "INI", examples:INI251,343183,Fri Sep 17 11:44:39 UTC 2021 INI251,343183,Fri Sep 17 11:21:37 UTC 2021 INI251,343183,Fri Sep 17 11:21:28 UTC 2021
 Airline code "UWD", examples:UWD86,ADC2FF,Fri Sep 17 11:35:06 UTC 2021
 Airline code "IAM", examples:IAM9004,33FFFE,Fri Sep 17 10:31:19 UTC 2021
-Airline code "XGO", examples:XGO3LC,3E3AB8,Fri Sep 17 05:45:50 UTC 2021
 Airline code "JNY", examples:JNY297,A310C9,Thu Sep 16 22:52:19 UTC 2021
 Airline code "HOB", examples:HOB5,A43BF3,Thu Sep 16 21:57:36 UTC 2021
 Airline code "AEG", examples:AEG444,5110C8,Thu Sep 16 19:05:00 UTC 2021
@@ -63,7 +66,6 @@ Airline code "CDX", examples:CDX554,748053,Wed Sep 15 07:27:19 UTC 2021 CDX554,7
 Airline code "EFF", examples:EFF006,4CAB82,Wed Sep 15 06:19:18 UTC 2021 EFF006,4CAB82,Wed Sep 15 06:19:16 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Tue Sep 14 21:02:36 UTC 2021
 Airline code "DFC", examples:DFC71K,49D086,Tue Sep 14 19:05:03 UTC 2021
-Airline code "VKA", examples:VKA131,5083C0,Tue Sep 14 19:05:11 UTC 2021
 Airline code "EMM", examples:EMM006,4D2168,Tue Sep 14 18:17:46 UTC 2021
 Airline code "ICF", examples:ICF201,5000B9,Tue Sep 14 16:01:15 UTC 2021 ICF201,5000B9,Tue Sep 14 16:01:14 UTC 2021
 Airline code "PPJ", examples:PPJ839,AAE0DB,Tue Sep 14 13:30:13 UTC 2021
@@ -72,7 +74,6 @@ Airline code "GFM", examples:GFM5X,4AC998,Mon Sep 13 20:05:08 UTC 2021
 Airline code "SYB", examples:SYB233,C055AD,Mon Sep 13 20:05:12 UTC 2021
 Airline code "XCH", examples:XCH511,43E7ED,Mon Sep 13 14:14:04 UTC 2021 XCH511,43E7ED,Mon Sep 13 14:13:59 UTC 2021
 Airline code "MOZ", examples:MOZ118,4405AE,Mon Sep 13 13:48:22 UTC 2021
-Airline code "FOX", examples:FOX1362,478DEF,Sun Sep 12 20:05:16 UTC 2021
 Airline code "RUK", examples:RUK3677,40775C,Sun Sep 12 20:06:02 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Sun Sep 12 19:05:01 UTC 2021
 Airline code "JME", examples:JME515U,4948B5,Sun Sep 12 19:38:58 UTC 2021 JME515U,4948B5,Sun Sep 12 19:38:55 UTC 2021
