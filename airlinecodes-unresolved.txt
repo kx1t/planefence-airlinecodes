@@ -1,7 +1,8 @@
+Airline code "JTD", examples:JTD508,45AB4E,Sat Sep 18 23:04:23 UTC 2021
+Airline code "VKG", examples:VKG1255,45D964,Sat Sep 18 23:49:25 UTC 2021
 Airline code "NUS", examples:NUS560,A72727,Sat Sep 18 22:23:30 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Sat Sep 18 20:05:05 UTC 2021
 Airline code "FOX", examples:FOX1364,478731,Sat Sep 18 20:05:58 UTC 2021
-Airline code "JTD", examples:JTD507,45AB4E,Sat Sep 18 20:06:01 UTC 2021
 Airline code "LSM", examples:LSM97,500127,Sat Sep 18 20:05:53 UTC 2021
 Airline code "QNR", examples:QNR25B,49D1DF,Sat Sep 18 20:05:37 UTC 2021
 Airline code "RSY", examples:RSY7534,4CA6DB,Sat Sep 18 20:04:58 UTC 2021
@@ -10,7 +11,6 @@ Airline code "XGO", examples:XGO2KB,3E4082,Sat Sep 18 20:05:57 UTC 2021
 Airline code "JCL", examples:JCL7,3CD568,Sat Sep 18 19:12:44 UTC 2021
 Airline code "NDL", examples:NDL350,C05D71,Sat Sep 18 19:31:39 UTC 2021 NDL350,C05D71,Sat Sep 18 19:23:02 UTC 2021
 Airline code "PCT", examples:PCT903,3F9AE8,Sat Sep 18 19:05:42 UTC 2021
-Airline code "VKG", examples:VKG1246,45D964,Sat Sep 18 19:05:00 UTC 2021
 Airline code "VLZ", examples:VLZ273A,43EC73,Sat Sep 18 17:40:46 UTC 2021
 Airline code "TBJ", examples:TBJ91,A6BC98,Sat Sep 18 15:00:55 UTC 2021
 Airline code "VKA", examples:VKA100,5083A2,Sat Sep 18 15:56:32 UTC 2021
