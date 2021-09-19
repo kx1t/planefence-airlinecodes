@@ -1,3 +1,8 @@
+Airline code "AZV", examples:AZV777,42445E,Sun Sep 19 12:04:50 UTC 2021
+Airline code "IAM", examples:IAM9004,33FFAE,Sun Sep 19 12:37:24 UTC 2021
+Airline code "JAF", examples:JAF45G,44B1E5,Sun Sep 19 12:05:41 UTC 2021
+Airline code "PCT", examples:PCT383,3F9AE8,Sun Sep 19 12:36:51 UTC 2021
+Airline code "VLZ", examples:VLZ273A,43EC73,Sun Sep 19 12:24:52 UTC 2021
 Airline code "FLJ", examples:FLJ51S,4078E7,Sun Sep 19 11:55:38 UTC 2021 FLJ51S,4078E7,Sun Sep 19 11:54:53 UTC 2021
 Airline code "JTD", examples:JTD508,45AB4E,Sun Sep 19 11:04:36 UTC 2021
 Airline code "KBD", examples:KBD216,398477,Sun Sep 19 11:38:53 UTC 2021 KBD216,398477,Sun Sep 19 11:38:38 UTC 2021
@@ -6,8 +11,6 @@ Airline code "VKG", examples:VKG1255,45D964,Sun Sep 19 11:04:39 UTC 2021
 Airline code "FOX", examples:FOX1363,478E7A,Sun Sep 19 10:33:42 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Sun Sep 19 10:05:38 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF7E,Sun Sep 19 10:04:53 UTC 2021
-Airline code "AZV", examples:AZV777,42445E,Sun Sep 19 09:04:59 UTC 2021
-Airline code "JAF", examples:JAF7CX,44A833,Sun Sep 19 09:36:16 UTC 2021
 Airline code "NUS", examples:NUS560,A72727,Sat Sep 18 22:23:30 UTC 2021
 Airline code "LSM", examples:LSM97,500127,Sat Sep 18 20:05:53 UTC 2021
 Airline code "QNR", examples:QNR25B,49D1DF,Sat Sep 18 20:05:37 UTC 2021
@@ -15,8 +18,6 @@ Airline code "RSY", examples:RSY7534,4CA6DB,Sat Sep 18 20:04:58 UTC 2021
 Airline code "XGO", examples:XGO2KB,3E4082,Sat Sep 18 20:05:57 UTC 2021
 Airline code "JCL", examples:JCL7,3CD568,Sat Sep 18 19:12:44 UTC 2021
 Airline code "NDL", examples:NDL350,C05D71,Sat Sep 18 19:31:39 UTC 2021 NDL350,C05D71,Sat Sep 18 19:23:02 UTC 2021
-Airline code "PCT", examples:PCT903,3F9AE8,Sat Sep 18 19:05:42 UTC 2021
-Airline code "VLZ", examples:VLZ273A,43EC73,Sat Sep 18 17:40:46 UTC 2021
 Airline code "TBJ", examples:TBJ91,A6BC98,Sat Sep 18 15:00:55 UTC 2021
 Airline code "VKA", examples:VKA100,5083A2,Sat Sep 18 15:56:32 UTC 2021
 Airline code "FSF", examples:FSF433F,4633EC,Sat Sep 18 14:46:42 UTC 2021
@@ -49,7 +50,6 @@ Airline code "LWG", examples:LWG1971,4D2320,Fri Sep 17 12:34:48 UTC 2021
 Airline code "ASJ", examples:ASJ082,398249,Fri Sep 17 11:07:36 UTC 2021 ASJ082,398249,Fri Sep 17 11:07:28 UTC 2021
 Airline code "INI", examples:INI251,343183,Fri Sep 17 11:44:39 UTC 2021 INI251,343183,Fri Sep 17 11:21:37 UTC 2021 INI251,343183,Fri Sep 17 11:21:28 UTC 2021
 Airline code "UWD", examples:UWD86,ADC2FF,Fri Sep 17 11:35:06 UTC 2021
-Airline code "IAM", examples:IAM9004,33FFFE,Fri Sep 17 10:31:19 UTC 2021
 Airline code "JNY", examples:JNY297,A310C9,Thu Sep 16 22:52:19 UTC 2021
 Airline code "HOB", examples:HOB5,A43BF3,Thu Sep 16 21:57:36 UTC 2021
 Airline code "AEG", examples:AEG444,5110C8,Thu Sep 16 19:05:00 UTC 2021
