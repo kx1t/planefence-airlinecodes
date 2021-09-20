@@ -1,3 +1,4 @@
+Airline code "AEG", examples:AEG444,5110C8,Mon Sep 20 22:04:24 UTC 2021
 Airline code "NYX", examples:NYX429,511147,Mon Sep 20 20:16:15 UTC 2021
 Airline code "GJE", examples:GJE510,ABFE5A,Mon Sep 20 19:39:34 UTC 2021
 Airline code "HPK", examples:HPK09,A9767B,Mon Sep 20 19:59:11 UTC 2021
@@ -66,7 +67,6 @@ Airline code "INI", examples:INI251,343183,Fri Sep 17 11:44:39 UTC 2021 INI251,3
 Airline code "UWD", examples:UWD86,ADC2FF,Fri Sep 17 11:35:06 UTC 2021
 Airline code "JNY", examples:JNY297,A310C9,Thu Sep 16 22:52:19 UTC 2021
 Airline code "HOB", examples:HOB5,A43BF3,Thu Sep 16 21:57:36 UTC 2021
-Airline code "AEG", examples:AEG444,5110C8,Thu Sep 16 19:05:00 UTC 2021
 Airline code "JEI", examples:JEI444,3CC194,Thu Sep 16 19:05:54 UTC 2021
 Airline code "LKF", examples:LKF79,A6CE07,Thu Sep 16 16:13:00 UTC 2021
 Airline code "RDN", examples:RDN803,AB79E3,Thu Sep 16 10:46:28 UTC 2021 RDN803,AB79E3,Thu Sep 16 10:46:22 UTC 2021
