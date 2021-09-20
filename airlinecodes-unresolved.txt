@@ -1,6 +1,6 @@
+Airline code "JNL", examples:JNL111,485D30,Mon Sep 20 07:42:33 UTC 2021
+Airline code "MJF", examples:MJF65G,4406A2,Mon Sep 20 07:59:18 UTC 2021 MJF65G,4406A2,Mon Sep 20 07:58:35 UTC 2021
 Airline code "AZV", examples:AZV777,42445B,Mon Sep 20 06:04:29 UTC 2021
-Airline code "JNL", examples:JNL1284,48630E,Mon Sep 20 06:18:41 UTC 2021
-Airline code "MJF", examples:MJF65G,4406A2,Mon Sep 20 06:56:29 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4E,Mon Sep 20 05:04:23 UTC 2021
 Airline code "VKG", examples:VKG1292,45D964,Mon Sep 20 05:39:24 UTC 2021
 Airline code "JAF", examples:JAF7G,44D0A1,Mon Sep 20 04:49:21 UTC 2021
