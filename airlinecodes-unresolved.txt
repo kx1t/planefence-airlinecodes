@@ -1,10 +1,12 @@
+Airline code "BFD", examples:BFD20T,3C9654,Mon Sep 20 09:27:35 UTC 2021 BFD20T,3C9654,Mon Sep 20 09:27:18 UTC 2021
+Airline code "FLJ", examples:FLJ61H,407AE1,Mon Sep 20 09:45:35 UTC 2021 FLJ61H,407AE1,Mon Sep 20 09:45:18 UTC 2021
+Airline code "JAF", examples:JAF6LV,44D0A1,Mon Sep 20 09:11:42 UTC 2021
+Airline code "MJF", examples:MJF65G,4406A2,Mon Sep 20 09:04:56 UTC 2021
 Airline code "AZV", examples:AZV777,42445B,Mon Sep 20 08:04:40 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4E,Mon Sep 20 08:04:36 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Mon Sep 20 08:55:43 UTC 2021
 Airline code "VKG", examples:VKG1292,45D964,Mon Sep 20 08:04:47 UTC 2021
 Airline code "JNL", examples:JNL111,485D30,Mon Sep 20 07:42:33 UTC 2021
-Airline code "MJF", examples:MJF65G,4406A2,Mon Sep 20 07:59:18 UTC 2021 MJF65G,4406A2,Mon Sep 20 07:58:35 UTC 2021
-Airline code "JAF", examples:JAF7G,44D0A1,Mon Sep 20 04:49:21 UTC 2021
 Airline code "RLI", examples:RLI904,AC7F1E,Mon Sep 20 00:36:24 UTC 2021 RLI904,AC7F1E,Mon Sep 20 00:29:57 UTC 2021
 Airline code "GJE", examples:GJE510,ABFE5A,Sun Sep 19 23:19:36 UTC 2021
 Airline code "NYX", examples:NYX429,511147,Sun Sep 19 19:55:23 UTC 2021
@@ -12,7 +14,6 @@ Airline code "XLS", examples:XLS451,A3FFA0,Sun Sep 19 19:07:16 UTC 2021
 Airline code "FOX", examples:FOX1362,478E7A,Sun Sep 19 18:05:05 UTC 2021
 Airline code "NWC", examples:NWC9016,1427E0,Sun Sep 19 18:06:00 UTC 2021
 Airline code "PCT", examples:PCT383,3F9AE8,Sun Sep 19 18:05:41 UTC 2021
-Airline code "FLJ", examples:FLJ51S,4078E7,Sun Sep 19 17:17:37 UTC 2021 FLJ51S,4078E7,Sun Sep 19 17:17:18 UTC 2021
 Airline code "JBC", examples:JBC496B,A4D521,Sun Sep 19 17:51:27 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Sun Sep 19 17:05:58 UTC 2021
 Airline code "JKH", examples:JKH32A,3E3F1F,Sun Sep 19 17:17:39 UTC 2021 JKH32A,3E3F1F,Sun Sep 19 17:17:20 UTC 2021 JKH32A,3E3F1F,Sun Sep 19 17:05:54 UTC 2021
@@ -67,7 +68,6 @@ Airline code "RDN", examples:RDN803,AB79E3,Thu Sep 16 10:46:28 UTC 2021 RDN803,A
 Airline code "HLL", examples:HLL45,407924,Thu Sep 16 08:00:19 UTC 2021
 Airline code "TLI", examples:TLI246,3D069C,Thu Sep 16 07:31:21 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Wed Sep 15 22:50:16 UTC 2021
-Airline code "BFD", examples:BFD15T,3C9654,Wed Sep 15 17:04:58 UTC 2021
 Airline code "RTG", examples:RTG5210,47923C,Wed Sep 15 10:58:20 UTC 2021 RTG5210,47923C,Wed Sep 15 10:58:18 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Wed Sep 15 09:55:20 UTC 2021 FJO54A,4D2330,Wed Sep 15 09:55:17 UTC 2021
 Airline code "CDX", examples:CDX554,748053,Wed Sep 15 07:27:19 UTC 2021 CDX554,748053,Wed Sep 15 07:27:16 UTC 2021
