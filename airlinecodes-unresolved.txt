@@ -1,3 +1,4 @@
+Airline code "TYP", examples:TYP00117,43C791,Mon Sep 20 18:53:02 UTC 2021
 Airline code "AZV", examples:AZV777,42445B,Mon Sep 20 17:05:04 UTC 2021
 Airline code "FSP", examples:FSP181,A145F4,Mon Sep 20 17:13:53 UTC 2021
 Airline code "JNL", examples:JNL111,485D30,Mon Sep 20 17:05:24 UTC 2021
@@ -171,7 +172,6 @@ Airline code "XGN", examples:XGN900,AC7140,Tue Jun 15 23:21:29 UTC 2021
 Airline code "GRN", examples:GRN03,40706E,Sun Jun 13 14:13:25 UTC 2021
 Airline code "GPW", examples:GPW28,42515E,Tue Jun 8 19:22:21 UTC 2021 GPW28,42515E,Tue Jun 8 19:22:12 UTC 2021
 Airline code "ZSJ", examples:ZSJ0N,00A163,Tue Jun 8 10:29:40 UTC 2021
-Airline code "TYP", examples:TYP31201,43C77B,Tue Jun 8 09:48:00 UTC 2021
 Airline code "DXT", examples:DXT9677,140AE2,Mon Jun 7 22:13:58 UTC 2021
 Airline code "JTN", examples:JTN151,A6CF20,Sat Jun 5 15:22:32 UTC 2021
 Airline code "TVP", examples:TVP7300,49D2EE,Sun May 30 17:03:07 UTC 2021
