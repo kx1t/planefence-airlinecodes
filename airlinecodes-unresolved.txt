@@ -1,6 +1,7 @@
+Airline code "BEI", examples:BEI494,4071AC,Mon Sep 20 15:47:34 UTC 2021
+Airline code "HLY", examples:HLY95,4076F4,Mon Sep 20 15:34:14 UTC 2021
 Airline code "AZV", examples:AZV777,42445B,Mon Sep 20 14:04:58 UTC 2021
 Airline code "FSP", examples:FSP236,A22123,Mon Sep 20 14:31:34 UTC 2021
-Airline code "HLY", examples:HLY95,4076F4,Mon Sep 20 14:49:25 UTC 2021
 Airline code "JNL", examples:JNL111,485D30,Mon Sep 20 14:05:17 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4E,Mon Sep 20 14:04:55 UTC 2021
 Airline code "MJF", examples:MJF65G,4406A2,Mon Sep 20 14:05:12 UTC 2021
