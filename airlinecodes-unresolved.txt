@@ -1,9 +1,9 @@
+Airline code "AZV", examples:AZV777,42445B,Mon Sep 20 03:07:26 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4E,Mon Sep 20 02:04:20 UTC 2021
 Airline code "RLI", examples:RLI904,AC7F1E,Mon Sep 20 00:36:24 UTC 2021 RLI904,AC7F1E,Mon Sep 20 00:29:57 UTC 2021
 Airline code "GJE", examples:GJE510,ABFE5A,Sun Sep 19 23:19:36 UTC 2021
 Airline code "NYX", examples:NYX429,511147,Sun Sep 19 19:55:23 UTC 2021
 Airline code "XLS", examples:XLS451,A3FFA0,Sun Sep 19 19:07:16 UTC 2021
-Airline code "AZV", examples:AZV777,42445E,Sun Sep 19 18:05:07 UTC 2021
 Airline code "FOX", examples:FOX1362,478E7A,Sun Sep 19 18:05:05 UTC 2021
 Airline code "JAF", examples:JAF8WE,44D0A1,Sun Sep 19 18:17:41 UTC 2021
 Airline code "NWC", examples:NWC9016,1427E0,Sun Sep 19 18:06:00 UTC 2021
