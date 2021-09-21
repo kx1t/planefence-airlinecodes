@@ -1,3 +1,4 @@
+Airline code "FJO", examples:FJO54A,4D2330,Tue Sep 21 14:05:36 UTC 2021
 Airline code "AEG", examples:AEG445,5110C8,Tue Sep 21 13:04:49 UTC 2021
 Airline code "AZV", examples:AZV777,42445B,Tue Sep 21 13:04:58 UTC 2021
 Airline code "EPI", examples:EPI595,A1083B,Tue Sep 21 13:14:47 UTC 2021
@@ -76,7 +77,6 @@ Airline code "HLL", examples:HLL45,407924,Thu Sep 16 08:00:19 UTC 2021
 Airline code "TLI", examples:TLI246,3D069C,Thu Sep 16 07:31:21 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Wed Sep 15 22:50:16 UTC 2021
 Airline code "RTG", examples:RTG5210,47923C,Wed Sep 15 10:58:20 UTC 2021 RTG5210,47923C,Wed Sep 15 10:58:18 UTC 2021
-Airline code "FJO", examples:FJO54A,4D2330,Wed Sep 15 09:55:20 UTC 2021 FJO54A,4D2330,Wed Sep 15 09:55:17 UTC 2021
 Airline code "CDX", examples:CDX554,748053,Wed Sep 15 07:27:19 UTC 2021 CDX554,748053,Wed Sep 15 07:27:16 UTC 2021
 Airline code "EFF", examples:EFF006,4CAB82,Wed Sep 15 06:19:18 UTC 2021 EFF006,4CAB82,Wed Sep 15 06:19:16 UTC 2021
 Airline code "EMM", examples:EMM006,4D2168,Tue Sep 14 18:17:46 UTC 2021
