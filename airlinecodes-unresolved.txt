@@ -1,6 +1,6 @@
+Airline code "VKG", examples:VKG1132,45D068,Tue Sep 21 05:36:24 UTC 2021
 Airline code "LHA", examples:LHA4225,7BC007,Tue Sep 21 04:43:23 UTC 2021
 Airline code "AEG", examples:AEG445,5110C8,Tue Sep 21 03:50:21 UTC 2021
-Airline code "VKG", examples:VKG4531,45D963,Tue Sep 21 03:09:21 UTC 2021
 Airline code "GJE", examples:GJE510,ABFE5A,Mon Sep 20 23:18:05 UTC 2021
 Airline code "NYX", examples:NYX429,511147,Mon Sep 20 20:16:15 UTC 2021
 Airline code "HPK", examples:HPK09,A9767B,Mon Sep 20 19:59:11 UTC 2021
