@@ -1,3 +1,4 @@
+Airline code "AZV", examples:AZV111,424475,Wed Sep 22 18:05:09 UTC 2021
 Airline code "BFD", examples:BFD22T,3C9654,Wed Sep 22 17:04:54 UTC 2021
 Airline code "JNL", examples:JNL1284,48630E,Wed Sep 22 17:51:27 UTC 2021
 Airline code "JTD", examples:JTD218,45AB4D,Wed Sep 22 17:06:52 UTC 2021
@@ -10,7 +11,6 @@ Airline code "HON", examples:HON53,A4FC1D,Wed Sep 22 16:21:54 UTC 2021
 Airline code "IBJ", examples:IBJ822D,3453CD,Wed Sep 22 16:05:34 UTC 2021
 Airline code "JAF", examples:JAF5LM,44A82C,Wed Sep 22 16:08:15 UTC 2021
 Airline code "JEI", examples:JEI434,3CC194,Wed Sep 22 16:15:56 UTC 2021
-Airline code "AZV", examples:AZV111,424475,Wed Sep 22 15:04:59 UTC 2021
 Airline code "EEV", examples:EEV4853,A4A0B4,Wed Sep 22 15:39:01 UTC 2021
 Airline code "ASJ", examples:ASJ256,398675,Wed Sep 22 14:13:53 UTC 2021
 Airline code "CSB", examples:CSB588,C025D2,Wed Sep 22 13:19:55 UTC 2021
