@@ -1,7 +1,9 @@
+Airline code "AZV", examples:AZV111,424475,Wed Sep 22 07:04:38 UTC 2021
+Airline code "FSF", examples:FSF100A,4643C5,Wed Sep 22 07:35:53 UTC 2021
+Airline code "RUK", examples:RUK3677,40775C,Wed Sep 22 07:56:36 UTC 2021
+Airline code "VKG", examples:VKG1739,45D963,Wed Sep 22 07:04:33 UTC 2021
 Airline code "JTD", examples:JTD217,45AB4D,Wed Sep 22 06:42:31 UTC 2021
 Airline code "SZS", examples:SZS525,4CAFCD,Wed Sep 22 06:52:32 UTC 2021
-Airline code "AZV", examples:AZV111,424475,Wed Sep 22 03:26:22 UTC 2021
-Airline code "VKG", examples:VKG1739,45D963,Wed Sep 22 03:04:21 UTC 2021
 Airline code "JAV", examples:JAV4497,742AC2,Wed Sep 22 00:38:48 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Wed Sep 22 00:43:19 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Sep 21 22:53:17 UTC 2021
@@ -55,7 +57,6 @@ Airline code "XGO", examples:XGO2KB,3E4082,Sat Sep 18 20:05:57 UTC 2021
 Airline code "NDL", examples:NDL350,C05D71,Sat Sep 18 19:31:39 UTC 2021 NDL350,C05D71,Sat Sep 18 19:23:02 UTC 2021
 Airline code "TBJ", examples:TBJ91,A6BC98,Sat Sep 18 15:00:55 UTC 2021
 Airline code "VKA", examples:VKA100,5083A2,Sat Sep 18 15:56:32 UTC 2021
-Airline code "FSF", examples:FSF433F,4633EC,Sat Sep 18 14:46:42 UTC 2021
 Airline code "GSH", examples:GSH090,896403,Sat Sep 18 12:47:45 UTC 2021 GSH090,896403,Sat Sep 18 12:47:33 UTC 2021
 Airline code "OOI", examples:OOI13,44A7C9,Sat Sep 18 11:17:16 UTC 2021
 Airline code "EUK", examples:EUK2202,407BE2,Sat Sep 18 09:29:48 UTC 2021
@@ -91,7 +92,6 @@ Airline code "NTF", examples:NTF459M,49D102,Tue Sep 14 07:58:01 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Mon Sep 13 20:05:08 UTC 2021
 Airline code "SYB", examples:SYB233,C055AD,Mon Sep 13 20:05:12 UTC 2021
 Airline code "XCH", examples:XCH511,43E7ED,Mon Sep 13 14:14:04 UTC 2021 XCH511,43E7ED,Mon Sep 13 14:13:59 UTC 2021
-Airline code "RUK", examples:RUK3677,40775C,Sun Sep 12 20:06:02 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Sun Sep 12 19:05:01 UTC 2021
 Airline code "KAY", examples:KAY51,3C00AF,Sun Sep 12 17:11:48 UTC 2021 KAY51,3C00AF,Sun Sep 12 17:11:48 UTC 2021
 Airline code "OHC", examples:OHC213,A1C54E,Sun Sep 12 17:58:38 UTC 2021
