@@ -1,3 +1,4 @@
+Airline code "VKG", examples:VKG1272,45D065,Thu Sep 23 05:53:37 UTC 2021
 Airline code "GCL", examples:GCL3318,3C4D98,Thu Sep 23 03:12:21 UTC 2021
 Airline code "PCT", examples:PCT393,3F9AE8,Thu Sep 23 02:26:22 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Wed Sep 22 22:52:24 UTC 2021
@@ -11,7 +12,6 @@ Airline code "DFC", examples:DFC39M,49D0B0,Wed Sep 22 19:26:55 UTC 2021
 Airline code "JAF", examples:JAF3314,44A82F,Wed Sep 22 19:39:06 UTC 2021
 Airline code "JAV", examples:JAV4492,742AC2,Wed Sep 22 19:00:10 UTC 2021
 Airline code "JEI", examples:JEI434,3CC194,Wed Sep 22 19:06:08 UTC 2021
-Airline code "VKG", examples:VKG1785,45D966,Wed Sep 22 19:06:19 UTC 2021
 Airline code "BFD", examples:BFD22T,3C9654,Wed Sep 22 17:04:54 UTC 2021
 Airline code "JNL", examples:JNL1284,48630E,Wed Sep 22 17:51:27 UTC 2021
 Airline code "BOH", examples:BOH715,49D3AC,Wed Sep 22 16:28:37 UTC 2021
