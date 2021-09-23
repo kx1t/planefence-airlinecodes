@@ -1,3 +1,4 @@
+Airline code "PCT", examples:PCT393,3F9AE8,Thu Sep 23 02:26:22 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Wed Sep 22 22:52:24 UTC 2021
 Airline code "AZV", examples:AZV111,424475,Wed Sep 22 21:05:08 UTC 2021
 Airline code "JTD", examples:JTD218,45AB4D,Wed Sep 22 20:06:26 UTC 2021
@@ -33,7 +34,6 @@ Airline code "AEG", examples:AEG444,5110C8,Tue Sep 21 20:04:56 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Tue Sep 21 20:05:55 UTC 2021
 Airline code "JKH", examples:JKH32A,3E3F1F,Tue Sep 21 20:06:03 UTC 2021
 Airline code "LHA", examples:LHA4225,7BC007,Tue Sep 21 20:05:04 UTC 2021
-Airline code "PCT", examples:PCT388,3F9AE8,Tue Sep 21 20:05:29 UTC 2021
 Airline code "TEK", examples:TEK681,A90821,Tue Sep 21 20:10:59 UTC 2021
 Airline code "VPC", examples:VPC7,511033,Tue Sep 21 20:05:19 UTC 2021
 Airline code "FLJ", examples:FLJ51S,4078E7,Tue Sep 21 16:13:46 UTC 2021
