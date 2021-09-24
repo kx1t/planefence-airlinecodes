@@ -1,3 +1,4 @@
+Airline code "RKS", examples:RKS8,AB5030,Fri Sep 24 08:34:07 UTC 2021
 Airline code "LRQ", examples:LRQ486F,4D0294,Fri Sep 24 07:42:29 UTC 2021
 Airline code "NYX", examples:NYX421,511147,Fri Sep 24 07:54:39 UTC 2021
 Airline code "JTD", examples:JTD377,45AB4D,Fri Sep 24 06:25:29 UTC 2021
