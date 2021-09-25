@@ -1,15 +1,16 @@
+Airline code "AZV", examples:AZV777,42444A,Sat Sep 25 14:05:19 UTC 2021
+Airline code "FLJ", examples:FLJ63T,407BF5,Sat Sep 25 14:11:35 UTC 2021
+Airline code "JAF", examples:JAF914,44AAC1,Sat Sep 25 14:20:41 UTC 2021
+Airline code "JKH", examples:JKH32C,3CE624,Sat Sep 25 14:05:24 UTC 2021
+Airline code "JTD", examples:JTD389,45AB4D,Sat Sep 25 14:05:05 UTC 2021
+Airline code "OOG", examples:OOG88,449C14,Sat Sep 25 14:15:20 UTC 2021
+Airline code "SZS", examples:SZS525,4CAFCD,Sat Sep 25 14:05:13 UTC 2021
+Airline code "VKG", examples:VKG1118,45D964,Sat Sep 25 14:05:01 UTC 2021
 Airline code "FSF", examples:FSF775E,460944,Sat Sep 25 13:57:27 UTC 2021 FSF775E,460944,Sat Sep 25 13:56:55 UTC 2021
 Airline code "JRT", examples:JRT18,ACB5BA,Sat Sep 25 13:46:17 UTC 2021
 Airline code "SAR", examples:SAR770,48A5E9,Sat Sep 25 13:23:16 UTC 2021
-Airline code "FLJ", examples:FLJ63T,407BF5,Sat Sep 25 12:09:17 UTC 2021
-Airline code "SZS", examples:SZS525,4CAFCD,Sat Sep 25 12:05:00 UTC 2021
 Airline code "UJC", examples:UJC35,A08F6A,Sat Sep 25 12:08:45 UTC 2021
-Airline code "AZV", examples:AZV777,42444A,Sat Sep 25 11:05:00 UTC 2021
-Airline code "JKH", examples:JKH32C,3CE624,Sat Sep 25 11:05:05 UTC 2021
-Airline code "JTD", examples:JTD389,45AB4D,Sat Sep 25 11:04:48 UTC 2021
-Airline code "VKG", examples:VKG1118,45D964,Sat Sep 25 11:04:45 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Sat Sep 25 10:52:25 UTC 2021
-Airline code "JAF", examples:JAF8KY,44A826,Sat Sep 25 10:40:37 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Sat Sep 25 10:10:43 UTC 2021
 Airline code "EFF", examples:EFF008,4CA611,Sat Sep 25 09:26:20 UTC 2021
 Airline code "PPJ", examples:PPJ839,AAE0DB,Sat Sep 25 00:20:09 UTC 2021
@@ -114,7 +115,6 @@ Airline code "XCH", examples:XCH511,43E7ED,Mon Sep 13 14:14:04 UTC 2021 XCH511,4
 Airline code "HYS", examples:HYS474,4A08A5,Sun Sep 12 19:05:01 UTC 2021
 Airline code "KAY", examples:KAY51,3C00AF,Sun Sep 12 17:11:48 UTC 2021 KAY51,3C00AF,Sun Sep 12 17:11:48 UTC 2021
 Airline code "OHC", examples:OHC213,A1C54E,Sun Sep 12 17:58:38 UTC 2021
-Airline code "OOG", examples:OOG54,449FF2,Sun Sep 12 11:25:00 UTC 2021
 Airline code "GCK", examples:GCK40,4408D8,Sat Sep 11 14:19:48 UTC 2021 GCK40,4408D8,Sat Sep 11 14:19:48 UTC 2021
 Airline code "OOD", examples:OOD80,44900C,Sat Sep 11 09:19:09 UTC 2021
 Airline code "FRV", examples:FRV0915,02012D,Fri Sep 10 20:40:48 UTC 2021
