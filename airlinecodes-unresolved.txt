@@ -1,8 +1,8 @@
+Airline code "AZV", examples:AZV777,42444A,Sat Sep 25 07:32:39 UTC 2021
 Airline code "SZS", examples:SZS525,4CAFCD,Sat Sep 25 06:50:30 UTC 2021
 Airline code "JTD", examples:JTD389,45AB4D,Sat Sep 25 05:24:24 UTC 2021
 Airline code "VKG", examples:VKG1118,45D964,Sat Sep 25 05:09:23 UTC 2021
 Airline code "PPJ", examples:PPJ839,AAE0DB,Sat Sep 25 00:20:09 UTC 2021
-Airline code "AZV", examples:AZV777,42445E,Fri Sep 24 21:05:47 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Fri Sep 24 20:06:09 UTC 2021
 Airline code "WRC", examples:WRC7007,4D2307,Fri Sep 24 20:06:31 UTC 2021
 Airline code "PCT", examples:PCT396,3F9AE8,Fri Sep 24 19:20:33 UTC 2021
