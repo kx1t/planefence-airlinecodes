@@ -1,9 +1,9 @@
+Airline code "JTD", examples:JTD389,45AB4D,Sat Sep 25 05:24:24 UTC 2021
+Airline code "VKG", examples:VKG1118,45D964,Sat Sep 25 05:09:23 UTC 2021
 Airline code "PPJ", examples:PPJ839,AAE0DB,Sat Sep 25 00:20:09 UTC 2021
 Airline code "AZV", examples:AZV777,42445E,Fri Sep 24 21:05:47 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Fri Sep 24 20:06:09 UTC 2021
-Airline code "JTD", examples:JTD377,45AB4D,Fri Sep 24 20:05:26 UTC 2021
 Airline code "SZS", examples:SZS525,4CAFCD,Fri Sep 24 20:05:29 UTC 2021
-Airline code "VKG", examples:VKG1257,45D069,Fri Sep 24 20:05:57 UTC 2021
 Airline code "WRC", examples:WRC7007,4D2307,Fri Sep 24 20:06:31 UTC 2021
 Airline code "PCT", examples:PCT396,3F9AE8,Fri Sep 24 19:20:33 UTC 2021
 Airline code "FSF", examples:FSF775E,460944,Fri Sep 24 18:34:39 UTC 2021 FSF775E,460944,Fri Sep 24 18:34:38 UTC 2021 FSF775E,460944,Fri Sep 24 18:32:58 UTC 2021
