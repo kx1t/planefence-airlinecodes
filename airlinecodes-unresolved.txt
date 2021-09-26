@@ -1,3 +1,4 @@
+Airline code "PJS", examples:PJS800,4B184E,Sun Sep 26 16:16:47 UTC 2021
 Airline code "BAO", examples:BAO194O,3C5E4F,Sun Sep 26 15:05:30 UTC 2021
 Airline code "BOH", examples:BOH711,49D3AC,Sun Sep 26 15:44:49 UTC 2021
 Airline code "FOX", examples:FOX1362,478DEF,Sun Sep 26 15:05:10 UTC 2021
