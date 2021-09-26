@@ -1,3 +1,4 @@
+Airline code "KSF", examples:KSF251,A1F787,Sun Sep 26 11:42:53 UTC 2021
 Airline code "JAF", examples:JAF5MH,44D2B0,Sun Sep 26 10:42:17 UTC 2021
 Airline code "JEI", examples:JEI474,3CC194,Sun Sep 26 10:54:01 UTC 2021
 Airline code "OOH", examples:OOH93,44A019,Sun Sep 26 10:25:15 UTC 2021
