@@ -1,3 +1,5 @@
+Airline code "FSP", examples:FSP369,A42ED3,Sun Sep 26 20:26:07 UTC 2021
+Airline code "HPK", examples:HPK09,A9767B,Sun Sep 26 20:56:27 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Sun Sep 26 18:39:21 UTC 2021
 Airline code "BAO", examples:BAO195G,3C86C7,Sun Sep 26 17:06:08 UTC 2021
 Airline code "FOX", examples:FOX1363,478DEF,Sun Sep 26 17:05:40 UTC 2021
@@ -71,9 +73,7 @@ Airline code "RJR", examples:RJR005,4D21E5,Tue Sep 21 16:36:44 UTC 2021
 Airline code "GNU", examples:GNU2NF,407BCF,Tue Sep 21 15:23:46 UTC 2021 GNU2NF,407BCF,Tue Sep 21 15:07:00 UTC 2021
 Airline code "EPI", examples:EPI595,A1083B,Tue Sep 21 13:14:47 UTC 2021
 Airline code "GJE", examples:GJE510,ABFE5A,Mon Sep 20 23:18:05 UTC 2021
-Airline code "HPK", examples:HPK09,A9767B,Mon Sep 20 19:59:11 UTC 2021
 Airline code "TYP", examples:TYP00117,43C791,Mon Sep 20 18:53:02 UTC 2021
-Airline code "FSP", examples:FSP181,A145F4,Mon Sep 20 17:13:53 UTC 2021
 Airline code "BEI", examples:BEI494,4071AC,Mon Sep 20 15:47:34 UTC 2021
 Airline code "VND", examples:VND1310,300762,Mon Sep 20 14:45:48 UTC 2021
 Airline code "JME", examples:JME508N,49484E,Mon Sep 20 11:07:36 UTC 2021
