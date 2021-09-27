@@ -1,3 +1,7 @@
+Airline code "FSF", examples:FSF340C,460944,Mon Sep 27 09:14:43 UTC 2021 FSF212X,461852,Mon Sep 27 09:02:44 UTC 2021
+Airline code "GFM", examples:GFM5X,4AC998,Mon Sep 27 09:04:55 UTC 2021
+Airline code "JAF", examples:JAF6LV,44D0A1,Mon Sep 27 09:04:03 UTC 2021
+Airline code "SZS", examples:SZS525,4CAF82,Mon Sep 27 09:04:58 UTC 2021
 Airline code "AZV", examples:AZV777,42445B,Mon Sep 27 08:04:52 UTC 2021
 Airline code "BOH", examples:BOH711,49D3AC,Mon Sep 27 08:47:41 UTC 2021
 Airline code "FLJ", examples:FLJ52R,407A2A,Mon Sep 27 08:48:47 UTC 2021
@@ -6,14 +10,11 @@ Airline code "ULC", examples:ULC21,4D2199,Mon Sep 27 08:43:47 UTC 2021
 Airline code "VKG", examples:VKG1124,45D065,Mon Sep 27 08:04:49 UTC 2021
 Airline code "JNL", examples:JNL111,485D30,Mon Sep 27 07:37:34 UTC 2021
 Airline code "VXS", examples:VXS127,4075CD,Mon Sep 27 07:44:46 UTC 2021
-Airline code "GFM", examples:GFM5X,4AC998,Mon Sep 27 06:43:35 UTC 2021
-Airline code "SZS", examples:SZS525,4CAF82,Mon Sep 27 06:56:37 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Mon Sep 27 02:22:44 UTC 2021 TIV690,A92C9D,Mon Sep 27 02:16:18 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Sun Sep 26 23:26:25 UTC 2021
 Airline code "OHC", examples:OHC213,A1C54E,Sun Sep 26 22:11:26 UTC 2021
 Airline code "BAO", examples:BAO194O,3C5E4F,Sun Sep 26 21:05:42 UTC 2021
 Airline code "FOX", examples:FOX1362,478DEF,Sun Sep 26 21:05:21 UTC 2021
-Airline code "JAF", examples:JAF8WM,44A833,Sun Sep 26 21:37:34 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Sun Sep 26 21:06:43 UTC 2021
 Airline code "MJF", examples:MJF3C,440A8A,Sun Sep 26 21:06:18 UTC 2021
 Airline code "FSP", examples:FSP369,A42ED3,Sun Sep 26 20:26:07 UTC 2021
@@ -31,7 +32,6 @@ Airline code "XLJ", examples:XLJ411,A4D7E0,Sat Sep 25 22:11:18 UTC 2021
 Airline code "KFB", examples:KFB998,ADF0FF,Sat Sep 25 19:19:35 UTC 2021
 Airline code "SAR", examples:SAR770,48A5E9,Sat Sep 25 19:06:06 UTC 2021
 Airline code "OOG", examples:OOG88,449C14,Sat Sep 25 14:15:20 UTC 2021
-Airline code "FSF", examples:FSF775E,460944,Sat Sep 25 13:57:27 UTC 2021 FSF775E,460944,Sat Sep 25 13:56:55 UTC 2021
 Airline code "JRT", examples:JRT18,ACB5BA,Sat Sep 25 13:46:17 UTC 2021
 Airline code "UJC", examples:UJC35,A08F6A,Sat Sep 25 12:08:45 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Sat Sep 25 10:52:25 UTC 2021
