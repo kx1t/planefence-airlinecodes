@@ -1,3 +1,4 @@
+Airline code "TIV", examples:TIV690,A92C9D,Mon Sep 27 02:22:44 UTC 2021 TIV690,A92C9D,Mon Sep 27 02:16:18 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4D,Mon Sep 27 01:04:34 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Sun Sep 26 23:26:25 UTC 2021
 Airline code "OHC", examples:OHC213,A1C54E,Sun Sep 26 22:11:26 UTC 2021
@@ -60,7 +61,6 @@ Airline code "HON", examples:HON53,A4FC1D,Wed Sep 22 16:21:54 UTC 2021
 Airline code "IBJ", examples:IBJ822D,3453CD,Wed Sep 22 16:05:34 UTC 2021
 Airline code "EEV", examples:EEV4853,A4A0B4,Wed Sep 22 15:39:01 UTC 2021
 Airline code "CSB", examples:CSB588,C025D2,Wed Sep 22 13:19:55 UTC 2021
-Airline code "TIV", examples:TIV680,A9051E,Wed Sep 22 12:45:38 UTC 2021
 Airline code "AXE", examples:AXE101P,505CF8,Wed Sep 22 11:32:37 UTC 2021 AXE101P,505CF8,Wed Sep 22 11:27:36 UTC 2021
 Airline code "OOF", examples:OOF81,44980D,Wed Sep 22 10:13:26 UTC 2021
 Airline code "SYB", examples:SYB074,C06A7C,Wed Sep 22 10:21:35 UTC 2021
