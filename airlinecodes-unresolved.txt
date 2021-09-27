@@ -1,3 +1,4 @@
+Airline code "WMN", examples:WMN160,A0F347,Sun Sep 26 23:26:25 UTC 2021
 Airline code "OHC", examples:OHC213,A1C54E,Sun Sep 26 22:11:26 UTC 2021
 Airline code "BAO", examples:BAO194O,3C5E4F,Sun Sep 26 21:05:42 UTC 2021
 Airline code "FOX", examples:FOX1362,478DEF,Sun Sep 26 21:05:21 UTC 2021
@@ -151,7 +152,6 @@ Airline code "FBU", examples:FBU719,39C494,Fri Aug 27 17:28:15 UTC 2021
 Airline code "XEN", examples:XEN89,43E72D,Fri Aug 27 15:02:16 UTC 2021
 Airline code "EEW", examples:EEW5522,AC8B43,Fri Aug 27 02:39:11 UTC 2021
 Airline code "MJS", examples:MJS8012,A1D4DA,Fri Aug 27 02:39:25 UTC 2021
-Airline code "WMN", examples:WMN302,A3280A,Fri Aug 27 02:39:26 UTC 2021
 Airline code "OSF", examples:OSF11T,3F9A92,Mon Aug 23 21:05:30 UTC 2021
 Airline code "SLQ", examples:SLQ726,C07535,Fri Aug 20 03:57:34 UTC 2021
 Airline code "FLT", examples:FLT724TR,A9B421,Wed Aug 18 23:01:41 UTC 2021
