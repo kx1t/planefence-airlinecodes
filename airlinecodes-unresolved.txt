@@ -1,10 +1,10 @@
+Airline code "JTD", examples:JTD574,45AB4D,Mon Sep 27 01:04:34 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Sun Sep 26 23:26:25 UTC 2021
 Airline code "OHC", examples:OHC213,A1C54E,Sun Sep 26 22:11:26 UTC 2021
 Airline code "BAO", examples:BAO194O,3C5E4F,Sun Sep 26 21:05:42 UTC 2021
 Airline code "FOX", examples:FOX1362,478DEF,Sun Sep 26 21:05:21 UTC 2021
 Airline code "JAF", examples:JAF8WM,44A833,Sun Sep 26 21:37:34 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Sun Sep 26 21:06:43 UTC 2021
-Airline code "JTD", examples:JTD573,45AB4E,Sun Sep 26 21:05:20 UTC 2021
 Airline code "MJF", examples:MJF3C,440A8A,Sun Sep 26 21:06:18 UTC 2021
 Airline code "SZS", examples:SZS525,4CAFCD,Sun Sep 26 21:05:27 UTC 2021
 Airline code "VKG", examples:VKG1255,45D963,Sun Sep 26 21:05:10 UTC 2021
