@@ -1,6 +1,6 @@
+Airline code "GFM", examples:GFM1T,4AC994,Tue Sep 28 05:04:31 UTC 2021
+Airline code "VKG", examples:VKG1293,45D963,Tue Sep 28 05:04:33 UTC 2021
 Airline code "JKH", examples:JKH321,3E39E2,Tue Sep 28 04:36:24 UTC 2021
-Airline code "GFM", examples:GFM1T,4AC994,Tue Sep 28 02:04:22 UTC 2021
-Airline code "VKG", examples:VKG1293,45D963,Tue Sep 28 02:04:23 UTC 2021
 Airline code "NCJ", examples:NCJ70,A831FD,Tue Sep 28 01:40:34 UTC 2021
 Airline code "NJM", examples:NJM959,AD579B,Tue Sep 28 00:08:14 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Mon Sep 27 23:03:47 UTC 2021
