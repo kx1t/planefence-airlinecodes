@@ -1,10 +1,11 @@
+Airline code "GFM", examples:GFM1T,4AC994,Tue Sep 28 11:04:45 UTC 2021
+Airline code "JAF", examples:JAF54K,44D2B0,Tue Sep 28 11:54:06 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Tue Sep 28 10:18:03 UTC 2021
 Airline code "JKH", examples:JKH321,3E39E2,Tue Sep 28 10:04:47 UTC 2021
 Airline code "VKG", examples:VKG1293,45D963,Tue Sep 28 10:04:40 UTC 2021
 Airline code "JTD", examples:JTD327,45AB4A,Tue Sep 28 09:05:00 UTC 2021
 Airline code "PCT", examples:PCT402,3F9AE8,Tue Sep 28 09:24:45 UTC 2021
 Airline code "TJD", examples:TJD750,300447,Tue Sep 28 09:04:58 UTC 2021
-Airline code "GFM", examples:GFM1T,4AC994,Tue Sep 28 08:04:40 UTC 2021
 Airline code "VXS", examples:VXS628,407714,Tue Sep 28 08:10:55 UTC 2021
 Airline code "JME", examples:JME515U,4948B5,Tue Sep 28 06:25:55 UTC 2021
 Airline code "NCJ", examples:NCJ70,A831FD,Tue Sep 28 01:40:34 UTC 2021
@@ -19,7 +20,6 @@ Airline code "MJF", examples:MJF71G,440691,Mon Sep 27 21:06:16 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Mon Sep 27 21:05:35 UTC 2021
 Airline code "XGO", examples:XGO4KB,3E3AB8,Mon Sep 27 21:06:32 UTC 2021
 Airline code "BRH", examples:BRH750,00B314,Mon Sep 27 20:09:37 UTC 2021
-Airline code "JAF", examples:JAF582,44A8A6,Mon Sep 27 20:17:29 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Mon Sep 27 15:02:08 UTC 2021
 Airline code "PJS", examples:PJS400,4B18A1,Mon Sep 27 13:38:34 UTC 2021
 Airline code "RDF", examples:RDF9,3DD821,Mon Sep 27 10:41:00 UTC 2021 RDF9,3DD821,Mon Sep 27 10:40:07 UTC 2021
