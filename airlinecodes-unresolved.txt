@@ -1,3 +1,4 @@
+Airline code "AZD", examples:AZD491,4B0139,Mon Sep 27 23:03:47 UTC 2021
 Airline code "AZV", examples:AZV777,42445B,Mon Sep 27 21:05:27 UTC 2021
 Airline code "BOH", examples:BOH711,49D3AC,Mon Sep 27 21:05:49 UTC 2021
 Airline code "FSF", examples:FSF212X,461852,Mon Sep 27 21:05:52 UTC 2021
@@ -56,7 +57,6 @@ Airline code "RTG", examples:RTG5214,47923C,Fri Sep 24 11:21:08 UTC 2021
 Airline code "RKS", examples:RKS8,AB5030,Fri Sep 24 08:34:07 UTC 2021
 Airline code "LRQ", examples:LRQ486F,4D0294,Fri Sep 24 07:42:29 UTC 2021
 Airline code "RLI", examples:RLI525,A69BFD,Thu Sep 23 23:43:30 UTC 2021
-Airline code "AZD", examples:AZD491,4B0139,Thu Sep 23 22:32:32 UTC 2021
 Airline code "GCL", examples:GCL3318,3C4D98,Thu Sep 23 19:05:10 UTC 2021
 Airline code "RKK", examples:RKK38,A14F52,Thu Sep 23 15:09:27 UTC 2021
 Airline code "VAJ", examples:VAJ81M,500116,Thu Sep 23 14:12:27 UTC 2021
