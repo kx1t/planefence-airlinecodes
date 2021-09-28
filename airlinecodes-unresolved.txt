@@ -1,13 +1,13 @@
+Airline code "FLJ", examples:FLJ63T,407BF5,Tue Sep 28 17:19:58 UTC 2021
+Airline code "TJD", examples:TJD750,300447,Tue Sep 28 17:06:12 UTC 2021
+Airline code "VKG", examples:VKG1123,45D064,Tue Sep 28 17:06:59 UTC 2021
 Airline code "AJO", examples:AJO185,4D22DC,Tue Sep 28 16:33:00 UTC 2021
 Airline code "GFM", examples:GFM1T,4AC994,Tue Sep 28 16:04:56 UTC 2021
 Airline code "BAO", examples:BAO200I,3CB089,Tue Sep 28 15:10:42 UTC 2021
 Airline code "JKH", examples:JKH321,3E39E2,Tue Sep 28 15:05:54 UTC 2021
 Airline code "JTD", examples:JTD327,45AB4A,Tue Sep 28 15:05:15 UTC 2021
 Airline code "PCT", examples:PCT402,3F9AE8,Tue Sep 28 15:05:33 UTC 2021
-Airline code "TJD", examples:TJD750,300447,Tue Sep 28 15:05:14 UTC 2021
-Airline code "VKG", examples:VKG1293,45D963,Tue Sep 28 15:04:59 UTC 2021
 Airline code "NYX", examples:NYX427,511147,Tue Sep 28 14:44:21 UTC 2021
-Airline code "FLJ", examples:FLJ51S,4078E7,Tue Sep 28 12:52:57 UTC 2021
 Airline code "OOH", examples:OOH52,44A3F0,Tue Sep 28 12:10:20 UTC 2021
 Airline code "PGN", examples:PGN436,A53AE8,Tue Sep 28 12:28:46 UTC 2021
 Airline code "JAF", examples:JAF54K,44D2B0,Tue Sep 28 11:54:06 UTC 2021
