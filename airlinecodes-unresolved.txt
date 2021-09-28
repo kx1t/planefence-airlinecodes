@@ -1,3 +1,4 @@
+Airline code "NYX", examples:NYX427,511147,Tue Sep 28 14:44:21 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Tue Sep 28 13:05:41 UTC 2021
 Airline code "JKH", examples:JKH321,3E39E2,Tue Sep 28 13:05:00 UTC 2021
 Airline code "FLJ", examples:FLJ51S,4078E7,Tue Sep 28 12:52:57 UTC 2021
@@ -52,7 +53,6 @@ Airline code "EFF", examples:EFF008,4CA611,Sat Sep 25 09:26:20 UTC 2021
 Airline code "PPJ", examples:PPJ839,AAE0DB,Sat Sep 25 00:20:09 UTC 2021
 Airline code "WRC", examples:WRC7007,4D2307,Fri Sep 24 20:06:31 UTC 2021
 Airline code "JLG", examples:JLG304,A32FED,Fri Sep 24 17:51:27 UTC 2021
-Airline code "NYX", examples:NYX427,511147,Fri Sep 24 15:04:56 UTC 2021
 Airline code "DFC", examples:DFC39M,49D0B0,Fri Sep 24 14:01:09 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Fri Sep 24 12:05:30 UTC 2021
 Airline code "RTG", examples:RTG5214,47923C,Fri Sep 24 11:21:08 UTC 2021
