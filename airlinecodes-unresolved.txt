@@ -1,3 +1,4 @@
+Airline code "CSB", examples:CSB188,C025D2,Wed Sep 29 03:11:15 UTC 2021 CSB188,C025D2,Wed Sep 29 03:10:24 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Sep 28 22:29:10 UTC 2021
 Airline code "ULA", examples:ULA317,A361E8,Tue Sep 28 21:00:11 UTC 2021
 Airline code "JKH", examples:JKH321,3E39E2,Tue Sep 28 20:05:13 UTC 2021
@@ -72,7 +73,6 @@ Airline code "BFD", examples:BFD22T,3C9654,Wed Sep 22 17:04:54 UTC 2021
 Airline code "HON", examples:HON53,A4FC1D,Wed Sep 22 16:21:54 UTC 2021
 Airline code "IBJ", examples:IBJ822D,3453CD,Wed Sep 22 16:05:34 UTC 2021
 Airline code "EEV", examples:EEV4853,A4A0B4,Wed Sep 22 15:39:01 UTC 2021
-Airline code "CSB", examples:CSB588,C025D2,Wed Sep 22 13:19:55 UTC 2021
 Airline code "AXE", examples:AXE101P,505CF8,Wed Sep 22 11:32:37 UTC 2021 AXE101P,505CF8,Wed Sep 22 11:27:36 UTC 2021
 Airline code "OOF", examples:OOF81,44980D,Wed Sep 22 10:13:26 UTC 2021
 Airline code "SYB", examples:SYB074,C06A7C,Wed Sep 22 10:21:35 UTC 2021
