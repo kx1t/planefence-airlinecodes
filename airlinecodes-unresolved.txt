@@ -1,3 +1,4 @@
+Airline code "JAF", examples:JAF3314,44A833,Wed Sep 29 19:29:07 UTC 2021
 Airline code "JAV", examples:JAV4492,742AC2,Wed Sep 29 18:03:30 UTC 2021
 Airline code "JKH", examples:JKH321,3E39E2,Wed Sep 29 18:06:04 UTC 2021
 Airline code "JTD", examples:JTD9001,45AA90,Wed Sep 29 18:05:33 UTC 2021
@@ -15,7 +16,6 @@ Airline code "FLJ", examples:FLJ53F,407ADC,Wed Sep 29 15:23:06 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Wed Sep 29 14:36:40 UTC 2021
 Airline code "NYX", examples:NYX427,511147,Wed Sep 29 14:59:13 UTC 2021
 Airline code "WMN", examples:WMN528,A6A8A1,Wed Sep 29 14:36:40 UTC 2021
-Airline code "JAF", examples:JAF914,44A82F,Wed Sep 29 13:31:51 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Wed Sep 29 12:37:50 UTC 2021
 Airline code "JME", examples:JME515U,4948B5,Wed Sep 29 11:25:04 UTC 2021
 Airline code "CSB", examples:CSB188,C025D2,Wed Sep 29 03:11:15 UTC 2021 CSB188,C025D2,Wed Sep 29 03:10:24 UTC 2021
