@@ -1,3 +1,4 @@
+Airline code "JAF", examples:JAF85D,44A98F,Thu Sep 30 18:16:00 UTC 2021
 Airline code "FLJ", examples:FLJ53F,407ADC,Thu Sep 30 17:59:15 UTC 2021
 Airline code "RDN", examples:RDN723,A6E6E2,Thu Sep 30 17:57:20 UTC 2021 RDN723,A6E6E2,Thu Sep 30 17:56:45 UTC 2021 RDN723,A6E6E2,Thu Sep 30 17:55:43 UTC 2021
 Airline code "AZV", examples:AZV777,42445E,Thu Sep 30 16:05:36 UTC 2021
@@ -9,7 +10,6 @@ Airline code "JKH", examples:JKH32C,3CE624,Thu Sep 30 15:05:16 UTC 2021
 Airline code "JTD", examples:JTD567,45AB4D,Thu Sep 30 15:05:31 UTC 2021
 Airline code "VKG", examples:VKG1785,45D966,Thu Sep 30 15:04:59 UTC 2021
 Airline code "NYX", examples:NYX427,511147,Thu Sep 30 14:53:50 UTC 2021
-Airline code "JAF", examples:JAF45G,44D2B0,Thu Sep 30 12:24:22 UTC 2021
 Airline code "XGO", examples:XGO3TH,3E4082,Thu Sep 30 12:36:13 UTC 2021
 Airline code "SAR", examples:SAR110,48A5E2,Thu Sep 30 01:10:28 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Wed Sep 29 22:31:45 UTC 2021
