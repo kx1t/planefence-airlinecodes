@@ -1,3 +1,4 @@
+Airline code "RDN", examples:RDN723,A6E6E2,Wed Sep 29 23:34:43 UTC 2021 RDN723,A6E6E2,Wed Sep 29 23:31:36 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Wed Sep 29 22:31:45 UTC 2021
 Airline code "JKH", examples:JKH321,3E39E2,Wed Sep 29 21:05:58 UTC 2021
 Airline code "BAO", examples:BAO200I,3CB089,Wed Sep 29 20:06:18 UTC 2021
@@ -120,7 +121,6 @@ Airline code "UWD", examples:UWD86,ADC2FF,Fri Sep 17 11:35:06 UTC 2021
 Airline code "JNY", examples:JNY297,A310C9,Thu Sep 16 22:52:19 UTC 2021
 Airline code "HOB", examples:HOB5,A43BF3,Thu Sep 16 21:57:36 UTC 2021
 Airline code "LKF", examples:LKF79,A6CE07,Thu Sep 16 16:13:00 UTC 2021
-Airline code "RDN", examples:RDN803,AB79E3,Thu Sep 16 10:46:28 UTC 2021 RDN803,AB79E3,Thu Sep 16 10:46:22 UTC 2021
 Airline code "CDX", examples:CDX554,748053,Wed Sep 15 07:27:19 UTC 2021 CDX554,748053,Wed Sep 15 07:27:16 UTC 2021
 Airline code "EMM", examples:EMM006,4D2168,Tue Sep 14 18:17:46 UTC 2021
 Airline code "ICF", examples:ICF201,5000B9,Tue Sep 14 16:01:15 UTC 2021 ICF201,5000B9,Tue Sep 14 16:01:14 UTC 2021
