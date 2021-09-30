@@ -1,3 +1,4 @@
+Airline code "NYX", examples:NYX420,511147,Thu Sep 30 03:12:47 UTC 2021
 Airline code "SAR", examples:SAR110,48A5E2,Thu Sep 30 01:10:28 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Thu Sep 30 00:24:25 UTC 2021
 Airline code "VKG", examples:VKG1785,45D966,Thu Sep 30 00:22:25 UTC 2021
@@ -8,7 +9,6 @@ Airline code "BAO", examples:BAO200I,3CB089,Wed Sep 29 20:06:18 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Wed Sep 29 20:06:29 UTC 2021
 Airline code "JTD", examples:JTD218,45AB4A,Wed Sep 29 20:06:31 UTC 2021
 Airline code "NJM", examples:NJM959,AD579B,Wed Sep 29 20:23:33 UTC 2021
-Airline code "NYX", examples:NYX429,511147,Wed Sep 29 20:12:33 UTC 2021
 Airline code "SZS", examples:SZS528,4CAF82,Wed Sep 29 20:06:36 UTC 2021
 Airline code "VPC", examples:VPC2,51111F,Wed Sep 29 20:06:08 UTC 2021
 Airline code "WRC", examples:WRC7008,4D2307,Wed Sep 29 20:06:22 UTC 2021
