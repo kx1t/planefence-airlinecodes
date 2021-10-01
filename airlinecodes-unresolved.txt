@@ -1,3 +1,7 @@
+Airline code "AZV", examples:AZV945,42444A,Fri Oct 1 03:52:49 UTC 2021 AZV556,42447A,Fri Oct 1 03:04:34 UTC 2021
+Airline code "CSB", examples:CSB188,C025D2,Fri Oct 1 03:48:44 UTC 2021 CSB188,C025D2,Fri Oct 1 03:47:48 UTC 2021
+Airline code "NYX", examples:NYX420,511147,Fri Oct 1 03:16:11 UTC 2021
+Airline code "VKG", examples:VKG9211,45D067,Fri Oct 1 03:04:33 UTC 2021
 Airline code "FGR", examples:FGR620,A81441,Thu Sep 30 23:18:39 UTC 2021
 Airline code "PGN", examples:PGN900,AC70AC,Thu Sep 30 23:07:53 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Thu Sep 30 22:21:10 UTC 2021
@@ -7,13 +11,10 @@ Airline code "JLG", examples:JLG533,A6BD51,Thu Sep 30 21:30:58 UTC 2021 JLG533,A
 Airline code "JNL", examples:JNL0870,4858C7,Thu Sep 30 19:14:37 UTC 2021
 Airline code "FLJ", examples:FLJ53F,407ADC,Thu Sep 30 17:59:15 UTC 2021
 Airline code "RDN", examples:RDN723,A6E6E2,Thu Sep 30 17:57:20 UTC 2021 RDN723,A6E6E2,Thu Sep 30 17:56:45 UTC 2021 RDN723,A6E6E2,Thu Sep 30 17:55:43 UTC 2021
-Airline code "AZV", examples:AZV777,42445E,Thu Sep 30 16:05:36 UTC 2021
 Airline code "UWD", examples:UWD56,A0E0CC,Thu Sep 30 16:15:10 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Thu Sep 30 15:05:00 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Thu Sep 30 15:05:16 UTC 2021
 Airline code "JTD", examples:JTD567,45AB4D,Thu Sep 30 15:05:31 UTC 2021
-Airline code "VKG", examples:VKG1785,45D966,Thu Sep 30 15:04:59 UTC 2021
-Airline code "NYX", examples:NYX427,511147,Thu Sep 30 14:53:50 UTC 2021
 Airline code "XGO", examples:XGO3TH,3E4082,Thu Sep 30 12:36:13 UTC 2021
 Airline code "SAR", examples:SAR110,48A5E2,Thu Sep 30 01:10:28 UTC 2021
 Airline code "BAO", examples:BAO200I,3CB089,Wed Sep 29 20:06:18 UTC 2021
@@ -30,7 +31,6 @@ Airline code "FJO", examples:FJO62L,4D2342,Wed Sep 29 14:36:40 UTC 2021
 Airline code "WMN", examples:WMN528,A6A8A1,Wed Sep 29 14:36:40 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Wed Sep 29 12:37:50 UTC 2021
 Airline code "JME", examples:JME515U,4948B5,Wed Sep 29 11:25:04 UTC 2021
-Airline code "CSB", examples:CSB188,C025D2,Wed Sep 29 03:11:15 UTC 2021 CSB188,C025D2,Wed Sep 29 03:10:24 UTC 2021
 Airline code "ULA", examples:ULA317,A361E8,Tue Sep 28 21:00:11 UTC 2021
 Airline code "TJD", examples:TJD750,300447,Tue Sep 28 20:05:23 UTC 2021
 Airline code "BRH", examples:BRH720,00B314,Tue Sep 28 18:58:06 UTC 2021
