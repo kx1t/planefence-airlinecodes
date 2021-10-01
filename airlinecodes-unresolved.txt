@@ -1,3 +1,7 @@
+Airline code "EFF", examples:EFF006,4CAB82,Fri Oct 1 07:26:18 UTC 2021
+Airline code "GFM", examples:GFM6Y,4AC999,Fri Oct 1 07:05:32 UTC 2021
+Airline code "JIV", examples:JIV9,4AC90A,Fri Oct 1 07:34:35 UTC 2021
+Airline code "SYB", examples:SYB233,C055AD,Fri Oct 1 07:05:33 UTC 2021
 Airline code "AZV", examples:AZV777,42445B,Fri Oct 1 06:55:10 UTC 2021 AZV556,42447A,Fri Oct 1 06:04:40 UTC 2021
 Airline code "PCT", examples:PCT410,3F9AE8,Fri Oct 1 06:25:39 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Fri Oct 1 06:58:43 UTC 2021
@@ -20,7 +24,6 @@ Airline code "JKH", examples:JKH32C,3CE624,Thu Sep 30 15:05:16 UTC 2021
 Airline code "XGO", examples:XGO3TH,3E4082,Thu Sep 30 12:36:13 UTC 2021
 Airline code "SAR", examples:SAR110,48A5E2,Thu Sep 30 01:10:28 UTC 2021
 Airline code "BAO", examples:BAO200I,3CB089,Wed Sep 29 20:06:18 UTC 2021
-Airline code "GFM", examples:GFM6Y,4AC999,Wed Sep 29 20:06:29 UTC 2021
 Airline code "NJM", examples:NJM959,AD579B,Wed Sep 29 20:23:33 UTC 2021
 Airline code "VPC", examples:VPC2,51111F,Wed Sep 29 20:06:08 UTC 2021
 Airline code "WRC", examples:WRC7008,4D2307,Wed Sep 29 20:06:22 UTC 2021
@@ -64,7 +67,6 @@ Airline code "OOG", examples:OOG88,449C14,Sat Sep 25 14:15:20 UTC 2021
 Airline code "JRT", examples:JRT18,ACB5BA,Sat Sep 25 13:46:17 UTC 2021
 Airline code "UJC", examples:UJC35,A08F6A,Sat Sep 25 12:08:45 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Sat Sep 25 10:52:25 UTC 2021
-Airline code "EFF", examples:EFF008,4CA611,Sat Sep 25 09:26:20 UTC 2021
 Airline code "PPJ", examples:PPJ839,AAE0DB,Sat Sep 25 00:20:09 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Fri Sep 24 12:05:30 UTC 2021
 Airline code "RTG", examples:RTG5214,47923C,Fri Sep 24 11:21:08 UTC 2021
@@ -83,7 +85,6 @@ Airline code "IBJ", examples:IBJ822D,3453CD,Wed Sep 22 16:05:34 UTC 2021
 Airline code "EEV", examples:EEV4853,A4A0B4,Wed Sep 22 15:39:01 UTC 2021
 Airline code "AXE", examples:AXE101P,505CF8,Wed Sep 22 11:32:37 UTC 2021 AXE101P,505CF8,Wed Sep 22 11:27:36 UTC 2021
 Airline code "OOF", examples:OOF81,44980D,Wed Sep 22 10:13:26 UTC 2021
-Airline code "SYB", examples:SYB074,C06A7C,Wed Sep 22 10:21:35 UTC 2021
 Airline code "UAQ", examples:UAQ01,400EE1,Wed Sep 22 10:38:02 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Wed Sep 22 00:43:19 UTC 2021
 Airline code "AEG", examples:AEG444,5110C8,Tue Sep 21 20:04:56 UTC 2021
