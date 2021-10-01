@@ -1,3 +1,4 @@
+Airline code "JTD", examples:JTD531,45AB4D,Fri Oct 1 05:58:34 UTC 2021
 Airline code "AZV", examples:AZV945,42444A,Fri Oct 1 03:52:49 UTC 2021 AZV556,42447A,Fri Oct 1 03:04:34 UTC 2021
 Airline code "CSB", examples:CSB188,C025D2,Fri Oct 1 03:48:44 UTC 2021 CSB188,C025D2,Fri Oct 1 03:47:48 UTC 2021
 Airline code "NYX", examples:NYX420,511147,Fri Oct 1 03:16:11 UTC 2021
@@ -14,7 +15,6 @@ Airline code "RDN", examples:RDN723,A6E6E2,Thu Sep 30 17:57:20 UTC 2021 RDN723,A
 Airline code "UWD", examples:UWD56,A0E0CC,Thu Sep 30 16:15:10 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Thu Sep 30 15:05:00 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Thu Sep 30 15:05:16 UTC 2021
-Airline code "JTD", examples:JTD567,45AB4D,Thu Sep 30 15:05:31 UTC 2021
 Airline code "XGO", examples:XGO3TH,3E4082,Thu Sep 30 12:36:13 UTC 2021
 Airline code "SAR", examples:SAR110,48A5E2,Thu Sep 30 01:10:28 UTC 2021
 Airline code "BAO", examples:BAO200I,3CB089,Wed Sep 29 20:06:18 UTC 2021
