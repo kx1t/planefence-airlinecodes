@@ -1,3 +1,4 @@
+Airline code "FOX", examples:FOX1364,478E7A,Sat Oct 2 13:35:13 UTC 2021
 Airline code "AZV", examples:AZV778,42445B,Sat Oct 2 12:04:44 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Sat Oct 2 11:05:09 UTC 2021
 Airline code "JTD", examples:JTD389,45AB4A,Sat Oct 2 11:04:50 UTC 2021
@@ -62,7 +63,6 @@ Airline code "TLI", examples:TLI249,3D069C,Mon Sep 27 10:59:11 UTC 2021
 Airline code "ULC", examples:ULC21,4D2199,Mon Sep 27 08:43:47 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Mon Sep 27 02:22:44 UTC 2021 TIV690,A92C9D,Mon Sep 27 02:16:18 UTC 2021
 Airline code "OHC", examples:OHC213,A1C54E,Sun Sep 26 22:11:26 UTC 2021
-Airline code "FOX", examples:FOX1362,478DEF,Sun Sep 26 21:05:21 UTC 2021
 Airline code "HPK", examples:HPK09,A9767B,Sun Sep 26 20:56:27 UTC 2021
 Airline code "SYO", examples:SYO03,40327F,Sun Sep 26 15:18:29 UTC 2021
 Airline code "ASJ", examples:ASJ200,39C8A9,Sun Sep 26 13:05:41 UTC 2021
