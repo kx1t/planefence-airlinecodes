@@ -1,3 +1,4 @@
+Airline code "DFC", examples:DFC4DA,49D44A,Sat Oct 2 07:10:21 UTC 2021
 Airline code "AZV", examples:AZV778,42445B,Sat Oct 2 06:04:30 UTC 2021
 Airline code "JTD", examples:JTD389,45AB4A,Sat Oct 2 05:43:26 UTC 2021
 Airline code "VKG", examples:VKG1118,45D067,Sat Oct 2 05:04:27 UTC 2021
@@ -39,7 +40,6 @@ Airline code "SAR", examples:SAR110,48A5E2,Thu Sep 30 01:10:28 UTC 2021
 Airline code "NJM", examples:NJM959,AD579B,Wed Sep 29 20:23:33 UTC 2021
 Airline code "VPC", examples:VPC2,51111F,Wed Sep 29 20:06:08 UTC 2021
 Airline code "JAV", examples:JAV4492,742AC2,Wed Sep 29 18:03:30 UTC 2021
-Airline code "DFC", examples:DFC4DA,49D44A,Wed Sep 29 17:12:07 UTC 2021
 Airline code "EAU", examples:EAU57B,4D2308,Wed Sep 29 15:17:30 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Wed Sep 29 14:36:40 UTC 2021
 Airline code "WMN", examples:WMN528,A6A8A1,Wed Sep 29 14:36:40 UTC 2021
