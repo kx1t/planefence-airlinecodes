@@ -1,3 +1,4 @@
+Airline code "AZV", examples:AZV778,42445B,Sat Oct 2 02:47:24 UTC 2021
 Airline code "JCT", examples:JCT73,A9D062,Fri Oct 1 21:00:33 UTC 2021
 Airline code "PGN", examples:PGN900,AC70AC,Fri Oct 1 21:28:32 UTC 2021
 Airline code "VKG", examples:VKG1105,45D064,Fri Oct 1 21:06:48 UTC 2021
@@ -9,7 +10,6 @@ Airline code "RDN", examples:RDN037,A6F207,Fri Oct 1 20:14:34 UTC 2021 RDN037,A6
 Airline code "RSY", examples:RSY9005,4CA9F1,Fri Oct 1 20:05:58 UTC 2021
 Airline code "SYB", examples:SYB233,C055AD,Fri Oct 1 20:05:42 UTC 2021
 Airline code "WRC", examples:WRC7007,4D22A8,Fri Oct 1 20:06:57 UTC 2021
-Airline code "AZV", examples:AZV777,42445B,Fri Oct 1 19:05:30 UTC 2021
 Airline code "BAO", examples:BAO203G,3C86C7,Fri Oct 1 19:06:21 UTC 2021
 Airline code "GJW", examples:GJW29LO,484499,Fri Oct 1 19:06:46 UTC 2021
 Airline code "HDM", examples:HDM02,AC1C2F,Fri Oct 1 19:27:31 UTC 2021
