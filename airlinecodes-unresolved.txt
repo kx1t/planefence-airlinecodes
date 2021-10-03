@@ -1,5 +1,6 @@
+Airline code "HYS", examples:HYS474,4A08A5,Sun Oct 3 01:04:22 UTC 2021
+Airline code "VKG", examples:VKG1255,45D963,Sun Oct 3 01:04:19 UTC 2021
 Airline code "JAF", examples:JAF3202,44D1A1,Sat Oct 2 23:17:02 UTC 2021
-Airline code "VKG", examples:VKG1255,45D963,Sat Oct 2 22:28:19 UTC 2021
 Airline code "XLS", examples:XLS950,A674DC,Sat Oct 2 20:11:49 UTC 2021
 Airline code "AZV", examples:AZV778,42445B,Sat Oct 2 18:05:03 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Sat Oct 2 17:05:27 UTC 2021
@@ -40,7 +41,6 @@ Airline code "FGR", examples:FGR620,A81441,Thu Sep 30 23:18:39 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Thu Sep 30 22:21:10 UTC 2021
 Airline code "JLG", examples:JLG533,A6BD51,Thu Sep 30 21:30:58 UTC 2021 JLG533,A6BD51,Thu Sep 30 21:30:37 UTC 2021 JLG533,A6BD51,Thu Sep 30 21:29:35 UTC 2021
 Airline code "UWD", examples:UWD56,A0E0CC,Thu Sep 30 16:15:10 UTC 2021
-Airline code "HYS", examples:HYS474,4A08A5,Thu Sep 30 15:05:00 UTC 2021
 Airline code "XGO", examples:XGO3TH,3E4082,Thu Sep 30 12:36:13 UTC 2021
 Airline code "SAR", examples:SAR110,48A5E2,Thu Sep 30 01:10:28 UTC 2021
 Airline code "NJM", examples:NJM959,AD579B,Wed Sep 29 20:23:33 UTC 2021
