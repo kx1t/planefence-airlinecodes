@@ -1,11 +1,12 @@
+Airline code "AZV", examples:AZV777,42445E,Sun Oct 3 13:04:59 UTC 2021
+Airline code "HYS", examples:HYS474,4A08A5,Sun Oct 3 13:55:11 UTC 2021 HYS474,4A08A5,Sun Oct 3 13:44:16 UTC 2021 HYS474,4A08A5,Sun Oct 3 13:41:27 UTC 2021 HYS474,4A08A5,Sun Oct 3 13:04:48 UTC 2021
+Airline code "JKH", examples:JKH321,3E39E2,Sun Oct 3 13:10:21 UTC 2021
+Airline code "JTD", examples:JTD573,45AB4D,Sun Oct 3 13:05:01 UTC 2021
+Airline code "VKG", examples:VKG1268,45D963,Sun Oct 3 13:04:53 UTC 2021
 Airline code "FLJ", examples:FLJ53F,407ADC,Sun Oct 3 12:41:41 UTC 2021 FLJ53F,407ADC,Sun Oct 3 12:08:32 UTC 2021
 Airline code "FOX", examples:FOX1362,478E7A,Sun Oct 3 12:04:57 UTC 2021
-Airline code "HYS", examples:HYS474,4A08A5,Sun Oct 3 12:41:04 UTC 2021 HYS474,4A08A5,Sun Oct 3 12:31:10 UTC 2021 HYS474,4A08A5,Sun Oct 3 12:25:34 UTC 2021 HYS474,4A08A5,Sun Oct 3 12:04:43 UTC 2021
 Airline code "OCJ", examples:OCJ102,50011B,Sun Oct 3 12:26:08 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Sun Oct 3 12:05:01 UTC 2021
-Airline code "AZV", examples:AZV777,42445E,Sun Oct 3 11:04:52 UTC 2021
-Airline code "JTD", examples:JTD573,45AB4D,Sun Oct 3 11:04:53 UTC 2021
-Airline code "VKG", examples:VKG1255,45D963,Sun Oct 3 11:04:38 UTC 2021
 Airline code "JAF", examples:JAF5MH,44D1B9,Sun Oct 3 10:30:39 UTC 2021
 Airline code "EXD", examples:EXD004,0080FC,Sun Oct 3 07:14:11 UTC 2021
 Airline code "XLS", examples:XLS950,A674DC,Sat Oct 2 20:11:49 UTC 2021
@@ -18,7 +19,6 @@ Airline code "JCT", examples:JCT73,A9D062,Fri Oct 1 21:00:33 UTC 2021
 Airline code "PGN", examples:PGN900,AC70AC,Fri Oct 1 21:28:32 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Fri Oct 1 20:05:41 UTC 2021
 Airline code "JIV", examples:JIV9,4AC90A,Fri Oct 1 20:05:46 UTC 2021
-Airline code "JKH", examples:JKH32C,3CE624,Fri Oct 1 20:06:25 UTC 2021
 Airline code "PCT", examples:PCT410,3F9AE8,Fri Oct 1 20:05:36 UTC 2021
 Airline code "RDN", examples:RDN037,A6F207,Fri Oct 1 20:14:34 UTC 2021 RDN037,A6F207,Fri Oct 1 20:13:29 UTC 2021
 Airline code "RSY", examples:RSY9005,4CA9F1,Fri Oct 1 20:05:58 UTC 2021
