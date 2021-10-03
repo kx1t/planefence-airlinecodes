@@ -1,3 +1,4 @@
+Airline code "JAF", examples:JAF3202,44D1A1,Sat Oct 2 23:17:02 UTC 2021
 Airline code "VKG", examples:VKG1255,45D963,Sat Oct 2 22:28:19 UTC 2021
 Airline code "XLS", examples:XLS950,A674DC,Sat Oct 2 20:11:49 UTC 2021
 Airline code "AZV", examples:AZV778,42445B,Sat Oct 2 18:05:03 UTC 2021
@@ -6,7 +7,6 @@ Airline code "FOX", examples:FOX1364,478E7A,Sat Oct 2 17:05:58 UTC 2021
 Airline code "JTD", examples:JTD389,45AB4A,Sat Oct 2 17:05:09 UTC 2021
 Airline code "MLM", examples:MLM007,4D2306,Sat Oct 2 17:56:26 UTC 2021
 Airline code "JSH", examples:JSH301,47183B,Sat Oct 2 15:45:29 UTC 2021
-Airline code "JAF", examples:JAF3VA,44A833,Sat Oct 2 10:16:49 UTC 2021
 Airline code "LLK", examples:LLK501,46988B,Sat Oct 2 09:10:09 UTC 2021
 Airline code "OOH", examples:OOH74,44A006,Sat Oct 2 08:58:08 UTC 2021
 Airline code "DFC", examples:DFC4DA,49D44A,Sat Oct 2 07:10:21 UTC 2021
