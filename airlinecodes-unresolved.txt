@@ -1,13 +1,14 @@
+Airline code "FLJ", examples:FLJ63T,407BF5,Sun Oct 3 15:17:33 UTC 2021 FLJ53F,407ADC,Sun Oct 3 15:05:32 UTC 2021
+Airline code "HYS", examples:HYS474,4A08A5,Sun Oct 3 15:04:54 UTC 2021
+Airline code "JTD", examples:JTD420,45AB4A,Sun Oct 3 15:05:48 UTC 2021
+Airline code "MJF", examples:MJF319,44071E,Sun Oct 3 15:44:47 UTC 2021
+Airline code "OCJ", examples:OCJ102,50011B,Sun Oct 3 15:05:27 UTC 2021
+Airline code "VKG", examples:VKG1268,45D963,Sun Oct 3 15:05:00 UTC 2021
 Airline code "FOX", examples:FOX1362,478E7A,Sun Oct 3 14:08:34 UTC 2021
-Airline code "HYS", examples:HYS474,4A08A5,Sun Oct 3 14:08:22 UTC 2021 HYS474,4A08A5,Sun Oct 3 14:04:50 UTC 2021
 Airline code "JSH", examples:JSH300,47183B,Sun Oct 3 14:29:20 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Sun Oct 3 14:08:38 UTC 2021
 Airline code "AZV", examples:AZV777,42445E,Sun Oct 3 13:04:59 UTC 2021
 Airline code "JKH", examples:JKH321,3E39E2,Sun Oct 3 13:10:21 UTC 2021
-Airline code "JTD", examples:JTD573,45AB4D,Sun Oct 3 13:05:01 UTC 2021
-Airline code "VKG", examples:VKG1268,45D963,Sun Oct 3 13:04:53 UTC 2021
-Airline code "FLJ", examples:FLJ53F,407ADC,Sun Oct 3 12:41:41 UTC 2021 FLJ53F,407ADC,Sun Oct 3 12:08:32 UTC 2021
-Airline code "OCJ", examples:OCJ102,50011B,Sun Oct 3 12:26:08 UTC 2021
 Airline code "JAF", examples:JAF5MH,44D1B9,Sun Oct 3 10:30:39 UTC 2021
 Airline code "EXD", examples:EXD004,0080FC,Sun Oct 3 07:14:11 UTC 2021
 Airline code "XLS", examples:XLS950,A674DC,Sat Oct 2 20:11:49 UTC 2021
@@ -58,7 +59,6 @@ Airline code "AJO", examples:AJO185,4D22DC,Tue Sep 28 16:33:00 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Tue Sep 28 10:18:03 UTC 2021
 Airline code "NCJ", examples:NCJ70,A831FD,Tue Sep 28 01:40:34 UTC 2021
 Airline code "BOH", examples:BOH711,49D3AC,Mon Sep 27 21:05:49 UTC 2021
-Airline code "MJF", examples:MJF71G,440691,Mon Sep 27 21:06:16 UTC 2021
 Airline code "PJS", examples:PJS400,4B18A1,Mon Sep 27 13:38:34 UTC 2021
 Airline code "RDF", examples:RDF9,3DD821,Mon Sep 27 10:41:00 UTC 2021 RDF9,3DD821,Mon Sep 27 10:40:07 UTC 2021
 Airline code "TLI", examples:TLI249,3D069C,Mon Sep 27 10:59:11 UTC 2021
