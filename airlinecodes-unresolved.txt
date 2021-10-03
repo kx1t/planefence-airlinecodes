@@ -1,8 +1,8 @@
-Airline code "HYS", examples:HYS474,4A08A5,Sun Oct 3 04:04:22 UTC 2021
+Airline code "AZV", examples:AZV777,42445E,Sun Oct 3 05:49:27 UTC 2021
+Airline code "HYS", examples:HYS474,4A08A5,Sun Oct 3 05:04:25 UTC 2021
 Airline code "VKG", examples:VKG1255,45D963,Sun Oct 3 04:04:20 UTC 2021
 Airline code "JAF", examples:JAF3202,44D1A1,Sat Oct 2 23:17:02 UTC 2021
 Airline code "XLS", examples:XLS950,A674DC,Sat Oct 2 20:11:49 UTC 2021
-Airline code "AZV", examples:AZV778,42445B,Sat Oct 2 18:05:03 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Sat Oct 2 17:05:27 UTC 2021
 Airline code "FOX", examples:FOX1364,478E7A,Sat Oct 2 17:05:58 UTC 2021
 Airline code "JTD", examples:JTD389,45AB4A,Sat Oct 2 17:05:09 UTC 2021
