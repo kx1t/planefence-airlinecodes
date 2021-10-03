@@ -1,16 +1,16 @@
+Airline code "FOX", examples:FOX1362,478E7A,Sun Oct 3 17:05:16 UTC 2021
+Airline code "HYS", examples:HYS474,4A08A5,Sun Oct 3 17:05:01 UTC 2021
+Airline code "JAF", examples:JAF89J,44A836,Sun Oct 3 17:45:35 UTC 2021
+Airline code "JKH", examples:JKH321,3E39E2,Sun Oct 3 17:25:20 UTC 2021
+Airline code "SZS", examples:SZS525,4CAF82,Sun Oct 3 17:05:20 UTC 2021
+Airline code "VKG", examples:VKG1268,45D963,Sun Oct 3 17:05:06 UTC 2021
 Airline code "AZV", examples:AZV777,42445E,Sun Oct 3 16:05:09 UTC 2021
-Airline code "HYS", examples:HYS474,4A08A5,Sun Oct 3 16:04:58 UTC 2021
-Airline code "JKH", examples:JKH321,3E39E2,Sun Oct 3 16:05:55 UTC 2021
 Airline code "JTZ", examples:JTZ328,A38D34,Sun Oct 3 16:28:23 UTC 2021
 Airline code "FLJ", examples:FLJ63T,407BF5,Sun Oct 3 15:17:33 UTC 2021 FLJ53F,407ADC,Sun Oct 3 15:05:32 UTC 2021
 Airline code "JTD", examples:JTD420,45AB4A,Sun Oct 3 15:05:48 UTC 2021
 Airline code "MJF", examples:MJF319,44071E,Sun Oct 3 15:44:47 UTC 2021
 Airline code "OCJ", examples:OCJ102,50011B,Sun Oct 3 15:05:27 UTC 2021
-Airline code "VKG", examples:VKG1268,45D963,Sun Oct 3 15:05:00 UTC 2021
-Airline code "FOX", examples:FOX1362,478E7A,Sun Oct 3 14:08:34 UTC 2021
 Airline code "JSH", examples:JSH300,47183B,Sun Oct 3 14:29:20 UTC 2021
-Airline code "SZS", examples:SZS525,4CAF82,Sun Oct 3 14:08:38 UTC 2021
-Airline code "JAF", examples:JAF5MH,44D1B9,Sun Oct 3 10:30:39 UTC 2021
 Airline code "EXD", examples:EXD004,0080FC,Sun Oct 3 07:14:11 UTC 2021
 Airline code "XLS", examples:XLS950,A674DC,Sat Oct 2 20:11:49 UTC 2021
 Airline code "MLM", examples:MLM007,4D2306,Sat Oct 2 17:56:26 UTC 2021
