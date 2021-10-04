@@ -1,6 +1,6 @@
+Airline code "AZV", examples:AZV941,42445D,Mon Oct 4 06:04:32 UTC 2021
+Airline code "JTD", examples:JTD574,45AB4D,Mon Oct 4 06:04:30 UTC 2021
 Airline code "VKG", examples:VKG1124,45D067,Mon Oct 4 05:26:26 UTC 2021
-Airline code "AZV", examples:AZV941,42445D,Mon Oct 4 03:04:25 UTC 2021
-Airline code "JTD", examples:JTD574,45AB4D,Mon Oct 4 03:04:21 UTC 2021
 Airline code "NYX", examples:NYX420,511147,Mon Oct 4 03:16:56 UTC 2021
 Airline code "JAF", examples:JAF99E,44A9CC,Mon Oct 4 01:46:59 UTC 2021
 Airline code "FLJ", examples:FLJ53F,407ADC,Sun Oct 3 21:05:48 UTC 2021
