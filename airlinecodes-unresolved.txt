@@ -1,3 +1,4 @@
+Airline code "SZS", examples:SZS526,4CAF82,Mon Oct 4 10:29:55 UTC 2021
 Airline code "AZV", examples:AZV941,42445D,Mon Oct 4 09:04:45 UTC 2021
 Airline code "DFC", examples:DFC55P,49D0F9,Mon Oct 4 09:56:49 UTC 2021
 Airline code "JAF", examples:JAF8KG,44D1A2,Mon Oct 4 09:34:01 UTC 2021
@@ -13,7 +14,6 @@ Airline code "MJF", examples:MJF319,44071E,Sun Oct 3 21:06:25 UTC 2021
 Airline code "OCJ", examples:OCJ102,50011B,Sun Oct 3 21:05:44 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Sun Oct 3 21:54:22 UTC 2021
 Airline code "FOX", examples:FOX1362,478E7A,Sun Oct 3 20:05:22 UTC 2021
-Airline code "SZS", examples:SZS525,4CAF82,Sun Oct 3 20:05:27 UTC 2021
 Airline code "RDN", examples:RDN036,A6DBBD,Sun Oct 3 18:54:14 UTC 2021
 Airline code "RLI", examples:RLI969,AD7E93,Sun Oct 3 18:34:00 UTC 2021
 Airline code "JTZ", examples:JTZ328,A38D34,Sun Oct 3 16:28:23 UTC 2021
