@@ -1,3 +1,5 @@
+Airline code "BRH", examples:BRH750,00B314,Tue Oct 5 20:01:40 UTC 2021
+Airline code "NYX", examples:NYX786,51113C,Tue Oct 5 20:34:30 UTC 2021
 Airline code "AZV", examples:AZV6632,3749F5,Tue Oct 5 19:06:28 UTC 2021
 Airline code "BJN", examples:BJN099,7807FC,Tue Oct 5 19:06:18 UTC 2021
 Airline code "CSG", examples:CSG2573,7805AA,Tue Oct 5 19:05:33 UTC 2021
@@ -22,7 +24,6 @@ Airline code "VLZ", examples:VLZ348A,43EB60,Tue Oct 5 16:26:09 UTC 2021
 Airline code "HPK", examples:HPK09,A9767B,Tue Oct 5 15:19:26 UTC 2021
 Airline code "CSB", examples:CSB588,C025D2,Tue Oct 5 12:23:19 UTC 2021
 Airline code "JAF", examples:JAF5MH,44AAC1,Tue Oct 5 12:02:35 UTC 2021
-Airline code "NYX", examples:NYX952,51113C,Tue Oct 5 10:21:05 UTC 2021
 Airline code "TIV", examples:TIV600,A7C926,Mon Oct 4 23:40:07 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Mon Oct 4 22:38:11 UTC 2021
 Airline code "FWR", examples:FWR1049,A0FE84,Mon Oct 4 21:41:07 UTC 2021
@@ -73,7 +74,6 @@ Airline code "WMN", examples:WMN528,A6A8A1,Wed Sep 29 14:36:40 UTC 2021
 Airline code "JME", examples:JME515U,4948B5,Wed Sep 29 11:25:04 UTC 2021
 Airline code "ULA", examples:ULA317,A361E8,Tue Sep 28 21:00:11 UTC 2021
 Airline code "TJD", examples:TJD750,300447,Tue Sep 28 20:05:23 UTC 2021
-Airline code "BRH", examples:BRH720,00B314,Tue Sep 28 18:58:06 UTC 2021
 Airline code "AJO", examples:AJO185,4D22DC,Tue Sep 28 16:33:00 UTC 2021
 Airline code "NCJ", examples:NCJ70,A831FD,Tue Sep 28 01:40:34 UTC 2021
 Airline code "BOH", examples:BOH711,49D3AC,Mon Sep 27 21:05:49 UTC 2021
