@@ -1,9 +1,11 @@
+Airline code "BJN", examples:BJN099,7807FC,Tue Oct 5 15:46:46 UTC 2021
+Airline code "HPK", examples:HPK09,A9767B,Tue Oct 5 15:19:26 UTC 2021
+Airline code "XLS", examples:XLS451,A3FFA0,Tue Oct 5 15:19:39 UTC 2021
 Airline code "JTD", examples:JTD328,45AB4E,Tue Oct 5 13:00:06 UTC 2021
 Airline code "KAY", examples:KAY53,3C70B8,Tue Oct 5 13:16:34 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Tue Oct 5 13:16:35 UTC 2021
 Airline code "SZS", examples:SZS526,4CAF82,Tue Oct 5 13:05:25 UTC 2021
 Airline code "VPC", examples:VPC3,5110F1,Tue Oct 5 13:16:51 UTC 2021
-Airline code "XLS", examples:XLS451,A3FFA0,Tue Oct 5 13:15:41 UTC 2021
 Airline code "CSB", examples:CSB588,C025D2,Tue Oct 5 12:23:19 UTC 2021
 Airline code "CSG", examples:CSG2573,7805AA,Tue Oct 5 12:05:12 UTC 2021
 Airline code "FSF", examples:FSF195G,46316E,Tue Oct 5 12:05:07 UTC 2021
@@ -76,7 +78,6 @@ Airline code "RDF", examples:RDF9,3DD821,Mon Sep 27 10:41:00 UTC 2021 RDF9,3DD82
 Airline code "TLI", examples:TLI249,3D069C,Mon Sep 27 10:59:11 UTC 2021
 Airline code "ULC", examples:ULC21,4D2199,Mon Sep 27 08:43:47 UTC 2021
 Airline code "OHC", examples:OHC213,A1C54E,Sun Sep 26 22:11:26 UTC 2021
-Airline code "HPK", examples:HPK09,A9767B,Sun Sep 26 20:56:27 UTC 2021
 Airline code "SYO", examples:SYO03,40327F,Sun Sep 26 15:18:29 UTC 2021
 Airline code "ASJ", examples:ASJ200,39C8A9,Sun Sep 26 13:05:41 UTC 2021
 Airline code "LWG", examples:LWG491,4D214B,Sun Sep 26 13:57:21 UTC 2021
