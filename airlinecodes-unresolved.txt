@@ -1,3 +1,4 @@
+Airline code "AZD", examples:AZD491,4B0139,Tue Oct 5 22:38:41 UTC 2021
 Airline code "AZV", examples:AZV6634,42444A,Tue Oct 5 21:06:40 UTC 2021
 Airline code "JAF", examples:JAF7CX,44D1A1,Tue Oct 5 21:21:29 UTC 2021
 Airline code "MJF", examples:MJF73G,4404D0,Tue Oct 5 21:06:29 UTC 2021
@@ -25,7 +26,6 @@ Airline code "VLZ", examples:VLZ348A,43EB60,Tue Oct 5 16:26:09 UTC 2021
 Airline code "HPK", examples:HPK09,A9767B,Tue Oct 5 15:19:26 UTC 2021
 Airline code "CSB", examples:CSB588,C025D2,Tue Oct 5 12:23:19 UTC 2021
 Airline code "TIV", examples:TIV600,A7C926,Mon Oct 4 23:40:07 UTC 2021
-Airline code "AZD", examples:AZD491,4B0139,Mon Oct 4 22:38:11 UTC 2021
 Airline code "FWR", examples:FWR1049,A0FE84,Mon Oct 4 21:41:07 UTC 2021
 Airline code "HYS", examples:HYS244,4A4D79,Mon Oct 4 21:06:43 UTC 2021
 Airline code "DFC", examples:DFC55P,49D0F9,Mon Oct 4 20:05:57 UTC 2021
