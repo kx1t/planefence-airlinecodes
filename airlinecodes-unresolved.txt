@@ -1,3 +1,4 @@
+Airline code "JKH", examples:JKH32C,3CE624,Wed Oct 6 05:57:29 UTC 2021
 Airline code "AZV", examples:AZV778,42445B,Wed Oct 6 04:04:25 UTC 2021
 Airline code "TIV", examples:TIV688,A922D6,Tue Oct 5 23:52:43 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Oct 5 22:38:41 UTC 2021
@@ -38,7 +39,6 @@ Airline code "FLJ", examples:FLJ53T,407ADC,Mon Oct 4 17:38:14 UTC 2021
 Airline code "KFB", examples:KFB60,A7C583,Mon Oct 4 16:10:02 UTC 2021
 Airline code "MJS", examples:MJS4431,AC38AF,Mon Oct 4 12:43:42 UTC 2021
 Airline code "BFD", examples:BFD04K,3CBDEB,Mon Oct 4 07:45:55 UTC 2021
-Airline code "JKH", examples:JKH321,3E39E2,Sun Oct 3 21:06:08 UTC 2021
 Airline code "OCJ", examples:OCJ102,50011B,Sun Oct 3 21:05:44 UTC 2021
 Airline code "FOX", examples:FOX1362,478E7A,Sun Oct 3 20:05:22 UTC 2021
 Airline code "JTZ", examples:JTZ328,A38D34,Sun Oct 3 16:28:23 UTC 2021
