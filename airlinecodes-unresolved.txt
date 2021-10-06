@@ -1,3 +1,4 @@
+Airline code "LWG", examples:LWG1571,39AE32,Wed Oct 6 11:05:11 UTC 2021
 Airline code "AZV", examples:AZV778,42445B,Wed Oct 6 10:04:54 UTC 2021
 Airline code "JAF", examples:JAF36E,44A8A2,Wed Oct 6 10:19:08 UTC 2021
 Airline code "SZS", examples:SZS526,4CAF82,Wed Oct 6 10:41:03 UTC 2021
@@ -7,7 +8,6 @@ Airline code "JTD", examples:JTD217,45AB4A,Wed Oct 6 09:05:01 UTC 2021
 Airline code "VKG", examples:VKG1452,45D066,Wed Oct 6 09:05:04 UTC 2021
 Airline code "VXS", examples:VXS106,4075CD,Wed Oct 6 09:47:46 UTC 2021
 Airline code "FLJ", examples:FLJ63T,407BF5,Wed Oct 6 08:09:03 UTC 2021
-Airline code "LWG", examples:LWG1571,39AE32,Wed Oct 6 08:22:36 UTC 2021
 Airline code "TIV", examples:TIV688,A922D6,Tue Oct 5 23:52:43 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Oct 5 22:38:41 UTC 2021
 Airline code "MJF", examples:MJF73G,4404D0,Tue Oct 5 21:06:29 UTC 2021
