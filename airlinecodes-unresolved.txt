@@ -1,6 +1,6 @@
+Airline code "AZV", examples:AZV778,42445B,Wed Oct 6 04:04:25 UTC 2021
 Airline code "TIV", examples:TIV688,A922D6,Tue Oct 5 23:52:43 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Oct 5 22:38:41 UTC 2021
-Airline code "AZV", examples:AZV6634,42444A,Tue Oct 5 21:06:40 UTC 2021
 Airline code "JAF", examples:JAF7CX,44D1A1,Tue Oct 5 21:21:29 UTC 2021
 Airline code "MJF", examples:MJF73G,4404D0,Tue Oct 5 21:06:29 UTC 2021
 Airline code "RSJ", examples:RSJ9619,424650,Tue Oct 5 21:06:28 UTC 2021
