@@ -1,4 +1,5 @@
-Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 7 05:04:26 UTC 2021 HYS474,4A08A5,Thu Oct 7 05:04:25 UTC 2021 HYS474,4A08A5,Thu Oct 7 05:04:24 UTC 2021
+Airline code "FSF", examples:FSF700P,461A82,Thu Oct 7 06:34:36 UTC 2021
+Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 7 06:04:30 UTC 2021 HYS474,4A08A5,Thu Oct 7 06:04:29 UTC 2021 HYS474,4A08A5,Thu Oct 7 06:04:28 UTC 2021
 Airline code "JSH", examples:JSH401,472FCE,Thu Oct 7 05:52:50 UTC 2021
 Airline code "KLJ", examples:KLJ346P,503CB9,Thu Oct 7 05:57:28 UTC 2021
 Airline code "VKG", examples:VKG1272,45D963,Thu Oct 7 05:07:22 UTC 2021
@@ -21,7 +22,6 @@ Airline code "FLJ", examples:FLJ61H,407AE1,Wed Oct 6 17:54:33 UTC 2021
 Airline code "FTD", examples:FTD508,A657AA,Wed Oct 6 17:33:51 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Wed Oct 6 17:27:57 UTC 2021
 Airline code "JAV", examples:JAV4492,742AC2,Wed Oct 6 16:50:33 UTC 2021
-Airline code "FSF", examples:FSF18E,463C6A,Wed Oct 6 14:33:13 UTC 2021
 Airline code "TIV", examples:TIV688,A922D6,Tue Oct 5 23:52:43 UTC 2021
 Airline code "MJF", examples:MJF73G,4404D0,Tue Oct 5 21:06:29 UTC 2021
 Airline code "RSJ", examples:RSJ9619,424650,Tue Oct 5 21:06:28 UTC 2021
