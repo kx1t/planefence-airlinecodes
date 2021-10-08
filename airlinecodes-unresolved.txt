@@ -1,3 +1,4 @@
+Airline code "JBC", examples:JBC496B,A4D521,Thu Oct 7 23:18:48 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Thu Oct 7 22:41:13 UTC 2021
 Airline code "JTD", examples:JTD568,45AB4D,Thu Oct 7 22:01:05 UTC 2021
 Airline code "VKG", examples:VKG1177,45D064,Thu Oct 7 22:31:18 UTC 2021
@@ -19,7 +20,6 @@ Airline code "JCO", examples:JCO7X,4077BE,Thu Oct 7 17:40:52 UTC 2021
 Airline code "TIV", examples:TIV685,A917B1,Thu Oct 7 17:22:47 UTC 2021 TIV685,A917B1,Thu Oct 7 17:18:42 UTC 2021
 Airline code "VND", examples:VND1315,440B43,Thu Oct 7 16:19:53 UTC 2021
 Airline code "FSF", examples:FSF700P,461A82,Thu Oct 7 13:57:13 UTC 2021 FSF700P,461A82,Thu Oct 7 13:57:12 UTC 2021
-Airline code "JBC", examples:JBC496B,A4D521,Thu Oct 7 13:35:29 UTC 2021
 Airline code "MOZ", examples:MOZ309,4402FF,Thu Oct 7 13:57:15 UTC 2021 MOZ309,4402FF,Thu Oct 7 13:57:13 UTC 2021
 Airline code "FTD", examples:FTD508,A657AA,Thu Oct 7 12:13:29 UTC 2021
 Airline code "KAF", examples:KAF3228,7061F5,Thu Oct 7 11:21:02 UTC 2021
