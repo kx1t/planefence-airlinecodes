@@ -1,3 +1,5 @@
+Airline code "JKH", examples:JKH32C,3CE624,Fri Oct 8 08:36:35 UTC 2021
+Airline code "LWG", examples:LWG1571,39AE32,Fri Oct 8 08:34:35 UTC 2021
 Airline code "FSF", examples:FSF700P,461A82,Fri Oct 8 07:13:16 UTC 2021
 Airline code "MLM", examples:MLM241,4D2125,Fri Oct 8 07:42:26 UTC 2021
 Airline code "JTD", examples:JTD377,45AB4E,Fri Oct 8 06:28:28 UTC 2021
@@ -30,8 +32,6 @@ Airline code "BJN", examples:BJN099,7807FC,Wed Oct 6 21:18:43 UTC 2021
 Airline code "CJY", examples:CJY972,C02876,Wed Oct 6 21:12:33 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 6 21:05:42 UTC 2021
 Airline code "JEI", examples:JEI131,3CD003,Wed Oct 6 21:06:37 UTC 2021
-Airline code "JKH", examples:JKH32C,3CE624,Wed Oct 6 21:05:20 UTC 2021
-Airline code "LWG", examples:LWG1571,39AE32,Wed Oct 6 20:05:36 UTC 2021
 Airline code "AZV", examples:AZV778,42445B,Wed Oct 6 19:05:07 UTC 2021
 Airline code "BRH", examples:BRH747,00B314,Wed Oct 6 19:28:39 UTC 2021
 Airline code "JCL", examples:JCL2,3CC95A,Wed Oct 6 18:06:55 UTC 2021
