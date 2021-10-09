@@ -1,3 +1,4 @@
+Airline code "TIV", examples:TIV707,A97076,Fri Oct 8 23:07:01 UTC 2021
 Airline code "JAF", examples:JAF5CD,44D1A1,Fri Oct 8 21:03:47 UTC 2021
 Airline code "JCL", examples:JCL2,3CC95A,Fri Oct 8 21:06:49 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Fri Oct 8 21:05:28 UTC 2021
@@ -33,7 +34,6 @@ Airline code "JTZ", examples:JTZ374,A443D3,Thu Oct 7 20:59:08 UTC 2021 JTZ374,A4
 Airline code "BAO", examples:BAO215G,3C86C7,Thu Oct 7 19:06:36 UTC 2021
 Airline code "SAR", examples:SAR139,48A5E2,Thu Oct 7 19:05:52 UTC 2021
 Airline code "JCO", examples:JCO7X,4077BE,Thu Oct 7 17:40:52 UTC 2021
-Airline code "TIV", examples:TIV685,A917B1,Thu Oct 7 17:22:47 UTC 2021 TIV685,A917B1,Thu Oct 7 17:18:42 UTC 2021
 Airline code "VND", examples:VND1315,440B43,Thu Oct 7 16:19:53 UTC 2021
 Airline code "FTD", examples:FTD508,A657AA,Thu Oct 7 12:13:29 UTC 2021
 Airline code "KAF", examples:KAF3228,7061F5,Thu Oct 7 11:21:02 UTC 2021
