@@ -1,8 +1,9 @@
+Airline code "GJE", examples:GJE1209,A0765E,Sat Oct 9 04:39:12 UTC 2021
+Airline code "VKG", examples:VKG1118,45D064,Sat Oct 9 04:56:24 UTC 2021
 Airline code "TIV", examples:TIV707,A97076,Fri Oct 8 23:07:01 UTC 2021
 Airline code "JAF", examples:JAF5CD,44D1A1,Fri Oct 8 21:03:47 UTC 2021
 Airline code "JCL", examples:JCL2,3CC95A,Fri Oct 8 21:06:49 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Fri Oct 8 21:05:28 UTC 2021
-Airline code "VKG", examples:VKG1104,45D064,Fri Oct 8 21:05:33 UTC 2021
 Airline code "MJS", examples:MJS4481,AC38AF,Fri Oct 8 20:45:38 UTC 2021
 Airline code "RTG", examples:RTG5220,47923C,Fri Oct 8 20:05:28 UTC 2021
 Airline code "BFD", examples:BFD08K,3CBDEB,Fri Oct 8 19:06:25 UTC 2021
@@ -121,7 +122,6 @@ Airline code "LHA", examples:LHA4225,7BC007,Tue Sep 21 20:05:04 UTC 2021
 Airline code "RJR", examples:RJR005,4D21E5,Tue Sep 21 16:36:44 UTC 2021
 Airline code "GNU", examples:GNU2NF,407BCF,Tue Sep 21 15:23:46 UTC 2021 GNU2NF,407BCF,Tue Sep 21 15:07:00 UTC 2021
 Airline code "EPI", examples:EPI595,A1083B,Tue Sep 21 13:14:47 UTC 2021
-Airline code "GJE", examples:GJE510,ABFE5A,Mon Sep 20 23:18:05 UTC 2021
 Airline code "TYP", examples:TYP00117,43C791,Mon Sep 20 18:53:02 UTC 2021
 Airline code "BEI", examples:BEI494,4071AC,Mon Sep 20 15:47:34 UTC 2021
 Airline code "NWC", examples:NWC9016,1427E0,Sun Sep 19 18:06:00 UTC 2021
