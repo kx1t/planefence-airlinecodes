@@ -1,3 +1,4 @@
+Airline code "GLH", examples:GLH1,A16AAD,Sat Oct 9 06:29:28 UTC 2021
 Airline code "JTD", examples:JTD519,45AB4E,Sat Oct 9 05:51:35 UTC 2021
 Airline code "GJE", examples:GJE1209,A0765E,Sat Oct 9 04:39:12 UTC 2021
 Airline code "VKG", examples:VKG1118,45D064,Sat Oct 9 04:56:24 UTC 2021
