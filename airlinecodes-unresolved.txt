@@ -1,17 +1,18 @@
+Airline code "AZV", examples:AZV777,42444A,Sat Oct 9 13:05:43 UTC 2021
+Airline code "FOX", examples:FOX1364,478E7A,Sat Oct 9 13:25:44 UTC 2021
+Airline code "JLG", examples:JLG533,A6BD51,Sat Oct 9 13:33:24 UTC 2021
+Airline code "MLM", examples:MLM007,4D2306,Sat Oct 9 13:05:40 UTC 2021
+Airline code "OOH", examples:OOH01,44A3BD,Sat Oct 9 13:38:20 UTC 2021
+Airline code "TWI", examples:TWI1332,4BD181,Sat Oct 9 13:05:35 UTC 2021
 Airline code "GLH", examples:GLH1,A16AAD,Sat Oct 9 12:05:22 UTC 2021
 Airline code "JTD", examples:JTD519,45AB4E,Sat Oct 9 12:05:00 UTC 2021
 Airline code "KAY", examples:KAY59,3C5CEC,Sat Oct 9 12:09:26 UTC 2021
 Airline code "OOG", examples:OOG54,449FF2,Sat Oct 9 12:35:36 UTC 2021
 Airline code "PCT", examples:PCT428,3F9AE8,Sat Oct 9 12:05:26 UTC 2021
-Airline code "FOX", examples:FOX1230,478DEF,Sat Oct 9 11:17:04 UTC 2021
 Airline code "OOF", examples:OOF60,449BF8,Sat Oct 9 11:19:31 UTC 2021
 Airline code "OOI", examples:OOI20,44A7D0,Sat Oct 9 11:42:12 UTC 2021
 Airline code "VKG", examples:VKG1247,45D963,Sat Oct 9 11:52:06 UTC 2021
-Airline code "AZV", examples:AZV777,42444A,Sat Oct 9 10:48:53 UTC 2021
-Airline code "MLM", examples:MLM007,4D2306,Sat Oct 9 10:35:53 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Sat Oct 9 10:07:31 UTC 2021
-Airline code "TWI", examples:TWI1332,4BD181,Sat Oct 9 10:05:49 UTC 2021
-Airline code "OOH", examples:OOH49,44A3ED,Sat Oct 9 09:51:28 UTC 2021
 Airline code "JCO", examples:JCO5,424BBF,Sat Oct 9 07:53:12 UTC 2021
 Airline code "GJE", examples:GJE1209,A0765E,Sat Oct 9 04:39:12 UTC 2021
 Airline code "TIV", examples:TIV707,A97076,Fri Oct 8 23:07:01 UTC 2021
@@ -84,7 +85,6 @@ Airline code "NJF", examples:NJF3XM,490D0A,Fri Oct 1 14:58:20 UTC 2021
 Airline code "OMM", examples:OMM233,505C31,Fri Oct 1 14:22:48 UTC 2021 OMM233,505C31,Fri Oct 1 14:22:21 UTC 2021
 Airline code "EFF", examples:EFF006,4CAB82,Fri Oct 1 07:26:18 UTC 2021
 Airline code "FGR", examples:FGR620,A81441,Thu Sep 30 23:18:39 UTC 2021
-Airline code "JLG", examples:JLG533,A6BD51,Thu Sep 30 21:30:58 UTC 2021 JLG533,A6BD51,Thu Sep 30 21:30:37 UTC 2021 JLG533,A6BD51,Thu Sep 30 21:29:35 UTC 2021
 Airline code "UWD", examples:UWD56,A0E0CC,Thu Sep 30 16:15:10 UTC 2021
 Airline code "XGO", examples:XGO3TH,3E4082,Thu Sep 30 12:36:13 UTC 2021
 Airline code "EAU", examples:EAU57B,4D2308,Wed Sep 29 15:17:30 UTC 2021
