@@ -1,3 +1,4 @@
+Airline code "FOX", examples:FOX1362,478DEF,Sun Oct 10 05:52:31 UTC 2021
 Airline code "EGC", examples:EGC690,A92BBD,Sun Oct 10 03:53:09 UTC 2021
 Airline code "JTD", examples:JTD520,45AB4E,Sun Oct 10 01:04:20 UTC 2021
 Airline code "TIV", examples:TIV707,A97076,Sun Oct 10 01:19:57 UTC 2021
@@ -13,7 +14,6 @@ Airline code "KAY", examples:KAY59,3C5CEC,Sat Oct 9 18:06:07 UTC 2021
 Airline code "MLM", examples:MLM007,4D2306,Sat Oct 9 18:05:53 UTC 2021
 Airline code "PCT", examples:PCT428,3F9AE8,Sat Oct 9 18:05:42 UTC 2021
 Airline code "TWI", examples:TWI1332,4BD181,Sat Oct 9 18:05:48 UTC 2021
-Airline code "FOX", examples:FOX1230,478DEF,Sat Oct 9 17:05:57 UTC 2021
 Airline code "JCL", examples:JCL1,3CF106,Sat Oct 9 17:31:38 UTC 2021
 Airline code "BFD", examples:BFD09K,3CBDEB,Sat Oct 9 16:14:16 UTC 2021
 Airline code "JSX", examples:JSX220,A2384B,Sat Oct 9 16:30:51 UTC 2021
