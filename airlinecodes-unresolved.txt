@@ -1,3 +1,4 @@
+Airline code "KLJ", examples:KLJ252P,503CB7,Sun Oct 10 13:38:38 UTC 2021
 Airline code "FOX", examples:FOX1362,478DEF,Sun Oct 10 12:05:04 UTC 2021
 Airline code "JEI", examples:JEI272,3CC57C,Sun Oct 10 12:08:05 UTC 2021
 Airline code "JTD", examples:JTD520,45AB4E,Sun Oct 10 12:04:50 UTC 2021
@@ -34,7 +35,6 @@ Airline code "RTG", examples:RTG5220,47923C,Fri Oct 8 20:05:28 UTC 2021
 Airline code "DCW", examples:DCW1,4D2184,Fri Oct 8 19:06:51 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Fri Oct 8 19:05:42 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Fri Oct 8 19:05:38 UTC 2021
-Airline code "KLJ", examples:KLJ2526,503CB7,Fri Oct 8 19:05:52 UTC 2021
 Airline code "LWG", examples:LWG1571,39AE32,Fri Oct 8 19:05:36 UTC 2021
 Airline code "VPC", examples:VPC2,51111F,Fri Oct 8 19:06:50 UTC 2021
 Airline code "NJM", examples:NJM455,A585E4,Fri Oct 8 18:10:26 UTC 2021
