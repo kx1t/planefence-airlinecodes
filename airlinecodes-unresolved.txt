@@ -1,8 +1,8 @@
+Airline code "JTD", examples:JTD520,45AB4E,Sun Oct 10 06:04:29 UTC 2021
+Airline code "VKG", examples:VKG1255,45D963,Sun Oct 10 06:04:27 UTC 2021
 Airline code "FOX", examples:FOX1362,478DEF,Sun Oct 10 05:52:31 UTC 2021
 Airline code "EGC", examples:EGC690,A92BBD,Sun Oct 10 03:53:09 UTC 2021
-Airline code "JTD", examples:JTD520,45AB4E,Sun Oct 10 01:04:20 UTC 2021
 Airline code "TIV", examples:TIV707,A97076,Sun Oct 10 01:19:57 UTC 2021
-Airline code "VKG", examples:VKG1255,45D963,Sun Oct 10 01:04:19 UTC 2021
 Airline code "XLS", examples:XLS950,A674DC,Sun Oct 10 00:34:07 UTC 2021
 Airline code "JAF", examples:JAF3322,44B438,Sat Oct 9 20:51:58 UTC 2021
 Airline code "TJD", examples:TJD975,300829,Sat Oct 9 20:02:40 UTC 2021
