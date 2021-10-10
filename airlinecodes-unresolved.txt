@@ -1,11 +1,11 @@
+Airline code "FOX", examples:FOX1363,478DEF,Sun Oct 10 19:05:55 UTC 2021
+Airline code "JTD", examples:JTD520,45AB4E,Sun Oct 10 19:05:15 UTC 2021
+Airline code "KLJ", examples:KLJ252P,503CB7,Sun Oct 10 19:06:20 UTC 2021
+Airline code "KZN", examples:KZN9402,15065F,Sun Oct 10 19:06:42 UTC 2021
+Airline code "VKG", examples:VKG1255,45D963,Sun Oct 10 19:05:13 UTC 2021
 Airline code "GJE", examples:GJE510,ABFE5A,Sun Oct 10 18:54:55 UTC 2021
-Airline code "FOX", examples:FOX1362,478DEF,Sun Oct 10 17:05:22 UTC 2021
-Airline code "KZN", examples:KZN9401,15065F,Sun Oct 10 17:06:07 UTC 2021
 Airline code "SZS", examples:SZS527,4CAF82,Sun Oct 10 17:06:27 UTC 2021
-Airline code "JTD", examples:JTD419,45AB4D,Sun Oct 10 16:06:32 UTC 2021
-Airline code "KLJ", examples:KLJ252P,503CB7,Sun Oct 10 16:06:18 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Sun Oct 10 16:42:05 UTC 2021
-Airline code "VKG", examples:VKG1593,45D964,Sun Oct 10 16:06:10 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Sun Oct 10 15:02:53 UTC 2021
 Airline code "JEI", examples:JEI272,3CC57C,Sun Oct 10 12:08:05 UTC 2021
 Airline code "EGC", examples:EGC690,A92BBD,Sun Oct 10 03:53:09 UTC 2021
