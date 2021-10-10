@@ -1,3 +1,4 @@
+Airline code "XLS", examples:XLS950,A674DC,Sun Oct 10 00:34:07 UTC 2021
 Airline code "TIV", examples:TIV80,AAE16B,Sat Oct 9 22:16:50 UTC 2021
 Airline code "JAF", examples:JAF3322,44B438,Sat Oct 9 20:51:58 UTC 2021
 Airline code "TJD", examples:TJD975,300829,Sat Oct 9 20:02:40 UTC 2021
@@ -66,7 +67,6 @@ Airline code "PPJ", examples:PPJ108,A022A7,Tue Oct 5 19:59:34 UTC 2021
 Airline code "INI", examples:INI221,343183,Tue Oct 5 18:45:00 UTC 2021
 Airline code "RDN", examples:RDN037,AB79E3,Tue Oct 5 18:16:00 UTC 2021
 Airline code "TEK", examples:TEK644,A875AB,Tue Oct 5 18:54:46 UTC 2021 TEK644,A875AB,Tue Oct 5 18:54:21 UTC 2021 TEK644,A875AB,Tue Oct 5 18:53:59 UTC 2021
-Airline code "XLS", examples:XLS451,A3FFA0,Tue Oct 5 18:49:38 UTC 2021 XLS451,A3FFA0,Tue Oct 5 18:49:20 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Tue Oct 5 17:40:43 UTC 2021
 Airline code "VLZ", examples:VLZ348A,43EB60,Tue Oct 5 16:26:09 UTC 2021
 Airline code "HPK", examples:HPK09,A9767B,Tue Oct 5 15:19:26 UTC 2021
