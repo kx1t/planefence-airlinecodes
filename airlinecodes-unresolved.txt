@@ -1,8 +1,9 @@
+Airline code "AZV", examples:AZV777,42444A,Mon Oct 11 11:04:59 UTC 2021
+Airline code "JTD", examples:JTD574,45AB4A,Mon Oct 11 11:04:45 UTC 2021
+Airline code "PGN", examples:PGN41,A4D375,Mon Oct 11 11:30:40 UTC 2021 PGN41,A4D375,Mon Oct 11 11:29:22 UTC 2021
+Airline code "TWI", examples:TWI1332,4BD181,Mon Oct 11 11:05:14 UTC 2021
+Airline code "VKG", examples:VKG1292,45D963,Mon Oct 11 11:04:57 UTC 2021
 Airline code "PCT", examples:PCT429,3F9AE8,Mon Oct 11 09:09:41 UTC 2021
-Airline code "AZV", examples:AZV777,42444A,Mon Oct 11 08:04:49 UTC 2021
-Airline code "JTD", examples:JTD574,45AB4A,Mon Oct 11 08:04:35 UTC 2021
-Airline code "TWI", examples:TWI1332,4BD181,Mon Oct 11 08:10:35 UTC 2021
-Airline code "VKG", examples:VKG1292,45D963,Mon Oct 11 08:04:47 UTC 2021
 Airline code "TIV", examples:TIV70,A9541C,Mon Oct 11 06:50:24 UTC 2021
 Airline code "AXE", examples:AXE352P,502D38,Sun Oct 10 21:24:07 UTC 2021
 Airline code "NYX", examples:NYX429,511147,Sun Oct 10 20:34:57 UTC 2021
@@ -12,7 +13,6 @@ Airline code "FOX", examples:FOX1363,478DEF,Sun Oct 10 19:05:55 UTC 2021
 Airline code "KLJ", examples:KLJ252P,503CB7,Sun Oct 10 19:06:20 UTC 2021
 Airline code "KZN", examples:KZN9402,15065F,Sun Oct 10 19:06:42 UTC 2021
 Airline code "GJE", examples:GJE510,ABFE5A,Sun Oct 10 18:54:55 UTC 2021
-Airline code "PGN", examples:PGN41,A4D375,Sun Oct 10 16:42:05 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Sun Oct 10 15:02:53 UTC 2021
 Airline code "JEI", examples:JEI272,3CC57C,Sun Oct 10 12:08:05 UTC 2021
 Airline code "EGC", examples:EGC690,A92BBD,Sun Oct 10 03:53:09 UTC 2021
