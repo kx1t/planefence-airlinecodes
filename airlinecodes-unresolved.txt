@@ -1,3 +1,4 @@
+Airline code "FRV", examples:FRV0906,020136,Mon Oct 11 21:30:17 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Mon Oct 11 20:05:21 UTC 2021
 Airline code "FLJ", examples:FLJ53F,407ADC,Mon Oct 11 20:06:20 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Mon Oct 11 20:06:14 UTC 2021
@@ -157,7 +158,6 @@ Airline code "NTF", examples:NTF459M,49D102,Tue Sep 14 07:58:01 UTC 2021
 Airline code "XCH", examples:XCH511,43E7ED,Mon Sep 13 14:14:04 UTC 2021 XCH511,43E7ED,Mon Sep 13 14:13:59 UTC 2021
 Airline code "GCK", examples:GCK40,4408D8,Sat Sep 11 14:19:48 UTC 2021 GCK40,4408D8,Sat Sep 11 14:19:48 UTC 2021
 Airline code "OOD", examples:OOD80,44900C,Sat Sep 11 09:19:09 UTC 2021
-Airline code "FRV", examples:FRV0915,02012D,Fri Sep 10 20:40:48 UTC 2021
 Airline code "RFV", examples:RFV82A,407359,Fri Sep 10 00:42:51 UTC 2021
 Airline code "JPV", examples:JPV284,440A05,Thu Sep 9 20:05:46 UTC 2021
 Airline code "RSP", examples:RSP69,A77A78,Thu Sep 9 18:06:55 UTC 2021
