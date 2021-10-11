@@ -1,3 +1,4 @@
+Airline code "PCT", examples:PCT429,3F9AE8,Mon Oct 11 09:09:41 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Mon Oct 11 08:04:49 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4A,Mon Oct 11 08:04:35 UTC 2021
 Airline code "TWI", examples:TWI1332,4BD181,Mon Oct 11 08:10:35 UTC 2021
@@ -23,7 +24,6 @@ Airline code "HTM", examples:HTM09F,3E0609,Sat Oct 9 18:06:29 UTC 2021
 Airline code "JTZ", examples:JTZ374,A443D3,Sat Oct 9 18:36:28 UTC 2021
 Airline code "KAY", examples:KAY59,3C5CEC,Sat Oct 9 18:06:07 UTC 2021
 Airline code "MLM", examples:MLM007,4D2306,Sat Oct 9 18:05:53 UTC 2021
-Airline code "PCT", examples:PCT428,3F9AE8,Sat Oct 9 18:05:42 UTC 2021
 Airline code "JCL", examples:JCL1,3CF106,Sat Oct 9 17:31:38 UTC 2021
 Airline code "BFD", examples:BFD09K,3CBDEB,Sat Oct 9 16:14:16 UTC 2021
 Airline code "JSX", examples:JSX220,A2384B,Sat Oct 9 16:30:51 UTC 2021
