@@ -1,9 +1,9 @@
+Airline code "PCT", examples:PCT429,3F9AE8,Mon Oct 11 12:05:20 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Mon Oct 11 11:04:59 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4A,Mon Oct 11 11:04:45 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Mon Oct 11 11:30:40 UTC 2021 PGN41,A4D375,Mon Oct 11 11:29:22 UTC 2021
 Airline code "TWI", examples:TWI1332,4BD181,Mon Oct 11 11:05:14 UTC 2021
 Airline code "VKG", examples:VKG1292,45D963,Mon Oct 11 11:04:57 UTC 2021
-Airline code "PCT", examples:PCT429,3F9AE8,Mon Oct 11 09:09:41 UTC 2021
 Airline code "TIV", examples:TIV70,A9541C,Mon Oct 11 06:50:24 UTC 2021
 Airline code "AXE", examples:AXE352P,502D38,Sun Oct 10 21:24:07 UTC 2021
 Airline code "NYX", examples:NYX429,511147,Sun Oct 10 20:34:57 UTC 2021
