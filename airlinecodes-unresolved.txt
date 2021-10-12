@@ -1,3 +1,4 @@
+Airline code "NYX", examples:NYX421,511147,Tue Oct 12 07:57:13 UTC 2021
 Airline code "FLJ", examples:FLJ53F,407ADC,Tue Oct 12 06:27:28 UTC 2021
 Airline code "JIV", examples:JIV9,4AC90A,Tue Oct 12 06:06:26 UTC 2021
 Airline code "JNL", examples:JNL1132,485D61,Tue Oct 12 06:04:31 UTC 2021
@@ -15,7 +16,6 @@ Airline code "GFM", examples:GFM6Y,4AC999,Mon Oct 11 20:06:14 UTC 2021
 Airline code "PCT", examples:PCT429,3F9AE8,Mon Oct 11 20:05:44 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Mon Oct 11 20:25:20 UTC 2021 PGN41,A4D375,Mon Oct 11 20:25:04 UTC 2021
 Airline code "TWI", examples:TWI1332,4BD181,Mon Oct 11 20:05:36 UTC 2021
-Airline code "NYX", examples:NYX427,511147,Mon Oct 11 15:38:40 UTC 2021
 Airline code "AXE", examples:AXE352P,502D38,Sun Oct 10 21:24:07 UTC 2021
 Airline code "SZS", examples:SZS527,4CAF82,Sun Oct 10 20:06:26 UTC 2021
 Airline code "VLZ", examples:VLZ343A,43EE09,Sun Oct 10 20:57:06 UTC 2021
