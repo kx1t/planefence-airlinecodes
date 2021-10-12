@@ -1,3 +1,4 @@
+Airline code "NYX", examples:NYX427,511147,Tue Oct 12 14:52:28 UTC 2021 NYX406C,511108,Tue Oct 12 14:44:28 UTC 2021
 Airline code "CSG", examples:CSG2573,7805AA,Tue Oct 12 13:05:36 UTC 2021
 Airline code "FLJ", examples:FLJ53F,407ADC,Tue Oct 12 13:05:10 UTC 2021
 Airline code "FOX", examples:FOX1226,478E7A,Tue Oct 12 13:05:27 UTC 2021
@@ -14,7 +15,6 @@ Airline code "VND", examples:VND1387,300224,Tue Oct 12 12:16:20 UTC 2021
 Airline code "KBD", examples:KBD216,398477,Tue Oct 12 10:53:23 UTC 2021
 Airline code "MJF", examples:MJF37M,4408B6,Tue Oct 12 10:00:37 UTC 2021
 Airline code "TJD", examples:TJD750,300447,Tue Oct 12 10:00:35 UTC 2021
-Airline code "NYX", examples:NYX421,511147,Tue Oct 12 07:57:13 UTC 2021
 Airline code "LOL", examples:LOL1011,5140AF,Tue Oct 12 06:22:48 UTC 2021
 Airline code "TIV", examples:TIV70,A9541C,Tue Oct 12 00:37:00 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Mon Oct 11 23:21:00 UTC 2021
