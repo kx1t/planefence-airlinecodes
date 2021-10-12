@@ -1,6 +1,9 @@
-Airline code "JTD", examples:JTD598,45AA90,Tue Oct 12 03:04:29 UTC 2021
-Airline code "VKG", examples:VKG1293,45D963,Tue Oct 12 03:04:30 UTC 2021
-Airline code "JNL", examples:JNL1132,485D61,Tue Oct 12 02:55:22 UTC 2021
+Airline code "FLJ", examples:FLJ53F,407ADC,Tue Oct 12 06:27:28 UTC 2021
+Airline code "JIV", examples:JIV9,4AC90A,Tue Oct 12 06:06:26 UTC 2021
+Airline code "JNL", examples:JNL1132,485D61,Tue Oct 12 06:04:31 UTC 2021
+Airline code "JTD", examples:JTD598,45AA90,Tue Oct 12 06:04:27 UTC 2021
+Airline code "LOL", examples:LOL1011,5140AF,Tue Oct 12 06:22:48 UTC 2021
+Airline code "VKG", examples:VKG1293,45D963,Tue Oct 12 06:04:29 UTC 2021
 Airline code "TIV", examples:TIV70,A9541C,Tue Oct 12 00:37:00 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Mon Oct 11 23:21:00 UTC 2021
 Airline code "FTD", examples:FTD502,A64160,Mon Oct 11 23:21:36 UTC 2021
@@ -8,7 +11,6 @@ Airline code "JTZ", examples:JTZ715,A98FCC,Mon Oct 11 23:51:57 UTC 2021
 Airline code "NCJ", examples:NCJ50,A88E05,Mon Oct 11 23:17:39 UTC 2021
 Airline code "FRV", examples:FRV0906,020136,Mon Oct 11 21:30:17 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Mon Oct 11 20:05:21 UTC 2021
-Airline code "FLJ", examples:FLJ53F,407ADC,Mon Oct 11 20:06:20 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Mon Oct 11 20:06:14 UTC 2021
 Airline code "PCT", examples:PCT429,3F9AE8,Mon Oct 11 20:05:44 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Mon Oct 11 20:25:20 UTC 2021 PGN41,A4D375,Mon Oct 11 20:25:04 UTC 2021
@@ -79,7 +81,6 @@ Airline code "HPK", examples:HPK09,A9767B,Tue Oct 5 15:19:26 UTC 2021
 Airline code "CSB", examples:CSB588,C025D2,Tue Oct 5 12:23:19 UTC 2021
 Airline code "FWR", examples:FWR1049,A0FE84,Mon Oct 4 21:41:07 UTC 2021
 Airline code "LRQ", examples:LRQ504D,4D028F,Mon Oct 4 20:06:38 UTC 2021
-Airline code "JIV", examples:JIV9,4AC90A,Mon Oct 4 19:06:25 UTC 2021
 Airline code "OCJ", examples:OCJ102,50011B,Sun Oct 3 21:05:44 UTC 2021
 Airline code "EXD", examples:EXD004,0080FC,Sun Oct 3 07:14:11 UTC 2021
 Airline code "LLK", examples:LLK501,46988B,Sat Oct 2 09:10:09 UTC 2021
