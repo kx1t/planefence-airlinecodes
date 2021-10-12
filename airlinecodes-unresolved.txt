@@ -1,3 +1,4 @@
+Airline code "FOX", examples:FOX1226,478E7A,Tue Oct 12 08:56:38 UTC 2021
 Airline code "NYX", examples:NYX421,511147,Tue Oct 12 07:57:13 UTC 2021
 Airline code "FLJ", examples:FLJ53F,407ADC,Tue Oct 12 06:27:28 UTC 2021
 Airline code "JIV", examples:JIV9,4AC90A,Tue Oct 12 06:06:26 UTC 2021
@@ -19,7 +20,6 @@ Airline code "TWI", examples:TWI1332,4BD181,Mon Oct 11 20:05:36 UTC 2021
 Airline code "AXE", examples:AXE352P,502D38,Sun Oct 10 21:24:07 UTC 2021
 Airline code "SZS", examples:SZS527,4CAF82,Sun Oct 10 20:06:26 UTC 2021
 Airline code "VLZ", examples:VLZ343A,43EE09,Sun Oct 10 20:57:06 UTC 2021
-Airline code "FOX", examples:FOX1363,478DEF,Sun Oct 10 19:05:55 UTC 2021
 Airline code "KLJ", examples:KLJ252P,503CB7,Sun Oct 10 19:06:20 UTC 2021
 Airline code "KZN", examples:KZN9402,15065F,Sun Oct 10 19:06:42 UTC 2021
 Airline code "GJE", examples:GJE510,ABFE5A,Sun Oct 10 18:54:55 UTC 2021
