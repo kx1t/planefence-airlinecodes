@@ -1,8 +1,8 @@
+Airline code "TIV", examples:TIV70,A9541C,Tue Oct 12 00:37:00 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Mon Oct 11 23:21:00 UTC 2021
 Airline code "FTD", examples:FTD502,A64160,Mon Oct 11 23:21:36 UTC 2021
 Airline code "JTZ", examples:JTZ715,A98FCC,Mon Oct 11 23:51:57 UTC 2021
 Airline code "NCJ", examples:NCJ50,A88E05,Mon Oct 11 23:17:39 UTC 2021
-Airline code "TIV", examples:TIV70,A9541C,Mon Oct 11 22:02:39 UTC 2021
 Airline code "FRV", examples:FRV0906,020136,Mon Oct 11 21:30:17 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Mon Oct 11 20:05:21 UTC 2021
 Airline code "FLJ", examples:FLJ53F,407ADC,Mon Oct 11 20:06:20 UTC 2021
