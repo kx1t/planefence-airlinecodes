@@ -1,3 +1,4 @@
+Airline code "AZD", examples:AZD491,4B0139,Wed Oct 13 22:58:37 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 13 20:05:26 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Wed Oct 13 20:05:27 UTC 2021
 Airline code "JCL", examples:JCL6,3CD803,Wed Oct 13 20:05:53 UTC 2021
@@ -17,7 +18,6 @@ Airline code "FLJ", examples:FLJ63T,407BF5,Wed Oct 13 12:51:32 UTC 2021
 Airline code "JSH", examples:JSH800,472FCF,Wed Oct 13 11:33:04 UTC 2021
 Airline code "CDX", examples:CDX550,748053,Wed Oct 13 10:19:31 UTC 2021
 Airline code "NYX", examples:NYX421,511147,Wed Oct 13 07:57:02 UTC 2021
-Airline code "AZD", examples:AZD491,4B0139,Tue Oct 12 22:57:51 UTC 2021
 Airline code "FTD", examples:FTD561,A72AA3,Tue Oct 12 22:31:28 UTC 2021
 Airline code "BRH", examples:BRH750,00B314,Tue Oct 12 19:51:54 UTC 2021
 Airline code "DFC", examples:DFC3LL,49D44A,Tue Oct 12 19:05:58 UTC 2021
