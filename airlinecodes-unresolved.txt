@@ -1,3 +1,4 @@
+Airline code "MJF", examples:MJF65G,4406A2,Wed Oct 13 18:59:07 UTC 2021
 Airline code "ASJ", examples:ASJ616,398249,Wed Oct 13 17:41:03 UTC 2021
 Airline code "AZV", examples:AZV945,42445D,Wed Oct 13 17:04:59 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 13 17:05:19 UTC 2021
@@ -11,7 +12,6 @@ Airline code "FJO", examples:FJO62L,4D2342,Wed Oct 13 16:46:37 UTC 2021
 Airline code "VKG", examples:VKG1453,45D964,Wed Oct 13 16:54:49 UTC 2021
 Airline code "JAF", examples:JAF8YX,44A838,Wed Oct 13 15:30:51 UTC 2021
 Airline code "VLZ", examples:VLZ290A,43EC73,Wed Oct 13 15:31:58 UTC 2021
-Airline code "MJF", examples:MJF65G,4406A2,Wed Oct 13 13:04:32 UTC 2021
 Airline code "PPJ", examples:PPJ356,A6FD2C,Wed Oct 13 13:36:54 UTC 2021
 Airline code "FLJ", examples:FLJ63T,407BF5,Wed Oct 13 12:51:32 UTC 2021
 Airline code "JSH", examples:JSH800,472FCF,Wed Oct 13 11:33:04 UTC 2021
