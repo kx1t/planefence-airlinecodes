@@ -1,3 +1,7 @@
+Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 13 07:34:32 UTC 2021
+Airline code "FLJ", examples:FLJ61H,407AE1,Wed Oct 13 07:26:30 UTC 2021
+Airline code "GFM", examples:GFM5X,4AC998,Wed Oct 13 07:44:32 UTC 2021
+Airline code "NYX", examples:NYX421,511147,Wed Oct 13 07:57:02 UTC 2021
 Airline code "AZV", examples:AZV945,42445D,Wed Oct 13 06:04:33 UTC 2021
 Airline code "JAF", examples:JAF8YX,44A838,Wed Oct 13 06:28:42 UTC 2021
 Airline code "JTD", examples:JTD217,45AB4A,Wed Oct 13 06:59:36 UTC 2021
@@ -5,11 +9,8 @@ Airline code "PCT", examples:PCT435,3F9AE8,Wed Oct 13 06:04:36 UTC 2021
 Airline code "VKG", examples:VKG4217,45D963,Wed Oct 13 06:01:31 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Oct 12 22:57:51 UTC 2021
 Airline code "FTD", examples:FTD561,A72AA3,Tue Oct 12 22:31:28 UTC 2021
-Airline code "NYX", examples:NYX429,511147,Tue Oct 12 20:10:40 UTC 2021
 Airline code "BRH", examples:BRH750,00B314,Tue Oct 12 19:51:54 UTC 2021
-Airline code "CSG", examples:CSG2573,7805AA,Tue Oct 12 19:05:44 UTC 2021
 Airline code "DFC", examples:DFC3LL,49D44A,Tue Oct 12 19:05:58 UTC 2021
-Airline code "FLJ", examples:FLJ63T,407BF5,Tue Oct 12 19:29:27 UTC 2021 FLJ53F,407ADC,Tue Oct 12 19:05:19 UTC 2021
 Airline code "FOX", examples:FOX1226,478E7A,Tue Oct 12 19:05:35 UTC 2021
 Airline code "GLH", examples:GLH1,A16AAD,Tue Oct 12 19:05:40 UTC 2021
 Airline code "JIV", examples:JIV9,4AC90A,Tue Oct 12 19:05:16 UTC 2021
@@ -31,7 +32,6 @@ Airline code "LOL", examples:LOL1011,5140AF,Tue Oct 12 06:22:48 UTC 2021
 Airline code "TIV", examples:TIV70,A9541C,Tue Oct 12 00:37:00 UTC 2021
 Airline code "NCJ", examples:NCJ50,A88E05,Mon Oct 11 23:17:39 UTC 2021
 Airline code "FRV", examples:FRV0906,020136,Mon Oct 11 21:30:17 UTC 2021
-Airline code "GFM", examples:GFM6Y,4AC999,Mon Oct 11 20:06:14 UTC 2021
 Airline code "TWI", examples:TWI1332,4BD181,Mon Oct 11 20:05:36 UTC 2021
 Airline code "AXE", examples:AXE352P,502D38,Sun Oct 10 21:24:07 UTC 2021
 Airline code "VLZ", examples:VLZ343A,43EE09,Sun Oct 10 20:57:06 UTC 2021
