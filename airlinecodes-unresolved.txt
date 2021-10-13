@@ -1,3 +1,6 @@
+Airline code "JAF", examples:JAF8YX,44A838,Wed Oct 13 13:04:06 UTC 2021
+Airline code "MJF", examples:MJF65G,4406A2,Wed Oct 13 13:04:32 UTC 2021
+Airline code "PPJ", examples:PPJ356,A6FD2C,Wed Oct 13 13:36:54 UTC 2021
 Airline code "AZV", examples:AZV945,42445D,Wed Oct 13 12:04:46 UTC 2021
 Airline code "FLJ", examples:FLJ63T,407BF5,Wed Oct 13 12:51:32 UTC 2021
 Airline code "JCL", examples:JCL6,3CD803,Wed Oct 13 12:01:56 UTC 2021
@@ -9,7 +12,6 @@ Airline code "JSH", examples:JSH800,472FCF,Wed Oct 13 11:33:04 UTC 2021
 Airline code "VKG", examples:VKG1784,45D966,Wed Oct 13 11:05:04 UTC 2021
 Airline code "CDX", examples:CDX550,748053,Wed Oct 13 10:19:31 UTC 2021
 Airline code "NYX", examples:NYX421,511147,Wed Oct 13 07:57:02 UTC 2021
-Airline code "JAF", examples:JAF8YX,44A838,Wed Oct 13 06:28:42 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Oct 12 22:57:51 UTC 2021
 Airline code "FTD", examples:FTD561,A72AA3,Tue Oct 12 22:31:28 UTC 2021
 Airline code "BRH", examples:BRH750,00B314,Tue Oct 12 19:51:54 UTC 2021
@@ -29,7 +31,6 @@ Airline code "PGN", examples:PGN41,A4D375,Tue Oct 12 16:30:21 UTC 2021
 Airline code "MJE", examples:MJE001,8964C4,Tue Oct 12 12:58:24 UTC 2021
 Airline code "VND", examples:VND1387,300224,Tue Oct 12 12:16:20 UTC 2021
 Airline code "KBD", examples:KBD216,398477,Tue Oct 12 10:53:23 UTC 2021
-Airline code "MJF", examples:MJF37M,4408B6,Tue Oct 12 10:00:37 UTC 2021
 Airline code "TJD", examples:TJD750,300447,Tue Oct 12 10:00:35 UTC 2021
 Airline code "LOL", examples:LOL1011,5140AF,Tue Oct 12 06:22:48 UTC 2021
 Airline code "TIV", examples:TIV70,A9541C,Tue Oct 12 00:37:00 UTC 2021
@@ -79,7 +80,6 @@ Airline code "BJN", examples:BJN099,7807FC,Wed Oct 6 21:18:43 UTC 2021
 Airline code "CJY", examples:CJY972,C02876,Wed Oct 6 21:12:33 UTC 2021
 Airline code "JAV", examples:JAV4492,742AC2,Wed Oct 6 16:50:33 UTC 2021
 Airline code "RSJ", examples:RSJ9619,424650,Tue Oct 5 21:06:28 UTC 2021
-Airline code "PPJ", examples:PPJ108,A022A7,Tue Oct 5 19:59:34 UTC 2021
 Airline code "INI", examples:INI221,343183,Tue Oct 5 18:45:00 UTC 2021
 Airline code "RDN", examples:RDN037,AB79E3,Tue Oct 5 18:16:00 UTC 2021
 Airline code "TEK", examples:TEK644,A875AB,Tue Oct 5 18:54:46 UTC 2021 TEK644,A875AB,Tue Oct 5 18:54:21 UTC 2021 TEK644,A875AB,Tue Oct 5 18:53:59 UTC 2021
