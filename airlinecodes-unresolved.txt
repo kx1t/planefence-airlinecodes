@@ -1,5 +1,8 @@
-Airline code "AZV", examples:AZV945,42445D,Wed Oct 13 03:04:22 UTC 2021
-Airline code "PCT", examples:PCT435,3F9AE8,Wed Oct 13 02:52:21 UTC 2021
+Airline code "AZV", examples:AZV945,42445D,Wed Oct 13 06:04:33 UTC 2021
+Airline code "JAF", examples:JAF8YX,44A838,Wed Oct 13 06:28:42 UTC 2021
+Airline code "JTD", examples:JTD217,45AB4A,Wed Oct 13 06:59:36 UTC 2021
+Airline code "PCT", examples:PCT435,3F9AE8,Wed Oct 13 06:04:36 UTC 2021
+Airline code "VKG", examples:VKG4217,45D963,Wed Oct 13 06:01:31 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Oct 12 22:57:51 UTC 2021
 Airline code "FTD", examples:FTD561,A72AA3,Tue Oct 12 22:31:28 UTC 2021
 Airline code "NYX", examples:NYX429,511147,Tue Oct 12 20:10:40 UTC 2021
@@ -13,9 +16,7 @@ Airline code "JIV", examples:JIV9,4AC90A,Tue Oct 12 19:05:16 UTC 2021
 Airline code "JKH", examples:JKH32A,3E3F1F,Tue Oct 12 19:06:04 UTC 2021
 Airline code "JNL", examples:JNL1132,485D61,Tue Oct 12 19:05:06 UTC 2021
 Airline code "JSY", examples:JSY124C,501E1B,Tue Oct 12 19:06:20 UTC 2021
-Airline code "JTD", examples:JTD598,45AA90,Tue Oct 12 19:05:02 UTC 2021
 Airline code "QNR", examples:QNR25B,49D1DF,Tue Oct 12 19:06:26 UTC 2021
-Airline code "VKG", examples:VKG1293,45D963,Tue Oct 12 19:05:03 UTC 2021
 Airline code "JTZ", examples:JTZ412,A4DCBA,Tue Oct 12 18:26:07 UTC 2021
 Airline code "SZS", examples:SZS528,4CAF82,Tue Oct 12 18:13:59 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Tue Oct 12 17:59:09 UTC 2021
@@ -41,7 +42,6 @@ Airline code "HLL", examples:HLL45,407924,Sun Oct 10 15:02:53 UTC 2021
 Airline code "JEI", examples:JEI272,3CC57C,Sun Oct 10 12:08:05 UTC 2021
 Airline code "EGC", examples:EGC690,A92BBD,Sun Oct 10 03:53:09 UTC 2021
 Airline code "XLS", examples:XLS950,A674DC,Sun Oct 10 00:34:07 UTC 2021
-Airline code "JAF", examples:JAF3322,44B438,Sat Oct 9 20:51:58 UTC 2021
 Airline code "HTM", examples:HTM09F,3E0609,Sat Oct 9 18:06:29 UTC 2021
 Airline code "KAY", examples:KAY59,3C5CEC,Sat Oct 9 18:06:07 UTC 2021
 Airline code "MLM", examples:MLM007,4D2306,Sat Oct 9 18:05:53 UTC 2021
