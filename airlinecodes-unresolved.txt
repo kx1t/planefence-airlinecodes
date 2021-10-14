@@ -1,14 +1,16 @@
+Airline code "CGF", examples:CGF841P,451E29,Thu Oct 14 10:23:00 UTC 2021
+Airline code "FJO", examples:FJO54A,4D2330,Thu Oct 14 10:05:00 UTC 2021
+Airline code "FOX", examples:FOX1226,478E7A,Thu Oct 14 10:05:01 UTC 2021
+Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 14 10:04:43 UTC 2021
+Airline code "JSH", examples:JSH600,471831,Thu Oct 14 10:17:40 UTC 2021
+Airline code "VXS", examples:VXS1MT,4075CD,Thu Oct 14 10:01:33 UTC 2021
 Airline code "FLJ", examples:FLJ63T,407BF5,Thu Oct 14 09:57:04 UTC 2021
 Airline code "GCL", examples:GCL3318,3C4D98,Thu Oct 14 09:05:03 UTC 2021
 Airline code "JAF", examples:JAF7CX,44A8A2,Thu Oct 14 09:57:37 UTC 2021
 Airline code "JTD", examples:JTD515,45AB4D,Thu Oct 14 09:05:18 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Thu Oct 14 09:05:21 UTC 2021
-Airline code "VXS", examples:VXS1MT,4075CD,Thu Oct 14 09:32:39 UTC 2021
 Airline code "TJD", examples:TJD401,3001F3,Thu Oct 14 08:14:56 UTC 2021
 Airline code "VKG", examples:VKG1272,45D069,Thu Oct 14 08:05:12 UTC 2021
-Airline code "FJO", examples:FJO54A,4D2330,Thu Oct 14 07:10:33 UTC 2021
-Airline code "FOX", examples:FOX1226,478E7A,Thu Oct 14 07:12:33 UTC 2021
-Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 14 07:04:35 UTC 2021
 Airline code "KFB", examples:KFB96100,AD61B8,Thu Oct 14 03:17:48 UTC 2021 KFB96100,AD61B8,Thu Oct 14 03:07:17 UTC 2021
 Airline code "GJE", examples:GJE510,ABFE5A,Wed Oct 13 23:25:03 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Wed Oct 13 22:58:37 UTC 2021
@@ -22,7 +24,6 @@ Airline code "ASJ", examples:ASJ616,398249,Wed Oct 13 17:41:03 UTC 2021
 Airline code "JME", examples:JME508N,49484E,Wed Oct 13 17:46:34 UTC 2021
 Airline code "VLZ", examples:VLZ290A,43EC73,Wed Oct 13 15:31:58 UTC 2021
 Airline code "PPJ", examples:PPJ356,A6FD2C,Wed Oct 13 13:36:54 UTC 2021
-Airline code "JSH", examples:JSH800,472FCF,Wed Oct 13 11:33:04 UTC 2021
 Airline code "CDX", examples:CDX550,748053,Wed Oct 13 10:19:31 UTC 2021
 Airline code "NYX", examples:NYX421,511147,Wed Oct 13 07:57:02 UTC 2021
 Airline code "FTD", examples:FTD561,A72AA3,Tue Oct 12 22:31:28 UTC 2021
@@ -149,7 +150,6 @@ Airline code "VKA", examples:VKA100,5083A2,Sat Sep 18 15:56:32 UTC 2021
 Airline code "GSH", examples:GSH090,896403,Sat Sep 18 12:47:45 UTC 2021 GSH090,896403,Sat Sep 18 12:47:33 UTC 2021
 Airline code "EUK", examples:EUK2202,407BE2,Sat Sep 18 09:29:48 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Sat Sep 18 02:00:16 UTC 2021
-Airline code "CGF", examples:CGF1807,4520D2,Fri Sep 17 21:59:52 UTC 2021
 Airline code "DMS", examples:DMS711,5110AE,Fri Sep 17 20:05:19 UTC 2021
 Airline code "IEI", examples:IEI2858,33FE12,Fri Sep 17 13:57:10 UTC 2021
 Airline code "JNY", examples:JNY297,A310C9,Thu Sep 16 22:52:19 UTC 2021
