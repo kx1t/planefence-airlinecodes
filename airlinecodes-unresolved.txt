@@ -1,3 +1,4 @@
+Airline code "JNL", examples:JNL111,485D30,Thu Oct 14 14:37:55 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 14 13:04:56 UTC 2021
 Airline code "BFD", examples:BFD14K,3CBDEB,Thu Oct 14 12:40:40 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Thu Oct 14 12:05:08 UTC 2021
@@ -35,7 +36,6 @@ Airline code "DFC", examples:DFC3LL,49D44A,Tue Oct 12 19:05:58 UTC 2021
 Airline code "GLH", examples:GLH1,A16AAD,Tue Oct 12 19:05:40 UTC 2021
 Airline code "JIV", examples:JIV9,4AC90A,Tue Oct 12 19:05:16 UTC 2021
 Airline code "JKH", examples:JKH32A,3E3F1F,Tue Oct 12 19:06:04 UTC 2021
-Airline code "JNL", examples:JNL1132,485D61,Tue Oct 12 19:05:06 UTC 2021
 Airline code "JSY", examples:JSY124C,501E1B,Tue Oct 12 19:06:20 UTC 2021
 Airline code "QNR", examples:QNR25B,49D1DF,Tue Oct 12 19:06:26 UTC 2021
 Airline code "JTZ", examples:JTZ412,A4DCBA,Tue Oct 12 18:26:07 UTC 2021
