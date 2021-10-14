@@ -1,3 +1,6 @@
+Airline code "BRH", examples:BRH721,00B314,Thu Oct 14 19:21:53 UTC 2021
+Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 14 19:05:07 UTC 2021
+Airline code "XLS", examples:XLS950,A674DC,Thu Oct 14 19:32:12 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Thu Oct 14 18:05:27 UTC 2021
 Airline code "FLJ", examples:FLJ63T,407BF5,Thu Oct 14 18:05:47 UTC 2021
 Airline code "FOX", examples:FOX1226,478E7A,Thu Oct 14 18:05:28 UTC 2021
@@ -11,7 +14,6 @@ Airline code "VKA", examples:VKA119,5083A2,Thu Oct 14 18:06:02 UTC 2021
 Airline code "VKG", examples:VKG1272,45D069,Thu Oct 14 18:05:14 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Thu Oct 14 17:43:16 UTC 2021
 Airline code "PCT", examples:PCT439,3F9AE8,Thu Oct 14 17:52:16 UTC 2021
-Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 14 16:05:04 UTC 2021
 Airline code "JNL", examples:JNL111,485D30,Thu Oct 14 14:37:55 UTC 2021
 Airline code "BFD", examples:BFD14K,3CBDEB,Thu Oct 14 12:40:40 UTC 2021
 Airline code "JEI", examples:JEI444,3CC194,Thu Oct 14 12:09:51 UTC 2021
@@ -32,7 +34,6 @@ Airline code "PPJ", examples:PPJ356,A6FD2C,Wed Oct 13 13:36:54 UTC 2021
 Airline code "CDX", examples:CDX550,748053,Wed Oct 13 10:19:31 UTC 2021
 Airline code "NYX", examples:NYX421,511147,Wed Oct 13 07:57:02 UTC 2021
 Airline code "FTD", examples:FTD561,A72AA3,Tue Oct 12 22:31:28 UTC 2021
-Airline code "BRH", examples:BRH750,00B314,Tue Oct 12 19:51:54 UTC 2021
 Airline code "DFC", examples:DFC3LL,49D44A,Tue Oct 12 19:05:58 UTC 2021
 Airline code "GLH", examples:GLH1,A16AAD,Tue Oct 12 19:05:40 UTC 2021
 Airline code "JIV", examples:JIV9,4AC90A,Tue Oct 12 19:05:16 UTC 2021
@@ -54,7 +55,6 @@ Airline code "AXE", examples:AXE352P,502D38,Sun Oct 10 21:24:07 UTC 2021
 Airline code "KLJ", examples:KLJ252P,503CB7,Sun Oct 10 19:06:20 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Sun Oct 10 15:02:53 UTC 2021
 Airline code "EGC", examples:EGC690,A92BBD,Sun Oct 10 03:53:09 UTC 2021
-Airline code "XLS", examples:XLS950,A674DC,Sun Oct 10 00:34:07 UTC 2021
 Airline code "HTM", examples:HTM09F,3E0609,Sat Oct 9 18:06:29 UTC 2021
 Airline code "KAY", examples:KAY59,3C5CEC,Sat Oct 9 18:06:07 UTC 2021
 Airline code "MLM", examples:MLM007,4D2306,Sat Oct 9 18:05:53 UTC 2021
