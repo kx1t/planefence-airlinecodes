@@ -1,3 +1,4 @@
+Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 14 00:56:22 UTC 2021
 Airline code "GJE", examples:GJE510,ABFE5A,Wed Oct 13 23:25:03 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Wed Oct 13 22:58:37 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 13 20:05:26 UTC 2021
@@ -71,7 +72,6 @@ Airline code "FSP", examples:FSP236,A22123,Fri Oct 8 17:04:33 UTC 2021
 Airline code "FSF", examples:FSF700P,461A82,Fri Oct 8 15:52:41 UTC 2021
 Airline code "MOZ", examples:MOZ309,4402FF,Fri Oct 8 15:52:43 UTC 2021 MOZ309,4402FF,Fri Oct 8 15:52:41 UTC 2021
 Airline code "JBC", examples:JBC496B,A4D521,Thu Oct 7 23:18:48 UTC 2021
-Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 7 21:05:14 UTC 2021 HYS474,4A08A5,Thu Oct 7 21:05:12 UTC 2021 HYS474,4A08A5,Thu Oct 7 21:05:11 UTC 2021
 Airline code "RLI", examples:RLI969,AD7E93,Thu Oct 7 21:05:44 UTC 2021
 Airline code "VXS", examples:VXS107,4075CD,Thu Oct 7 21:06:27 UTC 2021
 Airline code "BAO", examples:BAO215G,3C86C7,Thu Oct 7 19:06:36 UTC 2021
