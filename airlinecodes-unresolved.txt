@@ -1,3 +1,5 @@
+Airline code "JAF", examples:JAF910F,44D2B0,Thu Oct 14 05:50:26 UTC 2021
+Airline code "VKG", examples:VKG1272,45D069,Thu Oct 14 05:17:24 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 14 04:04:24 UTC 2021
 Airline code "GCL", examples:GCL3318,3C4D98,Thu Oct 14 03:10:21 UTC 2021
 Airline code "KFB", examples:KFB96100,AD61B8,Thu Oct 14 03:17:48 UTC 2021 KFB96100,AD61B8,Thu Oct 14 03:07:17 UTC 2021
@@ -10,8 +12,6 @@ Airline code "JTD", examples:JTD217,45AB4A,Wed Oct 13 20:05:21 UTC 2021
 Airline code "PCT", examples:PCT435,3F9AE8,Wed Oct 13 20:05:07 UTC 2021
 Airline code "SZS", examples:SZS527,4CAF82,Wed Oct 13 20:06:07 UTC 2021
 Airline code "AZV", examples:AZV777,42444A,Wed Oct 13 19:05:17 UTC 2021
-Airline code "JAF", examples:JAF3314,44A82C,Wed Oct 13 19:29:22 UTC 2021
-Airline code "VKG", examples:VKG4217,45D963,Wed Oct 13 19:05:13 UTC 2021
 Airline code "MJF", examples:MJF65G,4406A2,Wed Oct 13 18:59:07 UTC 2021
 Airline code "ASJ", examples:ASJ616,398249,Wed Oct 13 17:41:03 UTC 2021
 Airline code "JME", examples:JME508N,49484E,Wed Oct 13 17:46:34 UTC 2021
