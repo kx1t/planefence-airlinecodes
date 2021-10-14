@@ -1,9 +1,11 @@
+Airline code "FJO", examples:FJO54A,4D2330,Thu Oct 14 07:10:33 UTC 2021
+Airline code "FOX", examples:FOX1226,478E7A,Thu Oct 14 07:12:33 UTC 2021
+Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 14 07:04:35 UTC 2021
+Airline code "JAF", examples:JAF6AK,44D1A2,Thu Oct 14 07:49:58 UTC 2021
 Airline code "GCL", examples:GCL3318,3C4D98,Thu Oct 14 06:04:35 UTC 2021
 Airline code "JTD", examples:JTD515,45AB4D,Thu Oct 14 06:44:35 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Thu Oct 14 06:57:36 UTC 2021
-Airline code "JAF", examples:JAF910F,44D2B0,Thu Oct 14 05:50:26 UTC 2021
 Airline code "VKG", examples:VKG1272,45D069,Thu Oct 14 05:17:24 UTC 2021
-Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 14 04:04:24 UTC 2021
 Airline code "KFB", examples:KFB96100,AD61B8,Thu Oct 14 03:17:48 UTC 2021 KFB96100,AD61B8,Thu Oct 14 03:07:17 UTC 2021
 Airline code "GJE", examples:GJE510,ABFE5A,Wed Oct 13 23:25:03 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Wed Oct 13 22:58:37 UTC 2021
@@ -15,7 +17,6 @@ Airline code "AZV", examples:AZV777,42444A,Wed Oct 13 19:05:17 UTC 2021
 Airline code "MJF", examples:MJF65G,4406A2,Wed Oct 13 18:59:07 UTC 2021
 Airline code "ASJ", examples:ASJ616,398249,Wed Oct 13 17:41:03 UTC 2021
 Airline code "JME", examples:JME508N,49484E,Wed Oct 13 17:46:34 UTC 2021
-Airline code "FJO", examples:FJO62L,4D2342,Wed Oct 13 16:46:37 UTC 2021
 Airline code "VLZ", examples:VLZ290A,43EC73,Wed Oct 13 15:31:58 UTC 2021
 Airline code "PPJ", examples:PPJ356,A6FD2C,Wed Oct 13 13:36:54 UTC 2021
 Airline code "FLJ", examples:FLJ63T,407BF5,Wed Oct 13 12:51:32 UTC 2021
@@ -25,7 +26,6 @@ Airline code "NYX", examples:NYX421,511147,Wed Oct 13 07:57:02 UTC 2021
 Airline code "FTD", examples:FTD561,A72AA3,Tue Oct 12 22:31:28 UTC 2021
 Airline code "BRH", examples:BRH750,00B314,Tue Oct 12 19:51:54 UTC 2021
 Airline code "DFC", examples:DFC3LL,49D44A,Tue Oct 12 19:05:58 UTC 2021
-Airline code "FOX", examples:FOX1226,478E7A,Tue Oct 12 19:05:35 UTC 2021
 Airline code "GLH", examples:GLH1,A16AAD,Tue Oct 12 19:05:40 UTC 2021
 Airline code "JIV", examples:JIV9,4AC90A,Tue Oct 12 19:05:16 UTC 2021
 Airline code "JKH", examples:JKH32A,3E3F1F,Tue Oct 12 19:06:04 UTC 2021
