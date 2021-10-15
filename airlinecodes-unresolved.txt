@@ -1,3 +1,6 @@
+Airline code "CSB", examples:CSB588,C025D2,Fri Oct 15 12:15:44 UTC 2021
+Airline code "MJF", examples:MJF71G,440691,Fri Oct 15 12:31:06 UTC 2021
+Airline code "ULC", examples:ULC21,4D2199,Fri Oct 15 12:04:48 UTC 2021
 Airline code "AZV", examples:AZV942,42445B,Fri Oct 15 11:04:45 UTC 2021
 Airline code "JTD", examples:JTD531,45AB4D,Fri Oct 15 11:04:55 UTC 2021
 Airline code "TEK", examples:TEK610,A7EF5C,Fri Oct 15 11:45:22 UTC 2021
@@ -35,7 +38,6 @@ Airline code "KFB", examples:KFB96100,AD61B8,Thu Oct 14 03:17:48 UTC 2021 KFB961
 Airline code "GJE", examples:GJE510,ABFE5A,Wed Oct 13 23:25:03 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 13 20:05:26 UTC 2021
 Airline code "JCL", examples:JCL6,3CD803,Wed Oct 13 20:05:53 UTC 2021
-Airline code "MJF", examples:MJF65G,4406A2,Wed Oct 13 18:59:07 UTC 2021
 Airline code "ASJ", examples:ASJ616,398249,Wed Oct 13 17:41:03 UTC 2021
 Airline code "VLZ", examples:VLZ290A,43EC73,Wed Oct 13 15:31:58 UTC 2021
 Airline code "CDX", examples:CDX550,748053,Wed Oct 13 10:19:31 UTC 2021
@@ -92,7 +94,6 @@ Airline code "INI", examples:INI221,343183,Tue Oct 5 18:45:00 UTC 2021
 Airline code "RDN", examples:RDN037,AB79E3,Tue Oct 5 18:16:00 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Tue Oct 5 17:40:43 UTC 2021
 Airline code "HPK", examples:HPK09,A9767B,Tue Oct 5 15:19:26 UTC 2021
-Airline code "CSB", examples:CSB588,C025D2,Tue Oct 5 12:23:19 UTC 2021
 Airline code "FWR", examples:FWR1049,A0FE84,Mon Oct 4 21:41:07 UTC 2021
 Airline code "LRQ", examples:LRQ504D,4D028F,Mon Oct 4 20:06:38 UTC 2021
 Airline code "OCJ", examples:OCJ102,50011B,Sun Oct 3 21:05:44 UTC 2021
@@ -119,7 +120,6 @@ Airline code "BOH", examples:BOH711,49D3AC,Mon Sep 27 21:05:49 UTC 2021
 Airline code "PJS", examples:PJS400,4B18A1,Mon Sep 27 13:38:34 UTC 2021
 Airline code "RDF", examples:RDF9,3DD821,Mon Sep 27 10:41:00 UTC 2021 RDF9,3DD821,Mon Sep 27 10:40:07 UTC 2021
 Airline code "TLI", examples:TLI249,3D069C,Mon Sep 27 10:59:11 UTC 2021
-Airline code "ULC", examples:ULC21,4D2199,Mon Sep 27 08:43:47 UTC 2021
 Airline code "OHC", examples:OHC213,A1C54E,Sun Sep 26 22:11:26 UTC 2021
 Airline code "SYO", examples:SYO03,40327F,Sun Sep 26 15:18:29 UTC 2021
 Airline code "KSF", examples:KSF251,A1F787,Sun Sep 26 11:42:53 UTC 2021
