@@ -1,7 +1,8 @@
+Airline code "AZV", examples:AZV942,42445B,Fri Oct 15 08:04:37 UTC 2021
+Airline code "JTD", examples:JTD531,45AB4D,Fri Oct 15 08:04:47 UTC 2021
+Airline code "MOZ", examples:MOZ118,4405AE,Fri Oct 15 08:25:38 UTC 2021 MOZ118,4405AE,Fri Oct 15 08:25:38 UTC 2021 MOZ118,4405AE,Fri Oct 15 08:25:27 UTC 2021
 Airline code "FOX", examples:FOX1402,478E7A,Fri Oct 15 07:44:34 UTC 2021
 Airline code "GTW", examples:GTW363,A4177F,Fri Oct 15 07:45:33 UTC 2021
-Airline code "AZV", examples:AZV942,42445B,Fri Oct 15 06:04:30 UTC 2021
-Airline code "JTD", examples:JTD531,45AB4D,Fri Oct 15 06:00:27 UTC 2021
 Airline code "VKG", examples:VKG1158,45D966,Fri Oct 15 06:07:26 UTC 2021
 Airline code "JTZ", examples:JTZ516,A678E5,Thu Oct 14 23:34:48 UTC 2021 JTZ516,A678E5,Thu Oct 14 23:26:52 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Thu Oct 14 22:44:35 UTC 2021
@@ -75,7 +76,6 @@ Airline code "VPC", examples:VPC2,51111F,Fri Oct 8 19:06:50 UTC 2021
 Airline code "NJM", examples:NJM455,A585E4,Fri Oct 8 18:10:26 UTC 2021
 Airline code "FSP", examples:FSP236,A22123,Fri Oct 8 17:04:33 UTC 2021
 Airline code "FSF", examples:FSF700P,461A82,Fri Oct 8 15:52:41 UTC 2021
-Airline code "MOZ", examples:MOZ309,4402FF,Fri Oct 8 15:52:43 UTC 2021 MOZ309,4402FF,Fri Oct 8 15:52:41 UTC 2021
 Airline code "JBC", examples:JBC496B,A4D521,Thu Oct 7 23:18:48 UTC 2021
 Airline code "RLI", examples:RLI969,AD7E93,Thu Oct 7 21:05:44 UTC 2021
 Airline code "BAO", examples:BAO215G,3C86C7,Thu Oct 7 19:06:36 UTC 2021
