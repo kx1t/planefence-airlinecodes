@@ -1,3 +1,4 @@
+Airline code "ITY", examples:ITY160,4CAAA7,Fri Oct 15 15:30:58 UTC 2021
 Airline code "AZV", examples:AZV942,42445B,Fri Oct 15 14:05:02 UTC 2021
 Airline code "JAF", examples:JAF7DY,44A88C,Fri Oct 15 14:24:09 UTC 2021
 Airline code "JCL", examples:JCL5,3C0E3D,Fri Oct 15 14:11:40 UTC 2021
@@ -15,7 +16,6 @@ Airline code "CSB", examples:CSB588,C025D2,Fri Oct 15 12:15:44 UTC 2021
 Airline code "ULC", examples:ULC21,4D2199,Fri Oct 15 12:04:48 UTC 2021
 Airline code "TEK", examples:TEK610,A7EF5C,Fri Oct 15 11:45:22 UTC 2021
 Airline code "JSH", examples:JSH200,471841,Fri Oct 15 10:36:08 UTC 2021
-Airline code "ITY", examples:ITY156,4CAAA7,Fri Oct 15 09:32:01 UTC 2021
 Airline code "MOZ", examples:MOZ118,4405AE,Fri Oct 15 08:25:38 UTC 2021 MOZ118,4405AE,Fri Oct 15 08:25:38 UTC 2021 MOZ118,4405AE,Fri Oct 15 08:25:27 UTC 2021
 Airline code "JTZ", examples:JTZ516,A678E5,Thu Oct 14 23:34:48 UTC 2021 JTZ516,A678E5,Thu Oct 14 23:26:52 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Thu Oct 14 22:44:35 UTC 2021
