@@ -1,3 +1,7 @@
+Airline code "FOX", examples:FOX1402,478E7A,Fri Oct 15 10:05:03 UTC 2021
+Airline code "GTW", examples:GTW363,A4177F,Fri Oct 15 10:05:04 UTC 2021
+Airline code "JME", examples:JME210N,3431C9,Fri Oct 15 10:37:48 UTC 2021
+Airline code "JSH", examples:JSH200,471841,Fri Oct 15 10:36:08 UTC 2021
 Airline code "ITY", examples:ITY156,4CAAA7,Fri Oct 15 09:32:01 UTC 2021
 Airline code "JAF", examples:JAF752,44A8AD,Fri Oct 15 09:30:38 UTC 2021
 Airline code "PCT", examples:PCT441,3F9AE8,Fri Oct 15 09:45:39 UTC 2021
@@ -5,8 +9,6 @@ Airline code "VKG", examples:VKG1158,45D966,Fri Oct 15 09:04:49 UTC 2021
 Airline code "AZV", examples:AZV942,42445B,Fri Oct 15 08:04:37 UTC 2021
 Airline code "JTD", examples:JTD531,45AB4D,Fri Oct 15 08:04:47 UTC 2021
 Airline code "MOZ", examples:MOZ118,4405AE,Fri Oct 15 08:25:38 UTC 2021 MOZ118,4405AE,Fri Oct 15 08:25:38 UTC 2021 MOZ118,4405AE,Fri Oct 15 08:25:27 UTC 2021
-Airline code "FOX", examples:FOX1402,478E7A,Fri Oct 15 07:44:34 UTC 2021
-Airline code "GTW", examples:GTW363,A4177F,Fri Oct 15 07:45:33 UTC 2021
 Airline code "JTZ", examples:JTZ516,A678E5,Thu Oct 14 23:34:48 UTC 2021 JTZ516,A678E5,Thu Oct 14 23:26:52 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Thu Oct 14 22:44:35 UTC 2021
 Airline code "EGC", examples:EGC322,A37666,Thu Oct 14 21:26:11 UTC 2021
@@ -28,14 +30,12 @@ Airline code "JNL", examples:JNL111,485D30,Thu Oct 14 14:37:55 UTC 2021
 Airline code "BFD", examples:BFD14K,3CBDEB,Thu Oct 14 12:40:40 UTC 2021
 Airline code "JEI", examples:JEI444,3CC194,Thu Oct 14 12:09:51 UTC 2021
 Airline code "CGF", examples:CGF841P,451E29,Thu Oct 14 10:23:00 UTC 2021
-Airline code "JSH", examples:JSH600,471831,Thu Oct 14 10:17:40 UTC 2021
 Airline code "KFB", examples:KFB96100,AD61B8,Thu Oct 14 03:17:48 UTC 2021 KFB96100,AD61B8,Thu Oct 14 03:07:17 UTC 2021
 Airline code "GJE", examples:GJE510,ABFE5A,Wed Oct 13 23:25:03 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 13 20:05:26 UTC 2021
 Airline code "JCL", examples:JCL6,3CD803,Wed Oct 13 20:05:53 UTC 2021
 Airline code "MJF", examples:MJF65G,4406A2,Wed Oct 13 18:59:07 UTC 2021
 Airline code "ASJ", examples:ASJ616,398249,Wed Oct 13 17:41:03 UTC 2021
-Airline code "JME", examples:JME508N,49484E,Wed Oct 13 17:46:34 UTC 2021
 Airline code "VLZ", examples:VLZ290A,43EC73,Wed Oct 13 15:31:58 UTC 2021
 Airline code "CDX", examples:CDX550,748053,Wed Oct 13 10:19:31 UTC 2021
 Airline code "NYX", examples:NYX421,511147,Wed Oct 13 07:57:02 UTC 2021
