@@ -1,3 +1,4 @@
+Airline code "JTZ", examples:JTZ516,A678E5,Thu Oct 14 23:34:48 UTC 2021 JTZ516,A678E5,Thu Oct 14 23:26:52 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Thu Oct 14 22:44:35 UTC 2021
 Airline code "EGC", examples:EGC322,A37666,Thu Oct 14 21:26:11 UTC 2021
 Airline code "JSX", examples:JSX222,A2384B,Thu Oct 14 21:58:14 UTC 2021
@@ -42,7 +43,6 @@ Airline code "JIV", examples:JIV9,4AC90A,Tue Oct 12 19:05:16 UTC 2021
 Airline code "JKH", examples:JKH32A,3E3F1F,Tue Oct 12 19:06:04 UTC 2021
 Airline code "JSY", examples:JSY124C,501E1B,Tue Oct 12 19:06:20 UTC 2021
 Airline code "QNR", examples:QNR25B,49D1DF,Tue Oct 12 19:06:26 UTC 2021
-Airline code "JTZ", examples:JTZ412,A4DCBA,Tue Oct 12 18:26:07 UTC 2021
 Airline code "GCK", examples:GCK40,4408D8,Tue Oct 12 16:44:26 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Tue Oct 12 16:30:21 UTC 2021
 Airline code "MJE", examples:MJE001,8964C4,Tue Oct 12 12:58:24 UTC 2021
