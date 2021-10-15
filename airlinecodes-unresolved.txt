@@ -1,3 +1,6 @@
+Airline code "GFM", examples:GFM5X,4AC998,Fri Oct 15 17:46:17 UTC 2021
+Airline code "RLI", examples:RLI969,AD7E93,Fri Oct 15 17:30:12 UTC 2021
+Airline code "VKG", examples:VKG1105,45D064,Fri Oct 15 17:57:16 UTC 2021
 Airline code "FLJ", examples:FLJ52R,407A2A,Fri Oct 15 16:44:00 UTC 2021
 Airline code "PGN", examples:PGN333W,A3A1F2,Fri Oct 15 16:49:39 UTC 2021
 Airline code "XCH", examples:XCH513U,43E7ED,Fri Oct 15 16:13:38 UTC 2021
@@ -6,7 +9,6 @@ Airline code "AZV", examples:AZV942,42445B,Fri Oct 15 14:05:02 UTC 2021
 Airline code "JAF", examples:JAF7DY,44A88C,Fri Oct 15 14:24:09 UTC 2021
 Airline code "JCL", examples:JCL5,3C0E3D,Fri Oct 15 14:11:40 UTC 2021
 Airline code "JTD", examples:JTD531,45AB4D,Fri Oct 15 14:05:11 UTC 2021
-Airline code "VKG", examples:VKG1158,45D966,Fri Oct 15 14:05:12 UTC 2021
 Airline code "WRC", examples:WRC7007,4D22A8,Fri Oct 15 14:25:42 UTC 2021
 Airline code "FOX", examples:FOX1402,478E7A,Fri Oct 15 13:05:10 UTC 2021
 Airline code "GTW", examples:GTW363,A4177F,Fri Oct 15 13:05:11 UTC 2021
@@ -33,7 +35,6 @@ Airline code "GCL", examples:GCL3318,3C4D98,Thu Oct 14 18:05:08 UTC 2021
 Airline code "KZN", examples:KZN9401,15065F,Thu Oct 14 18:06:27 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Thu Oct 14 18:05:25 UTC 2021
 Airline code "VKA", examples:VKA119,5083A2,Thu Oct 14 18:06:02 UTC 2021
-Airline code "GFM", examples:GFM6Y,4AC999,Thu Oct 14 17:43:16 UTC 2021
 Airline code "JNL", examples:JNL111,485D30,Thu Oct 14 14:37:55 UTC 2021
 Airline code "BFD", examples:BFD14K,3CBDEB,Thu Oct 14 12:40:40 UTC 2021
 Airline code "JEI", examples:JEI444,3CC194,Thu Oct 14 12:09:51 UTC 2021
@@ -83,7 +84,6 @@ Airline code "NJM", examples:NJM455,A585E4,Fri Oct 8 18:10:26 UTC 2021
 Airline code "FSP", examples:FSP236,A22123,Fri Oct 8 17:04:33 UTC 2021
 Airline code "FSF", examples:FSF700P,461A82,Fri Oct 8 15:52:41 UTC 2021
 Airline code "JBC", examples:JBC496B,A4D521,Thu Oct 7 23:18:48 UTC 2021
-Airline code "RLI", examples:RLI969,AD7E93,Thu Oct 7 21:05:44 UTC 2021
 Airline code "BAO", examples:BAO215G,3C86C7,Thu Oct 7 19:06:36 UTC 2021
 Airline code "SAR", examples:SAR139,48A5E2,Thu Oct 7 19:05:52 UTC 2021
 Airline code "KAF", examples:KAF3228,7061F5,Thu Oct 7 11:21:02 UTC 2021
