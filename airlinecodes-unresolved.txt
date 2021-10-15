@@ -1,3 +1,4 @@
+Airline code "AZV", examples:AZV942,42445B,Fri Oct 15 03:05:21 UTC 2021
 Airline code "JTZ", examples:JTZ516,A678E5,Thu Oct 14 23:34:48 UTC 2021 JTZ516,A678E5,Thu Oct 14 23:26:52 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Thu Oct 14 22:44:35 UTC 2021
 Airline code "EGC", examples:EGC322,A37666,Thu Oct 14 21:26:11 UTC 2021
@@ -29,7 +30,6 @@ Airline code "KFB", examples:KFB96100,AD61B8,Thu Oct 14 03:17:48 UTC 2021 KFB961
 Airline code "GJE", examples:GJE510,ABFE5A,Wed Oct 13 23:25:03 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 13 20:05:26 UTC 2021
 Airline code "JCL", examples:JCL6,3CD803,Wed Oct 13 20:05:53 UTC 2021
-Airline code "AZV", examples:AZV777,42444A,Wed Oct 13 19:05:17 UTC 2021
 Airline code "MJF", examples:MJF65G,4406A2,Wed Oct 13 18:59:07 UTC 2021
 Airline code "ASJ", examples:ASJ616,398249,Wed Oct 13 17:41:03 UTC 2021
 Airline code "JME", examples:JME508N,49484E,Wed Oct 13 17:46:34 UTC 2021
