@@ -1,3 +1,7 @@
+Airline code "AZV", examples:AZV942,42445B,Fri Oct 15 11:04:45 UTC 2021
+Airline code "JTD", examples:JTD531,45AB4D,Fri Oct 15 11:04:55 UTC 2021
+Airline code "TEK", examples:TEK610,A7EF5C,Fri Oct 15 11:45:22 UTC 2021
+Airline code "VKG", examples:VKG1158,45D966,Fri Oct 15 11:04:56 UTC 2021
 Airline code "FOX", examples:FOX1402,478E7A,Fri Oct 15 10:05:03 UTC 2021
 Airline code "GTW", examples:GTW363,A4177F,Fri Oct 15 10:05:04 UTC 2021
 Airline code "JME", examples:JME210N,3431C9,Fri Oct 15 10:37:48 UTC 2021
@@ -5,9 +9,6 @@ Airline code "JSH", examples:JSH200,471841,Fri Oct 15 10:36:08 UTC 2021
 Airline code "ITY", examples:ITY156,4CAAA7,Fri Oct 15 09:32:01 UTC 2021
 Airline code "JAF", examples:JAF752,44A8AD,Fri Oct 15 09:30:38 UTC 2021
 Airline code "PCT", examples:PCT441,3F9AE8,Fri Oct 15 09:45:39 UTC 2021
-Airline code "VKG", examples:VKG1158,45D966,Fri Oct 15 09:04:49 UTC 2021
-Airline code "AZV", examples:AZV942,42445B,Fri Oct 15 08:04:37 UTC 2021
-Airline code "JTD", examples:JTD531,45AB4D,Fri Oct 15 08:04:47 UTC 2021
 Airline code "MOZ", examples:MOZ118,4405AE,Fri Oct 15 08:25:38 UTC 2021 MOZ118,4405AE,Fri Oct 15 08:25:38 UTC 2021 MOZ118,4405AE,Fri Oct 15 08:25:27 UTC 2021
 Airline code "JTZ", examples:JTZ516,A678E5,Thu Oct 14 23:34:48 UTC 2021 JTZ516,A678E5,Thu Oct 14 23:26:52 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Thu Oct 14 22:44:35 UTC 2021
@@ -89,7 +90,6 @@ Airline code "JAV", examples:JAV4492,742AC2,Wed Oct 6 16:50:33 UTC 2021
 Airline code "RSJ", examples:RSJ9619,424650,Tue Oct 5 21:06:28 UTC 2021
 Airline code "INI", examples:INI221,343183,Tue Oct 5 18:45:00 UTC 2021
 Airline code "RDN", examples:RDN037,AB79E3,Tue Oct 5 18:16:00 UTC 2021
-Airline code "TEK", examples:TEK644,A875AB,Tue Oct 5 18:54:46 UTC 2021 TEK644,A875AB,Tue Oct 5 18:54:21 UTC 2021 TEK644,A875AB,Tue Oct 5 18:53:59 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Tue Oct 5 17:40:43 UTC 2021
 Airline code "HPK", examples:HPK09,A9767B,Tue Oct 5 15:19:26 UTC 2021
 Airline code "CSB", examples:CSB588,C025D2,Tue Oct 5 12:23:19 UTC 2021
