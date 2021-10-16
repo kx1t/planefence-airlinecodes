@@ -1,3 +1,4 @@
+Airline code "LSM", examples:LSM97,500127,Sat Oct 16 17:46:59 UTC 2021
 Airline code "FLJ", examples:FLJ63T,407BF5,Sat Oct 16 16:29:59 UTC 2021 FLJ63T,407BF5,Sat Oct 16 16:13:50 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Sat Oct 16 16:05:21 UTC 2021
 Airline code "JCL", examples:JCL6,3CD803,Sat Oct 16 16:06:01 UTC 2021
@@ -7,7 +8,6 @@ Airline code "VKG", examples:VKG1966,45D069,Sat Oct 16 16:41:45 UTC 2021
 Airline code "EGC", examples:EGC957,AD4ECA,Sat Oct 16 15:49:40 UTC 2021
 Airline code "ITY", examples:ITY436,4CAAA8,Sat Oct 16 16:00:04 UTC 2021 ITY436,4CAAA8,Sat Oct 16 15:59:35 UTC 2021
 Airline code "JPV", examples:JPV452P,3C942D,Sat Oct 16 15:29:58 UTC 2021
-Airline code "LSM", examples:LSM97,500127,Sat Oct 16 15:56:21 UTC 2021
 Airline code "MJF", examples:MJF3C,440A8A,Sat Oct 16 15:05:45 UTC 2021
 Airline code "JSX", examples:JSX220,A23C02,Sat Oct 16 14:12:52 UTC 2021
 Airline code "JTD", examples:JTD453,45AA90,Sat Oct 16 14:48:35 UTC 2021
