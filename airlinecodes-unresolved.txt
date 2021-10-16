@@ -1,3 +1,4 @@
+Airline code "MJF", examples:MJF3C,440A8A,Sat Oct 16 11:50:57 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Sat Oct 16 10:05:04 UTC 2021
 Airline code "JNL", examples:JNL1089,48630E,Sat Oct 16 10:30:45 UTC 2021
 Airline code "NTF", examples:NTF68A,49D3E9,Sat Oct 16 10:06:47 UTC 2021
@@ -14,7 +15,6 @@ Airline code "FOX", examples:FOX1402,478E7A,Fri Oct 15 21:05:38 UTC 2021
 Airline code "GTW", examples:GTW363,A4177F,Fri Oct 15 21:05:40 UTC 2021
 Airline code "JCL", examples:JCL5,3C0E3D,Fri Oct 15 21:06:24 UTC 2021
 Airline code "JME", examples:JME210N,3431C9,Fri Oct 15 21:05:59 UTC 2021
-Airline code "MJF", examples:MJF71G,440691,Fri Oct 15 21:06:11 UTC 2021
 Airline code "PCT", examples:PCT441,3F9AE8,Fri Oct 15 21:05:52 UTC 2021
 Airline code "WRC", examples:WRC7007,4D22A8,Fri Oct 15 21:06:26 UTC 2021
 Airline code "MOZ", examples:MOZ118,4405AE,Fri Oct 15 20:43:47 UTC 2021
