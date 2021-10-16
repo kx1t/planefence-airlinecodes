@@ -1,3 +1,5 @@
+Airline code "JNL", examples:JNL0089,48630E,Sat Oct 16 19:05:28 UTC 2021
+Airline code "NTF", examples:NTF68A,49D3E9,Sat Oct 16 19:05:45 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Sat Oct 16 18:06:19 UTC 2021
 Airline code "JCL", examples:JCL6,3CD803,Sat Oct 16 18:06:20 UTC 2021
 Airline code "JTD", examples:JTD353,45AA90,Sat Oct 16 18:05:11 UTC 2021
@@ -6,8 +8,6 @@ Airline code "TIV", examples:TIV685,A917B1,Sat Oct 16 18:02:30 UTC 2021
 Airline code "VKG", examples:VKG1246,45D068,Sat Oct 16 18:05:09 UTC 2021
 Airline code "LSM", examples:LSM97,500127,Sat Oct 16 17:46:59 UTC 2021
 Airline code "FLJ", examples:FLJ63T,407BF5,Sat Oct 16 16:29:59 UTC 2021 FLJ63T,407BF5,Sat Oct 16 16:13:50 UTC 2021
-Airline code "JNL", examples:JNL0089,48630E,Sat Oct 16 16:05:23 UTC 2021
-Airline code "NTF", examples:NTF68A,49D3E9,Sat Oct 16 16:05:40 UTC 2021
 Airline code "EGC", examples:EGC957,AD4ECA,Sat Oct 16 15:49:40 UTC 2021
 Airline code "ITY", examples:ITY436,4CAAA8,Sat Oct 16 16:00:04 UTC 2021 ITY436,4CAAA8,Sat Oct 16 15:59:35 UTC 2021
 Airline code "JPV", examples:JPV452P,3C942D,Sat Oct 16 15:29:58 UTC 2021
