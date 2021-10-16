@@ -1,3 +1,4 @@
+Airline code "JAF", examples:JAF3322,44B438,Sat Oct 16 20:53:56 UTC 2021
 Airline code "JNL", examples:JNL0089,48630E,Sat Oct 16 19:05:28 UTC 2021
 Airline code "NTF", examples:NTF68A,49D3E9,Sat Oct 16 19:05:45 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Sat Oct 16 18:06:19 UTC 2021
@@ -15,7 +16,6 @@ Airline code "JSX", examples:JSX220,A23C02,Sat Oct 16 14:12:52 UTC 2021
 Airline code "OOH", examples:OOH74,44A006,Sat Oct 16 14:36:22 UTC 2021
 Airline code "KAY", examples:KAY57,3C78AF,Sat Oct 16 13:57:28 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Sat Oct 16 13:43:06 UTC 2021
-Airline code "JAF", examples:JAF1PJ,44D1B9,Sat Oct 16 12:47:01 UTC 2021
 Airline code "OOI", examples:OOI13,44A7C9,Sat Oct 16 12:21:40 UTC 2021
 Airline code "AJO", examples:AJO234,4D22DC,Sat Oct 16 06:07:56 UTC 2021
 Airline code "AZV", examples:AZV942,42445B,Fri Oct 15 21:05:16 UTC 2021
