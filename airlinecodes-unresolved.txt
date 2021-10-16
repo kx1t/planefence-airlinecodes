@@ -1,3 +1,4 @@
+Airline code "TIV", examples:TIV80,AAE16B,Sat Oct 16 00:00:46 UTC 2021
 Airline code "AZV", examples:AZV942,42445B,Fri Oct 15 21:05:16 UTC 2021
 Airline code "FOX", examples:FOX1402,478E7A,Fri Oct 15 21:05:38 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Fri Oct 15 21:06:49 UTC 2021
@@ -61,7 +62,6 @@ Airline code "MJE", examples:MJE001,8964C4,Tue Oct 12 12:58:24 UTC 2021
 Airline code "VND", examples:VND1387,300224,Tue Oct 12 12:16:20 UTC 2021
 Airline code "KBD", examples:KBD216,398477,Tue Oct 12 10:53:23 UTC 2021
 Airline code "LOL", examples:LOL1011,5140AF,Tue Oct 12 06:22:48 UTC 2021
-Airline code "TIV", examples:TIV70,A9541C,Tue Oct 12 00:37:00 UTC 2021
 Airline code "NCJ", examples:NCJ50,A88E05,Mon Oct 11 23:17:39 UTC 2021
 Airline code "FRV", examples:FRV0906,020136,Mon Oct 11 21:30:17 UTC 2021
 Airline code "TWI", examples:TWI1332,4BD181,Mon Oct 11 20:05:36 UTC 2021
