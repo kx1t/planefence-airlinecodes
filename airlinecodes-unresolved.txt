@@ -1,3 +1,6 @@
+Airline code "FLJ", examples:FLJ52R,407A2A,Sat Oct 16 08:14:55 UTC 2021
+Airline code "GFM", examples:GFM5X,4AC998,Sat Oct 16 08:00:34 UTC 2021
+Airline code "JNL", examples:JNL0089,48630E,Sat Oct 16 08:18:34 UTC 2021
 Airline code "KAY", examples:KAY57,3C78AF,Sat Oct 16 07:26:50 UTC 2021 KAY57,3C78AF,Sat Oct 16 07:26:40 UTC 2021
 Airline code "AJO", examples:AJO234,4D22DC,Sat Oct 16 06:07:56 UTC 2021
 Airline code "JTD", examples:JTD317,45AB4E,Sat Oct 16 06:51:34 UTC 2021
@@ -5,7 +8,6 @@ Airline code "VKG", examples:VKG1134,45D065,Sat Oct 16 06:47:54 UTC 2021 VKG1188
 Airline code "TIV", examples:TIV80,AAE16B,Sat Oct 16 00:00:46 UTC 2021
 Airline code "AZV", examples:AZV942,42445B,Fri Oct 15 21:05:16 UTC 2021
 Airline code "FOX", examples:FOX1402,478E7A,Fri Oct 15 21:05:38 UTC 2021
-Airline code "GFM", examples:GFM5X,4AC998,Fri Oct 15 21:06:49 UTC 2021
 Airline code "GTW", examples:GTW363,A4177F,Fri Oct 15 21:05:40 UTC 2021
 Airline code "JCL", examples:JCL5,3C0E3D,Fri Oct 15 21:06:24 UTC 2021
 Airline code "JME", examples:JME210N,3431C9,Fri Oct 15 21:05:59 UTC 2021
@@ -15,7 +17,6 @@ Airline code "WRC", examples:WRC7007,4D22A8,Fri Oct 15 21:06:26 UTC 2021
 Airline code "MOZ", examples:MOZ118,4405AE,Fri Oct 15 20:43:47 UTC 2021
 Airline code "XEN", examples:XEN15,A1CC9A,Fri Oct 15 20:59:32 UTC 2021
 Airline code "TBJ", examples:TBJ91,A6BC98,Fri Oct 15 19:36:37 UTC 2021
-Airline code "FLJ", examples:FLJ52R,407A2A,Fri Oct 15 18:54:51 UTC 2021
 Airline code "NJM", examples:NJM770,AA6AB4,Fri Oct 15 18:21:32 UTC 2021
 Airline code "RLI", examples:RLI969,AD7E93,Fri Oct 15 17:30:12 UTC 2021
 Airline code "PGN", examples:PGN333W,A3A1F2,Fri Oct 15 16:49:39 UTC 2021
@@ -41,7 +42,6 @@ Airline code "GCL", examples:GCL3318,3C4D98,Thu Oct 14 18:05:08 UTC 2021
 Airline code "KZN", examples:KZN9401,15065F,Thu Oct 14 18:06:27 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Thu Oct 14 18:05:25 UTC 2021
 Airline code "VKA", examples:VKA119,5083A2,Thu Oct 14 18:06:02 UTC 2021
-Airline code "JNL", examples:JNL111,485D30,Thu Oct 14 14:37:55 UTC 2021
 Airline code "BFD", examples:BFD14K,3CBDEB,Thu Oct 14 12:40:40 UTC 2021
 Airline code "JEI", examples:JEI444,3CC194,Thu Oct 14 12:09:51 UTC 2021
 Airline code "CGF", examples:CGF841P,451E29,Thu Oct 14 10:23:00 UTC 2021
