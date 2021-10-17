@@ -1,3 +1,5 @@
+Airline code "TJD", examples:TJD750,300447,Sun Oct 17 18:05:07 UTC 2021
+Airline code "UJC", examples:UJC59,A407D6,Sun Oct 17 18:12:54 UTC 2021 UJC59,A407D6,Sun Oct 17 18:05:07 UTC 2021
 Airline code "JAF", examples:JAF9100,44D2B6,Sun Oct 17 17:05:23 UTC 2021
 Airline code "JTD", examples:JTD517,45AB4A,Sun Oct 17 17:05:15 UTC 2021
 Airline code "RUK", examples:RUK2642,407CAF,Sun Oct 17 17:05:19 UTC 2021
@@ -42,7 +44,6 @@ Airline code "TBJ", examples:TBJ91,A6BC98,Fri Oct 15 19:36:37 UTC 2021
 Airline code "NJM", examples:NJM770,AA6AB4,Fri Oct 15 18:21:32 UTC 2021
 Airline code "RLI", examples:RLI969,AD7E93,Fri Oct 15 17:30:12 UTC 2021
 Airline code "PGN", examples:PGN333W,A3A1F2,Fri Oct 15 16:49:39 UTC 2021
-Airline code "TJD", examples:TJD975,300829,Fri Oct 15 13:05:49 UTC 2021
 Airline code "VXS", examples:VXS4,4056A2,Fri Oct 15 13:49:49 UTC 2021
 Airline code "CSB", examples:CSB588,C025D2,Fri Oct 15 12:15:44 UTC 2021
 Airline code "TEK", examples:TEK610,A7EF5C,Fri Oct 15 11:45:22 UTC 2021
@@ -134,7 +135,6 @@ Airline code "KSF", examples:KSF251,A1F787,Sun Sep 26 11:42:53 UTC 2021
 Airline code "VCJ", examples:VCJ92T,4D229A,Sun Sep 26 10:18:40 UTC 2021
 Airline code "XLJ", examples:XLJ411,A4D7E0,Sat Sep 25 22:11:18 UTC 2021
 Airline code "JRT", examples:JRT18,ACB5BA,Sat Sep 25 13:46:17 UTC 2021
-Airline code "UJC", examples:UJC35,A08F6A,Sat Sep 25 12:08:45 UTC 2021
 Airline code "RKS", examples:RKS8,AB5030,Fri Sep 24 08:34:07 UTC 2021
 Airline code "RKK", examples:RKK38,A14F52,Thu Sep 23 15:09:27 UTC 2021
 Airline code "VAJ", examples:VAJ81M,500116,Thu Sep 23 14:12:27 UTC 2021
