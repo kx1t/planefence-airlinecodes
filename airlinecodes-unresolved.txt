@@ -1,16 +1,17 @@
+Airline code "FOX", examples:FOX1356,478731,Sun Oct 17 19:06:14 UTC 2021
+Airline code "HPK", examples:HPK73,AC0381,Sun Oct 17 19:14:25 UTC 2021
+Airline code "JCL", examples:JCL6,3CD803,Sun Oct 17 19:05:23 UTC 2021
+Airline code "JKH", examples:JKH32C,3CE624,Sun Oct 17 19:05:39 UTC 2021
+Airline code "JTD", examples:JTD420,45AB4E,Sun Oct 17 19:05:55 UTC 2021
+Airline code "NYX", examples:NYX429,511147,Sun Oct 17 19:58:22 UTC 2021
+Airline code "SZS", examples:SZS526,4CAF82,Sun Oct 17 19:05:43 UTC 2021
+Airline code "VKG", examples:VKG4070,45D064,Sun Oct 17 19:06:22 UTC 2021
 Airline code "TJD", examples:TJD750,300447,Sun Oct 17 18:05:07 UTC 2021
 Airline code "UJC", examples:UJC59,A407D6,Sun Oct 17 18:12:54 UTC 2021 UJC59,A407D6,Sun Oct 17 18:05:07 UTC 2021
 Airline code "JAF", examples:JAF9100,44D2B6,Sun Oct 17 17:05:23 UTC 2021
-Airline code "JTD", examples:JTD517,45AB4A,Sun Oct 17 17:05:15 UTC 2021
 Airline code "RUK", examples:RUK2642,407CAF,Sun Oct 17 17:05:19 UTC 2021
 Airline code "TWI", examples:TWI2328,4BD184,Sun Oct 17 17:05:25 UTC 2021
-Airline code "VKG", examples:VKG4046,45D067,Sun Oct 17 17:06:07 UTC 2021
-Airline code "FOX", examples:FOX1356,478731,Sun Oct 17 16:09:40 UTC 2021
-Airline code "HPK", examples:HPK73,AC0381,Sun Oct 17 16:25:14 UTC 2021
-Airline code "JCL", examples:JCL6,3CD803,Sun Oct 17 16:05:35 UTC 2021
-Airline code "JKH", examples:JKH32C,3CE624,Sun Oct 17 16:05:26 UTC 2021
 Airline code "OOF", examples:OOF05,449BC1,Sun Oct 17 16:06:42 UTC 2021
-Airline code "SZS", examples:SZS526,4CAF82,Sun Oct 17 16:05:31 UTC 2021
 Airline code "ITY", examples:ITY160,4CA81D,Sun Oct 17 15:36:10 UTC 2021
 Airline code "LSM", examples:LSM97,500127,Sun Oct 17 15:37:30 UTC 2021 LSM97,500127,Sun Oct 17 15:01:06 UTC 2021
 Airline code "XCH", examples:XCH514,43E7ED,Sun Oct 17 15:53:06 UTC 2021
@@ -67,7 +68,6 @@ Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 13 20:05:26 UTC 2021
 Airline code "ASJ", examples:ASJ616,398249,Wed Oct 13 17:41:03 UTC 2021
 Airline code "VLZ", examples:VLZ290A,43EC73,Wed Oct 13 15:31:58 UTC 2021
 Airline code "CDX", examples:CDX550,748053,Wed Oct 13 10:19:31 UTC 2021
-Airline code "NYX", examples:NYX421,511147,Wed Oct 13 07:57:02 UTC 2021
 Airline code "FTD", examples:FTD561,A72AA3,Tue Oct 12 22:31:28 UTC 2021
 Airline code "DFC", examples:DFC3LL,49D44A,Tue Oct 12 19:05:58 UTC 2021
 Airline code "GLH", examples:GLH1,A16AAD,Tue Oct 12 19:05:40 UTC 2021
