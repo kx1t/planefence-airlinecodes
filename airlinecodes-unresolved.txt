@@ -1,3 +1,4 @@
+Airline code "BFD", examples:BFD18K,3CBDEB,Mon Oct 18 05:52:50 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4D,Mon Oct 18 03:04:22 UTC 2021
 Airline code "AZV", examples:AZV778,42444A,Mon Oct 18 02:37:34 UTC 2021
 Airline code "EGC", examples:EGC690,A92BBD,Mon Oct 18 02:14:26 UTC 2021
@@ -60,7 +61,6 @@ Airline code "FJO", examples:FJO54A,4D2330,Thu Oct 14 18:05:27 UTC 2021
 Airline code "GCL", examples:GCL3318,3C4D98,Thu Oct 14 18:05:08 UTC 2021
 Airline code "KZN", examples:KZN9401,15065F,Thu Oct 14 18:06:27 UTC 2021
 Airline code "VKA", examples:VKA119,5083A2,Thu Oct 14 18:06:02 UTC 2021
-Airline code "BFD", examples:BFD14K,3CBDEB,Thu Oct 14 12:40:40 UTC 2021
 Airline code "JEI", examples:JEI444,3CC194,Thu Oct 14 12:09:51 UTC 2021
 Airline code "CGF", examples:CGF841P,451E29,Thu Oct 14 10:23:00 UTC 2021
 Airline code "KFB", examples:KFB96100,AD61B8,Thu Oct 14 03:17:48 UTC 2021 KFB96100,AD61B8,Thu Oct 14 03:07:17 UTC 2021
