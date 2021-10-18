@@ -1,15 +1,15 @@
+Airline code "AZV", examples:AZV778,42444A,Mon Oct 18 13:04:56 UTC 2021
+Airline code "JBC", examples:JBC804A,49D4E4,Mon Oct 18 13:05:15 UTC 2021
+Airline code "JKH", examples:JKH32C,3CE624,Mon Oct 18 13:05:41 UTC 2021
+Airline code "RKS", examples:RKS1,ABFA9A,Mon Oct 18 13:05:21 UTC 2021
+Airline code "RTG", examples:RTG5224,47923C,Mon Oct 18 13:05:11 UTC 2021
+Airline code "URO", examples:URO461,400F0B,Mon Oct 18 13:05:23 UTC 2021
 Airline code "FOX", examples:FOX1404,47875B,Mon Oct 18 12:59:27 UTC 2021
 Airline code "JAF", examples:JAF2344,44A82C,Mon Oct 18 12:56:35 UTC 2021
 Airline code "JTD", examples:JTD553,45AA90,Mon Oct 18 12:04:58 UTC 2021
 Airline code "RUK", examples:RUK2642,407BDC,Mon Oct 18 12:05:06 UTC 2021
 Airline code "VKG", examples:VKG1308,45D066,Mon Oct 18 12:05:11 UTC 2021
 Airline code "FLJ", examples:FLJ63T,407BF5,Mon Oct 18 11:59:35 UTC 2021 FLJ63T,407BF5,Mon Oct 18 11:30:13 UTC 2021
-Airline code "AZV", examples:AZV778,42444A,Mon Oct 18 10:04:55 UTC 2021
-Airline code "JBC", examples:JBC804A,49D4E4,Mon Oct 18 10:05:15 UTC 2021
-Airline code "JKH", examples:JKH32C,3CE624,Mon Oct 18 10:28:10 UTC 2021
-Airline code "RKS", examples:RKS1,ABFA9A,Mon Oct 18 10:05:22 UTC 2021
-Airline code "RTG", examples:RTG5224,47923C,Mon Oct 18 10:05:12 UTC 2021
-Airline code "URO", examples:URO461,400F0B,Mon Oct 18 10:05:23 UTC 2021
 Airline code "ITY", examples:ITY156,4CAAA8,Mon Oct 18 09:19:12 UTC 2021
 Airline code "OOI", examples:OOI20,44A7D0,Mon Oct 18 09:12:32 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Mon Oct 18 08:23:07 UTC 2021
