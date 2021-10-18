@@ -1,3 +1,4 @@
+Airline code "JTD", examples:JTD574,45AB4D,Mon Oct 18 17:05:07 UTC 2021
 Airline code "AZV", examples:AZV778,42444A,Mon Oct 18 16:05:03 UTC 2021
 Airline code "FLJ", examples:FLJ52R,407A2A,Mon Oct 18 16:06:19 UTC 2021
 Airline code "ITY", examples:ITY154,4CA81C,Mon Oct 18 16:42:03 UTC 2021
@@ -14,7 +15,6 @@ Airline code "TLI", examples:TLI346,3DAA4D,Mon Oct 18 15:39:57 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Mon Oct 18 15:05:42 UTC 2021
 Airline code "VKG", examples:VKG1124,45D065,Mon Oct 18 15:05:17 UTC 2021
 Airline code "JCL", examples:JCL6,3CD803,Mon Oct 18 14:20:40 UTC 2021
-Airline code "JTD", examples:JTD560,45AB4A,Mon Oct 18 14:14:42 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Mon Oct 18 14:51:22 UTC 2021
 Airline code "JAF", examples:JAF2344,44A82C,Mon Oct 18 12:56:35 UTC 2021
 Airline code "OOI", examples:OOI20,44A7D0,Mon Oct 18 09:12:32 UTC 2021
