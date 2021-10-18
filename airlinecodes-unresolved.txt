@@ -1,3 +1,4 @@
+Airline code "FLJ", examples:FLJ63T,407BF5,Mon Oct 18 11:59:35 UTC 2021 FLJ63T,407BF5,Mon Oct 18 11:30:13 UTC 2021
 Airline code "AZV", examples:AZV778,42444A,Mon Oct 18 10:04:55 UTC 2021
 Airline code "JBC", examples:JBC804A,49D4E4,Mon Oct 18 10:05:15 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Mon Oct 18 10:28:10 UTC 2021
@@ -32,7 +33,6 @@ Airline code "BFY", examples:BFY076R,48412B,Sun Oct 17 13:08:05 UTC 2021
 Airline code "KAY", examples:KAY59,3C5CEC,Sun Oct 17 13:27:05 UTC 2021
 Airline code "OOG", examples:OOG77,449C09,Sun Oct 17 12:43:50 UTC 2021
 Airline code "ULC", examples:ULC22,4D2305,Sun Oct 17 12:28:05 UTC 2021
-Airline code "FLJ", examples:FLJ53F,407ADC,Sun Oct 17 10:55:04 UTC 2021
 Airline code "PJS", examples:PJS800,4B184E,Sun Oct 17 08:07:03 UTC 2021
 Airline code "PCT", examples:PCT444,3F9AE8,Sat Oct 16 21:29:38 UTC 2021
 Airline code "JNL", examples:JNL0089,48630E,Sat Oct 16 19:05:28 UTC 2021
