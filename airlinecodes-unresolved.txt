@@ -1,3 +1,7 @@
+Airline code "JBC", examples:JBC804A,49D4E4,Mon Oct 18 06:59:53 UTC 2021
+Airline code "RTG", examples:RTG5224,47923C,Mon Oct 18 06:43:39 UTC 2021
+Airline code "RUK", examples:RUK2642,407BDC,Mon Oct 18 06:12:36 UTC 2021
+Airline code "VKG", examples:VKG1124,45D065,Mon Oct 18 06:04:44 UTC 2021
 Airline code "BFD", examples:BFD18K,3CBDEB,Mon Oct 18 05:52:50 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4D,Mon Oct 18 03:04:22 UTC 2021
 Airline code "AZV", examples:AZV778,42444A,Mon Oct 18 02:37:34 UTC 2021
@@ -6,14 +10,12 @@ Airline code "HPK", examples:HPK73,AC0381,Mon Oct 18 02:33:19 UTC 2021
 Airline code "FSP", examples:FSP727,A9C0CF,Sun Oct 17 23:19:07 UTC 2021
 Airline code "JAF", examples:JAF1PJ,44B1E5,Sun Oct 17 21:17:34 UTC 2021
 Airline code "DLX", examples:DLX79,A77160,Sun Oct 17 20:38:17 UTC 2021
-Airline code "RUK", examples:RUK2642,407CAF,Sun Oct 17 20:05:23 UTC 2021
 Airline code "TWI", examples:TWI2328,4BD184,Sun Oct 17 20:05:30 UTC 2021
 Airline code "FOX", examples:FOX1356,478731,Sun Oct 17 19:06:14 UTC 2021
 Airline code "JCL", examples:JCL6,3CD803,Sun Oct 17 19:05:23 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Sun Oct 17 19:05:39 UTC 2021
 Airline code "NYX", examples:NYX429,511147,Sun Oct 17 19:58:22 UTC 2021
 Airline code "SZS", examples:SZS526,4CAF82,Sun Oct 17 19:05:43 UTC 2021
-Airline code "VKG", examples:VKG4070,45D064,Sun Oct 17 19:06:22 UTC 2021
 Airline code "TJD", examples:TJD750,300447,Sun Oct 17 18:05:07 UTC 2021
 Airline code "UJC", examples:UJC59,A407D6,Sun Oct 17 18:12:54 UTC 2021 UJC59,A407D6,Sun Oct 17 18:05:07 UTC 2021
 Airline code "OOF", examples:OOF05,449BC1,Sun Oct 17 16:06:42 UTC 2021
@@ -91,12 +93,10 @@ Airline code "JLG", examples:JLG533,A6BD51,Sat Oct 9 13:33:24 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Sat Oct 9 10:07:31 UTC 2021
 Airline code "JCO", examples:JCO5,424BBF,Sat Oct 9 07:53:12 UTC 2021
 Airline code "MJS", examples:MJS4481,AC38AF,Fri Oct 8 20:45:38 UTC 2021
-Airline code "RTG", examples:RTG5220,47923C,Fri Oct 8 20:05:28 UTC 2021
 Airline code "DCW", examples:DCW1,4D2184,Fri Oct 8 19:06:51 UTC 2021
 Airline code "LWG", examples:LWG1571,39AE32,Fri Oct 8 19:05:36 UTC 2021
 Airline code "VPC", examples:VPC2,51111F,Fri Oct 8 19:06:50 UTC 2021
 Airline code "FSF", examples:FSF700P,461A82,Fri Oct 8 15:52:41 UTC 2021
-Airline code "JBC", examples:JBC496B,A4D521,Thu Oct 7 23:18:48 UTC 2021
 Airline code "BAO", examples:BAO215G,3C86C7,Thu Oct 7 19:06:36 UTC 2021
 Airline code "SAR", examples:SAR139,48A5E2,Thu Oct 7 19:05:52 UTC 2021
 Airline code "KAF", examples:KAF3228,7061F5,Thu Oct 7 11:21:02 UTC 2021
