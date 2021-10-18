@@ -1,3 +1,4 @@
+Airline code "RJE", examples:RJE156,A0E1F3,Mon Oct 18 22:40:41 UTC 2021
 Airline code "AZV", examples:AZV778,42444A,Mon Oct 18 21:05:23 UTC 2021
 Airline code "FLJ", examples:FLJ52R,407A2A,Mon Oct 18 21:06:48 UTC 2021
 Airline code "FOX", examples:FOX1404,47875B,Mon Oct 18 21:06:28 UTC 2021
@@ -172,7 +173,6 @@ Airline code "RSP", examples:RSP69,A77A78,Thu Sep 9 18:06:55 UTC 2021
 Airline code "EZZ", examples:EZZ441W,501C0B,Wed Sep 8 18:16:46 UTC 2021
 Airline code "GKY", examples:GKY069,42483E,Wed Sep 8 15:48:47 UTC 2021
 Airline code "TEU", examples:TEU14,4D220F,Wed Sep 8 06:41:44 UTC 2021
-Airline code "RJE", examples:RJE43,A520E2,Tue Sep 7 00:34:41 UTC 2021
 Airline code "JAZ", examples:JAZ7935,C017ED,Mon Sep 6 20:04:26 UTC 2021
 Airline code "MBK", examples:MBK601,C00381,Mon Sep 6 20:46:50 UTC 2021
 Airline code "MDO", examples:MDO2260,4D21DD,Sun Sep 5 18:19:43 UTC 2021
