@@ -1,8 +1,8 @@
+Airline code "JTD", examples:JTD574,45AB4D,Mon Oct 18 03:04:22 UTC 2021
 Airline code "AZV", examples:AZV778,42444A,Mon Oct 18 02:37:34 UTC 2021
 Airline code "EGC", examples:EGC690,A92BBD,Mon Oct 18 02:14:26 UTC 2021
 Airline code "HPK", examples:HPK73,AC0381,Mon Oct 18 02:33:19 UTC 2021
 Airline code "FSP", examples:FSP727,A9C0CF,Sun Oct 17 23:19:07 UTC 2021
-Airline code "JTD", examples:JTD574,45AB4D,Sun Oct 17 23:21:19 UTC 2021
 Airline code "JAF", examples:JAF1PJ,44B1E5,Sun Oct 17 21:17:34 UTC 2021
 Airline code "DLX", examples:DLX79,A77160,Sun Oct 17 20:38:17 UTC 2021
 Airline code "RUK", examples:RUK2642,407CAF,Sun Oct 17 20:05:23 UTC 2021
