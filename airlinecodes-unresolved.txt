@@ -1,3 +1,7 @@
+Airline code "FSP", examples:FSP423,A50702,Tue Oct 19 16:42:52 UTC 2021
+Airline code "GCT", examples:GCT88,AB28B5,Tue Oct 19 16:19:37 UTC 2021
+Airline code "JNL", examples:JNL2055,4858C7,Tue Oct 19 16:53:40 UTC 2021
+Airline code "RUK", examples:RUK2644,407BDC,Tue Oct 19 16:36:29 UTC 2021
 Airline code "AZV", examples:AZV778,3749F5,Tue Oct 19 15:04:54 UTC 2021
 Airline code "BAO", examples:BAO239N,3C0FE6,Tue Oct 19 15:05:07 UTC 2021
 Airline code "CGF", examples:CGF820,451E29,Tue Oct 19 15:04:57 UTC 2021
@@ -7,7 +11,6 @@ Airline code "ITY", examples:ITY160,4CA719,Tue Oct 19 15:16:17 UTC 2021
 Airline code "JTD", examples:JTD287,45AB4E,Tue Oct 19 15:05:11 UTC 2021
 Airline code "VKG", examples:VKG1293,45D068,Tue Oct 19 15:04:53 UTC 2021
 Airline code "FSF", examples:FSF230M,46316E,Tue Oct 19 14:52:45 UTC 2021
-Airline code "FSP", examples:FSP423,A50702,Tue Oct 19 14:34:03 UTC 2021 FSP423,A50702,Tue Oct 19 14:30:20 UTC 2021
 Airline code "JEI", examples:JEI121,3CD003,Tue Oct 19 14:56:13 UTC 2021
 Airline code "LRQ", examples:LRQ546F,4D0290,Tue Oct 19 14:38:44 UTC 2021
 Airline code "NYX", examples:NYX427,511132,Tue Oct 19 14:51:16 UTC 2021
@@ -18,9 +21,7 @@ Airline code "FJO", examples:FJO54A,4D2330,Tue Oct 19 11:11:46 UTC 2021
 Airline code "JAF", examples:JAF7DY,44D1B9,Tue Oct 19 11:38:51 UTC 2021
 Airline code "MJF", examples:MJF6B,440949,Tue Oct 19 11:19:43 UTC 2021
 Airline code "NUE", examples:NUE8YR,491310,Tue Oct 19 09:49:24 UTC 2021
-Airline code "JNL", examples:JNL055,4858C7,Tue Oct 19 05:29:16 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Mon Oct 18 23:00:41 UTC 2021
-Airline code "GCT", examples:GCT88,AB28B5,Mon Oct 18 23:27:33 UTC 2021
 Airline code "TBJ", examples:TBJ91,A6BC98,Mon Oct 18 23:09:24 UTC 2021
 Airline code "RJE", examples:RJE156,A0E1F3,Mon Oct 18 22:40:41 UTC 2021
 Airline code "FLJ", examples:FLJ52R,407A2A,Mon Oct 18 21:06:48 UTC 2021
@@ -28,7 +29,6 @@ Airline code "JBC", examples:JBC804A,49D4E4,Mon Oct 18 21:05:43 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Mon Oct 18 21:06:10 UTC 2021
 Airline code "RKS", examples:RKS1,ABFA9A,Mon Oct 18 21:05:49 UTC 2021
 Airline code "RTG", examples:RTG5224,47923C,Mon Oct 18 21:05:40 UTC 2021
-Airline code "RUK", examples:RUK2642,407BDC,Mon Oct 18 21:05:35 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Mon Oct 18 21:05:50 UTC 2021
 Airline code "BRH", examples:BRH750,00B314,Mon Oct 18 20:03:09 UTC 2021
 Airline code "LKF", examples:LKF16,A1E54F,Mon Oct 18 16:16:26 UTC 2021
