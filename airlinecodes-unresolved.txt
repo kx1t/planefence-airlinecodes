@@ -1,3 +1,4 @@
+Airline code "EEV", examples:EEV5330,A3183D,Tue Oct 19 19:57:54 UTC 2021 EEV5330,A3183D,Tue Oct 19 19:55:56 UTC 2021
 Airline code "AZV", examples:AZV778,3749F5,Tue Oct 19 18:05:04 UTC 2021
 Airline code "CGF", examples:CGF820,451E29,Tue Oct 19 18:05:07 UTC 2021
 Airline code "FOX", examples:FOX1226,478E7A,Tue Oct 19 18:05:33 UTC 2021
@@ -146,7 +147,6 @@ Airline code "RKK", examples:RKK38,A14F52,Thu Sep 23 15:09:27 UTC 2021
 Airline code "VAJ", examples:VAJ81M,500116,Thu Sep 23 14:12:27 UTC 2021
 Airline code "HON", examples:HON53,A4FC1D,Wed Sep 22 16:21:54 UTC 2021
 Airline code "IBJ", examples:IBJ822D,3453CD,Wed Sep 22 16:05:34 UTC 2021
-Airline code "EEV", examples:EEV4853,A4A0B4,Wed Sep 22 15:39:01 UTC 2021
 Airline code "UAQ", examples:UAQ01,400EE1,Wed Sep 22 10:38:02 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Wed Sep 22 00:43:19 UTC 2021
 Airline code "AEG", examples:AEG444,5110C8,Tue Sep 21 20:04:56 UTC 2021
