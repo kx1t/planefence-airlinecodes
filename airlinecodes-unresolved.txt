@@ -1,3 +1,5 @@
+Airline code "AZV", examples:AZV778,3749F5,Tue Oct 19 13:04:45 UTC 2021
+Airline code "CGF", examples:CGF820,451E29,Tue Oct 19 13:04:48 UTC 2021
 Airline code "BAO", examples:BAO239N,3C0FE6,Tue Oct 19 12:04:54 UTC 2021
 Airline code "FOX", examples:FOX1226,478E7A,Tue Oct 19 12:05:11 UTC 2021
 Airline code "ITY", examples:ITY150,4CA8F6,Tue Oct 19 12:21:32 UTC 2021
@@ -8,8 +10,6 @@ Airline code "FJO", examples:FJO54A,4D2330,Tue Oct 19 11:11:46 UTC 2021
 Airline code "JAF", examples:JAF7DY,44D1B9,Tue Oct 19 11:38:51 UTC 2021
 Airline code "MJF", examples:MJF6B,440949,Tue Oct 19 11:19:43 UTC 2021
 Airline code "VKG", examples:VKG4227,45D067,Tue Oct 19 11:39:45 UTC 2021
-Airline code "AZV", examples:AZV778,3749F5,Tue Oct 19 10:04:38 UTC 2021
-Airline code "CGF", examples:CGF820,451E29,Tue Oct 19 10:04:40 UTC 2021
 Airline code "NUE", examples:NUE8YR,491310,Tue Oct 19 09:49:24 UTC 2021
 Airline code "JNL", examples:JNL055,4858C7,Tue Oct 19 05:29:16 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Mon Oct 18 23:00:41 UTC 2021
