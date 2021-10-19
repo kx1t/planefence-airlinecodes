@@ -1,3 +1,4 @@
+Airline code "ITY", examples:ITY156,4CA82F,Tue Oct 19 08:54:51 UTC 2021
 Airline code "AZV", examples:AZV778,3749F5,Tue Oct 19 07:04:31 UTC 2021
 Airline code "BAO", examples:BAO239N,3C0FE6,Tue Oct 19 07:47:19 UTC 2021
 Airline code "CGF", examples:CGF820,451E29,Tue Oct 19 07:04:33 UTC 2021
@@ -19,7 +20,6 @@ Airline code "RUK", examples:RUK2642,407BDC,Mon Oct 18 21:05:35 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Mon Oct 18 21:05:50 UTC 2021
 Airline code "BRH", examples:BRH750,00B314,Mon Oct 18 20:03:09 UTC 2021
 Airline code "NYX", examples:NYX429,511132,Mon Oct 18 20:38:53 UTC 2021
-Airline code "ITY", examples:ITY154,4CA81C,Mon Oct 18 16:42:03 UTC 2021
 Airline code "LKF", examples:LKF16,A1E54F,Mon Oct 18 16:16:26 UTC 2021
 Airline code "NJM", examples:NJM300,A31FEE,Mon Oct 18 16:09:45 UTC 2021
 Airline code "FSP", examples:FSP423,A50702,Mon Oct 18 15:31:24 UTC 2021
