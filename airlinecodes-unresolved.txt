@@ -1,3 +1,8 @@
+Airline code "AZV", examples:AZV778,3749F5,Tue Oct 19 21:05:10 UTC 2021
+Airline code "CGF", examples:CGF820,451E29,Tue Oct 19 21:05:12 UTC 2021
+Airline code "FOX", examples:FOX1226,478E7A,Tue Oct 19 21:05:37 UTC 2021
+Airline code "PGN", examples:PGN333W,A3A1F2,Tue Oct 19 21:42:30 UTC 2021
+Airline code "URO", examples:URO460,400F0B,Tue Oct 19 21:10:20 UTC 2021
 Airline code "BAO", examples:BAO239N,3C0FE6,Tue Oct 19 20:05:16 UTC 2021
 Airline code "CSG", examples:CSG2573,7805AA,Tue Oct 19 20:05:46 UTC 2021
 Airline code "JEI", examples:JEI121,3CD003,Tue Oct 19 20:06:04 UTC 2021
@@ -7,9 +12,6 @@ Airline code "SZS", examples:SZS525,4CAF82,Tue Oct 19 20:05:20 UTC 2021
 Airline code "VKG", examples:VKG1293,45D068,Tue Oct 19 20:05:04 UTC 2021
 Airline code "WRC", examples:WRC7007,4D2307,Tue Oct 19 20:06:23 UTC 2021
 Airline code "EEV", examples:EEV5330,A3183D,Tue Oct 19 19:57:54 UTC 2021 EEV5330,A3183D,Tue Oct 19 19:55:56 UTC 2021
-Airline code "AZV", examples:AZV778,3749F5,Tue Oct 19 18:05:04 UTC 2021
-Airline code "CGF", examples:CGF820,451E29,Tue Oct 19 18:05:07 UTC 2021
-Airline code "FOX", examples:FOX1226,478E7A,Tue Oct 19 18:05:33 UTC 2021
 Airline code "JAF", examples:JAF9112,44A826,Tue Oct 19 18:25:44 UTC 2021
 Airline code "FSP", examples:FSP423,A50702,Tue Oct 19 16:42:52 UTC 2021
 Airline code "GCT", examples:GCT88,AB28B5,Tue Oct 19 16:19:37 UTC 2021
@@ -31,7 +33,6 @@ Airline code "JBC", examples:JBC804A,49D4E4,Mon Oct 18 21:05:43 UTC 2021
 Airline code "JKH", examples:JKH32C,3CE624,Mon Oct 18 21:06:10 UTC 2021
 Airline code "RKS", examples:RKS1,ABFA9A,Mon Oct 18 21:05:49 UTC 2021
 Airline code "RTG", examples:RTG5224,47923C,Mon Oct 18 21:05:40 UTC 2021
-Airline code "URO", examples:URO461,400F0B,Mon Oct 18 21:05:50 UTC 2021
 Airline code "BRH", examples:BRH750,00B314,Mon Oct 18 20:03:09 UTC 2021
 Airline code "LKF", examples:LKF16,A1E54F,Mon Oct 18 16:16:26 UTC 2021
 Airline code "NJM", examples:NJM300,A31FEE,Mon Oct 18 16:09:45 UTC 2021
@@ -66,7 +67,6 @@ Airline code "JME", examples:JME210N,3431C9,Fri Oct 15 21:05:59 UTC 2021
 Airline code "MOZ", examples:MOZ118,4405AE,Fri Oct 15 20:43:47 UTC 2021
 Airline code "XEN", examples:XEN15,A1CC9A,Fri Oct 15 20:59:32 UTC 2021
 Airline code "RLI", examples:RLI969,AD7E93,Fri Oct 15 17:30:12 UTC 2021
-Airline code "PGN", examples:PGN333W,A3A1F2,Fri Oct 15 16:49:39 UTC 2021
 Airline code "VXS", examples:VXS4,4056A2,Fri Oct 15 13:49:49 UTC 2021
 Airline code "CSB", examples:CSB588,C025D2,Fri Oct 15 12:15:44 UTC 2021
 Airline code "TEK", examples:TEK610,A7EF5C,Fri Oct 15 11:45:22 UTC 2021
