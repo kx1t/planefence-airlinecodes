@@ -1,3 +1,4 @@
+Airline code "CGF", examples:CGF820,451E29,Tue Oct 19 03:37:33 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Mon Oct 18 23:00:41 UTC 2021
 Airline code "GCT", examples:GCT88,AB28B5,Mon Oct 18 23:27:33 UTC 2021
 Airline code "TBJ", examples:TBJ91,A6BC98,Mon Oct 18 23:09:24 UTC 2021
@@ -70,7 +71,6 @@ Airline code "GCL", examples:GCL3318,3C4D98,Thu Oct 14 18:05:08 UTC 2021
 Airline code "KZN", examples:KZN9401,15065F,Thu Oct 14 18:06:27 UTC 2021
 Airline code "VKA", examples:VKA119,5083A2,Thu Oct 14 18:06:02 UTC 2021
 Airline code "JEI", examples:JEI444,3CC194,Thu Oct 14 12:09:51 UTC 2021
-Airline code "CGF", examples:CGF841P,451E29,Thu Oct 14 10:23:00 UTC 2021
 Airline code "KFB", examples:KFB96100,AD61B8,Thu Oct 14 03:17:48 UTC 2021 KFB96100,AD61B8,Thu Oct 14 03:07:17 UTC 2021
 Airline code "GJE", examples:GJE510,ABFE5A,Wed Oct 13 23:25:03 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 13 20:05:26 UTC 2021
