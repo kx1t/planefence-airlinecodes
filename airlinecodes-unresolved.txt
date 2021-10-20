@@ -1,9 +1,9 @@
+Airline code "VKG", examples:VKG1172,45D064,Wed Oct 20 09:04:51 UTC 2021
 Airline code "NTF", examples:NTF571M,49D102,Wed Oct 20 08:40:00 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Wed Oct 20 07:55:50 UTC 2021
 Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 20 07:44:37 UTC 2021
 Airline code "ITY", examples:ITY148,4CA98A,Wed Oct 20 06:07:15 UTC 2021
 Airline code "QNR", examples:QNR25A,49D317,Wed Oct 20 06:46:50 UTC 2021
-Airline code "VKG", examples:VKG1172,45D064,Wed Oct 20 06:00:30 UTC 2021
 Airline code "EGC", examples:EGC690,A92BBD,Wed Oct 20 04:23:48 UTC 2021
 Airline code "JMK", examples:JMK418,4D20A7,Wed Oct 20 01:32:37 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:42 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:21 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Oct 19 22:58:59 UTC 2021
