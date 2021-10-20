@@ -1,3 +1,5 @@
+Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 20 21:05:27 UTC 2021
+Airline code "IAM", examples:IAM3125,33FFC0,Wed Oct 20 21:06:12 UTC 2021
 Airline code "DFC", examples:DFC25M,49D0F9,Wed Oct 20 20:05:51 UTC 2021
 Airline code "IFG", examples:IFG250,A1F52F,Wed Oct 20 20:29:16 UTC 2021
 Airline code "SZS", examples:SZS528,4CAF82,Wed Oct 20 20:06:35 UTC 2021
@@ -6,7 +8,6 @@ Airline code "JTD", examples:JTD218,45AB4E,Wed Oct 20 19:49:38 UTC 2021
 Airline code "RUK", examples:RUK2746,40775C,Wed Oct 20 19:06:23 UTC 2021
 Airline code "VKG", examples:VKG1453,45D067,Wed Oct 20 19:06:30 UTC 2021
 Airline code "WRC", examples:WRC7752,5083B4,Wed Oct 20 19:06:06 UTC 2021
-Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 20 18:05:25 UTC 2021
 Airline code "RLI", examples:RLI971,AD8907,Wed Oct 20 18:42:45 UTC 2021 RLI971,AD8907,Wed Oct 20 18:41:19 UTC 2021
 Airline code "WDE", examples:WDE20,A97AA1,Wed Oct 20 18:22:30 UTC 2021
 Airline code "NTF", examples:NTF571M,49D102,Wed Oct 20 17:57:12 UTC 2021
@@ -160,7 +161,6 @@ Airline code "EPI", examples:EPI595,A1083B,Tue Sep 21 13:14:47 UTC 2021
 Airline code "TYP", examples:TYP00117,43C791,Mon Sep 20 18:53:02 UTC 2021
 Airline code "BEI", examples:BEI494,4071AC,Mon Sep 20 15:47:34 UTC 2021
 Airline code "NWC", examples:NWC9016,1427E0,Sun Sep 19 18:06:00 UTC 2021
-Airline code "IAM", examples:IAM9004,33FFAE,Sun Sep 19 12:37:24 UTC 2021
 Airline code "NUS", examples:NUS560,A72727,Sat Sep 18 22:23:30 UTC 2021
 Airline code "NDL", examples:NDL350,C05D71,Sat Sep 18 19:31:39 UTC 2021 NDL350,C05D71,Sat Sep 18 19:23:02 UTC 2021
 Airline code "GSH", examples:GSH090,896403,Sat Sep 18 12:47:45 UTC 2021 GSH090,896403,Sat Sep 18 12:47:33 UTC 2021
