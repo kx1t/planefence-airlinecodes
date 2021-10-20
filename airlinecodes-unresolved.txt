@@ -1,12 +1,14 @@
+Airline code "JAF", examples:JAF3314,44A826,Wed Oct 20 19:19:41 UTC 2021
+Airline code "JTD", examples:JTD218,45AB4E,Wed Oct 20 19:49:38 UTC 2021
+Airline code "RUK", examples:RUK2746,40775C,Wed Oct 20 19:06:23 UTC 2021
+Airline code "VKG", examples:VKG1453,45D067,Wed Oct 20 19:06:30 UTC 2021
+Airline code "WRC", examples:WRC7752,5083B4,Wed Oct 20 19:06:06 UTC 2021
 Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 20 18:05:25 UTC 2021
 Airline code "RLI", examples:RLI971,AD8907,Wed Oct 20 18:42:45 UTC 2021 RLI971,AD8907,Wed Oct 20 18:41:19 UTC 2021
 Airline code "WDE", examples:WDE20,A97AA1,Wed Oct 20 18:22:30 UTC 2021
 Airline code "DFC", examples:DFC25M,49D0F9,Wed Oct 20 17:05:41 UTC 2021
 Airline code "NTF", examples:NTF571M,49D102,Wed Oct 20 17:57:12 UTC 2021
 Airline code "SZS", examples:SZS528,4CAF82,Wed Oct 20 17:55:14 UTC 2021
-Airline code "VKG", examples:VKG9212,45D964,Wed Oct 20 17:06:09 UTC 2021
-Airline code "RUK", examples:RUK2746,40775C,Wed Oct 20 16:07:53 UTC 2021
-Airline code "WRC", examples:WRC7752,5083B4,Wed Oct 20 16:05:52 UTC 2021
 Airline code "ITY", examples:ITY160,4CA85B,Wed Oct 20 15:30:18 UTC 2021
 Airline code "JSH", examples:JSH407,471843,Wed Oct 20 12:12:49 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Wed Oct 20 12:52:04 UTC 2021
@@ -25,9 +27,7 @@ Airline code "URO", examples:URO460,400F0B,Tue Oct 19 21:10:20 UTC 2021
 Airline code "BAO", examples:BAO239N,3C0FE6,Tue Oct 19 20:05:16 UTC 2021
 Airline code "CSG", examples:CSG2573,7805AA,Tue Oct 19 20:05:46 UTC 2021
 Airline code "JEI", examples:JEI121,3CD003,Tue Oct 19 20:06:04 UTC 2021
-Airline code "JTD", examples:JTD287,45AB4E,Tue Oct 19 20:05:23 UTC 2021
 Airline code "EEV", examples:EEV5330,A3183D,Tue Oct 19 19:57:54 UTC 2021 EEV5330,A3183D,Tue Oct 19 19:55:56 UTC 2021
-Airline code "JAF", examples:JAF9112,44A826,Tue Oct 19 18:25:44 UTC 2021
 Airline code "FSP", examples:FSP423,A50702,Tue Oct 19 16:42:52 UTC 2021
 Airline code "GCT", examples:GCT88,AB28B5,Tue Oct 19 16:19:37 UTC 2021
 Airline code "FSF", examples:FSF230M,46316E,Tue Oct 19 14:52:45 UTC 2021
