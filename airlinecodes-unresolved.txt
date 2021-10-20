@@ -1,9 +1,9 @@
+Airline code "DFC", examples:DFC25M,49D0F9,Wed Oct 20 14:05:28 UTC 2021
 Airline code "WRC", examples:WRC7752,5083B4,Wed Oct 20 13:54:10 UTC 2021
 Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 20 12:05:03 UTC 2021
 Airline code "JSH", examples:JSH407,471843,Wed Oct 20 12:12:49 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Wed Oct 20 12:52:04 UTC 2021
 Airline code "VKG", examples:VKG1172,45D064,Wed Oct 20 12:04:53 UTC 2021
-Airline code "DFC", examples:DFC25M,49D0F9,Wed Oct 20 11:24:44 UTC 2021
 Airline code "ITY", examples:ITY150,4CA719,Wed Oct 20 11:55:28 UTC 2021
 Airline code "JNL", examples:JNL1554,485D61,Wed Oct 20 10:44:43 UTC 2021
 Airline code "VLZ", examples:VLZ341A,43EC73,Wed Oct 20 10:46:51 UTC 2021
