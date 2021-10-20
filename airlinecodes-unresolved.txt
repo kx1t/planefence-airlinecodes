@@ -1,12 +1,12 @@
+Airline code "JAF", examples:JAF964,44B438,Wed Oct 20 22:11:33 UTC 2021
+Airline code "VKG", examples:VKG4215,45D963,Wed Oct 20 22:23:21 UTC 2021
 Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 20 21:05:27 UTC 2021
 Airline code "IAM", examples:IAM3125,33FFC0,Wed Oct 20 21:06:12 UTC 2021
 Airline code "DFC", examples:DFC25M,49D0F9,Wed Oct 20 20:05:51 UTC 2021
 Airline code "IFG", examples:IFG250,A1F52F,Wed Oct 20 20:29:16 UTC 2021
 Airline code "SZS", examples:SZS528,4CAF82,Wed Oct 20 20:06:35 UTC 2021
-Airline code "JAF", examples:JAF3314,44A826,Wed Oct 20 19:19:41 UTC 2021
 Airline code "JTD", examples:JTD218,45AB4E,Wed Oct 20 19:49:38 UTC 2021
 Airline code "RUK", examples:RUK2746,40775C,Wed Oct 20 19:06:23 UTC 2021
-Airline code "VKG", examples:VKG1453,45D067,Wed Oct 20 19:06:30 UTC 2021
 Airline code "WRC", examples:WRC7752,5083B4,Wed Oct 20 19:06:06 UTC 2021
 Airline code "RLI", examples:RLI971,AD8907,Wed Oct 20 18:42:45 UTC 2021 RLI971,AD8907,Wed Oct 20 18:41:19 UTC 2021
 Airline code "WDE", examples:WDE20,A97AA1,Wed Oct 20 18:22:30 UTC 2021
