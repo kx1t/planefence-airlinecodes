@@ -1,3 +1,4 @@
+Airline code "WRC", examples:WRC7752,5083B4,Wed Oct 20 13:54:10 UTC 2021
 Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 20 12:05:03 UTC 2021
 Airline code "JSH", examples:JSH407,471843,Wed Oct 20 12:12:49 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Wed Oct 20 12:52:04 UTC 2021
@@ -23,7 +24,6 @@ Airline code "JEI", examples:JEI121,3CD003,Tue Oct 19 20:06:04 UTC 2021
 Airline code "JTD", examples:JTD287,45AB4E,Tue Oct 19 20:05:23 UTC 2021
 Airline code "RUK", examples:RUK2644,407BDC,Tue Oct 19 20:06:15 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Tue Oct 19 20:05:20 UTC 2021
-Airline code "WRC", examples:WRC7007,4D2307,Tue Oct 19 20:06:23 UTC 2021
 Airline code "EEV", examples:EEV5330,A3183D,Tue Oct 19 19:57:54 UTC 2021 EEV5330,A3183D,Tue Oct 19 19:55:56 UTC 2021
 Airline code "JAF", examples:JAF9112,44A826,Tue Oct 19 18:25:44 UTC 2021
 Airline code "FSP", examples:FSP423,A50702,Tue Oct 19 16:42:52 UTC 2021
