@@ -1,3 +1,6 @@
+Airline code "ITY", examples:ITY148,4CA98A,Wed Oct 20 06:07:15 UTC 2021
+Airline code "QNR", examples:QNR25A,49D317,Wed Oct 20 06:46:50 UTC 2021
+Airline code "VKG", examples:VKG1172,45D064,Wed Oct 20 06:00:30 UTC 2021
 Airline code "EGC", examples:EGC690,A92BBD,Wed Oct 20 04:23:48 UTC 2021
 Airline code "JMK", examples:JMK418,4D20A7,Wed Oct 20 01:32:37 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:42 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:21 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Oct 19 22:58:59 UTC 2021
@@ -13,14 +16,12 @@ Airline code "JEI", examples:JEI121,3CD003,Tue Oct 19 20:06:04 UTC 2021
 Airline code "JTD", examples:JTD287,45AB4E,Tue Oct 19 20:05:23 UTC 2021
 Airline code "RUK", examples:RUK2644,407BDC,Tue Oct 19 20:06:15 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Tue Oct 19 20:05:20 UTC 2021
-Airline code "VKG", examples:VKG1293,45D068,Tue Oct 19 20:05:04 UTC 2021
 Airline code "WRC", examples:WRC7007,4D2307,Tue Oct 19 20:06:23 UTC 2021
 Airline code "EEV", examples:EEV5330,A3183D,Tue Oct 19 19:57:54 UTC 2021 EEV5330,A3183D,Tue Oct 19 19:55:56 UTC 2021
 Airline code "JAF", examples:JAF9112,44A826,Tue Oct 19 18:25:44 UTC 2021
 Airline code "FSP", examples:FSP423,A50702,Tue Oct 19 16:42:52 UTC 2021
 Airline code "GCT", examples:GCT88,AB28B5,Tue Oct 19 16:19:37 UTC 2021
 Airline code "JNL", examples:JNL2055,4858C7,Tue Oct 19 16:53:40 UTC 2021
-Airline code "ITY", examples:ITY160,4CA719,Tue Oct 19 15:16:17 UTC 2021
 Airline code "FSF", examples:FSF230M,46316E,Tue Oct 19 14:52:45 UTC 2021
 Airline code "LRQ", examples:LRQ546F,4D0290,Tue Oct 19 14:38:44 UTC 2021
 Airline code "NYX", examples:NYX427,511132,Tue Oct 19 14:51:16 UTC 2021
@@ -89,7 +90,6 @@ Airline code "DFC", examples:DFC3LL,49D44A,Tue Oct 12 19:05:58 UTC 2021
 Airline code "GLH", examples:GLH1,A16AAD,Tue Oct 12 19:05:40 UTC 2021
 Airline code "JIV", examples:JIV9,4AC90A,Tue Oct 12 19:05:16 UTC 2021
 Airline code "JSY", examples:JSY124C,501E1B,Tue Oct 12 19:06:20 UTC 2021
-Airline code "QNR", examples:QNR25B,49D1DF,Tue Oct 12 19:06:26 UTC 2021
 Airline code "GCK", examples:GCK40,4408D8,Tue Oct 12 16:44:26 UTC 2021
 Airline code "MJE", examples:MJE001,8964C4,Tue Oct 12 12:58:24 UTC 2021
 Airline code "VND", examples:VND1387,300224,Tue Oct 12 12:16:20 UTC 2021
