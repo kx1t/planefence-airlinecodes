@@ -1,3 +1,4 @@
+Airline code "EGC", examples:EGC690,A92BBD,Wed Oct 20 04:23:48 UTC 2021
 Airline code "JMK", examples:JMK418,4D20A7,Wed Oct 20 01:32:37 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:42 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:21 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Oct 19 22:58:59 UTC 2021
 Airline code "JLG", examples:JLG25,A030D4,Tue Oct 19 22:32:46 UTC 2021
@@ -43,7 +44,6 @@ Airline code "JCL", examples:JCL6,3CD803,Mon Oct 18 14:20:40 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Mon Oct 18 14:51:22 UTC 2021
 Airline code "OOI", examples:OOI20,44A7D0,Mon Oct 18 09:12:32 UTC 2021
 Airline code "BFD", examples:BFD18K,3CBDEB,Mon Oct 18 07:21:42 UTC 2021
-Airline code "EGC", examples:EGC690,A92BBD,Mon Oct 18 02:14:26 UTC 2021
 Airline code "HPK", examples:HPK73,AC0381,Mon Oct 18 02:33:19 UTC 2021
 Airline code "DLX", examples:DLX79,A77160,Sun Oct 17 20:38:17 UTC 2021
 Airline code "TWI", examples:TWI2328,4BD184,Sun Oct 17 20:05:30 UTC 2021
