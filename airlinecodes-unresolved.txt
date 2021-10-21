@@ -1,20 +1,21 @@
+Airline code "FLJ", examples:FLJ63T,407BF5,Thu Oct 21 15:12:18 UTC 2021 FLJ63T,407BF5,Thu Oct 21 15:05:42 UTC 2021
+Airline code "FSF", examples:FSF930Y,461981,Thu Oct 21 15:25:55 UTC 2021
+Airline code "JAF", examples:JAF961T,44D1BA,Thu Oct 21 15:05:10 UTC 2021
+Airline code "JTD", examples:JTD515,45AB4D,Thu Oct 21 15:05:07 UTC 2021
+Airline code "NYX", examples:NYX427,511132,Thu Oct 21 15:30:16 UTC 2021
+Airline code "URO", examples:URO461,400F0B,Thu Oct 21 15:05:44 UTC 2021
 Airline code "QNR", examples:QNR25A,49D317,Thu Oct 21 14:05:13 UTC 2021
 Airline code "UAW", examples:UAW23,400EA0,Thu Oct 21 14:35:12 UTC 2021
-Airline code "URO", examples:URO461,400F0B,Thu Oct 21 14:09:01 UTC 2021
 Airline code "VKA", examples:VKA179,5083A2,Thu Oct 21 14:10:23 UTC 2021
 Airline code "VKG", examples:VKG1273,45D068,Thu Oct 21 14:05:39 UTC 2021
 Airline code "VPC", examples:VPC5,511063,Thu Oct 21 14:57:01 UTC 2021
 Airline code "AZV", examples:AZV778,42445B,Thu Oct 21 13:04:57 UTC 2021
 Airline code "RUK", examples:RUK2643,40775C,Thu Oct 21 13:05:31 UTC 2021
-Airline code "FLJ", examples:FLJ63T,407BF5,Thu Oct 21 12:47:06 UTC 2021
 Airline code "IAM", examples:IAM9002,33FFC1,Thu Oct 21 12:36:14 UTC 2021
 Airline code "ITY", examples:ITY150,4CA800,Thu Oct 21 12:05:30 UTC 2021
-Airline code "JAF", examples:JAF961T,44D1BA,Thu Oct 21 12:05:05 UTC 2021
-Airline code "JTD", examples:JTD515,45AB4D,Thu Oct 21 12:05:03 UTC 2021
 Airline code "TJD", examples:TJD975,300829,Thu Oct 21 12:32:00 UTC 2021
 Airline code "MJF", examples:MJF7L,440A6C,Thu Oct 21 11:11:59 UTC 2021
 Airline code "VLZ", examples:VLZ341A,43EC73,Thu Oct 21 11:46:56 UTC 2021
-Airline code "FSF", examples:FSF177H,460861,Thu Oct 21 10:59:59 UTC 2021 FSF930Y,461981,Thu Oct 21 10:13:43 UTC 2021
 Airline code "VXS", examples:VXS3,407A32,Thu Oct 21 07:10:58 UTC 2021
 Airline code "JNL", examples:JNL0308,4858C7,Thu Oct 21 05:17:10 UTC 2021
 Airline code "IFG", examples:IFG250,A1F52F,Thu Oct 21 02:33:10 UTC 2021
@@ -40,7 +41,6 @@ Airline code "EEV", examples:EEV5330,A3183D,Tue Oct 19 19:57:54 UTC 2021 EEV5330
 Airline code "FSP", examples:FSP423,A50702,Tue Oct 19 16:42:52 UTC 2021
 Airline code "GCT", examples:GCT88,AB28B5,Tue Oct 19 16:19:37 UTC 2021
 Airline code "LRQ", examples:LRQ546F,4D0290,Tue Oct 19 14:38:44 UTC 2021
-Airline code "NYX", examples:NYX427,511132,Tue Oct 19 14:51:16 UTC 2021
 Airline code "PPJ", examples:PPJ108,A022A7,Tue Oct 19 14:02:17 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Tue Oct 19 15:00:04 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Tue Oct 19 11:11:46 UTC 2021
