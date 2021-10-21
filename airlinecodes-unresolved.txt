@@ -1,3 +1,4 @@
+Airline code "JNL", examples:JNL0308,4858C7,Thu Oct 21 05:17:10 UTC 2021
 Airline code "IFG", examples:IFG250,A1F52F,Thu Oct 21 02:33:10 UTC 2021
 Airline code "VKG", examples:VKG4215,45D963,Thu Oct 21 02:04:23 UTC 2021
 Airline code "AZV", examples:AZV778,42445B,Thu Oct 21 01:39:24 UTC 2021
@@ -15,7 +16,6 @@ Airline code "NTF", examples:NTF571M,49D102,Wed Oct 20 17:57:12 UTC 2021
 Airline code "ITY", examples:ITY160,4CA85B,Wed Oct 20 15:30:18 UTC 2021
 Airline code "JSH", examples:JSH407,471843,Wed Oct 20 12:12:49 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Wed Oct 20 12:52:04 UTC 2021
-Airline code "JNL", examples:JNL1554,485D61,Wed Oct 20 10:44:43 UTC 2021
 Airline code "VLZ", examples:VLZ341A,43EC73,Wed Oct 20 10:46:51 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Wed Oct 20 07:55:50 UTC 2021
 Airline code "QNR", examples:QNR25A,49D317,Wed Oct 20 06:46:50 UTC 2021
