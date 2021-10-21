@@ -1,3 +1,7 @@
+Airline code "FLJ", examples:FLJ52R,407A2A,Thu Oct 21 17:40:25 UTC 2021 FLJ63T,407BF5,Thu Oct 21 17:05:58 UTC 2021
+Airline code "JTD", examples:JTD516,45AB4D,Thu Oct 21 17:06:18 UTC 2021
+Airline code "KAY", examples:KAY59,3C5CEC,Thu Oct 21 17:35:02 UTC 2021
+Airline code "VKA", examples:VKA179,5083A2,Thu Oct 21 17:05:57 UTC 2021
 Airline code "AZV", examples:AZV778,42445B,Thu Oct 21 16:05:04 UTC 2021
 Airline code "ITY", examples:ITY154,4CA8DE,Thu Oct 21 16:39:02 UTC 2021 ITY112,4CA8F5,Thu Oct 21 16:29:02 UTC 2021
 Airline code "JNL", examples:JNL3308,4858C7,Thu Oct 21 16:18:57 UTC 2021
@@ -6,14 +10,11 @@ Airline code "QNR", examples:QNR25A,49D317,Thu Oct 21 16:05:27 UTC 2021
 Airline code "RUK", examples:RUK2642,40775C,Thu Oct 21 16:05:15 UTC 2021
 Airline code "VKG", examples:VKG1273,45D068,Thu Oct 21 16:05:53 UTC 2021
 Airline code "VPC", examples:VPC5,511063,Thu Oct 21 16:05:59 UTC 2021
-Airline code "FLJ", examples:FLJ63T,407BF5,Thu Oct 21 15:12:18 UTC 2021 FLJ63T,407BF5,Thu Oct 21 15:05:42 UTC 2021
 Airline code "FSF", examples:FSF930Y,461981,Thu Oct 21 15:25:55 UTC 2021
 Airline code "JAF", examples:JAF961T,44D1BA,Thu Oct 21 15:05:10 UTC 2021
-Airline code "JTD", examples:JTD515,45AB4D,Thu Oct 21 15:05:07 UTC 2021
 Airline code "NYX", examples:NYX427,511132,Thu Oct 21 15:30:16 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Thu Oct 21 15:05:44 UTC 2021
 Airline code "UAW", examples:UAW23,400EA0,Thu Oct 21 14:35:12 UTC 2021
-Airline code "VKA", examples:VKA179,5083A2,Thu Oct 21 14:10:23 UTC 2021
 Airline code "IAM", examples:IAM9002,33FFC1,Thu Oct 21 12:36:14 UTC 2021
 Airline code "TJD", examples:TJD975,300829,Thu Oct 21 12:32:00 UTC 2021
 Airline code "MJF", examples:MJF7L,440A6C,Thu Oct 21 11:11:59 UTC 2021
@@ -68,7 +69,6 @@ Airline code "LSM", examples:LSM97,500127,Sun Oct 17 15:37:30 UTC 2021 LSM97,500
 Airline code "XCH", examples:XCH514,43E7ED,Sun Oct 17 15:53:06 UTC 2021
 Airline code "EXD", examples:EXD005,00A097,Sun Oct 17 14:04:05 UTC 2021
 Airline code "BFY", examples:BFY076R,48412B,Sun Oct 17 13:08:05 UTC 2021
-Airline code "KAY", examples:KAY59,3C5CEC,Sun Oct 17 13:27:05 UTC 2021
 Airline code "OOG", examples:OOG77,449C09,Sun Oct 17 12:43:50 UTC 2021
 Airline code "ULC", examples:ULC22,4D2305,Sun Oct 17 12:28:05 UTC 2021
 Airline code "PJS", examples:PJS800,4B184E,Sun Oct 17 08:07:03 UTC 2021
