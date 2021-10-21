@@ -1,3 +1,7 @@
+Airline code "AZV", examples:AZV778,42445B,Thu Oct 21 13:04:57 UTC 2021
+Airline code "RUK", examples:RUK2643,40775C,Thu Oct 21 13:05:31 UTC 2021
+Airline code "URO", examples:URO461,400F0B,Thu Oct 21 13:00:06 UTC 2021
+Airline code "VPC", examples:VPC5,511063,Thu Oct 21 13:31:21 UTC 2021
 Airline code "FLJ", examples:FLJ63T,407BF5,Thu Oct 21 12:47:06 UTC 2021
 Airline code "IAM", examples:IAM9002,33FFC1,Thu Oct 21 12:36:14 UTC 2021
 Airline code "ITY", examples:ITY150,4CA800,Thu Oct 21 12:05:30 UTC 2021
@@ -7,9 +11,7 @@ Airline code "TJD", examples:TJD975,300829,Thu Oct 21 12:32:00 UTC 2021
 Airline code "VKG", examples:VKG4215,45D963,Thu Oct 21 12:04:46 UTC 2021
 Airline code "MJF", examples:MJF7L,440A6C,Thu Oct 21 11:11:59 UTC 2021
 Airline code "QNR", examples:QNR25A,49D317,Thu Oct 21 11:05:08 UTC 2021
-Airline code "RUK", examples:RUK2643,40775C,Thu Oct 21 11:05:20 UTC 2021
 Airline code "VLZ", examples:VLZ341A,43EC73,Thu Oct 21 11:46:56 UTC 2021
-Airline code "AZV", examples:AZV778,42445B,Thu Oct 21 10:06:04 UTC 2021
 Airline code "FSF", examples:FSF177H,460861,Thu Oct 21 10:59:59 UTC 2021 FSF930Y,461981,Thu Oct 21 10:13:43 UTC 2021
 Airline code "VXS", examples:VXS3,407A32,Thu Oct 21 07:10:58 UTC 2021
 Airline code "JNL", examples:JNL0308,4858C7,Thu Oct 21 05:17:10 UTC 2021
@@ -29,7 +31,6 @@ Airline code "AZD", examples:AZD491,4B0139,Tue Oct 19 22:58:59 UTC 2021
 Airline code "JLG", examples:JLG25,A030D4,Tue Oct 19 22:32:46 UTC 2021
 Airline code "CGF", examples:CGF820,451E29,Tue Oct 19 21:05:12 UTC 2021
 Airline code "PGN", examples:PGN333W,A3A1F2,Tue Oct 19 21:42:30 UTC 2021
-Airline code "URO", examples:URO460,400F0B,Tue Oct 19 21:10:20 UTC 2021
 Airline code "BAO", examples:BAO239N,3C0FE6,Tue Oct 19 20:05:16 UTC 2021
 Airline code "CSG", examples:CSG2573,7805AA,Tue Oct 19 20:05:46 UTC 2021
 Airline code "JEI", examples:JEI121,3CD003,Tue Oct 19 20:06:04 UTC 2021
@@ -111,7 +112,6 @@ Airline code "JCO", examples:JCO5,424BBF,Sat Oct 9 07:53:12 UTC 2021
 Airline code "MJS", examples:MJS4481,AC38AF,Fri Oct 8 20:45:38 UTC 2021
 Airline code "DCW", examples:DCW1,4D2184,Fri Oct 8 19:06:51 UTC 2021
 Airline code "LWG", examples:LWG1571,39AE32,Fri Oct 8 19:05:36 UTC 2021
-Airline code "VPC", examples:VPC2,51111F,Fri Oct 8 19:06:50 UTC 2021
 Airline code "SAR", examples:SAR139,48A5E2,Thu Oct 7 19:05:52 UTC 2021
 Airline code "KAF", examples:KAF3228,7061F5,Thu Oct 7 11:21:02 UTC 2021
 Airline code "MAO", examples:MAO2,A0B5AA,Wed Oct 6 23:19:24 UTC 2021
