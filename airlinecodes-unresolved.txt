@@ -1,16 +1,18 @@
+Airline code "QNR", examples:QNR25A,49D317,Thu Oct 21 14:05:13 UTC 2021
+Airline code "UAW", examples:UAW23,400EA0,Thu Oct 21 14:35:12 UTC 2021
+Airline code "URO", examples:URO461,400F0B,Thu Oct 21 14:09:01 UTC 2021
+Airline code "VKA", examples:VKA179,5083A2,Thu Oct 21 14:10:23 UTC 2021
+Airline code "VKG", examples:VKG1273,45D068,Thu Oct 21 14:05:39 UTC 2021
+Airline code "VPC", examples:VPC5,511063,Thu Oct 21 14:57:01 UTC 2021
 Airline code "AZV", examples:AZV778,42445B,Thu Oct 21 13:04:57 UTC 2021
 Airline code "RUK", examples:RUK2643,40775C,Thu Oct 21 13:05:31 UTC 2021
-Airline code "URO", examples:URO461,400F0B,Thu Oct 21 13:00:06 UTC 2021
-Airline code "VPC", examples:VPC5,511063,Thu Oct 21 13:31:21 UTC 2021
 Airline code "FLJ", examples:FLJ63T,407BF5,Thu Oct 21 12:47:06 UTC 2021
 Airline code "IAM", examples:IAM9002,33FFC1,Thu Oct 21 12:36:14 UTC 2021
 Airline code "ITY", examples:ITY150,4CA800,Thu Oct 21 12:05:30 UTC 2021
 Airline code "JAF", examples:JAF961T,44D1BA,Thu Oct 21 12:05:05 UTC 2021
 Airline code "JTD", examples:JTD515,45AB4D,Thu Oct 21 12:05:03 UTC 2021
 Airline code "TJD", examples:TJD975,300829,Thu Oct 21 12:32:00 UTC 2021
-Airline code "VKG", examples:VKG4215,45D963,Thu Oct 21 12:04:46 UTC 2021
 Airline code "MJF", examples:MJF7L,440A6C,Thu Oct 21 11:11:59 UTC 2021
-Airline code "QNR", examples:QNR25A,49D317,Thu Oct 21 11:05:08 UTC 2021
 Airline code "VLZ", examples:VLZ341A,43EC73,Thu Oct 21 11:46:56 UTC 2021
 Airline code "FSF", examples:FSF177H,460861,Thu Oct 21 10:59:59 UTC 2021 FSF930Y,461981,Thu Oct 21 10:13:43 UTC 2021
 Airline code "VXS", examples:VXS3,407A32,Thu Oct 21 07:10:58 UTC 2021
@@ -86,7 +88,6 @@ Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 14 19:05:07 UTC 2021
 Airline code "XLS", examples:XLS950,A674DC,Thu Oct 14 19:32:12 UTC 2021
 Airline code "GCL", examples:GCL3318,3C4D98,Thu Oct 14 18:05:08 UTC 2021
 Airline code "KZN", examples:KZN9401,15065F,Thu Oct 14 18:06:27 UTC 2021
-Airline code "VKA", examples:VKA119,5083A2,Thu Oct 14 18:06:02 UTC 2021
 Airline code "KFB", examples:KFB96100,AD61B8,Thu Oct 14 03:17:48 UTC 2021 KFB96100,AD61B8,Thu Oct 14 03:07:17 UTC 2021
 Airline code "GJE", examples:GJE510,ABFE5A,Wed Oct 13 23:25:03 UTC 2021
 Airline code "ASJ", examples:ASJ616,398249,Wed Oct 13 17:41:03 UTC 2021
