@@ -1,10 +1,12 @@
-Airline code "JAF", examples:JAF961T,44D1BA,Thu Oct 21 06:59:35 UTC 2021
+Airline code "AZV", examples:AZV778,42445B,Thu Oct 21 07:04:36 UTC 2021
+Airline code "JAF", examples:JAF961T,44D1BA,Thu Oct 21 07:31:54 UTC 2021
+Airline code "QNR", examples:QNR25A,49D317,Thu Oct 21 07:17:58 UTC 2021
+Airline code "VKG", examples:VKG4215,45D963,Thu Oct 21 07:04:32 UTC 2021
+Airline code "VXS", examples:VXS3,407A32,Thu Oct 21 07:10:58 UTC 2021
 Airline code "JTD", examples:JTD515,45AB4D,Thu Oct 21 06:46:32 UTC 2021
 Airline code "RUK", examples:RUK2642,40775C,Thu Oct 21 06:16:28 UTC 2021
 Airline code "JNL", examples:JNL0308,4858C7,Thu Oct 21 05:17:10 UTC 2021
 Airline code "IFG", examples:IFG250,A1F52F,Thu Oct 21 02:33:10 UTC 2021
-Airline code "VKG", examples:VKG4215,45D963,Thu Oct 21 02:04:23 UTC 2021
-Airline code "AZV", examples:AZV778,42445B,Thu Oct 21 01:39:24 UTC 2021
 Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 20 21:05:27 UTC 2021
 Airline code "IAM", examples:IAM3125,33FFC0,Wed Oct 20 21:06:12 UTC 2021
 Airline code "DFC", examples:DFC25M,49D0F9,Wed Oct 20 20:05:51 UTC 2021
@@ -18,7 +20,6 @@ Airline code "JSH", examples:JSH407,471843,Wed Oct 20 12:12:49 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Wed Oct 20 12:52:04 UTC 2021
 Airline code "VLZ", examples:VLZ341A,43EC73,Wed Oct 20 10:46:51 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Wed Oct 20 07:55:50 UTC 2021
-Airline code "QNR", examples:QNR25A,49D317,Wed Oct 20 06:46:50 UTC 2021
 Airline code "EGC", examples:EGC690,A92BBD,Wed Oct 20 04:23:48 UTC 2021
 Airline code "JMK", examples:JMK418,4D20A7,Wed Oct 20 01:32:37 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:42 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:21 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Oct 19 22:58:59 UTC 2021
@@ -77,7 +78,6 @@ Airline code "GTW", examples:GTW363,A4177F,Fri Oct 15 21:05:40 UTC 2021
 Airline code "JME", examples:JME210N,3431C9,Fri Oct 15 21:05:59 UTC 2021
 Airline code "MOZ", examples:MOZ118,4405AE,Fri Oct 15 20:43:47 UTC 2021
 Airline code "XEN", examples:XEN15,A1CC9A,Fri Oct 15 20:59:32 UTC 2021
-Airline code "VXS", examples:VXS4,4056A2,Fri Oct 15 13:49:49 UTC 2021
 Airline code "CSB", examples:CSB588,C025D2,Fri Oct 15 12:15:44 UTC 2021
 Airline code "TEK", examples:TEK610,A7EF5C,Fri Oct 15 11:45:22 UTC 2021
 Airline code "JTZ", examples:JTZ516,A678E5,Thu Oct 14 23:34:48 UTC 2021 JTZ516,A678E5,Thu Oct 14 23:26:52 UTC 2021
