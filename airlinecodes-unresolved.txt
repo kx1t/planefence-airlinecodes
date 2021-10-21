@@ -1,11 +1,13 @@
+Airline code "MJF", examples:MJF7L,440A6C,Thu Oct 21 11:11:59 UTC 2021
+Airline code "QNR", examples:QNR25A,49D317,Thu Oct 21 11:05:08 UTC 2021
+Airline code "RUK", examples:RUK2643,40775C,Thu Oct 21 11:05:20 UTC 2021
+Airline code "VLZ", examples:VLZ341A,43EC73,Thu Oct 21 11:46:56 UTC 2021
 Airline code "AZV", examples:AZV778,42445B,Thu Oct 21 10:06:04 UTC 2021
 Airline code "FSF", examples:FSF177H,460861,Thu Oct 21 10:59:59 UTC 2021 FSF930Y,461981,Thu Oct 21 10:13:43 UTC 2021
 Airline code "JAF", examples:JAF7CX,44A8A2,Thu Oct 21 10:25:23 UTC 2021
 Airline code "JTD", examples:JTD515,45AB4D,Thu Oct 21 09:05:12 UTC 2021
-Airline code "RUK", examples:RUK2642,40775C,Thu Oct 21 09:05:07 UTC 2021
 Airline code "VKG", examples:VKG9224,45D966,Thu Oct 21 09:05:20 UTC 2021
 Airline code "ITY", examples:ITY156,4CA757,Thu Oct 21 08:56:01 UTC 2021
-Airline code "QNR", examples:QNR25A,49D317,Thu Oct 21 08:15:52 UTC 2021
 Airline code "VXS", examples:VXS3,407A32,Thu Oct 21 07:10:58 UTC 2021
 Airline code "JNL", examples:JNL0308,4858C7,Thu Oct 21 05:17:10 UTC 2021
 Airline code "IFG", examples:IFG250,A1F52F,Thu Oct 21 02:33:10 UTC 2021
@@ -19,7 +21,6 @@ Airline code "WDE", examples:WDE20,A97AA1,Wed Oct 20 18:22:30 UTC 2021
 Airline code "NTF", examples:NTF571M,49D102,Wed Oct 20 17:57:12 UTC 2021
 Airline code "JSH", examples:JSH407,471843,Wed Oct 20 12:12:49 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Wed Oct 20 12:52:04 UTC 2021
-Airline code "VLZ", examples:VLZ341A,43EC73,Wed Oct 20 10:46:51 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Wed Oct 20 07:55:50 UTC 2021
 Airline code "EGC", examples:EGC690,A92BBD,Wed Oct 20 04:23:48 UTC 2021
 Airline code "JMK", examples:JMK418,4D20A7,Wed Oct 20 01:32:37 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:42 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:21 UTC 2021
@@ -39,7 +40,6 @@ Airline code "NYX", examples:NYX427,511132,Tue Oct 19 14:51:16 UTC 2021
 Airline code "PPJ", examples:PPJ108,A022A7,Tue Oct 19 14:02:17 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Tue Oct 19 15:00:04 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Tue Oct 19 11:11:46 UTC 2021
-Airline code "MJF", examples:MJF6B,440949,Tue Oct 19 11:19:43 UTC 2021
 Airline code "NUE", examples:NUE8YR,491310,Tue Oct 19 09:49:24 UTC 2021
 Airline code "TBJ", examples:TBJ91,A6BC98,Mon Oct 18 23:09:24 UTC 2021
 Airline code "RJE", examples:RJE156,A0E1F3,Mon Oct 18 22:40:41 UTC 2021
