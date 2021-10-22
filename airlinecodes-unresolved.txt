@@ -1,3 +1,4 @@
+Airline code "JTZ", examples:JTZ419,A4F6BB,Fri Oct 22 18:46:53 UTC 2021
 Airline code "HPK", examples:HPK73,AC0381,Fri Oct 22 17:42:22 UTC 2021 HPK73,AC0381,Fri Oct 22 17:07:33 UTC 2021
 Airline code "JKH", examples:JKH32A,3E3F1F,Fri Oct 22 17:05:38 UTC 2021
 Airline code "MLM", examples:MLM026,4D2052,Fri Oct 22 17:05:45 UTC 2021
@@ -91,7 +92,6 @@ Airline code "GTW", examples:GTW363,A4177F,Fri Oct 15 21:05:40 UTC 2021
 Airline code "XEN", examples:XEN15,A1CC9A,Fri Oct 15 20:59:32 UTC 2021
 Airline code "CSB", examples:CSB588,C025D2,Fri Oct 15 12:15:44 UTC 2021
 Airline code "TEK", examples:TEK610,A7EF5C,Fri Oct 15 11:45:22 UTC 2021
-Airline code "JTZ", examples:JTZ516,A678E5,Thu Oct 14 23:34:48 UTC 2021 JTZ516,A678E5,Thu Oct 14 23:26:52 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 14 19:05:07 UTC 2021
 Airline code "XLS", examples:XLS950,A674DC,Thu Oct 14 19:32:12 UTC 2021
 Airline code "GCL", examples:GCL3318,3C4D98,Thu Oct 14 18:05:08 UTC 2021
