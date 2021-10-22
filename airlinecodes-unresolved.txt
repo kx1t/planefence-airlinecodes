@@ -1,8 +1,15 @@
+Airline code "ITY", examples:ITY110,4CA82F,Fri Oct 22 14:26:34 UTC 2021
+Airline code "JAF", examples:JAF950F,44A836,Fri Oct 22 14:05:22 UTC 2021
+Airline code "JKH", examples:JKH32A,3E3F1F,Fri Oct 22 14:05:34 UTC 2021
+Airline code "JME", examples:JME419M,491266,Fri Oct 22 14:05:08 UTC 2021
+Airline code "JTD", examples:JTD217,45AB4E,Fri Oct 22 14:05:11 UTC 2021
+Airline code "MLM", examples:MLM026,4D2052,Fri Oct 22 14:05:41 UTC 2021
+Airline code "MOZ", examples:MOZ437,440405,Fri Oct 22 14:05:24 UTC 2021
+Airline code "VKG", examples:VKG9213,45D964,Fri Oct 22 14:04:53 UTC 2021
 Airline code "FLJ", examples:FLJ53F,407ADC,Fri Oct 22 13:49:04 UTC 2021
 Airline code "FOX", examples:FOX1403,478E7A,Fri Oct 22 13:06:22 UTC 2021
 Airline code "IAM", examples:IAM3127,33FFAD,Fri Oct 22 13:22:20 UTC 2021
 Airline code "JCL", examples:JCL1,3CF106,Fri Oct 22 13:05:43 UTC 2021
-Airline code "MLM", examples:MLM026,4D2052,Fri Oct 22 13:06:08 UTC 2021
 Airline code "UAW", examples:UAW22,400EA0,Fri Oct 22 13:05:04 UTC 2021
 Airline code "VXS", examples:VXS3,407A32,Fri Oct 22 13:41:05 UTC 2021
 Airline code "WDE", examples:WDE22,A97AA1,Fri Oct 22 13:07:25 UTC 2021
@@ -10,15 +17,8 @@ Airline code "JNY", examples:JNY297,A310C9,Fri Oct 22 12:56:09 UTC 2021
 Airline code "KBD", examples:KBD216,398477,Fri Oct 22 12:31:08 UTC 2021
 Airline code "EXD", examples:EXD001,009AD8,Fri Oct 22 11:07:49 UTC 2021
 Airline code "HLL", examples:HLL01,40122E,Fri Oct 22 11:44:04 UTC 2021
-Airline code "JAF", examples:JAF7CX,44D1B9,Fri Oct 22 11:58:23 UTC 2021 JAF950F,44A836,Fri Oct 22 11:05:14 UTC 2021
-Airline code "JME", examples:JME419M,491266,Fri Oct 22 11:05:08 UTC 2021
-Airline code "JTD", examples:JTD217,45AB4E,Fri Oct 22 11:05:01 UTC 2021
-Airline code "MOZ", examples:MOZ437,440405,Fri Oct 22 11:05:16 UTC 2021
-Airline code "VKG", examples:VKG1104,45D069,Fri Oct 22 11:05:10 UTC 2021
-Airline code "JKH", examples:JKH32A,3E3F1F,Fri Oct 22 10:33:45 UTC 2021
 Airline code "ASJ", examples:ASJ438,398275,Fri Oct 22 09:03:06 UTC 2021
 Airline code "JNL", examples:JNL1449,4860BA,Fri Oct 22 07:32:47 UTC 2021
-Airline code "ITY", examples:ITY148,4CA8EF,Fri Oct 22 06:23:28 UTC 2021
 Airline code "DHR", examples:DHR40,A2113B,Fri Oct 22 02:00:54 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Fri Oct 22 02:33:11 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Thu Oct 21 22:44:25 UTC 2021
