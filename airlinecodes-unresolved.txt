@@ -1,3 +1,4 @@
+Airline code "EXD", examples:EXD019,0080FE,Fri Oct 22 04:01:45 UTC 2021
 Airline code "DHR", examples:DHR40,A2113B,Fri Oct 22 02:00:54 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Fri Oct 22 02:33:11 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Thu Oct 21 22:44:25 UTC 2021
@@ -69,7 +70,6 @@ Airline code "UJC", examples:UJC59,A407D6,Sun Oct 17 18:12:54 UTC 2021 UJC59,A40
 Airline code "OOF", examples:OOF05,449BC1,Sun Oct 17 16:06:42 UTC 2021
 Airline code "LSM", examples:LSM97,500127,Sun Oct 17 15:37:30 UTC 2021 LSM97,500127,Sun Oct 17 15:01:06 UTC 2021
 Airline code "XCH", examples:XCH514,43E7ED,Sun Oct 17 15:53:06 UTC 2021
-Airline code "EXD", examples:EXD005,00A097,Sun Oct 17 14:04:05 UTC 2021
 Airline code "BFY", examples:BFY076R,48412B,Sun Oct 17 13:08:05 UTC 2021
 Airline code "OOG", examples:OOG77,449C09,Sun Oct 17 12:43:50 UTC 2021
 Airline code "ULC", examples:ULC22,4D2305,Sun Oct 17 12:28:05 UTC 2021
