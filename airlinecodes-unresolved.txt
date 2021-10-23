@@ -1,3 +1,4 @@
+Airline code "PGN", examples:PGN41,A4D375,Sat Oct 23 02:33:13 UTC 2021
 Airline code "NSH", examples:NSH301,A32427,Sat Oct 23 01:22:09 UTC 2021 NSH301,A32427,Sat Oct 23 01:19:26 UTC 2021 NSH301,A32427,Sat Oct 23 01:19:03 UTC 2021
 Airline code "REH", examples:REH101,AB709B,Sat Oct 23 01:19:03 UTC 2021
 Airline code "XLJ", examples:XLJ784,AA9F97,Fri Oct 22 23:39:34 UTC 2021
@@ -10,7 +11,6 @@ Airline code "JTD", examples:JTD217,45AB4E,Fri Oct 22 19:05:56 UTC 2021
 Airline code "MLM", examples:MLM026,4D2052,Fri Oct 22 19:06:36 UTC 2021
 Airline code "MOZ", examples:MOZ437,440405,Fri Oct 22 19:06:14 UTC 2021
 Airline code "PCT", examples:PCT458,3F9AE8,Fri Oct 22 19:07:24 UTC 2021
-Airline code "PGN", examples:PGN41,A4D375,Fri Oct 22 19:13:10 UTC 2021
 Airline code "VKG", examples:VKG9213,45D964,Fri Oct 22 19:05:18 UTC 2021
 Airline code "WRC", examples:WRC7007,4D22A8,Fri Oct 22 19:07:23 UTC 2021
 Airline code "JTZ", examples:JTZ419,A4F6BB,Fri Oct 22 18:46:53 UTC 2021
