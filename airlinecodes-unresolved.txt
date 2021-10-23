@@ -1,3 +1,4 @@
+Airline code "MDO", examples:MDO2305,4D2197,Sat Oct 23 19:34:08 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Sat Oct 23 18:13:18 UTC 2021
 Airline code "FOX", examples:FOX1206,478731,Sat Oct 23 18:05:39 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Sat Oct 23 18:06:09 UTC 2021
@@ -184,7 +185,6 @@ Airline code "GKY", examples:GKY069,42483E,Wed Sep 8 15:48:47 UTC 2021
 Airline code "TEU", examples:TEU14,4D220F,Wed Sep 8 06:41:44 UTC 2021
 Airline code "JAZ", examples:JAZ7935,C017ED,Mon Sep 6 20:04:26 UTC 2021
 Airline code "MBK", examples:MBK601,C00381,Mon Sep 6 20:46:50 UTC 2021
-Airline code "MDO", examples:MDO2260,4D21DD,Sun Sep 5 18:19:43 UTC 2021
 Airline code "BNO", examples:BNO1N,47C39C,Thu Sep 2 21:05:13 UTC 2021
 Airline code "WFN", examples:WFN3518,C0256E,Tue Aug 31 20:11:58 UTC 2021
 Airline code "RQT", examples:RQT10,A97D2B,Mon Aug 30 21:47:21 UTC 2021
