@@ -1,3 +1,8 @@
+Airline code "FLJ", examples:FLJ53F,407ADC,Sat Oct 23 10:16:15 UTC 2021
+Airline code "FSF", examples:FSF116C,461838,Sat Oct 23 10:19:15 UTC 2021
+Airline code "MOZ", examples:MOZ118,4405AE,Sat Oct 23 10:22:44 UTC 2021
+Airline code "OOD", examples:OOD55,4493F3,Sat Oct 23 10:28:14 UTC 2021
+Airline code "OOF", examples:OOF81,44980D,Sat Oct 23 10:00:13 UTC 2021
 Airline code "EUK", examples:EUK931,407BE6,Sat Oct 23 09:51:45 UTC 2021
 Airline code "JTD", examples:JTD317,45AB4E,Sat Oct 23 09:15:49 UTC 2021
 Airline code "RSY", examples:RSY8518,4CACB3,Sat Oct 23 09:22:36 UTC 2021
@@ -18,14 +23,12 @@ Airline code "JCL", examples:JCL1,3CF106,Fri Oct 22 19:06:49 UTC 2021
 Airline code "JKH", examples:JKH32A,3E3F1F,Fri Oct 22 19:06:26 UTC 2021
 Airline code "JME", examples:JME419M,491266,Fri Oct 22 19:05:50 UTC 2021
 Airline code "MLM", examples:MLM026,4D2052,Fri Oct 22 19:06:36 UTC 2021
-Airline code "MOZ", examples:MOZ437,440405,Fri Oct 22 19:06:14 UTC 2021
 Airline code "PCT", examples:PCT458,3F9AE8,Fri Oct 22 19:07:24 UTC 2021
 Airline code "WRC", examples:WRC7007,4D22A8,Fri Oct 22 19:07:23 UTC 2021
 Airline code "JTZ", examples:JTZ419,A4F6BB,Fri Oct 22 18:46:53 UTC 2021
 Airline code "HPK", examples:HPK73,AC0381,Fri Oct 22 17:42:22 UTC 2021 HPK73,AC0381,Fri Oct 22 17:07:33 UTC 2021
 Airline code "PJS", examples:PJS800,4B184E,Fri Oct 22 17:28:10 UTC 2021
 Airline code "ITY", examples:ITY154,4CA502,Fri Oct 22 16:57:08 UTC 2021
-Airline code "FLJ", examples:FLJ53F,407ADC,Fri Oct 22 13:49:04 UTC 2021
 Airline code "IAM", examples:IAM3127,33FFAD,Fri Oct 22 13:22:20 UTC 2021
 Airline code "UAW", examples:UAW22,400EA0,Fri Oct 22 13:05:04 UTC 2021
 Airline code "VXS", examples:VXS3,407A32,Fri Oct 22 13:41:05 UTC 2021
@@ -48,7 +51,6 @@ Airline code "BRH", examples:BRH754,00B2E6,Thu Oct 21 18:05:40 UTC 2021
 Airline code "RUK", examples:RUK2643,40775C,Thu Oct 21 18:05:37 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Thu Oct 21 18:05:55 UTC 2021
 Airline code "KAY", examples:KAY59,3C5CEC,Thu Oct 21 17:35:02 UTC 2021
-Airline code "FSF", examples:FSF930Y,461981,Thu Oct 21 15:25:55 UTC 2021
 Airline code "TJD", examples:TJD975,300829,Thu Oct 21 12:32:00 UTC 2021
 Airline code "MJF", examples:MJF7L,440A6C,Thu Oct 21 11:11:59 UTC 2021
 Airline code "VLZ", examples:VLZ341A,43EC73,Thu Oct 21 11:46:56 UTC 2021
@@ -83,7 +85,6 @@ Airline code "BFD", examples:BFD18K,3CBDEB,Mon Oct 18 07:21:42 UTC 2021
 Airline code "DLX", examples:DLX79,A77160,Sun Oct 17 20:38:17 UTC 2021
 Airline code "TWI", examples:TWI2328,4BD184,Sun Oct 17 20:05:30 UTC 2021
 Airline code "UJC", examples:UJC59,A407D6,Sun Oct 17 18:12:54 UTC 2021 UJC59,A407D6,Sun Oct 17 18:05:07 UTC 2021
-Airline code "OOF", examples:OOF05,449BC1,Sun Oct 17 16:06:42 UTC 2021
 Airline code "LSM", examples:LSM97,500127,Sun Oct 17 15:37:30 UTC 2021 LSM97,500127,Sun Oct 17 15:01:06 UTC 2021
 Airline code "XCH", examples:XCH514,43E7ED,Sun Oct 17 15:53:06 UTC 2021
 Airline code "BFY", examples:BFY076R,48412B,Sun Oct 17 13:08:05 UTC 2021
@@ -175,7 +176,6 @@ Airline code "IEI", examples:IEI2858,33FE12,Fri Sep 17 13:57:10 UTC 2021
 Airline code "HOB", examples:HOB5,A43BF3,Thu Sep 16 21:57:36 UTC 2021
 Airline code "EMM", examples:EMM006,4D2168,Tue Sep 14 18:17:46 UTC 2021
 Airline code "ICF", examples:ICF201,5000B9,Tue Sep 14 16:01:15 UTC 2021 ICF201,5000B9,Tue Sep 14 16:01:14 UTC 2021
-Airline code "OOD", examples:OOD80,44900C,Sat Sep 11 09:19:09 UTC 2021
 Airline code "RFV", examples:RFV82A,407359,Fri Sep 10 00:42:51 UTC 2021
 Airline code "RSP", examples:RSP69,A77A78,Thu Sep 9 18:06:55 UTC 2021
 Airline code "EZZ", examples:EZZ441W,501C0B,Wed Sep 8 18:16:46 UTC 2021
