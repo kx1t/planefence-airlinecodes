@@ -1,3 +1,4 @@
+Airline code "VKG", examples:VKG4268,45D964,Sun Oct 24 04:42:24 UTC 2021
 Airline code "JLG", examples:JLG533,A6BD51,Sun Oct 24 00:37:38 UTC 2021
 Airline code "JAF", examples:JAF3202,44D1A2,Sat Oct 23 23:28:30 UTC 2021
 Airline code "DMS", examples:DMS716,5110AE,Sat Oct 23 21:06:20 UTC 2021
@@ -14,7 +15,6 @@ Airline code "RUK", examples:RUK2644,407BDC,Sat Oct 23 21:06:22 UTC 2021
 Airline code "SAR", examples:SAR775,48A5E7,Sat Oct 23 21:06:13 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Sat Oct 23 21:05:18 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Sat Oct 23 21:05:56 UTC 2021
-Airline code "VKG", examples:VKG1233,45D969,Sat Oct 23 21:05:02 UTC 2021
 Airline code "MDO", examples:MDO2305,4D2197,Sat Oct 23 19:34:08 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Sat Oct 23 18:13:18 UTC 2021
 Airline code "MLM", examples:MLM026,4D2052,Sat Oct 23 16:10:17 UTC 2021
