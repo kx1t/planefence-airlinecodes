@@ -1,3 +1,4 @@
+Airline code "JLG", examples:JLG533,A6BD51,Sun Oct 24 00:37:38 UTC 2021
 Airline code "JAF", examples:JAF3202,44D1A2,Sat Oct 23 23:28:30 UTC 2021
 Airline code "DMS", examples:DMS716,5110AE,Sat Oct 23 21:06:20 UTC 2021
 Airline code "FOX", examples:FOX1206,478731,Sat Oct 23 21:05:43 UTC 2021
@@ -68,7 +69,6 @@ Airline code "NTF", examples:NTF571M,49D102,Wed Oct 20 17:57:12 UTC 2021
 Airline code "JSH", examples:JSH407,471843,Wed Oct 20 12:12:49 UTC 2021
 Airline code "EGC", examples:EGC690,A92BBD,Wed Oct 20 04:23:48 UTC 2021
 Airline code "JMK", examples:JMK418,4D20A7,Wed Oct 20 01:32:37 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:42 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:21 UTC 2021
-Airline code "JLG", examples:JLG25,A030D4,Tue Oct 19 22:32:46 UTC 2021
 Airline code "CGF", examples:CGF820,451E29,Tue Oct 19 21:05:12 UTC 2021
 Airline code "BAO", examples:BAO239N,3C0FE6,Tue Oct 19 20:05:16 UTC 2021
 Airline code "CSG", examples:CSG2573,7805AA,Tue Oct 19 20:05:46 UTC 2021
