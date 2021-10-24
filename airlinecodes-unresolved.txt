@@ -1,3 +1,7 @@
+Airline code "IAM", examples:IAM9004,33FFAD,Sun Oct 24 17:02:12 UTC 2021
+Airline code "JAF", examples:JAF89J,44D1A1,Sun Oct 24 17:51:36 UTC 2021
+Airline code "JTD", examples:JTD596,45AA90,Sun Oct 24 17:05:49 UTC 2021
+Airline code "VKG", examples:VKG1185,45D067,Sun Oct 24 17:47:12 UTC 2021
 Airline code "AZV", examples:AZV777,3749F5,Sun Oct 24 16:05:26 UTC 2021
 Airline code "DFC", examples:DFC26H,49D0F9,Sun Oct 24 16:52:00 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Sun Oct 24 16:47:25 UTC 2021
@@ -8,15 +12,12 @@ Airline code "RUK", examples:RUK2643,40775C,Sun Oct 24 16:05:33 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Sun Oct 24 15:19:59 UTC 2021
 Airline code "FOX", examples:FOX1356,478DEF,Sun Oct 24 15:29:45 UTC 2021
 Airline code "GCK", examples:GCK40,4408D8,Sun Oct 24 15:05:12 UTC 2021
-Airline code "JTD", examples:JTD517,45AB4D,Sun Oct 24 15:05:06 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Sun Oct 24 15:05:49 UTC 2021
 Airline code "SZS", examples:SZS527,4CAF82,Sun Oct 24 15:05:58 UTC 2021
-Airline code "VKG", examples:VKG1314,45D065,Sun Oct 24 15:05:08 UTC 2021
 Airline code "XLS", examples:XLS451,A3FFA0,Sun Oct 24 15:17:34 UTC 2021
 Airline code "OOI", examples:OOI16,44A7CC,Sun Oct 24 14:15:51 UTC 2021
 Airline code "WMN", examples:WMN528,A6A8A1,Sun Oct 24 12:51:58 UTC 2021 WMN528,A6A8A1,Sun Oct 24 12:44:06 UTC 2021
 Airline code "AJO", examples:AJO255,4D22DC,Sun Oct 24 11:06:20 UTC 2021
-Airline code "JAF", examples:JAF2304,44A831,Sun Oct 24 11:47:45 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Sun Oct 24 11:45:05 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Sun Oct 24 11:37:05 UTC 2021
 Airline code "BOH", examples:BOH711,49D3AC,Sun Oct 24 10:41:02 UTC 2021
@@ -54,7 +55,6 @@ Airline code "WRC", examples:WRC7007,4D22A8,Fri Oct 22 19:07:23 UTC 2021
 Airline code "JTZ", examples:JTZ419,A4F6BB,Fri Oct 22 18:46:53 UTC 2021
 Airline code "HPK", examples:HPK73,AC0381,Fri Oct 22 17:42:22 UTC 2021 HPK73,AC0381,Fri Oct 22 17:07:33 UTC 2021
 Airline code "PJS", examples:PJS800,4B184E,Fri Oct 22 17:28:10 UTC 2021
-Airline code "IAM", examples:IAM3127,33FFAD,Fri Oct 22 13:22:20 UTC 2021
 Airline code "UAW", examples:UAW22,400EA0,Fri Oct 22 13:05:04 UTC 2021
 Airline code "VXS", examples:VXS3,407A32,Fri Oct 22 13:41:05 UTC 2021
 Airline code "WDE", examples:WDE22,A97AA1,Fri Oct 22 13:07:25 UTC 2021
