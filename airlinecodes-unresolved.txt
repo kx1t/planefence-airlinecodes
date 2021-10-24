@@ -1,10 +1,11 @@
+Airline code "JTD", examples:JTD596,45AA90,Sun Oct 24 12:27:55 UTC 2021
+Airline code "WMN", examples:WMN528,A6A8A1,Sun Oct 24 12:51:58 UTC 2021 WMN528,A6A8A1,Sun Oct 24 12:44:06 UTC 2021
 Airline code "AJO", examples:AJO255,4D22DC,Sun Oct 24 11:06:20 UTC 2021
 Airline code "JAF", examples:JAF2304,44A831,Sun Oct 24 11:47:45 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Sun Oct 24 11:45:05 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Sun Oct 24 11:37:05 UTC 2021
 Airline code "BOH", examples:BOH711,49D3AC,Sun Oct 24 10:41:02 UTC 2021
 Airline code "GCK", examples:GCK40,4408D8,Sun Oct 24 10:04:56 UTC 2021
-Airline code "JTD", examples:JTD517,45AB4D,Sun Oct 24 10:04:51 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Sun Oct 24 10:00:39 UTC 2021
 Airline code "RUK", examples:RUK2643,40775C,Sun Oct 24 10:29:37 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Sun Oct 24 10:04:50 UTC 2021
@@ -149,7 +150,6 @@ Airline code "FGR", examples:FGR620,A81441,Thu Sep 30 23:18:39 UTC 2021
 Airline code "UWD", examples:UWD56,A0E0CC,Thu Sep 30 16:15:10 UTC 2021
 Airline code "XGO", examples:XGO3TH,3E4082,Thu Sep 30 12:36:13 UTC 2021
 Airline code "EAU", examples:EAU57B,4D2308,Wed Sep 29 15:17:30 UTC 2021
-Airline code "WMN", examples:WMN528,A6A8A1,Wed Sep 29 14:36:40 UTC 2021
 Airline code "ULA", examples:ULA317,A361E8,Tue Sep 28 21:00:11 UTC 2021
 Airline code "RDF", examples:RDF9,3DD821,Mon Sep 27 10:41:00 UTC 2021 RDF9,3DD821,Mon Sep 27 10:40:07 UTC 2021
 Airline code "OHC", examples:OHC213,A1C54E,Sun Sep 26 22:11:26 UTC 2021
