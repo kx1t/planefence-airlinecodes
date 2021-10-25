@@ -1,3 +1,6 @@
+Airline code "FSF", examples:FSF957K,460D4C,Mon Oct 25 06:17:38 UTC 2021
+Airline code "ITY", examples:ITY148,4CA8F6,Mon Oct 25 06:10:30 UTC 2021
+Airline code "ULC", examples:ULC21,4D2199,Mon Oct 25 06:13:29 UTC 2021
 Airline code "AZV", examples:AZV945,42445D,Mon Oct 25 04:04:25 UTC 2021
 Airline code "JTD", examples:JTD574,45AB4A,Mon Oct 25 04:04:20 UTC 2021
 Airline code "RDN", examples:RDN065,AB6EBE,Mon Oct 25 04:04:23 UTC 2021
@@ -46,9 +49,7 @@ Airline code "SAR", examples:SAR775,48A5E7,Sat Oct 23 21:06:13 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Sat Oct 23 21:05:56 UTC 2021
 Airline code "MLM", examples:MLM026,4D2052,Sat Oct 23 16:10:17 UTC 2021
 Airline code "TJD", examples:TJD850,300288,Sat Oct 23 16:37:18 UTC 2021
-Airline code "ITY", examples:ITY436,4CA8F4,Sat Oct 23 15:56:16 UTC 2021 ITY436,4CA8F4,Sat Oct 23 15:56:16 UTC 2021 ITY436,4CA8F4,Sat Oct 23 15:56:04 UTC 2021
 Airline code "SSR", examples:SSR561,300840,Sat Oct 23 12:18:16 UTC 2021
-Airline code "FSF", examples:FSF116C,461838,Sat Oct 23 10:19:15 UTC 2021
 Airline code "OOD", examples:OOD55,4493F3,Sat Oct 23 10:28:14 UTC 2021
 Airline code "KFB", examples:KFB960,AD5C7F,Sat Oct 23 08:59:42 UTC 2021 KFB960,AD5C7F,Sat Oct 23 08:59:34 UTC 2021
 Airline code "JCO", examples:JCO7X,4077BE,Sat Oct 23 04:25:20 UTC 2021
@@ -105,7 +106,6 @@ Airline code "UJC", examples:UJC59,A407D6,Sun Oct 17 18:12:54 UTC 2021 UJC59,A40
 Airline code "LSM", examples:LSM97,500127,Sun Oct 17 15:37:30 UTC 2021 LSM97,500127,Sun Oct 17 15:01:06 UTC 2021
 Airline code "XCH", examples:XCH514,43E7ED,Sun Oct 17 15:53:06 UTC 2021
 Airline code "BFY", examples:BFY076R,48412B,Sun Oct 17 13:08:05 UTC 2021
-Airline code "ULC", examples:ULC22,4D2305,Sun Oct 17 12:28:05 UTC 2021
 Airline code "JPV", examples:JPV452P,3C942D,Sat Oct 16 15:29:58 UTC 2021
 Airline code "GTW", examples:GTW363,A4177F,Fri Oct 15 21:05:40 UTC 2021
 Airline code "XEN", examples:XEN15,A1CC9A,Fri Oct 15 20:59:32 UTC 2021
