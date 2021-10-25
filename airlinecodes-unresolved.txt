@@ -1,3 +1,4 @@
+Airline code "ITY", examples:ITY150,4CA798,Mon Oct 25 11:58:02 UTC 2021
 Airline code "ALI", examples:ALI10,4783D2,Mon Oct 25 10:55:01 UTC 2021
 Airline code "AZV", examples:AZV945,42445D,Mon Oct 25 10:04:53 UTC 2021
 Airline code "IEI", examples:IEI2801,33FE0B,Mon Oct 25 10:49:25 UTC 2021 IEI2801,33FE0B,Mon Oct 25 10:49:22 UTC 2021 IEI2801,33FE0B,Mon Oct 25 10:47:51 UTC 2021
@@ -14,7 +15,6 @@ Airline code "FLJ", examples:FLJ53F,407ADC,Mon Oct 25 08:55:02 UTC 2021
 Airline code "VXS", examples:VXS3,407A32,Mon Oct 25 08:15:16 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Mon Oct 25 07:07:29 UTC 2021
 Airline code "TEU", examples:TEU9,4D21BC,Mon Oct 25 07:08:29 UTC 2021
-Airline code "ITY", examples:ITY148,4CA8F6,Mon Oct 25 06:10:30 UTC 2021
 Airline code "ULC", examples:ULC21,4D2199,Mon Oct 25 06:13:29 UTC 2021
 Airline code "JNY", examples:JNY297,A310C9,Mon Oct 25 03:05:33 UTC 2021
 Airline code "MJS", examples:MJS3022,A36878,Mon Oct 25 02:33:30 UTC 2021
