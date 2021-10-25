@@ -1,8 +1,9 @@
+Airline code "AZV", examples:AZV945,42445D,Mon Oct 25 00:37:21 UTC 2021
+Airline code "RSY", examples:RSY9005,4CA9F1,Mon Oct 25 00:45:21 UTC 2021
 Airline code "RDN", examples:RDN065,AB6EBE,Sun Oct 24 23:01:20 UTC 2021
 Airline code "JSX", examples:JSX222,A2384B,Sun Oct 24 22:14:58 UTC 2021
 Airline code "MJS", examples:MJS3022,A36878,Sun Oct 24 22:18:32 UTC 2021
 Airline code "XSM", examples:XSM55,AD4890,Sun Oct 24 22:40:57 UTC 2021
-Airline code "AZV", examples:AZV777,3749F5,Sun Oct 24 21:05:41 UTC 2021
 Airline code "DFC", examples:DFC26H,49D0F9,Sun Oct 24 21:06:34 UTC 2021
 Airline code "FOX", examples:FOX1356,478DEF,Sun Oct 24 21:06:24 UTC 2021
 Airline code "GCK", examples:GCK40,4408D8,Sun Oct 24 21:05:29 UTC 2021
@@ -18,7 +19,6 @@ Airline code "SZS", examples:SZS525,4CAF82,Sun Oct 24 21:05:23 UTC 2021
 Airline code "TBJ", examples:TBJ91,A6BC98,Sun Oct 24 21:56:56 UTC 2021
 Airline code "VKG", examples:VKG1255,45D964,Sun Oct 24 21:05:09 UTC 2021
 Airline code "NYX", examples:NYX429,511132,Sun Oct 24 20:07:23 UTC 2021
-Airline code "RSY", examples:RSY8516,4CA9F1,Sun Oct 24 20:39:31 UTC 2021
 Airline code "NKT", examples:NKT5,A95974,Sun Oct 24 19:58:34 UTC 2021
 Airline code "IAM", examples:IAM9004,33FFAD,Sun Oct 24 17:02:12 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Sun Oct 24 16:47:25 UTC 2021
