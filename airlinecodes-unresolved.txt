@@ -1,3 +1,5 @@
+Airline code "NYX", examples:NYX427,511132,Mon Oct 25 14:52:49 UTC 2021
+Airline code "OHC", examples:OHC213,A1C54E,Mon Oct 25 14:02:30 UTC 2021
 Airline code "ALI", examples:ALI10,4783D2,Mon Oct 25 13:05:45 UTC 2021
 Airline code "AZV", examples:AZV945,42445D,Mon Oct 25 13:04:59 UTC 2021
 Airline code "JAF", examples:JAF961T,44D1BA,Mon Oct 25 13:05:44 UTC 2021
@@ -32,7 +34,6 @@ Airline code "OOH", examples:OOH84,44A010,Sun Oct 24 21:05:45 UTC 2021
 Airline code "PPJ", examples:PPJ438,AAF264,Sun Oct 24 21:28:27 UTC 2021 PPJ438,AAF264,Sun Oct 24 21:19:06 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF82,Sun Oct 24 21:05:23 UTC 2021
 Airline code "TBJ", examples:TBJ91,A6BC98,Sun Oct 24 21:56:56 UTC 2021
-Airline code "NYX", examples:NYX429,511132,Sun Oct 24 20:07:23 UTC 2021
 Airline code "IAM", examples:IAM9004,33FFAD,Sun Oct 24 17:02:12 UTC 2021
 Airline code "XLS", examples:XLS451,A3FFA0,Sun Oct 24 15:17:34 UTC 2021
 Airline code "OOI", examples:OOI16,44A7CC,Sun Oct 24 14:15:51 UTC 2021
@@ -157,7 +158,6 @@ Airline code "XGO", examples:XGO3TH,3E4082,Thu Sep 30 12:36:13 UTC 2021
 Airline code "EAU", examples:EAU57B,4D2308,Wed Sep 29 15:17:30 UTC 2021
 Airline code "ULA", examples:ULA317,A361E8,Tue Sep 28 21:00:11 UTC 2021
 Airline code "RDF", examples:RDF9,3DD821,Mon Sep 27 10:41:00 UTC 2021 RDF9,3DD821,Mon Sep 27 10:40:07 UTC 2021
-Airline code "OHC", examples:OHC213,A1C54E,Sun Sep 26 22:11:26 UTC 2021
 Airline code "SYO", examples:SYO03,40327F,Sun Sep 26 15:18:29 UTC 2021
 Airline code "KSF", examples:KSF251,A1F787,Sun Sep 26 11:42:53 UTC 2021
 Airline code "VCJ", examples:VCJ92T,4D229A,Sun Sep 26 10:18:40 UTC 2021
