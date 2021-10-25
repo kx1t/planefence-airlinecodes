@@ -1,3 +1,4 @@
+Airline code "NYX", examples:NYX414C,511108,Mon Oct 25 22:26:25 UTC 2021
 Airline code "ALI", examples:ALI10,4783D2,Mon Oct 25 21:05:57 UTC 2021
 Airline code "AZV", examples:AZV945,42445D,Mon Oct 25 21:05:09 UTC 2021
 Airline code "FOX", examples:FOX1404,478731,Mon Oct 25 21:06:10 UTC 2021
@@ -21,7 +22,6 @@ Airline code "ITY", examples:ITY154,4CA8DC,Mon Oct 25 16:55:35 UTC 2021
 Airline code "PGN", examples:PGN41,A4D375,Mon Oct 25 16:15:19 UTC 2021 PGN41,A4D375,Mon Oct 25 16:14:53 UTC 2021
 Airline code "DCW", examples:DCW1,4D2184,Mon Oct 25 15:39:00 UTC 2021
 Airline code "JTZ", examples:JTZ807,AAFD0A,Mon Oct 25 15:56:01 UTC 2021
-Airline code "NYX", examples:NYX427,511132,Mon Oct 25 14:52:49 UTC 2021
 Airline code "OHC", examples:OHC213,A1C54E,Mon Oct 25 14:02:30 UTC 2021
 Airline code "UAW", examples:UAW23,400EA0,Mon Oct 25 13:33:00 UTC 2021
 Airline code "IEI", examples:IEI2801,33FE0B,Mon Oct 25 10:49:25 UTC 2021 IEI2801,33FE0B,Mon Oct 25 10:49:22 UTC 2021 IEI2801,33FE0B,Mon Oct 25 10:47:51 UTC 2021
