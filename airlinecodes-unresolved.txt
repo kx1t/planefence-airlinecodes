@@ -1,11 +1,13 @@
+Airline code "AZV", examples:AZV945,42445D,Mon Oct 25 07:04:45 UTC 2021
+Airline code "FJO", examples:FJO54A,4D2330,Mon Oct 25 07:07:29 UTC 2021
+Airline code "JTD", examples:JTD574,45AB4A,Mon Oct 25 07:04:40 UTC 2021
+Airline code "RDN", examples:RDN065,AB6EBE,Mon Oct 25 07:04:43 UTC 2021
+Airline code "RSY", examples:RSY9005,4CA9F1,Mon Oct 25 07:04:47 UTC 2021
+Airline code "TEU", examples:TEU9,4D21BC,Mon Oct 25 07:08:29 UTC 2021
+Airline code "VKG", examples:VKG1269,45D068,Mon Oct 25 07:04:42 UTC 2021
 Airline code "FSF", examples:FSF957K,460D4C,Mon Oct 25 06:17:38 UTC 2021
 Airline code "ITY", examples:ITY148,4CA8F6,Mon Oct 25 06:10:30 UTC 2021
 Airline code "ULC", examples:ULC21,4D2199,Mon Oct 25 06:13:29 UTC 2021
-Airline code "AZV", examples:AZV945,42445D,Mon Oct 25 04:04:25 UTC 2021
-Airline code "JTD", examples:JTD574,45AB4A,Mon Oct 25 04:04:20 UTC 2021
-Airline code "RDN", examples:RDN065,AB6EBE,Mon Oct 25 04:04:23 UTC 2021
-Airline code "RSY", examples:RSY9005,4CA9F1,Mon Oct 25 04:04:26 UTC 2021
-Airline code "VKG", examples:VKG1269,45D068,Mon Oct 25 04:04:22 UTC 2021
 Airline code "JNY", examples:JNY297,A310C9,Mon Oct 25 03:05:33 UTC 2021
 Airline code "MJS", examples:MJS3022,A36878,Mon Oct 25 02:33:30 UTC 2021
 Airline code "NKT", examples:NKT5,A95974,Mon Oct 25 02:33:27 UTC 2021
@@ -25,7 +27,6 @@ Airline code "SZS", examples:SZS525,4CAF82,Sun Oct 24 21:05:23 UTC 2021
 Airline code "TBJ", examples:TBJ91,A6BC98,Sun Oct 24 21:56:56 UTC 2021
 Airline code "NYX", examples:NYX429,511132,Sun Oct 24 20:07:23 UTC 2021
 Airline code "IAM", examples:IAM9004,33FFAD,Sun Oct 24 17:02:12 UTC 2021
-Airline code "FJO", examples:FJO54A,4D2330,Sun Oct 24 16:47:25 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Sun Oct 24 15:19:59 UTC 2021
 Airline code "XLS", examples:XLS451,A3FFA0,Sun Oct 24 15:17:34 UTC 2021
 Airline code "OOI", examples:OOI16,44A7CC,Sun Oct 24 14:15:51 UTC 2021
@@ -184,7 +185,6 @@ Airline code "RFV", examples:RFV82A,407359,Fri Sep 10 00:42:51 UTC 2021
 Airline code "RSP", examples:RSP69,A77A78,Thu Sep 9 18:06:55 UTC 2021
 Airline code "EZZ", examples:EZZ441W,501C0B,Wed Sep 8 18:16:46 UTC 2021
 Airline code "GKY", examples:GKY069,42483E,Wed Sep 8 15:48:47 UTC 2021
-Airline code "TEU", examples:TEU14,4D220F,Wed Sep 8 06:41:44 UTC 2021
 Airline code "JAZ", examples:JAZ7935,C017ED,Mon Sep 6 20:04:26 UTC 2021
 Airline code "MBK", examples:MBK601,C00381,Mon Sep 6 20:46:50 UTC 2021
 Airline code "BNO", examples:BNO1N,47C39C,Thu Sep 2 21:05:13 UTC 2021
