@@ -1,3 +1,4 @@
+Airline code "RDN", examples:RDN065,AB6EBE,Sun Oct 24 23:01:20 UTC 2021
 Airline code "JSX", examples:JSX222,A2384B,Sun Oct 24 22:14:58 UTC 2021
 Airline code "MJS", examples:MJS3022,A36878,Sun Oct 24 22:18:32 UTC 2021
 Airline code "XSM", examples:XSM55,AD4890,Sun Oct 24 22:40:57 UTC 2021
@@ -135,7 +136,6 @@ Airline code "CJY", examples:CJY972,C02876,Wed Oct 6 21:12:33 UTC 2021
 Airline code "JAV", examples:JAV4492,742AC2,Wed Oct 6 16:50:33 UTC 2021
 Airline code "RSJ", examples:RSJ9619,424650,Tue Oct 5 21:06:28 UTC 2021
 Airline code "INI", examples:INI221,343183,Tue Oct 5 18:45:00 UTC 2021
-Airline code "RDN", examples:RDN037,AB79E3,Tue Oct 5 18:16:00 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Tue Oct 5 17:40:43 UTC 2021
 Airline code "FWR", examples:FWR1049,A0FE84,Mon Oct 4 21:41:07 UTC 2021
 Airline code "OCJ", examples:OCJ102,50011B,Sun Oct 3 21:05:44 UTC 2021
