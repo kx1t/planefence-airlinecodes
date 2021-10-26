@@ -1,3 +1,4 @@
+Airline code "JTD", examples:JTD9903,45AB4A,Tue Oct 26 04:20:09 UTC 2021
 Airline code "IFG", examples:IFG550,A26A2C,Tue Oct 26 02:33:10 UTC 2021
 Airline code "JTZ", examples:JTZ807,AAFD0A,Tue Oct 26 02:33:08 UTC 2021
 Airline code "NYX", examples:NYX414C,511108,Tue Oct 26 02:04:23 UTC 2021
@@ -16,7 +17,6 @@ Airline code "RDN", examples:RDN065,AB6EBE,Mon Oct 25 21:05:08 UTC 2021
 Airline code "RSY", examples:RSY9005,4CA9F1,Mon Oct 25 21:05:11 UTC 2021
 Airline code "RUK", examples:RUK2643,407BDC,Mon Oct 25 21:05:45 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Mon Oct 25 21:06:12 UTC 2021
-Airline code "JTD", examples:JTD574,45AB4A,Mon Oct 25 20:05:06 UTC 2021
 Airline code "IAM", examples:IAM3176,33FFFB,Mon Oct 25 18:26:14 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Mon Oct 25 17:44:52 UTC 2021
 Airline code "JAV", examples:JAV4482,742AC2,Mon Oct 25 17:45:52 UTC 2021
