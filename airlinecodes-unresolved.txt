@@ -1,3 +1,4 @@
+Airline code "GJE", examples:GJE2226,A67857,Mon Oct 25 23:39:37 UTC 2021
 Airline code "NYX", examples:NYX414C,511108,Mon Oct 25 22:26:25 UTC 2021
 Airline code "ALI", examples:ALI10,4783D2,Mon Oct 25 21:05:57 UTC 2021
 Airline code "AZV", examples:AZV945,42445D,Mon Oct 25 21:05:09 UTC 2021
@@ -120,7 +121,6 @@ Airline code "TEK", examples:TEK610,A7EF5C,Fri Oct 15 11:45:22 UTC 2021
 Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 14 19:05:07 UTC 2021
 Airline code "GCL", examples:GCL3318,3C4D98,Thu Oct 14 18:05:08 UTC 2021
 Airline code "KZN", examples:KZN9401,15065F,Thu Oct 14 18:06:27 UTC 2021
-Airline code "GJE", examples:GJE510,ABFE5A,Wed Oct 13 23:25:03 UTC 2021
 Airline code "CDX", examples:CDX550,748053,Wed Oct 13 10:19:31 UTC 2021
 Airline code "FTD", examples:FTD561,A72AA3,Tue Oct 12 22:31:28 UTC 2021
 Airline code "GLH", examples:GLH1,A16AAD,Tue Oct 12 19:05:40 UTC 2021
