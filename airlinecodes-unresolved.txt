@@ -1,14 +1,14 @@
+Airline code "AZV", examples:AZV943,42445D,Tue Oct 26 08:22:39 UTC 2021
+Airline code "FOX", examples:FOX1226,478731,Tue Oct 26 08:55:41 UTC 2021
 Airline code "ITY", examples:ITY148,4CA9BD,Tue Oct 26 06:22:35 UTC 2021
 Airline code "JTD", examples:JTD927,45AA90,Tue Oct 26 06:16:35 UTC 2021
 Airline code "NYX", examples:NYX414C,511108,Tue Oct 26 06:04:40 UTC 2021
 Airline code "PCT", examples:PCT462,3F9AE8,Tue Oct 26 06:04:44 UTC 2021
 Airline code "VKG", examples:VKG1293,45D068,Tue Oct 26 06:04:41 UTC 2021
-Airline code "AZV", examples:AZV777,42445B,Tue Oct 26 05:57:29 UTC 2021
 Airline code "IFG", examples:IFG550,A26A2C,Tue Oct 26 02:33:10 UTC 2021
 Airline code "JTZ", examples:JTZ807,AAFD0A,Tue Oct 26 02:33:08 UTC 2021
 Airline code "GJE", examples:GJE2226,A67857,Mon Oct 25 23:39:37 UTC 2021
 Airline code "ALI", examples:ALI10,4783D2,Mon Oct 25 21:05:57 UTC 2021
-Airline code "FOX", examples:FOX1404,478731,Mon Oct 25 21:06:10 UTC 2021
 Airline code "FSF", examples:FSF957K,460D4C,Mon Oct 25 21:05:23 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Mon Oct 25 21:06:06 UTC 2021
 Airline code "JAF", examples:JAF961T,44D1BA,Mon Oct 25 21:05:55 UTC 2021
