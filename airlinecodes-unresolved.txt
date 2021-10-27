@@ -1,7 +1,7 @@
+Airline code "VKG", examples:VKG4067,45D064,Wed Oct 27 04:04:20 UTC 2021
 Airline code "JCL", examples:JCL1,3CF106,Wed Oct 27 00:22:15 UTC 2021
 Airline code "JTZ", examples:JTZ412,A4DCBA,Tue Oct 26 23:20:12 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Oct 26 22:43:01 UTC 2021
-Airline code "VKG", examples:VKG4067,45D064,Tue Oct 26 22:01:30 UTC 2021
 Airline code "NYX", examples:NYX414C,511108,Tue Oct 26 21:05:03 UTC 2021
 Airline code "XCH", examples:XCH423G,43E7ED,Tue Oct 26 21:05:40 UTC 2021
 Airline code "AZV", examples:AZV777,42445B,Tue Oct 26 20:05:09 UTC 2021
