@@ -1,19 +1,19 @@
+Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 27 13:05:05 UTC 2021
+Airline code "FLJ", examples:FLJ52R,407A2A,Wed Oct 27 13:04:56 UTC 2021
+Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 27 13:05:06 UTC 2021
+Airline code "GFM", examples:GFM5X,4AC998,Wed Oct 27 13:05:11 UTC 2021
+Airline code "JPV", examples:JPV284,440A05,Wed Oct 27 13:05:01 UTC 2021
+Airline code "JTD", examples:JTD884,45AB4D,Wed Oct 27 13:05:28 UTC 2021
+Airline code "RUK", examples:RUK2224,407BDC,Wed Oct 27 13:05:24 UTC 2021
+Airline code "URO", examples:URO461,400F0B,Wed Oct 27 13:46:48 UTC 2021
+Airline code "VKG", examples:VKG4067,45D064,Wed Oct 27 13:04:45 UTC 2021
+Airline code "VLZ", examples:VLZ361A,43ECD8,Wed Oct 27 13:57:19 UTC 2021 VLZ361A,43ECD8,Wed Oct 27 13:57:15 UTC 2021
 Airline code "JAV", examples:JAV4481,742AC2,Wed Oct 27 12:13:47 UTC 2021
 Airline code "PCT", examples:PCT466,3F9AE8,Wed Oct 27 12:05:10 UTC 2021
-Airline code "URO", examples:URO461,400F0B,Wed Oct 27 12:34:58 UTC 2021
-Airline code "FLJ", examples:FLJ52R,407A2A,Wed Oct 27 11:32:47 UTC 2021
-Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 27 10:04:56 UTC 2021
 Airline code "DCW", examples:DCW1,4D2184,Wed Oct 27 10:06:12 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Wed Oct 27 10:19:46 UTC 2021
-Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 27 10:04:57 UTC 2021
-Airline code "GFM", examples:GFM5X,4AC998,Wed Oct 27 10:05:02 UTC 2021
-Airline code "JPV", examples:JPV284,440A05,Wed Oct 27 10:04:52 UTC 2021
-Airline code "JTD", examples:JTD884,45AB4D,Wed Oct 27 10:37:40 UTC 2021
-Airline code "RUK", examples:RUK2224,407BDC,Wed Oct 27 10:07:38 UTC 2021
 Airline code "UAW", examples:UAW23,400EA0,Wed Oct 27 10:38:03 UTC 2021
-Airline code "VKG", examples:VKG4067,45D064,Wed Oct 27 10:04:36 UTC 2021
 Airline code "OOH", examples:OOH74,44A006,Wed Oct 27 09:57:33 UTC 2021
-Airline code "VLZ", examples:VLZ361A,43ECD8,Wed Oct 27 09:49:23 UTC 2021 VLZ361A,43ECD8,Wed Oct 27 09:49:20 UTC 2021 VLZ361A,43ECD8,Wed Oct 27 09:47:40 UTC 2021
 Airline code "VXS", examples:VXS4,4056A2,Wed Oct 27 09:09:46 UTC 2021
 Airline code "ITY", examples:ITY156,4CA757,Wed Oct 27 08:55:58 UTC 2021
 Airline code "PJS", examples:PJS400,4B18A1,Wed Oct 27 08:44:01 UTC 2021
