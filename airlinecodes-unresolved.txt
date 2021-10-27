@@ -1,3 +1,12 @@
+Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 27 16:05:14 UTC 2021
+Airline code "FLJ", examples:FLJ52R,407A2A,Wed Oct 27 16:05:06 UTC 2021
+Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 27 16:05:15 UTC 2021
+Airline code "GFM", examples:GFM5X,4AC998,Wed Oct 27 16:05:20 UTC 2021
+Airline code "JAV", examples:JAV4492,742AC2,Wed Oct 27 16:37:26 UTC 2021
+Airline code "JPV", examples:JPV284,440A05,Wed Oct 27 16:05:10 UTC 2021
+Airline code "JTD", examples:JTD884,45AB4D,Wed Oct 27 16:05:36 UTC 2021
+Airline code "RUK", examples:RUK1642,40775C,Wed Oct 27 16:01:40 UTC 2021 RUK1642,40775C,Wed Oct 27 16:01:37 UTC 2021
+Airline code "VKG", examples:VKG1173,45D964,Wed Oct 27 16:44:44 UTC 2021 VKG4067,45D064,Wed Oct 27 16:04:54 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Wed Oct 27 15:58:48 UTC 2021
 Airline code "MJF", examples:MJF73G,4404D0,Wed Oct 27 15:40:48 UTC 2021
 Airline code "FSF", examples:FSF307U,4CAC5E,Wed Oct 27 14:30:48 UTC 2021 FSF177H,46316E,Wed Oct 27 14:19:07 UTC 2021
@@ -7,16 +16,7 @@ Airline code "NYX", examples:NYX427,511147,Wed Oct 27 14:59:57 UTC 2021
 Airline code "PCT", examples:PCT466,3F9AE8,Wed Oct 27 14:37:57 UTC 2021
 Airline code "SZS", examples:SZS527,4CAFCE,Wed Oct 27 14:33:23 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Wed Oct 27 14:38:15 UTC 2021
-Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 27 13:05:05 UTC 2021
-Airline code "FLJ", examples:FLJ52R,407A2A,Wed Oct 27 13:04:56 UTC 2021
-Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 27 13:05:06 UTC 2021
-Airline code "GFM", examples:GFM5X,4AC998,Wed Oct 27 13:05:11 UTC 2021
-Airline code "JPV", examples:JPV284,440A05,Wed Oct 27 13:05:01 UTC 2021
-Airline code "JTD", examples:JTD884,45AB4D,Wed Oct 27 13:05:28 UTC 2021
-Airline code "RUK", examples:RUK2224,407BDC,Wed Oct 27 13:05:24 UTC 2021
-Airline code "VKG", examples:VKG4067,45D064,Wed Oct 27 13:04:45 UTC 2021
 Airline code "VLZ", examples:VLZ361A,43ECD8,Wed Oct 27 13:57:19 UTC 2021 VLZ361A,43ECD8,Wed Oct 27 13:57:15 UTC 2021
-Airline code "JAV", examples:JAV4481,742AC2,Wed Oct 27 12:13:47 UTC 2021
 Airline code "DCW", examples:DCW1,4D2184,Wed Oct 27 10:06:12 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Wed Oct 27 10:19:46 UTC 2021
 Airline code "UAW", examples:UAW23,400EA0,Wed Oct 27 10:38:03 UTC 2021
