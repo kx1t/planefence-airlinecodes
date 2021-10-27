@@ -1,7 +1,7 @@
+Airline code "FLJ", examples:FLJ52R,407A2A,Wed Oct 27 11:32:47 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 27 10:04:56 UTC 2021
 Airline code "DCW", examples:DCW1,4D2184,Wed Oct 27 10:06:12 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Wed Oct 27 10:19:46 UTC 2021
-Airline code "FLJ", examples:FLJ52R,407A2A,Wed Oct 27 10:04:47 UTC 2021
 Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 27 10:04:57 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Wed Oct 27 10:05:02 UTC 2021
 Airline code "JPV", examples:JPV284,440A05,Wed Oct 27 10:04:52 UTC 2021
