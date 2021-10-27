@@ -1,3 +1,4 @@
+Airline code "PCT", examples:PCT467,3F9AE8,Wed Oct 27 20:20:01 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 27 19:05:24 UTC 2021
 Airline code "FLJ", examples:FLJ52R,407A2A,Wed Oct 27 19:05:15 UTC 2021
 Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 27 19:05:25 UTC 2021
@@ -8,7 +9,6 @@ Airline code "URO", examples:URO460,400F0B,Wed Oct 27 19:19:00 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Wed Oct 27 18:05:58 UTC 2021
 Airline code "JNL", examples:JNL111,485D30,Wed Oct 27 18:06:02 UTC 2021
 Airline code "JTD", examples:JTD885,45AB4D,Wed Oct 27 18:05:52 UTC 2021
-Airline code "PCT", examples:PCT466,3F9AE8,Wed Oct 27 18:05:28 UTC 2021
 Airline code "SZS", examples:SZS527,4CAFCE,Wed Oct 27 18:06:03 UTC 2021
 Airline code "VKG", examples:VKG1173,45D964,Wed Oct 27 18:06:18 UTC 2021
 Airline code "JAV", examples:JAV4492,742AC2,Wed Oct 27 16:37:26 UTC 2021
