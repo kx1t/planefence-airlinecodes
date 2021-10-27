@@ -1,16 +1,17 @@
+Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 27 19:05:24 UTC 2021
+Airline code "FLJ", examples:FLJ52R,407A2A,Wed Oct 27 19:05:15 UTC 2021
+Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 27 19:05:25 UTC 2021
+Airline code "JAF", examples:JAF3314,44D2B0,Wed Oct 27 19:09:58 UTC 2021
+Airline code "JPV", examples:JPV284,440A05,Wed Oct 27 19:05:20 UTC 2021
+Airline code "RUK", examples:RUK2747,407BDC,Wed Oct 27 19:41:59 UTC 2021
+Airline code "URO", examples:URO460,400F0B,Wed Oct 27 19:19:00 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Wed Oct 27 18:05:58 UTC 2021
 Airline code "JNL", examples:JNL111,485D30,Wed Oct 27 18:06:02 UTC 2021
 Airline code "JTD", examples:JTD885,45AB4D,Wed Oct 27 18:05:52 UTC 2021
 Airline code "PCT", examples:PCT466,3F9AE8,Wed Oct 27 18:05:28 UTC 2021
-Airline code "RUK", examples:RUK2224,407BDC,Wed Oct 27 18:05:34 UTC 2021
 Airline code "SZS", examples:SZS527,4CAFCE,Wed Oct 27 18:06:03 UTC 2021
-Airline code "URO", examples:URO461,400F0B,Wed Oct 27 18:05:47 UTC 2021
 Airline code "VKG", examples:VKG1173,45D964,Wed Oct 27 18:06:18 UTC 2021
-Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 27 16:05:14 UTC 2021
-Airline code "FLJ", examples:FLJ52R,407A2A,Wed Oct 27 16:05:06 UTC 2021
-Airline code "FOX", examples:FOX1202,478DEF,Wed Oct 27 16:05:15 UTC 2021
 Airline code "JAV", examples:JAV4492,742AC2,Wed Oct 27 16:37:26 UTC 2021
-Airline code "JPV", examples:JPV284,440A05,Wed Oct 27 16:05:10 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Wed Oct 27 15:58:48 UTC 2021
 Airline code "MJF", examples:MJF73G,4404D0,Wed Oct 27 15:40:48 UTC 2021
 Airline code "FSF", examples:FSF307U,4CAC5E,Wed Oct 27 14:30:48 UTC 2021 FSF177H,46316E,Wed Oct 27 14:19:07 UTC 2021
@@ -36,7 +37,6 @@ Airline code "JSH", examples:JSH202,471843,Tue Oct 26 19:04:23 UTC 2021
 Airline code "LWG", examples:LWG1571,39AE32,Tue Oct 26 19:06:06 UTC 2021
 Airline code "NJM", examples:NJM616,A805F3,Tue Oct 26 18:12:50 UTC 2021
 Airline code "QNR", examples:QNR25B,49D1DF,Tue Oct 26 16:58:44 UTC 2021
-Airline code "JAF", examples:JAF99E,44D1A2,Tue Oct 26 11:48:03 UTC 2021
 Airline code "KAY", examples:KAY59,3C5CEC,Tue Oct 26 10:03:38 UTC 2021
 Airline code "IFG", examples:IFG550,A26A2C,Tue Oct 26 02:33:10 UTC 2021
 Airline code "GJE", examples:GJE2226,A67857,Mon Oct 25 23:39:37 UTC 2021
