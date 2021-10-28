@@ -1,5 +1,6 @@
+Airline code "EUK", examples:EUK930,407BE2,Thu Oct 28 05:27:16 UTC 2021
+Airline code "RUK", examples:RUK2645,407CAF,Thu Oct 28 05:04:23 UTC 2021
 Airline code "PCT", examples:PCT468,3F9AE8,Thu Oct 28 03:26:22 UTC 2021 PCT468,3F9AE8,Thu Oct 28 03:25:50 UTC 2021
-Airline code "RUK", examples:RUK2645,407CAF,Thu Oct 28 02:04:19 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Wed Oct 27 21:05:29 UTC 2021
 Airline code "JNL", examples:JNL111,485D30,Wed Oct 27 21:06:11 UTC 2021
 Airline code "JTD", examples:JTD884,45AB4D,Wed Oct 27 21:05:47 UTC 2021
@@ -68,7 +69,6 @@ Airline code "OOF", examples:OOF55,449BF3,Sun Oct 24 11:37:05 UTC 2021
 Airline code "BOH", examples:BOH711,49D3AC,Sun Oct 24 10:41:02 UTC 2021
 Airline code "OOG", examples:OOG77,449C09,Sun Oct 24 09:00:57 UTC 2021
 Airline code "TWI", examples:TWI290,4BD181,Sun Oct 24 07:41:16 UTC 2021
-Airline code "EUK", examples:EUK930,407BE6,Sun Oct 24 05:23:40 UTC 2021
 Airline code "MDO", examples:MDO3305,4D2197,Sun Oct 24 05:11:57 UTC 2021
 Airline code "JLG", examples:JLG533,A6BD51,Sun Oct 24 00:37:38 UTC 2021
 Airline code "DMS", examples:DMS716,5110AE,Sat Oct 23 21:06:20 UTC 2021
