@@ -1,3 +1,4 @@
+Airline code "WMN", examples:WMN160,A0F347,Thu Oct 28 19:27:52 UTC 2021
 Airline code "EZZ", examples:EZZ202W,501C0B,Thu Oct 28 18:10:49 UTC 2021
 Airline code "FLJ", examples:FLJ53F,407ADC,Thu Oct 28 18:39:40 UTC 2021
 Airline code "TJD", examples:TJD975,300829,Thu Oct 28 18:48:59 UTC 2021
@@ -72,7 +73,6 @@ Airline code "DFC", examples:DFC26H,49D0F9,Sun Oct 24 21:06:34 UTC 2021
 Airline code "PPJ", examples:PPJ438,AAF264,Sun Oct 24 21:28:27 UTC 2021 PPJ438,AAF264,Sun Oct 24 21:19:06 UTC 2021
 Airline code "XLS", examples:XLS451,A3FFA0,Sun Oct 24 15:17:34 UTC 2021
 Airline code "OOI", examples:OOI16,44A7CC,Sun Oct 24 14:15:51 UTC 2021
-Airline code "WMN", examples:WMN528,A6A8A1,Sun Oct 24 12:51:58 UTC 2021 WMN528,A6A8A1,Sun Oct 24 12:44:06 UTC 2021
 Airline code "AJO", examples:AJO255,4D22DC,Sun Oct 24 11:06:20 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Sun Oct 24 11:45:05 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Sun Oct 24 11:37:05 UTC 2021
