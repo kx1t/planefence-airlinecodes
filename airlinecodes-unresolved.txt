@@ -1,3 +1,5 @@
+Airline code "CGF", examples:CGF1807,4520D2,Thu Oct 28 21:50:08 UTC 2021
+Airline code "UPR", examples:UPR291,A41CF8,Thu Oct 28 21:58:01 UTC 2021
 Airline code "EZZ", examples:EZZ2021,501C0B,Thu Oct 28 20:27:57 UTC 2021
 Airline code "RUK", examples:RUK2645,407BDC,Thu Oct 28 20:32:57 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Thu Oct 28 19:27:52 UTC 2021
@@ -106,7 +108,6 @@ Airline code "VKA", examples:VKA179,5083A2,Thu Oct 21 19:06:09 UTC 2021
 Airline code "VPC", examples:VPC5,511063,Thu Oct 21 19:06:05 UTC 2021
 Airline code "EGC", examples:EGC690,A92BBD,Wed Oct 20 04:23:48 UTC 2021
 Airline code "JMK", examples:JMK418,4D20A7,Wed Oct 20 01:32:37 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:42 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:21 UTC 2021
-Airline code "CGF", examples:CGF820,451E29,Tue Oct 19 21:05:12 UTC 2021
 Airline code "BAO", examples:BAO239N,3C0FE6,Tue Oct 19 20:05:16 UTC 2021
 Airline code "EEV", examples:EEV5330,A3183D,Tue Oct 19 19:57:54 UTC 2021 EEV5330,A3183D,Tue Oct 19 19:55:56 UTC 2021
 Airline code "GCT", examples:GCT88,AB28B5,Tue Oct 19 16:19:37 UTC 2021
