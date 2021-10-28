@@ -1,16 +1,16 @@
+Airline code "AZV", examples:AZV777,42445B,Thu Oct 28 11:05:24 UTC 2021
+Airline code "FOX", examples:FOX1226,478DEF,Thu Oct 28 11:05:16 UTC 2021
+Airline code "MJF", examples:MJF73G,4404D0,Thu Oct 28 11:05:20 UTC 2021
+Airline code "PCT", examples:PCT468,3F9AE8,Thu Oct 28 11:04:58 UTC 2021
+Airline code "RUK", examples:RUK2643,40775C,Thu Oct 28 11:01:59 UTC 2021 RUK2643,40775C,Thu Oct 28 11:01:22 UTC 2021
+Airline code "SZS", examples:SZS525,4CAFCE,Thu Oct 28 11:05:18 UTC 2021
+Airline code "VKG", examples:VKG1164,45D068,Thu Oct 28 11:05:09 UTC 2021
 Airline code "FLJ", examples:FLJ52R,407A2A,Thu Oct 28 10:15:55 UTC 2021
 Airline code "KEJ", examples:KEJ6496,6830BB,Thu Oct 28 10:58:20 UTC 2021
 Airline code "RDF", examples:RDF26,3DD2FA,Thu Oct 28 10:53:20 UTC 2021 RDF26,3DD2FA,Thu Oct 28 10:52:05 UTC 2021 RDF26,3DD2FA,Thu Oct 28 10:50:21 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Thu Oct 28 08:12:11 UTC 2021
 Airline code "JTD", examples:JTD657,45AA90,Thu Oct 28 08:20:08 UTC 2021
-Airline code "AZV", examples:AZV777,42445B,Thu Oct 28 07:46:07 UTC 2021 AZV777,42445B,Thu Oct 28 07:45:40 UTC 2021
-Airline code "FOX", examples:FOX1226,478DEF,Thu Oct 28 07:03:03 UTC 2021 FOX1226,478DEF,Thu Oct 28 07:02:33 UTC 2021
 Airline code "JAF", examples:JAF6AK,44A82C,Thu Oct 28 07:44:05 UTC 2021
-Airline code "MJF", examples:MJF73G,4404D0,Thu Oct 28 07:19:38 UTC 2021 MJF73G,4404D0,Thu Oct 28 07:19:06 UTC 2021
-Airline code "PCT", examples:PCT468,3F9AE8,Thu Oct 28 07:04:44 UTC 2021
-Airline code "RUK", examples:RUK2642,40775C,Thu Oct 28 07:31:04 UTC 2021 RUK2642,40775C,Thu Oct 28 07:30:38 UTC 2021
-Airline code "SZS", examples:SZS525,4CAFCE,Thu Oct 28 07:06:04 UTC 2021 SZS525,4CAFCE,Thu Oct 28 07:05:37 UTC 2021
-Airline code "VKG", examples:VKG1164,45D068,Thu Oct 28 06:09:28 UTC 2021 VKG1164,45D068,Thu Oct 28 06:08:57 UTC 2021
 Airline code "XGO", examples:XGO2LF,3E2E8A,Thu Oct 28 06:06:53 UTC 2021
 Airline code "EUK", examples:EUK930,407BE2,Thu Oct 28 05:27:16 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Wed Oct 27 21:05:29 UTC 2021
