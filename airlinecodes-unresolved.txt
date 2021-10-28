@@ -1,11 +1,11 @@
+Airline code "EZZ", examples:EZZ2021,501C0B,Thu Oct 28 20:27:57 UTC 2021
+Airline code "RUK", examples:RUK2645,407BDC,Thu Oct 28 20:32:57 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Thu Oct 28 19:27:52 UTC 2021
-Airline code "EZZ", examples:EZZ202W,501C0B,Thu Oct 28 18:10:49 UTC 2021
 Airline code "FLJ", examples:FLJ53F,407ADC,Thu Oct 28 18:39:40 UTC 2021
 Airline code "TJD", examples:TJD975,300829,Thu Oct 28 18:48:59 UTC 2021
 Airline code "FWR", examples:FWR1049,A0FE84,Thu Oct 28 17:28:16 UTC 2021
 Airline code "JPV", examples:JPV284,440A05,Thu Oct 28 17:15:43 UTC 2021
 Airline code "JTD", examples:JTD833,45AB4D,Thu Oct 28 17:05:41 UTC 2021
-Airline code "RUK", examples:RUK2644,407BDC,Thu Oct 28 17:00:42 UTC 2021
 Airline code "VLZ", examples:VLZ376A,43ECD1,Thu Oct 28 17:41:07 UTC 2021
 Airline code "FOX", examples:FOX1356,478DEF,Thu Oct 28 16:29:40 UTC 2021
 Airline code "TBJ", examples:TBJ91,A6BC98,Thu Oct 28 16:01:29 UTC 2021
