@@ -1,8 +1,8 @@
+Airline code "RUK", examples:RUK2645,407CAF,Thu Oct 28 02:04:19 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Wed Oct 27 21:05:29 UTC 2021
 Airline code "JNL", examples:JNL111,485D30,Wed Oct 27 21:06:11 UTC 2021
 Airline code "JTD", examples:JTD884,45AB4D,Wed Oct 27 21:05:47 UTC 2021
 Airline code "PCT", examples:PCT466,3F9AE8,Wed Oct 27 21:05:38 UTC 2021
-Airline code "RUK", examples:RUK2224,407BDC,Wed Oct 27 21:05:43 UTC 2021
 Airline code "SZS", examples:SZS527,4CAFCE,Wed Oct 27 21:06:13 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Wed Oct 27 21:05:58 UTC 2021
 Airline code "VKG", examples:VKG4067,45D064,Wed Oct 27 21:05:06 UTC 2021
