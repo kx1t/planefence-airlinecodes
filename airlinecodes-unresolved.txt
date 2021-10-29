@@ -1,3 +1,4 @@
+Airline code "EGT", examples:EGT601,451C29,Fri Oct 29 10:29:45 UTC 2021 EGT601,451C29,Fri Oct 29 10:29:45 UTC 2021 EGT601,451C29,Fri Oct 29 10:12:27 UTC 2021
 Airline code "AZV", examples:AZV778,42445B,Fri Oct 29 08:57:06 UTC 2021
 Airline code "JTD", examples:JTD531,45AB4E,Fri Oct 29 08:57:24 UTC 2021
 Airline code "PCT", examples:PCT471,3F9AE8,Fri Oct 29 08:57:21 UTC 2021
@@ -211,7 +212,6 @@ Airline code "FHM", examples:FHM6026,4D224A,Tue Aug 3 16:58:48 UTC 2021
 Airline code "TKM", examples:TKM55,A73A51,Sun Aug 1 16:34:07 UTC 2021
 Airline code "MMO", examples:MMO180P,4D2025,Fri Jul 30 19:27:37 UTC 2021
 Airline code "FTO", examples:FTO382,A46462,Thu Jul 29 12:01:01 UTC 2021
-Airline code "EGT", examples:EGT601,451C29,Tue Jul 27 17:38:14 UTC 2021 EGT601,451C29,Tue Jul 27 17:37:25 UTC 2021
 Airline code "GCE", examples:GCE0P,4012E0,Mon Jul 26 13:28:29 UTC 2021
 Airline code "VCF", examples:VCF1EG,40753B,Fri Jul 23 09:43:06 UTC 2021
 Airline code "BKS", examples:BKS902,A886DF,Tue Jul 20 16:21:12 UTC 2021
