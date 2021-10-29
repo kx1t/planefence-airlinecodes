@@ -1,3 +1,6 @@
+Airline code "FHV", examples:FHV01,459901,Fri Oct 29 19:42:19 UTC 2021
+Airline code "PCT", examples:PCT473,3F9AE8,Fri Oct 29 19:45:36 UTC 2021
+Airline code "URO", examples:URO460,400F0B,Fri Oct 29 19:41:11 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Fri Oct 29 17:54:08 UTC 2021
 Airline code "FLJ", examples:FLJ53F,407ADC,Fri Oct 29 17:41:32 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Fri Oct 29 17:41:04 UTC 2021
@@ -15,8 +18,6 @@ Airline code "BFY", examples:BFY102P,48412B,Fri Oct 29 13:25:44 UTC 2021
 Airline code "DFC", examples:DFC7KV,49D44A,Fri Oct 29 13:55:09 UTC 2021
 Airline code "NJM", examples:NJM1850,A155A3,Fri Oct 29 13:44:44 UTC 2021
 Airline code "JSY", examples:JSY297D,501E45,Fri Oct 29 12:31:44 UTC 2021
-Airline code "PCT", examples:PCT472,3F9AE8,Fri Oct 29 12:09:39 UTC 2021
-Airline code "URO", examples:URO461,400F0B,Fri Oct 29 12:29:39 UTC 2021
 Airline code "EGT", examples:EGT601,451C29,Fri Oct 29 10:29:45 UTC 2021 EGT601,451C29,Fri Oct 29 10:29:45 UTC 2021 EGT601,451C29,Fri Oct 29 10:12:27 UTC 2021
 Airline code "AZV", examples:AZV778,42445B,Fri Oct 29 08:57:06 UTC 2021
 Airline code "UPR", examples:UPR291,A41CF8,Fri Oct 29 08:56:59 UTC 2021
