@@ -1,3 +1,4 @@
+Airline code "FTD", examples:FTD5503,A6503C,Thu Oct 28 23:14:33 UTC 2021
 Airline code "CGF", examples:CGF1807,4520D2,Thu Oct 28 21:50:08 UTC 2021
 Airline code "UPR", examples:UPR291,A41CF8,Thu Oct 28 21:58:01 UTC 2021
 Airline code "EZZ", examples:EZZ2021,501C0B,Thu Oct 28 20:27:57 UTC 2021
@@ -131,7 +132,6 @@ Airline code "HYS", examples:HYS474,4A08A5,Thu Oct 14 19:05:07 UTC 2021
 Airline code "GCL", examples:GCL3318,3C4D98,Thu Oct 14 18:05:08 UTC 2021
 Airline code "KZN", examples:KZN9401,15065F,Thu Oct 14 18:06:27 UTC 2021
 Airline code "CDX", examples:CDX550,748053,Wed Oct 13 10:19:31 UTC 2021
-Airline code "FTD", examples:FTD561,A72AA3,Tue Oct 12 22:31:28 UTC 2021
 Airline code "GLH", examples:GLH1,A16AAD,Tue Oct 12 19:05:40 UTC 2021
 Airline code "JIV", examples:JIV9,4AC90A,Tue Oct 12 19:05:16 UTC 2021
 Airline code "VND", examples:VND1387,300224,Tue Oct 12 12:16:20 UTC 2021
