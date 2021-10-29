@@ -1,3 +1,4 @@
+Airline code "VKG", examples:VKG4029,45D969,Fri Oct 29 22:20:47 UTC 2021
 Airline code "HPK", examples:HPK73,AC0381,Fri Oct 29 21:07:54 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Fri Oct 29 20:00:28 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Fri Oct 29 20:00:26 UTC 2021
@@ -11,7 +12,6 @@ Airline code "JCL", examples:JCL3,3CD07A,Fri Oct 29 17:41:04 UTC 2021
 Airline code "RSJ", examples:RSJ9617,15069A,Fri Oct 29 17:24:28 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Fri Oct 29 16:01:58 UTC 2021
 Airline code "JTD", examples:JTD532,45AB4E,Fri Oct 29 16:05:01 UTC 2021
-Airline code "VKG", examples:VKG1159,45D964,Fri Oct 29 16:50:14 UTC 2021
 Airline code "VPC", examples:VPC2,51111F,Fri Oct 29 16:27:04 UTC 2021
 Airline code "JNY", examples:JNY41,A4D220,Fri Oct 29 15:07:15 UTC 2021
 Airline code "RLI", examples:RLI526,A69CFD,Fri Oct 29 14:38:43 UTC 2021
