@@ -1,3 +1,4 @@
+Airline code "FSP", examples:FSP236,A22123,Fri Oct 29 02:33:12 UTC 2021
 Airline code "FTD", examples:FTD5503,A6503C,Thu Oct 28 23:14:33 UTC 2021
 Airline code "CGF", examples:CGF1807,4520D2,Thu Oct 28 21:50:08 UTC 2021
 Airline code "UPR", examples:UPR291,A41CF8,Thu Oct 28 21:58:01 UTC 2021
@@ -12,7 +13,6 @@ Airline code "JTD", examples:JTD833,45AB4D,Thu Oct 28 17:05:41 UTC 2021
 Airline code "VLZ", examples:VLZ376A,43ECD1,Thu Oct 28 17:41:07 UTC 2021
 Airline code "FOX", examples:FOX1356,478DEF,Thu Oct 28 16:29:40 UTC 2021
 Airline code "TBJ", examples:TBJ91,A6BC98,Thu Oct 28 16:01:29 UTC 2021
-Airline code "FSP", examples:FSP236,A22123,Thu Oct 28 15:25:09 UTC 2021
 Airline code "MJE", examples:MJE001,8964C4,Thu Oct 28 15:19:57 UTC 2021
 Airline code "NYX", examples:NYX427,511147,Thu Oct 28 15:05:25 UTC 2021
 Airline code "VKG", examples:VKG1215,45D066,Thu Oct 28 15:43:35 UTC 2021
