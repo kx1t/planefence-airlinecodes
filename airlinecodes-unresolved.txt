@@ -1,3 +1,4 @@
+Airline code "PCT", examples:PCT474,3F9AE8,Sat Oct 30 18:34:19 UTC 2021
 Airline code "VKG", examples:VKG4459,45D067,Sat Oct 30 17:47:15 UTC 2021
 Airline code "ASJ", examples:ASJ438,398275,Sat Oct 30 16:22:30 UTC 2021
 Airline code "FOX", examples:FOX1207,478E7A,Sat Oct 30 16:06:21 UTC 2021
@@ -25,7 +26,6 @@ Airline code "HPK", examples:HPK73,AC0381,Sat Oct 30 02:33:07 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Fri Oct 29 20:00:26 UTC 2021
 Airline code "MJF", examples:MJF71G,440691,Fri Oct 29 20:00:27 UTC 2021
 Airline code "FHV", examples:FHV01,459901,Fri Oct 29 19:42:19 UTC 2021
-Airline code "PCT", examples:PCT473,3F9AE8,Fri Oct 29 19:45:36 UTC 2021
 Airline code "URO", examples:URO460,400F0B,Fri Oct 29 19:41:11 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Fri Oct 29 17:41:04 UTC 2021
 Airline code "RSJ", examples:RSJ9617,15069A,Fri Oct 29 17:24:28 UTC 2021
