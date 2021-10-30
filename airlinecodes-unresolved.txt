@@ -1,8 +1,9 @@
+Airline code "FOX", examples:FOX1207,478E7A,Sat Oct 30 20:47:27 UTC 2021
+Airline code "RUK", examples:RUK2645,40775C,Sat Oct 30 20:16:04 UTC 2021
 Airline code "HPK", examples:HPK73,AC0381,Sat Oct 30 19:11:47 UTC 2021
 Airline code "PCT", examples:PCT474,3F9AE8,Sat Oct 30 18:34:19 UTC 2021
 Airline code "VKG", examples:VKG4459,45D067,Sat Oct 30 17:47:15 UTC 2021
 Airline code "ASJ", examples:ASJ438,398275,Sat Oct 30 16:22:30 UTC 2021
-Airline code "FOX", examples:FOX1207,478E7A,Sat Oct 30 16:06:21 UTC 2021
 Airline code "JAV", examples:JAV4482,742AC2,Sat Oct 30 16:23:05 UTC 2021 JAV4482,742AC2,Sat Oct 30 16:21:23 UTC 2021
 Airline code "JPV", examples:JPV452,3C942D,Sat Oct 30 16:07:30 UTC 2021
 Airline code "KBD", examples:KBD216,398477,Sat Oct 30 16:43:30 UTC 2021
@@ -11,7 +12,6 @@ Airline code "JCO", examples:JCO55L,406A1E,Sat Oct 30 15:20:11 UTC 2021
 Airline code "JKH", examples:JKH32A,3E3F1F,Sat Oct 30 15:20:04 UTC 2021
 Airline code "JSY", examples:JSY307D,501E45,Sat Oct 30 15:19:48 UTC 2021
 Airline code "JTD", examples:JTD9001,45AB4A,Sat Oct 30 15:19:29 UTC 2021
-Airline code "RUK", examples:RUK2225,407BDC,Sat Oct 30 15:19:23 UTC 2021
 Airline code "ULC", examples:ULC77,4D229E,Sat Oct 30 15:19:45 UTC 2021
 Airline code "VPC", examples:VPC14,511148,Sat Oct 30 15:19:51 UTC 2021
 Airline code "JEI", examples:JEI262,3CC57C,Sat Oct 30 14:54:45 UTC 2021
