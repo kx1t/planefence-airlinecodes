@@ -1,7 +1,9 @@
+Airline code "DCW", examples:DCW123,4D2200,Sat Oct 30 11:06:54 UTC 2021
+Airline code "FOX", examples:FOX1230,478DEF,Sat Oct 30 11:54:28 UTC 2021
+Airline code "VPC", examples:VPC14,511148,Sat Oct 30 11:54:28 UTC 2021
 Airline code "JSY", examples:JSY307D,501E45,Sat Oct 30 10:04:30 UTC 2021
 Airline code "JTD", examples:JTD9872,45AB4D,Sat Oct 30 10:29:21 UTC 2021
 Airline code "RUK", examples:RUK2224,407BDC,Sat Oct 30 10:44:23 UTC 2021
-Airline code "VPC", examples:VPC14,511148,Sat Oct 30 10:23:22 UTC 2021
 Airline code "VXS", examples:VXS3,407A32,Sat Oct 30 10:19:21 UTC 2021
 Airline code "XCH", examples:XCH515U,43E7ED,Sat Oct 30 10:28:27 UTC 2021
 Airline code "ULC", examples:ULC77,4D229E,Sat Oct 30 09:29:18 UTC 2021
@@ -27,7 +29,6 @@ Airline code "NJM", examples:NJM1850,A155A3,Fri Oct 29 13:44:44 UTC 2021
 Airline code "EGT", examples:EGT601,451C29,Fri Oct 29 10:29:45 UTC 2021 EGT601,451C29,Fri Oct 29 10:29:45 UTC 2021 EGT601,451C29,Fri Oct 29 10:12:27 UTC 2021
 Airline code "AZV", examples:AZV778,42445B,Fri Oct 29 08:57:06 UTC 2021
 Airline code "UPR", examples:UPR291,A41CF8,Fri Oct 29 08:56:59 UTC 2021
-Airline code "FOX", examples:FOX1402,478731,Fri Oct 29 07:46:56 UTC 2021
 Airline code "FSP", examples:FSP236,A22123,Fri Oct 29 02:33:12 UTC 2021
 Airline code "FTD", examples:FTD5503,A6503C,Thu Oct 28 23:14:33 UTC 2021
 Airline code "CGF", examples:CGF1807,4520D2,Thu Oct 28 21:50:08 UTC 2021
@@ -55,7 +56,6 @@ Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 27 19:05:24 UTC 2021
 Airline code "JAV", examples:JAV4492,742AC2,Wed Oct 27 16:37:26 UTC 2021
 Airline code "FSF", examples:FSF307U,4CAC5E,Wed Oct 27 14:30:48 UTC 2021 FSF177H,46316E,Wed Oct 27 14:19:07 UTC 2021
 Airline code "ITY", examples:ITY160,4CA6F1,Wed Oct 27 14:59:05 UTC 2021
-Airline code "DCW", examples:DCW1,4D2184,Wed Oct 27 10:06:12 UTC 2021
 Airline code "UAW", examples:UAW23,400EA0,Wed Oct 27 10:38:03 UTC 2021
 Airline code "OOH", examples:OOH74,44A006,Wed Oct 27 09:57:33 UTC 2021
 Airline code "PJS", examples:PJS400,4B18A1,Wed Oct 27 08:44:01 UTC 2021
