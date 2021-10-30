@@ -1,5 +1,6 @@
+Airline code "JTD", examples:JTD9001,45AB4A,Sat Oct 30 09:05:26 UTC 2021
+Airline code "ULC", examples:ULC77,4D229E,Sat Oct 30 09:29:18 UTC 2021
 Airline code "FLJ", examples:FLJ52R,407A2A,Sat Oct 30 08:13:26 UTC 2021
-Airline code "JTD", examples:JTD9001,45AB4A,Sat Oct 30 07:40:10 UTC 2021
 Airline code "MLM", examples:MLM535,4D2097,Sat Oct 30 06:57:25 UTC 2021
 Airline code "RUK", examples:RUK2225,407BDC,Sat Oct 30 06:59:07 UTC 2021
 Airline code "VKG", examples:VKG1336,45D065,Sat Oct 30 06:05:03 UTC 2021
@@ -79,7 +80,6 @@ Airline code "PGN", examples:PGN41,A4D375,Mon Oct 25 16:15:19 UTC 2021 PGN41,A4D
 Airline code "OHC", examples:OHC213,A1C54E,Mon Oct 25 14:02:30 UTC 2021
 Airline code "IEI", examples:IEI2801,33FE0B,Mon Oct 25 10:49:25 UTC 2021 IEI2801,33FE0B,Mon Oct 25 10:49:22 UTC 2021 IEI2801,33FE0B,Mon Oct 25 10:47:51 UTC 2021
 Airline code "TEU", examples:TEU9,4D21BC,Mon Oct 25 07:08:29 UTC 2021
-Airline code "ULC", examples:ULC21,4D2199,Mon Oct 25 06:13:29 UTC 2021
 Airline code "MJS", examples:MJS3022,A36878,Mon Oct 25 02:33:30 UTC 2021
 Airline code "NKT", examples:NKT5,A95974,Mon Oct 25 02:33:27 UTC 2021
 Airline code "JSX", examples:JSX222,A2384B,Sun Oct 24 22:14:58 UTC 2021
