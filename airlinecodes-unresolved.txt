@@ -1,3 +1,4 @@
+Airline code "JEI", examples:JEI262,3CC57C,Sat Oct 30 14:54:45 UTC 2021
 Airline code "JAV", examples:JAV4491,742AC2,Sat Oct 30 13:57:10 UTC 2021
 Airline code "JCO", examples:JCO55L,406A1E,Sat Oct 30 13:07:39 UTC 2021
 Airline code "LWG", examples:LWG1571,39AE32,Sat Oct 30 13:22:37 UTC 2021
@@ -48,7 +49,6 @@ Airline code "NYX", examples:NYX427,511147,Thu Oct 28 15:05:25 UTC 2021
 Airline code "KBD", examples:KBD216,398477,Thu Oct 28 14:07:09 UTC 2021 KBD216,398477,Thu Oct 28 14:06:21 UTC 2021
 Airline code "NTF", examples:NTF576S,49D0A2,Thu Oct 28 14:33:54 UTC 2021 NTF576S,49D0A2,Thu Oct 28 14:29:27 UTC 2021
 Airline code "SZS", examples:SZS527,4CAFCE,Thu Oct 28 14:34:21 UTC 2021 SZS525,4CAFCE,Thu Oct 28 14:33:09 UTC 2021
-Airline code "JEI", examples:JEI141,3CD003,Thu Oct 28 13:09:50 UTC 2021
 Airline code "RDF", examples:RDF26,3DD2FA,Thu Oct 28 13:57:40 UTC 2021 RDF26,3DD2FA,Thu Oct 28 13:57:40 UTC 2021
 Airline code "KEJ", examples:KEJ6496,6830BB,Thu Oct 28 10:58:20 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Thu Oct 28 08:12:11 UTC 2021
