@@ -1,3 +1,4 @@
+Airline code "FLJ", examples:FLJ52R,407A2A,Sat Oct 30 08:13:26 UTC 2021
 Airline code "JTD", examples:JTD9001,45AB4A,Sat Oct 30 07:40:10 UTC 2021
 Airline code "MLM", examples:MLM535,4D2097,Sat Oct 30 06:57:25 UTC 2021
 Airline code "RUK", examples:RUK2225,407BDC,Sat Oct 30 06:59:07 UTC 2021
@@ -10,7 +11,6 @@ Airline code "MJF", examples:MJF71G,440691,Fri Oct 29 20:00:27 UTC 2021
 Airline code "FHV", examples:FHV01,459901,Fri Oct 29 19:42:19 UTC 2021
 Airline code "PCT", examples:PCT473,3F9AE8,Fri Oct 29 19:45:36 UTC 2021
 Airline code "URO", examples:URO460,400F0B,Fri Oct 29 19:41:11 UTC 2021
-Airline code "FLJ", examples:FLJ53F,407ADC,Fri Oct 29 17:41:32 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Fri Oct 29 17:41:04 UTC 2021
 Airline code "RSJ", examples:RSJ9617,15069A,Fri Oct 29 17:24:28 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Fri Oct 29 16:01:58 UTC 2021
