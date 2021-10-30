@@ -1,3 +1,6 @@
+Airline code "JAV", examples:JAV4491,742AC2,Sat Oct 30 13:57:10 UTC 2021
+Airline code "JCO", examples:JCO55L,406A1E,Sat Oct 30 13:07:39 UTC 2021
+Airline code "LWG", examples:LWG1571,39AE32,Sat Oct 30 13:22:37 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Sat Oct 30 12:15:28 UTC 2021
 Airline code "JKH", examples:JKH32A,3E3F1F,Sat Oct 30 12:03:31 UTC 2021
 Airline code "JME", examples:JME419M,491266,Sat Oct 30 12:10:28 UTC 2021
@@ -16,7 +19,6 @@ Airline code "MLM", examples:MLM535,4D2097,Sat Oct 30 06:57:25 UTC 2021
 Airline code "VKG", examples:VKG1336,45D065,Sat Oct 30 06:05:03 UTC 2021
 Airline code "HPK", examples:HPK73,AC0381,Sat Oct 30 02:33:07 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Fri Oct 29 20:00:26 UTC 2021
-Airline code "JCO", examples:JCO5,424BBF,Fri Oct 29 20:00:25 UTC 2021
 Airline code "MJF", examples:MJF71G,440691,Fri Oct 29 20:00:27 UTC 2021
 Airline code "FHV", examples:FHV01,459901,Fri Oct 29 19:42:19 UTC 2021
 Airline code "PCT", examples:PCT473,3F9AE8,Fri Oct 29 19:45:36 UTC 2021
@@ -55,7 +57,6 @@ Airline code "XGO", examples:XGO2LF,3E2E8A,Thu Oct 28 06:06:53 UTC 2021
 Airline code "EUK", examples:EUK930,407BE2,Thu Oct 28 05:27:16 UTC 2021
 Airline code "JNL", examples:JNL111,485D30,Wed Oct 27 21:06:11 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 27 19:05:24 UTC 2021
-Airline code "JAV", examples:JAV4492,742AC2,Wed Oct 27 16:37:26 UTC 2021
 Airline code "FSF", examples:FSF307U,4CAC5E,Wed Oct 27 14:30:48 UTC 2021 FSF177H,46316E,Wed Oct 27 14:19:07 UTC 2021
 Airline code "ITY", examples:ITY160,4CA6F1,Wed Oct 27 14:59:05 UTC 2021
 Airline code "UAW", examples:UAW23,400EA0,Wed Oct 27 10:38:03 UTC 2021
@@ -67,7 +68,6 @@ Airline code "EAU", examples:EAU57B,4D2308,Tue Oct 26 20:05:29 UTC 2021
 Airline code "GCK", examples:GCK40,4408D8,Tue Oct 26 20:05:43 UTC 2021
 Airline code "BRH", examples:BRH747,00B314,Tue Oct 26 19:40:13 UTC 2021
 Airline code "JSH", examples:JSH202,471843,Tue Oct 26 19:04:23 UTC 2021
-Airline code "LWG", examples:LWG1571,39AE32,Tue Oct 26 19:06:06 UTC 2021
 Airline code "QNR", examples:QNR25B,49D1DF,Tue Oct 26 16:58:44 UTC 2021
 Airline code "KAY", examples:KAY59,3C5CEC,Tue Oct 26 10:03:38 UTC 2021
 Airline code "IFG", examples:IFG550,A26A2C,Tue Oct 26 02:33:10 UTC 2021
