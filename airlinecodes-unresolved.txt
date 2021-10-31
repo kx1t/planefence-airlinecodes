@@ -1,3 +1,4 @@
+Airline code "PGN", examples:PGN752,AA2242,Sun Oct 31 20:37:19 UTC 2021
 Airline code "JNY", examples:JNY41,A4D220,Sun Oct 31 19:56:26 UTC 2021
 Airline code "JTD", examples:JTD518,45AB4E,Sun Oct 31 19:47:11 UTC 2021
 Airline code "NSZ", examples:NSZ4458,4ACA0B,Sun Oct 31 19:26:02 UTC 2021
@@ -88,7 +89,6 @@ Airline code "RDN", examples:RDN065,AB6EBE,Mon Oct 25 21:05:08 UTC 2021
 Airline code "RSY", examples:RSY9005,4CA9F1,Mon Oct 25 21:05:11 UTC 2021
 Airline code "IAM", examples:IAM3176,33FFFB,Mon Oct 25 18:26:14 UTC 2021
 Airline code "RKS", examples:RKS1,ABFA9A,Mon Oct 25 17:38:33 UTC 2021
-Airline code "PGN", examples:PGN41,A4D375,Mon Oct 25 16:15:19 UTC 2021 PGN41,A4D375,Mon Oct 25 16:14:53 UTC 2021
 Airline code "OHC", examples:OHC213,A1C54E,Mon Oct 25 14:02:30 UTC 2021
 Airline code "IEI", examples:IEI2801,33FE0B,Mon Oct 25 10:49:25 UTC 2021 IEI2801,33FE0B,Mon Oct 25 10:49:22 UTC 2021 IEI2801,33FE0B,Mon Oct 25 10:47:51 UTC 2021
 Airline code "TEU", examples:TEU9,4D21BC,Mon Oct 25 07:08:29 UTC 2021
