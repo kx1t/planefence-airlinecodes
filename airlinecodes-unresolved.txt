@@ -1,6 +1,7 @@
+Airline code "AZV", examples:AZV778,42444A,Sun Oct 31 02:50:28 UTC 2021
+Airline code "HPK", examples:HPK73,AC0381,Sun Oct 31 02:33:08 UTC 2021
 Airline code "FOX", examples:FOX1207,478E7A,Sat Oct 30 20:47:27 UTC 2021
 Airline code "RUK", examples:RUK2645,40775C,Sat Oct 30 20:16:04 UTC 2021
-Airline code "HPK", examples:HPK73,AC0381,Sat Oct 30 19:11:47 UTC 2021
 Airline code "PCT", examples:PCT474,3F9AE8,Sat Oct 30 18:34:19 UTC 2021
 Airline code "VKG", examples:VKG4459,45D067,Sat Oct 30 17:47:15 UTC 2021
 Airline code "ASJ", examples:ASJ438,398275,Sat Oct 30 16:22:30 UTC 2021
@@ -35,7 +36,6 @@ Airline code "BFY", examples:BFY102P,48412B,Fri Oct 29 13:25:44 UTC 2021
 Airline code "DFC", examples:DFC7KV,49D44A,Fri Oct 29 13:55:09 UTC 2021
 Airline code "NJM", examples:NJM1850,A155A3,Fri Oct 29 13:44:44 UTC 2021
 Airline code "EGT", examples:EGT601,451C29,Fri Oct 29 10:29:45 UTC 2021 EGT601,451C29,Fri Oct 29 10:29:45 UTC 2021 EGT601,451C29,Fri Oct 29 10:12:27 UTC 2021
-Airline code "AZV", examples:AZV778,42445B,Fri Oct 29 08:57:06 UTC 2021
 Airline code "UPR", examples:UPR291,A41CF8,Fri Oct 29 08:56:59 UTC 2021
 Airline code "FSP", examples:FSP236,A22123,Fri Oct 29 02:33:12 UTC 2021
 Airline code "FTD", examples:FTD5503,A6503C,Thu Oct 28 23:14:33 UTC 2021
