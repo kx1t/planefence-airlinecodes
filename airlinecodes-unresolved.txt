@@ -1,3 +1,4 @@
+Airline code "JSX", examples:JSX8506,A23FB9,Sun Oct 31 21:03:31 UTC 2021
 Airline code "PGN", examples:PGN752,AA2242,Sun Oct 31 20:37:19 UTC 2021
 Airline code "JNY", examples:JNY41,A4D220,Sun Oct 31 19:56:26 UTC 2021
 Airline code "JTD", examples:JTD518,45AB4E,Sun Oct 31 19:47:11 UTC 2021
@@ -94,7 +95,6 @@ Airline code "IEI", examples:IEI2801,33FE0B,Mon Oct 25 10:49:25 UTC 2021 IEI2801
 Airline code "TEU", examples:TEU9,4D21BC,Mon Oct 25 07:08:29 UTC 2021
 Airline code "MJS", examples:MJS3022,A36878,Mon Oct 25 02:33:30 UTC 2021
 Airline code "NKT", examples:NKT5,A95974,Mon Oct 25 02:33:27 UTC 2021
-Airline code "JSX", examples:JSX222,A2384B,Sun Oct 24 22:14:58 UTC 2021
 Airline code "XSM", examples:XSM55,AD4890,Sun Oct 24 22:40:57 UTC 2021
 Airline code "XLS", examples:XLS451,A3FFA0,Sun Oct 24 15:17:34 UTC 2021
 Airline code "OOI", examples:OOI16,44A7CC,Sun Oct 24 14:15:51 UTC 2021
