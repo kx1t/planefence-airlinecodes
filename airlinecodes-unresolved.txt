@@ -1,3 +1,4 @@
+Airline code "TIV", examples:TIV690,A92C9D,Mon Nov 1 20:41:53 UTC 2021
 Airline code "ESW", examples:ESW280,424314,Mon Nov 1 19:50:50 UTC 2021
 Airline code "FOX", examples:FOX1403,478DEF,Mon Nov 1 19:27:17 UTC 2021
 Airline code "NSZ", examples:NSZ4257,47878D,Mon Nov 1 19:16:04 UTC 2021
@@ -126,7 +127,6 @@ Airline code "EGC", examples:EGC690,A92BBD,Wed Oct 20 04:23:48 UTC 2021
 Airline code "JMK", examples:JMK418,4D20A7,Wed Oct 20 01:32:37 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:42 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:21 UTC 2021
 Airline code "EEV", examples:EEV5330,A3183D,Tue Oct 19 19:57:54 UTC 2021 EEV5330,A3183D,Tue Oct 19 19:55:56 UTC 2021
 Airline code "GCT", examples:GCT88,AB28B5,Tue Oct 19 16:19:37 UTC 2021
-Airline code "TIV", examples:TIV690,A92C9D,Tue Oct 19 15:00:04 UTC 2021
 Airline code "NUE", examples:NUE8YR,491310,Tue Oct 19 09:49:24 UTC 2021
 Airline code "RJE", examples:RJE156,A0E1F3,Mon Oct 18 22:40:41 UTC 2021
 Airline code "JBC", examples:JBC804A,49D4E4,Mon Oct 18 21:05:43 UTC 2021
