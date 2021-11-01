@@ -1,13 +1,14 @@
+Airline code "JTD", examples:JTD850,45AB4D,Mon Nov 1 10:46:56 UTC 2021
+Airline code "NOZ", examples:NOZ5071,4ACA42,Mon Nov 1 10:45:58 UTC 2021
+Airline code "NSZ", examples:NSZ3MB,47878D,Mon Nov 1 10:18:59 UTC 2021
+Airline code "XGO", examples:XGO2LF,3E2E8A,Mon Nov 1 10:30:46 UTC 2021
 Airline code "RWZ", examples:RWZ8986,42435B,Mon Nov 1 09:49:56 UTC 2021
 Airline code "FSF", examples:FSF619T,4CAC5E,Mon Nov 1 08:53:45 UTC 2021
 Airline code "MOZ", examples:MOZ437,440405,Mon Nov 1 08:44:45 UTC 2021
-Airline code "NOZ", examples:NOZ5370,4ACA54,Mon Nov 1 08:31:46 UTC 2021
-Airline code "JTD", examples:JTD707,45AA90,Mon Nov 1 07:51:43 UTC 2021
 Airline code "PCT", examples:PCT475,3F9AE8,Mon Nov 1 07:18:40 UTC 2021
 Airline code "VKG", examples:VKG1308,45D068,Mon Nov 1 07:53:41 UTC 2021
 Airline code "XCH", examples:XCH516,43E7ED,Mon Nov 1 07:46:45 UTC 2021
 Airline code "NYX", examples:NYX421,511147,Mon Nov 1 06:00:12 UTC 2021
-Airline code "NSZ", examples:NSZ3730,4ACA15,Mon Nov 1 05:59:19 UTC 2021
 Airline code "JNY", examples:JNY297,A310C9,Mon Nov 1 01:52:06 UTC 2021
 Airline code "KAF", examples:KAF001,71BC65,Mon Nov 1 00:24:49 UTC 2021
 Airline code "JSX", examples:JSX8506,A23FB9,Sun Oct 31 21:03:31 UTC 2021
@@ -70,7 +71,6 @@ Airline code "RDF", examples:RDF26,3DD2FA,Thu Oct 28 13:57:40 UTC 2021 RDF26,3DD
 Airline code "KEJ", examples:KEJ6496,6830BB,Thu Oct 28 10:58:20 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Thu Oct 28 08:12:11 UTC 2021
 Airline code "JAF", examples:JAF6AK,44A82C,Thu Oct 28 07:44:05 UTC 2021
-Airline code "XGO", examples:XGO2LF,3E2E8A,Thu Oct 28 06:06:53 UTC 2021
 Airline code "EUK", examples:EUK930,407BE2,Thu Oct 28 05:27:16 UTC 2021
 Airline code "JNL", examples:JNL111,485D30,Wed Oct 27 21:06:11 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Wed Oct 27 19:05:24 UTC 2021
