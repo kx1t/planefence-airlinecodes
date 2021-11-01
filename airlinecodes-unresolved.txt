@@ -1,3 +1,4 @@
+Airline code "KAF", examples:KAF001,71BC65,Mon Nov 1 00:24:49 UTC 2021
 Airline code "JSX", examples:JSX8506,A23FB9,Sun Oct 31 21:03:31 UTC 2021
 Airline code "PGN", examples:PGN752,AA2242,Sun Oct 31 20:37:19 UTC 2021
 Airline code "JNY", examples:JNY41,A4D220,Sun Oct 31 19:56:26 UTC 2021
@@ -151,7 +152,6 @@ Airline code "FRV", examples:FRV0906,020136,Mon Oct 11 21:30:17 UTC 2021
 Airline code "AXE", examples:AXE352P,502D38,Sun Oct 10 21:24:07 UTC 2021
 Airline code "KLJ", examples:KLJ252P,503CB7,Sun Oct 10 19:06:20 UTC 2021
 Airline code "HTM", examples:HTM09F,3E0609,Sat Oct 9 18:06:29 UTC 2021
-Airline code "KAF", examples:KAF3228,7061F5,Thu Oct 7 11:21:02 UTC 2021
 Airline code "MAO", examples:MAO2,A0B5AA,Wed Oct 6 23:19:24 UTC 2021
 Airline code "BJN", examples:BJN099,7807FC,Wed Oct 6 21:18:43 UTC 2021
 Airline code "CJY", examples:CJY972,C02876,Wed Oct 6 21:12:33 UTC 2021
