@@ -1,3 +1,4 @@
+Airline code "KAY", examples:KAY53,3C70B8,Tue Nov 2 17:45:59 UTC 2021
 Airline code "VKG", examples:VKG1211,45D066,Tue Nov 2 16:49:36 UTC 2021
 Airline code "JTD", examples:JTD928,45AA90,Tue Nov 2 15:22:31 UTC 2021
 Airline code "NSZ", examples:NSZ541B,4ACA42,Tue Nov 2 15:34:37 UTC 2021
@@ -88,7 +89,6 @@ Airline code "EAU", examples:EAU57B,4D2308,Tue Oct 26 20:05:29 UTC 2021
 Airline code "BRH", examples:BRH747,00B314,Tue Oct 26 19:40:13 UTC 2021
 Airline code "JSH", examples:JSH202,471843,Tue Oct 26 19:04:23 UTC 2021
 Airline code "QNR", examples:QNR25B,49D1DF,Tue Oct 26 16:58:44 UTC 2021
-Airline code "KAY", examples:KAY59,3C5CEC,Tue Oct 26 10:03:38 UTC 2021
 Airline code "IFG", examples:IFG550,A26A2C,Tue Oct 26 02:33:10 UTC 2021
 Airline code "GJE", examples:GJE2226,A67857,Mon Oct 25 23:39:37 UTC 2021
 Airline code "ALI", examples:ALI10,4783D2,Mon Oct 25 21:05:57 UTC 2021
