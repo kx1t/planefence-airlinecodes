@@ -1,11 +1,11 @@
+Airline code "GJI", examples:GJI55,4CA785,Tue Nov 2 21:15:00 UTC 2021
+Airline code "NSZ", examples:NSZ3691,4ACA15,Tue Nov 2 21:19:07 UTC 2021
 Airline code "AZV", examples:AZV2502,3749F5,Tue Nov 2 20:48:53 UTC 2021
-Airline code "GJI", examples:GJI55,4CA785,Tue Nov 2 20:54:34 UTC 2021
 Airline code "NOZ", examples:NOZ5359,4ACA50,Tue Nov 2 20:12:55 UTC 2021
 Airline code "VKG", examples:VKG1729,45D963,Tue Nov 2 20:08:57 UTC 2021
 Airline code "JTZ", examples:JTZ317,A361FE,Tue Nov 2 18:33:10 UTC 2021
 Airline code "KAY", examples:KAY53,3C70B8,Tue Nov 2 17:45:59 UTC 2021
 Airline code "JTD", examples:JTD928,45AA90,Tue Nov 2 15:22:31 UTC 2021
-Airline code "NSZ", examples:NSZ541B,4ACA42,Tue Nov 2 15:34:37 UTC 2021
 Airline code "NYX", examples:NYX727,511132,Tue Nov 2 15:46:02 UTC 2021
 Airline code "JPV", examples:JPV452P,3C942D,Tue Nov 2 13:25:57 UTC 2021
 Airline code "EMM", examples:EMM006,4D2168,Tue Nov 2 11:42:49 UTC 2021 EMM006,4D2168,Tue Nov 2 11:42:49 UTC 2021 EMM006,4D2168,Tue Nov 2 11:42:19 UTC 2021
