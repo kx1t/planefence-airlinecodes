@@ -1,3 +1,4 @@
+Airline code "VKG", examples:VKG1211,45D066,Tue Nov 2 16:49:36 UTC 2021
 Airline code "JTD", examples:JTD928,45AA90,Tue Nov 2 15:22:31 UTC 2021
 Airline code "NSZ", examples:NSZ541B,4ACA42,Tue Nov 2 15:34:37 UTC 2021
 Airline code "NYX", examples:NYX727,511132,Tue Nov 2 15:46:02 UTC 2021
@@ -6,7 +7,6 @@ Airline code "NOZ", examples:NOZ81R,47956B,Tue Nov 2 13:51:29 UTC 2021
 Airline code "EMM", examples:EMM006,4D2168,Tue Nov 2 11:42:49 UTC 2021 EMM006,4D2168,Tue Nov 2 11:42:49 UTC 2021 EMM006,4D2168,Tue Nov 2 11:42:19 UTC 2021
 Airline code "VXS", examples:VXS3,407A32,Tue Nov 2 10:18:32 UTC 2021
 Airline code "CSG", examples:CSG2573,7805AA,Tue Nov 2 06:14:56 UTC 2021
-Airline code "VKG", examples:VKG1122,45D064,Tue Nov 2 06:41:03 UTC 2021
 Airline code "IDD", examples:IDD521,A68CA7,Tue Nov 2 00:51:20 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Mon Nov 1 20:41:53 UTC 2021
 Airline code "ESW", examples:ESW280,424314,Mon Nov 1 19:50:50 UTC 2021
