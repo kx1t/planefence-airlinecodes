@@ -1,10 +1,11 @@
+Airline code "NSZ", examples:NSZ3640,4ACA4E,Wed Nov 3 05:35:35 UTC 2021
+Airline code "VKA", examples:VKA198,5083C0,Wed Nov 3 05:56:49 UTC 2021
 Airline code "MJS", examples:MJS4731,AC38AF,Tue Nov 2 23:32:00 UTC 2021
 Airline code "VKG", examples:VKG467,45D067,Tue Nov 2 23:56:20 UTC 2021
 Airline code "IDD", examples:IDD621,A819F6,Tue Nov 2 22:07:14 UTC 2021
 Airline code "PCT", examples:PCT480,3F9AE8,Tue Nov 2 22:53:08 UTC 2021
 Airline code "RUK", examples:RUK79,407BDC,Tue Nov 2 22:10:27 UTC 2021
 Airline code "GJI", examples:GJI55,4CA785,Tue Nov 2 21:15:00 UTC 2021
-Airline code "NSZ", examples:NSZ3691,4ACA15,Tue Nov 2 21:19:07 UTC 2021
 Airline code "AZV", examples:AZV2502,3749F5,Tue Nov 2 20:48:53 UTC 2021
 Airline code "NOZ", examples:NOZ5359,4ACA50,Tue Nov 2 20:12:55 UTC 2021
 Airline code "JTZ", examples:JTZ317,A361FE,Tue Nov 2 18:33:10 UTC 2021
@@ -124,7 +125,6 @@ Airline code "WRC", examples:WRC7007,4D22A8,Fri Oct 22 19:07:23 UTC 2021
 Airline code "WDE", examples:WDE22,A97AA1,Fri Oct 22 13:07:25 UTC 2021
 Airline code "EXD", examples:EXD001,009AD8,Fri Oct 22 11:07:49 UTC 2021
 Airline code "DHR", examples:DHR40,A2113B,Fri Oct 22 02:00:54 UTC 2021
-Airline code "VKA", examples:VKA179,5083A2,Thu Oct 21 19:06:09 UTC 2021
 Airline code "EGC", examples:EGC690,A92BBD,Wed Oct 20 04:23:48 UTC 2021
 Airline code "JMK", examples:JMK418,4D20A7,Wed Oct 20 01:32:37 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:42 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:21 UTC 2021
 Airline code "EEV", examples:EEV5330,A3183D,Tue Oct 19 19:57:54 UTC 2021 EEV5330,A3183D,Tue Oct 19 19:55:56 UTC 2021
