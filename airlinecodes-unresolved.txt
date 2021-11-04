@@ -1,9 +1,12 @@
+Airline code "JAF", examples:JAF061P,44A832,Thu Nov 4 20:15:17 UTC 2021
+Airline code "JCO", examples:JCO5,424BBF,Thu Nov 4 20:06:42 UTC 2021
+Airline code "NSZ", examples:NSZ3519,4ACA46,Thu Nov 4 20:16:03 UTC 2021
+Airline code "SZS", examples:SZS1524,4CACB6,Thu Nov 4 20:17:12 UTC 2021
 Airline code "BRH", examples:BRH747,00B314,Thu Nov 4 19:57:28 UTC 2021
 Airline code "DKH", examples:DKH1650,78158A,Thu Nov 4 19:41:53 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Thu Nov 4 19:43:52 UTC 2021
 Airline code "LRQ", examples:LRQ562B,4D028F,Thu Nov 4 19:22:18 UTC 2021
 Airline code "NOZ", examples:NOZ5055,4ACA54,Thu Nov 4 19:19:56 UTC 2021
-Airline code "NSZ", examples:NSZ4257,4ACA14,Thu Nov 4 19:41:30 UTC 2021
 Airline code "URO", examples:URO460,400F0B,Thu Nov 4 19:24:52 UTC 2021
 Airline code "JTD", examples:JTD658,45AA90,Thu Nov 4 18:26:52 UTC 2021
 Airline code "RDN", examples:RDN110,AB6EBE,Thu Nov 4 18:43:51 UTC 2021
@@ -12,10 +15,8 @@ Airline code "VKG", examples:VKG1165,45D068,Thu Nov 4 17:51:46 UTC 2021
 Airline code "VPC", examples:VPC2,51111F,Thu Nov 4 17:27:17 UTC 2021
 Airline code "FOX", examples:FOX1356,478DEF,Thu Nov 4 16:48:43 UTC 2021
 Airline code "QNR", examples:QNR25A,49D317,Thu Nov 4 14:52:25 UTC 2021
-Airline code "SZS", examples:SZS532,4CAE8E,Thu Nov 4 14:59:36 UTC 2021
 Airline code "UAW", examples:UAW23,400EA0,Thu Nov 4 14:19:43 UTC 2021
 Airline code "ITY", examples:ITY150,4CA8F8,Thu Nov 4 13:01:36 UTC 2021
-Airline code "JAF", examples:JAF3202,44D1B9,Thu Nov 4 13:35:00 UTC 2021
 Airline code "RDH", examples:RDH072,4071AA,Thu Nov 4 13:58:21 UTC 2021
 Airline code "XLJ", examples:XLJ605,A7DA01,Thu Nov 4 13:54:23 UTC 2021
 Airline code "JSH", examples:JSH201,471843,Thu Nov 4 12:53:36 UTC 2021
@@ -34,7 +35,6 @@ Airline code "PCT", examples:PCT483,3F9AE8,Wed Nov 3 21:58:33 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Wed Nov 3 21:29:23 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Wed Nov 3 20:10:25 UTC 2021
 Airline code "CXB", examples:CXB767,484361,Wed Nov 3 19:16:16 UTC 2021
-Airline code "JCO", examples:JCO7X,4077BE,Wed Nov 3 18:09:46 UTC 2021
 Airline code "TJD", examples:TJD750,300447,Wed Nov 3 16:10:07 UTC 2021
 Airline code "JAV", examples:JAV4491,742AC2,Wed Nov 3 14:03:02 UTC 2021
 Airline code "ULC", examples:ULC22,4D2305,Wed Nov 3 14:44:07 UTC 2021
