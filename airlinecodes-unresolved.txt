@@ -1,3 +1,4 @@
+Airline code "VXS", examples:VXS1,4075CD,Thu Nov 4 08:24:13 UTC 2021
 Airline code "FLJ", examples:FLJ53F,407ADC,Thu Nov 4 07:36:13 UTC 2021
 Airline code "NOZ", examples:NOZ4VC,4787A0,Thu Nov 4 07:12:09 UTC 2021
 Airline code "VKG", examples:VKG4266,45D067,Thu Nov 4 07:36:06 UTC 2021
@@ -17,7 +18,6 @@ Airline code "SZS", examples:SZS1524,4CAF82,Wed Nov 3 20:11:25 UTC 2021
 Airline code "CXB", examples:CXB767,484361,Wed Nov 3 19:16:16 UTC 2021
 Airline code "JCO", examples:JCO7X,4077BE,Wed Nov 3 18:09:46 UTC 2021
 Airline code "TJD", examples:TJD750,300447,Wed Nov 3 16:10:07 UTC 2021
-Airline code "VXS", examples:VXS1,4075CD,Wed Nov 3 16:25:07 UTC 2021
 Airline code "JAV", examples:JAV4491,742AC2,Wed Nov 3 14:03:02 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Wed Nov 3 14:30:10 UTC 2021
 Airline code "ULC", examples:ULC22,4D2305,Wed Nov 3 14:44:07 UTC 2021
