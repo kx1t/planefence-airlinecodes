@@ -1,6 +1,9 @@
+Airline code "INI", examples:INI241,343183,Thu Nov 4 17:45:18 UTC 2021
+Airline code "NSZ", examples:NSZ3518,4ACA46,Thu Nov 4 17:20:54 UTC 2021
+Airline code "VKG", examples:VKG1165,45D068,Thu Nov 4 17:51:46 UTC 2021
+Airline code "VPC", examples:VPC2,51111F,Thu Nov 4 17:27:17 UTC 2021
 Airline code "FOX", examples:FOX1356,478DEF,Thu Nov 4 16:48:43 UTC 2021
 Airline code "NOZ", examples:NOZ72C,4ACA05,Thu Nov 4 16:03:42 UTC 2021
-Airline code "NSZ", examples:NSZ3QT,4ACA50,Thu Nov 4 15:06:42 UTC 2021 NSZ54CA,4ACA13,Thu Nov 4 15:04:08 UTC 2021
 Airline code "QNR", examples:QNR25A,49D317,Thu Nov 4 14:52:25 UTC 2021
 Airline code "SZS", examples:SZS532,4CAE8E,Thu Nov 4 14:59:36 UTC 2021
 Airline code "UAW", examples:UAW23,400EA0,Thu Nov 4 14:19:43 UTC 2021
@@ -14,7 +17,6 @@ Airline code "FLJ", examples:FLJ52R,407A2A,Thu Nov 4 11:36:15 UTC 2021 FLJ52R,40
 Airline code "ICF", examples:ICF601,5000B4,Thu Nov 4 11:18:50 UTC 2021
 Airline code "RWZ", examples:RWZ8986,42435B,Thu Nov 4 09:04:11 UTC 2021
 Airline code "VXS", examples:VXS1,4075CD,Thu Nov 4 08:24:13 UTC 2021
-Airline code "VKG", examples:VKG4266,45D067,Thu Nov 4 07:36:06 UTC 2021
 Airline code "XCH", examples:XCH517U,43E7ED,Thu Nov 4 07:51:13 UTC 2021
 Airline code "RDN", examples:RDN368,A6E6E2,Thu Nov 4 02:04:48 UTC 2021 RDN368,A6E6E2,Thu Nov 4 02:04:09 UTC 2021 RDN368,A6E6E2,Thu Nov 4 02:03:08 UTC 2021
 Airline code "JTZ", examples:JTZ419,A4F6BB,Wed Nov 3 23:35:12 UTC 2021
@@ -72,7 +74,6 @@ Airline code "KBD", examples:KBD216,398477,Sat Oct 30 16:43:30 UTC 2021
 Airline code "LWG", examples:LWG1571,39AE32,Sat Oct 30 16:29:46 UTC 2021
 Airline code "JKH", examples:JKH32A,3E3F1F,Sat Oct 30 15:20:04 UTC 2021
 Airline code "JSY", examples:JSY307D,501E45,Sat Oct 30 15:19:48 UTC 2021
-Airline code "VPC", examples:VPC14,511148,Sat Oct 30 15:19:51 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Sat Oct 30 11:06:54 UTC 2021
 Airline code "MLM", examples:MLM535,4D2097,Sat Oct 30 06:57:25 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Fri Oct 29 20:00:26 UTC 2021
@@ -165,7 +166,6 @@ Airline code "HTM", examples:HTM09F,3E0609,Sat Oct 9 18:06:29 UTC 2021
 Airline code "MAO", examples:MAO2,A0B5AA,Wed Oct 6 23:19:24 UTC 2021
 Airline code "BJN", examples:BJN099,7807FC,Wed Oct 6 21:18:43 UTC 2021
 Airline code "CJY", examples:CJY972,C02876,Wed Oct 6 21:12:33 UTC 2021
-Airline code "INI", examples:INI221,343183,Tue Oct 5 18:45:00 UTC 2021
 Airline code "OCJ", examples:OCJ102,50011B,Sun Oct 3 21:05:44 UTC 2021
 Airline code "LLK", examples:LLK501,46988B,Sat Oct 2 09:10:09 UTC 2021
 Airline code "JCT", examples:JCT73,A9D062,Fri Oct 1 21:00:33 UTC 2021
