@@ -1,3 +1,4 @@
+Airline code "RDN", examples:RDN368,A6E6E2,Thu Nov 4 02:04:48 UTC 2021 RDN368,A6E6E2,Thu Nov 4 02:04:09 UTC 2021 RDN368,A6E6E2,Thu Nov 4 02:03:08 UTC 2021
 Airline code "JTZ", examples:JTZ419,A4F6BB,Wed Nov 3 23:35:12 UTC 2021
 Airline code "ERY", examples:ERY80,AAE242,Wed Nov 3 22:50:54 UTC 2021
 Airline code "RUK", examples:RUK1FA,407BDC,Wed Nov 3 22:38:31 UTC 2021 RUK1FA,407BDC,Wed Nov 3 22:36:06 UTC 2021
@@ -100,7 +101,6 @@ Airline code "QNR", examples:QNR25B,49D1DF,Tue Oct 26 16:58:44 UTC 2021
 Airline code "IFG", examples:IFG550,A26A2C,Tue Oct 26 02:33:10 UTC 2021
 Airline code "GJE", examples:GJE2226,A67857,Mon Oct 25 23:39:37 UTC 2021
 Airline code "ALI", examples:ALI10,4783D2,Mon Oct 25 21:05:57 UTC 2021
-Airline code "RDN", examples:RDN065,AB6EBE,Mon Oct 25 21:05:08 UTC 2021
 Airline code "RSY", examples:RSY9005,4CA9F1,Mon Oct 25 21:05:11 UTC 2021
 Airline code "IAM", examples:IAM3176,33FFFB,Mon Oct 25 18:26:14 UTC 2021
 Airline code "RKS", examples:RKS1,ABFA9A,Mon Oct 25 17:38:33 UTC 2021
