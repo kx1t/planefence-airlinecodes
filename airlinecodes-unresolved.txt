@@ -1,11 +1,14 @@
+Airline code "ITY", examples:ITY150,4CA8F8,Thu Nov 4 13:01:36 UTC 2021
+Airline code "JAF", examples:JAF3202,44D1B9,Thu Nov 4 13:35:00 UTC 2021
+Airline code "NOZ", examples:NOZ81R,47A0BF,Thu Nov 4 13:54:39 UTC 2021
+Airline code "RDH", examples:RDH072,4071AA,Thu Nov 4 13:58:21 UTC 2021
+Airline code "XLJ", examples:XLJ605,A7DA01,Thu Nov 4 13:54:23 UTC 2021
 Airline code "JSH", examples:JSH201,471843,Thu Nov 4 12:53:36 UTC 2021
 Airline code "JTD", examples:JTD832,45AB4D,Thu Nov 4 12:34:27 UTC 2021
 Airline code "NSZ", examples:NSZ3513,4ACA15,Thu Nov 4 12:34:32 UTC 2021
 Airline code "FLJ", examples:FLJ52R,407A2A,Thu Nov 4 11:36:15 UTC 2021 FLJ52R,407A2A,Thu Nov 4 11:18:33 UTC 2021
 Airline code "ICF", examples:ICF601,5000B4,Thu Nov 4 11:18:50 UTC 2021
 Airline code "SZS", examples:SZS526,4CACB6,Thu Nov 4 11:34:22 UTC 2021
-Airline code "ITY", examples:ITY156,4CA719,Thu Nov 4 10:00:11 UTC 2021
-Airline code "NOZ", examples:NOZ4CW,47A50D,Thu Nov 4 09:52:17 UTC 2021
 Airline code "RWZ", examples:RWZ8986,42435B,Thu Nov 4 09:04:11 UTC 2021
 Airline code "VXS", examples:VXS1,4075CD,Thu Nov 4 08:24:13 UTC 2021
 Airline code "VKG", examples:VKG4266,45D067,Thu Nov 4 07:36:06 UTC 2021
@@ -30,7 +33,6 @@ Airline code "SYO", examples:SYO03,40327F,Wed Nov 3 12:23:12 UTC 2021
 Airline code "KAY", examples:KAY53,3C70B8,Wed Nov 3 11:18:05 UTC 2021
 Airline code "NKE", examples:NKE495F,49410D,Wed Nov 3 11:34:08 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Wed Nov 3 09:09:37 UTC 2021
-Airline code "JAF", examples:JAF9600,44A836,Wed Nov 3 09:37:47 UTC 2021
 Airline code "TEU", examples:TEU9,4D21BC,Wed Nov 3 09:09:04 UTC 2021
 Airline code "VLZ", examples:VLZ291A,43EC73,Wed Nov 3 09:56:05 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Wed Nov 3 08:53:43 UTC 2021
@@ -125,7 +127,6 @@ Airline code "SSR", examples:SSR561,300840,Sat Oct 23 12:18:16 UTC 2021
 Airline code "OOD", examples:OOD55,4493F3,Sat Oct 23 10:28:14 UTC 2021
 Airline code "NSH", examples:NSH301,A32427,Sat Oct 23 01:22:09 UTC 2021 NSH301,A32427,Sat Oct 23 01:19:26 UTC 2021 NSH301,A32427,Sat Oct 23 01:19:03 UTC 2021
 Airline code "REH", examples:REH101,AB709B,Sat Oct 23 01:19:03 UTC 2021
-Airline code "XLJ", examples:XLJ784,AA9F97,Fri Oct 22 23:39:34 UTC 2021
 Airline code "WRC", examples:WRC7007,4D22A8,Fri Oct 22 19:07:23 UTC 2021
 Airline code "WDE", examples:WDE22,A97AA1,Fri Oct 22 13:07:25 UTC 2021
 Airline code "EXD", examples:EXD001,009AD8,Fri Oct 22 11:07:49 UTC 2021
