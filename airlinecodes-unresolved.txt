@@ -1,9 +1,11 @@
+Airline code "FLJ", examples:FLJ52R,407A2A,Thu Nov 4 11:36:15 UTC 2021 FLJ52R,407A2A,Thu Nov 4 11:18:33 UTC 2021
+Airline code "ICF", examples:ICF601,5000B4,Thu Nov 4 11:18:50 UTC 2021
+Airline code "SZS", examples:SZS526,4CACB6,Thu Nov 4 11:34:22 UTC 2021
 Airline code "ITY", examples:ITY156,4CA719,Thu Nov 4 10:00:11 UTC 2021
 Airline code "NOZ", examples:NOZ4CW,47A50D,Thu Nov 4 09:52:17 UTC 2021
 Airline code "NSZ", examples:NSZ3512,4ACA15,Thu Nov 4 09:45:18 UTC 2021
 Airline code "RWZ", examples:RWZ8986,42435B,Thu Nov 4 09:04:11 UTC 2021
 Airline code "VXS", examples:VXS1,4075CD,Thu Nov 4 08:24:13 UTC 2021
-Airline code "FLJ", examples:FLJ53F,407ADC,Thu Nov 4 07:36:13 UTC 2021
 Airline code "VKG", examples:VKG4266,45D067,Thu Nov 4 07:36:06 UTC 2021
 Airline code "XCH", examples:XCH517U,43E7ED,Thu Nov 4 07:51:13 UTC 2021
 Airline code "RDN", examples:RDN368,A6E6E2,Thu Nov 4 02:04:48 UTC 2021 RDN368,A6E6E2,Thu Nov 4 02:04:09 UTC 2021 RDN368,A6E6E2,Thu Nov 4 02:03:08 UTC 2021
@@ -16,7 +18,6 @@ Airline code "NYX", examples:NYX429,511132,Wed Nov 3 21:22:41 UTC 2021
 Airline code "PCT", examples:PCT483,3F9AE8,Wed Nov 3 21:58:33 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Wed Nov 3 21:29:23 UTC 2021
 Airline code "FSF", examples:FSF100A,4643C5,Wed Nov 3 20:10:25 UTC 2021
-Airline code "SZS", examples:SZS1524,4CAF82,Wed Nov 3 20:11:25 UTC 2021
 Airline code "CXB", examples:CXB767,484361,Wed Nov 3 19:16:16 UTC 2021
 Airline code "JCO", examples:JCO7X,4077BE,Wed Nov 3 18:09:46 UTC 2021
 Airline code "TJD", examples:TJD750,300447,Wed Nov 3 16:10:07 UTC 2021
@@ -198,7 +199,6 @@ Airline code "NDL", examples:NDL350,C05D71,Sat Sep 18 19:31:39 UTC 2021 NDL350,C
 Airline code "GSH", examples:GSH090,896403,Sat Sep 18 12:47:45 UTC 2021 GSH090,896403,Sat Sep 18 12:47:33 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Sat Sep 18 02:00:16 UTC 2021
 Airline code "HOB", examples:HOB5,A43BF3,Thu Sep 16 21:57:36 UTC 2021
-Airline code "ICF", examples:ICF201,5000B9,Tue Sep 14 16:01:15 UTC 2021 ICF201,5000B9,Tue Sep 14 16:01:14 UTC 2021
 Airline code "RFV", examples:RFV82A,407359,Fri Sep 10 00:42:51 UTC 2021
 Airline code "RSP", examples:RSP69,A77A78,Thu Sep 9 18:06:55 UTC 2021
 Airline code "JAZ", examples:JAZ7935,C017ED,Mon Sep 6 20:04:26 UTC 2021
