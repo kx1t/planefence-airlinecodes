@@ -1,3 +1,4 @@
+Airline code "ITY", examples:ITY156,4CA719,Thu Nov 4 10:00:11 UTC 2021
 Airline code "NOZ", examples:NOZ4CW,47A50D,Thu Nov 4 09:52:17 UTC 2021
 Airline code "NSZ", examples:NSZ3512,4ACA15,Thu Nov 4 09:45:18 UTC 2021
 Airline code "RWZ", examples:RWZ8986,42435B,Thu Nov 4 09:04:11 UTC 2021
@@ -31,7 +32,6 @@ Airline code "JAF", examples:JAF9600,44A836,Wed Nov 3 09:37:47 UTC 2021
 Airline code "TEU", examples:TEU9,4D21BC,Wed Nov 3 09:09:04 UTC 2021
 Airline code "VLZ", examples:VLZ291A,43EC73,Wed Nov 3 09:56:05 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Wed Nov 3 08:53:43 UTC 2021
-Airline code "ITY", examples:ITY9954,4CA8F6,Wed Nov 3 08:37:36 UTC 2021
 Airline code "VKA", examples:VKA198,5083C0,Wed Nov 3 05:56:49 UTC 2021
 Airline code "MJS", examples:MJS4731,AC38AF,Tue Nov 2 23:32:00 UTC 2021
 Airline code "IDD", examples:IDD621,A819F6,Tue Nov 2 22:07:14 UTC 2021
