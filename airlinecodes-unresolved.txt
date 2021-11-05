@@ -1,8 +1,8 @@
+Airline code "NSZ", examples:NSZ3MB,4ACA0A,Fri Nov 5 08:58:11 UTC 2021
+Airline code "VKG", examples:VKG628,45D969,Fri Nov 5 08:43:07 UTC 2021
 Airline code "ITY", examples:ITY148,4CA8ED,Fri Nov 5 07:12:50 UTC 2021
 Airline code "SZS", examples:SZS525,4CAFCD,Fri Nov 5 07:48:01 UTC 2021
 Airline code "NOZ", examples:NOZ72C,4ACA47,Fri Nov 5 06:53:02 UTC 2021
-Airline code "VKG", examples:VKG1158,45D064,Fri Nov 5 06:25:56 UTC 2021
-Airline code "NSZ", examples:NSZ3730,47A3B0,Fri Nov 5 05:56:56 UTC 2021
 Airline code "PCT", examples:PCT486,3F9AE8,Fri Nov 5 05:46:52 UTC 2021
 Airline code "PXG", examples:PXG680,A9033E,Fri Nov 5 00:15:24 UTC 2021 PXG680,A9033E,Fri Nov 5 00:12:36 UTC 2021
 Airline code "RDN", examples:RDN110,AB6EBE,Fri Nov 5 00:55:52 UTC 2021
