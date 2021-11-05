@@ -1,3 +1,5 @@
+Airline code "NOZ", examples:NOZ72C,4ACA47,Fri Nov 5 06:53:02 UTC 2021
+Airline code "VKG", examples:VKG1158,45D064,Fri Nov 5 06:25:56 UTC 2021
 Airline code "NSZ", examples:NSZ3730,47A3B0,Fri Nov 5 05:56:56 UTC 2021
 Airline code "PCT", examples:PCT486,3F9AE8,Fri Nov 5 05:46:52 UTC 2021
 Airline code "PXG", examples:PXG680,A9033E,Fri Nov 5 00:15:24 UTC 2021 PXG680,A9033E,Fri Nov 5 00:12:36 UTC 2021
@@ -9,11 +11,9 @@ Airline code "BRH", examples:BRH747,00B314,Thu Nov 4 19:57:28 UTC 2021
 Airline code "DKH", examples:DKH1650,78158A,Thu Nov 4 19:41:53 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Thu Nov 4 19:43:52 UTC 2021
 Airline code "LRQ", examples:LRQ562B,4D028F,Thu Nov 4 19:22:18 UTC 2021
-Airline code "NOZ", examples:NOZ5055,4ACA54,Thu Nov 4 19:19:56 UTC 2021
 Airline code "URO", examples:URO460,400F0B,Thu Nov 4 19:24:52 UTC 2021
 Airline code "JTD", examples:JTD658,45AA90,Thu Nov 4 18:26:52 UTC 2021
 Airline code "INI", examples:INI241,343183,Thu Nov 4 17:45:18 UTC 2021
-Airline code "VKG", examples:VKG1165,45D068,Thu Nov 4 17:51:46 UTC 2021
 Airline code "VPC", examples:VPC2,51111F,Thu Nov 4 17:27:17 UTC 2021
 Airline code "FOX", examples:FOX1356,478DEF,Thu Nov 4 16:48:43 UTC 2021
 Airline code "QNR", examples:QNR25A,49D317,Thu Nov 4 14:52:25 UTC 2021
