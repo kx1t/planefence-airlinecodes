@@ -1,9 +1,11 @@
-Airline code "ITY", examples:ITY436,4CA5C3,Sat Nov 6 16:59:58 UTC 2021
+Airline code "FSF", examples:FSF281C,460944,Sat Nov 6 17:23:36 UTC 2021
+Airline code "ITY", examples:ITY436,4CA5C3,Sat Nov 6 17:00:55 UTC 2021
+Airline code "NOZ", examples:NOZ5058,4ACA0C,Sat Nov 6 17:48:23 UTC 2021
+Airline code "NSZ", examples:NSZ3691,4ACA13,Sat Nov 6 17:32:24 UTC 2021
+Airline code "VKG", examples:VKG1827,45D066,Sat Nov 6 17:36:21 UTC 2021
 Airline code "JNY", examples:JNY30,A31D4D,Sat Nov 6 15:35:30 UTC 2021
 Airline code "JTD", examples:JTD873,45AB4D,Sat Nov 6 15:07:13 UTC 2021
-Airline code "NSZ", examples:NSZ3WE,4ACA54,Sat Nov 6 14:39:12 UTC 2021
 Airline code "CSG", examples:CSG2575,7805AA,Sat Nov 6 13:14:51 UTC 2021
-Airline code "NOZ", examples:NOZ1802,47956B,Sat Nov 6 13:01:55 UTC 2021
 Airline code "OOH", examples:OOH74,44A006,Sat Nov 6 13:11:08 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Sat Nov 6 13:33:35 UTC 2021
 Airline code "ASJ", examples:ASJ506,3991A3,Sat Nov 6 12:31:34 UTC 2021
@@ -14,7 +16,6 @@ Airline code "FJO", examples:FJO62L,4D2342,Sat Nov 6 09:19:42 UTC 2021
 Airline code "SXI", examples:SXI2159,43EDE5,Sat Nov 6 09:36:33 UTC 2021
 Airline code "VPC", examples:VPC2,51111F,Sat Nov 6 09:26:32 UTC 2021
 Airline code "EUK", examples:EUK930,407BE6,Sat Nov 6 06:58:11 UTC 2021 EUK930,407BE6,Sat Nov 6 06:55:53 UTC 2021
-Airline code "VKG", examples:VKG1218,45D067,Sat Nov 6 06:53:31 UTC 2021
 Airline code "DKH", examples:DKH1661,78158A,Sat Nov 6 05:34:26 UTC 2021
 Airline code "AZV", examples:AZV777,42445B,Sat Nov 6 04:40:25 UTC 2021
 Airline code "FSP", examples:FSP369,A42ED3,Sat Nov 6 02:33:06 UTC 2021
@@ -30,7 +31,6 @@ Airline code "SEP", examples:SEP1721,7609C3,Fri Nov 5 14:56:17 UTC 2021
 Airline code "VXS", examples:VXS1,4075CD,Fri Nov 5 14:25:26 UTC 2021
 Airline code "OOI", examples:OOI20,44A7D0,Fri Nov 5 13:03:48 UTC 2021
 Airline code "RDH", examples:RDH072,4071AA,Fri Nov 5 11:03:43 UTC 2021
-Airline code "FSF", examples:FSF619T,4CAC5E,Fri Nov 5 10:12:23 UTC 2021
 Airline code "PXG", examples:PXG680,A9033E,Fri Nov 5 00:15:24 UTC 2021 PXG680,A9033E,Fri Nov 5 00:12:36 UTC 2021
 Airline code "RDN", examples:RDN110,AB6EBE,Fri Nov 5 00:55:52 UTC 2021
 Airline code "JCO", examples:JCO5,424BBF,Thu Nov 4 20:06:42 UTC 2021
