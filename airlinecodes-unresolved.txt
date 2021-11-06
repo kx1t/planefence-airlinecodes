@@ -1,3 +1,4 @@
+Airline code "URO", examples:URO460,400F0B,Sat Nov 6 18:51:25 UTC 2021
 Airline code "FSF", examples:FSF281C,460944,Sat Nov 6 17:23:36 UTC 2021
 Airline code "ITY", examples:ITY436,4CA5C3,Sat Nov 6 17:00:55 UTC 2021
 Airline code "NOZ", examples:NOZ5058,4ACA0C,Sat Nov 6 17:48:23 UTC 2021
@@ -7,7 +8,6 @@ Airline code "JNY", examples:JNY30,A31D4D,Sat Nov 6 15:35:30 UTC 2021
 Airline code "JTD", examples:JTD873,45AB4D,Sat Nov 6 15:07:13 UTC 2021
 Airline code "CSG", examples:CSG2575,7805AA,Sat Nov 6 13:14:51 UTC 2021
 Airline code "OOH", examples:OOH74,44A006,Sat Nov 6 13:11:08 UTC 2021
-Airline code "URO", examples:URO461,400F0B,Sat Nov 6 13:33:35 UTC 2021
 Airline code "ASJ", examples:ASJ506,3991A3,Sat Nov 6 12:31:34 UTC 2021
 Airline code "FOX", examples:FOX1230,478E7A,Sat Nov 6 12:24:48 UTC 2021
 Airline code "JAF", examples:JAF7KH,44B438,Sat Nov 6 11:33:42 UTC 2021
