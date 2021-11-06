@@ -1,12 +1,13 @@
+Airline code "RUK", examples:RUK9839,407BDC,Fri Nov 5 23:24:30 UTC 2021 RUK9839,407BDC,Fri Nov 5 23:17:46 UTC 2021
+Airline code "VKG", examples:VKG629,45D969,Fri Nov 5 23:10:17 UTC 2021
+Airline code "XLJ", examples:XLJ784,AA9F97,Fri Nov 5 23:22:57 UTC 2021
 Airline code "NSZ", examples:NSZ5YD,4ACA0A,Fri Nov 5 21:41:48 UTC 2021
 Airline code "AZV", examples:AZV3004,4242F5,Fri Nov 5 20:24:29 UTC 2021
 Airline code "NOZ", examples:NOZ5353,4ACA05,Fri Nov 5 20:21:31 UTC 2021
-Airline code "RUK", examples:RUK9DA,407BDC,Fri Nov 5 20:35:51 UTC 2021
 Airline code "ERY", examples:ERY64,A86A77,Fri Nov 5 19:38:12 UTC 2021 ERY64,A86A77,Fri Nov 5 19:36:45 UTC 2021
 Airline code "JAF", examples:JAF7CX,44A8AD,Fri Nov 5 18:41:22 UTC 2021
 Airline code "KBD", examples:KBD216,398477,Fri Nov 5 18:30:27 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Fri Nov 5 17:41:08 UTC 2021
-Airline code "VKG", examples:VKG1159,45D064,Fri Nov 5 17:30:07 UTC 2021
 Airline code "ITY", examples:ITY160,4CA800,Fri Nov 5 16:11:57 UTC 2021
 Airline code "JTD", examples:JTD865,45AB4D,Fri Nov 5 16:23:52 UTC 2021
 Airline code "SZS", examples:SZS1523,4CAFCD,Fri Nov 5 16:16:52 UTC 2021
@@ -35,7 +36,6 @@ Airline code "INI", examples:INI241,343183,Thu Nov 4 17:45:18 UTC 2021
 Airline code "VPC", examples:VPC2,51111F,Thu Nov 4 17:27:17 UTC 2021
 Airline code "QNR", examples:QNR25A,49D317,Thu Nov 4 14:52:25 UTC 2021
 Airline code "UAW", examples:UAW23,400EA0,Thu Nov 4 14:19:43 UTC 2021
-Airline code "XLJ", examples:XLJ605,A7DA01,Thu Nov 4 13:54:23 UTC 2021
 Airline code "JSH", examples:JSH201,471843,Thu Nov 4 12:53:36 UTC 2021
 Airline code "ICF", examples:ICF601,5000B4,Thu Nov 4 11:18:50 UTC 2021
 Airline code "RWZ", examples:RWZ8986,42435B,Thu Nov 4 09:04:11 UTC 2021
