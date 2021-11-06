@@ -1,3 +1,4 @@
+Airline code "JNY", examples:JNY30,A31D4D,Sat Nov 6 00:51:39 UTC 2021
 Airline code "RUK", examples:RUK9839,407BDC,Fri Nov 5 23:24:30 UTC 2021 RUK9839,407BDC,Fri Nov 5 23:17:46 UTC 2021
 Airline code "VKG", examples:VKG629,45D969,Fri Nov 5 23:10:17 UTC 2021
 Airline code "XLJ", examples:XLJ784,AA9F97,Fri Nov 5 23:22:57 UTC 2021
@@ -41,7 +42,6 @@ Airline code "ICF", examples:ICF601,5000B4,Thu Nov 4 11:18:50 UTC 2021
 Airline code "RWZ", examples:RWZ8986,42435B,Thu Nov 4 09:04:11 UTC 2021
 Airline code "JTZ", examples:JTZ419,A4F6BB,Wed Nov 3 23:35:12 UTC 2021
 Airline code "TMN", examples:TMN83,7C1795,Wed Nov 3 22:06:53 UTC 2021
-Airline code "JNY", examples:JNY297,A310C9,Wed Nov 3 21:39:59 UTC 2021
 Airline code "NYX", examples:NYX429,511132,Wed Nov 3 21:22:41 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Wed Nov 3 21:29:23 UTC 2021
 Airline code "CXB", examples:CXB767,484361,Wed Nov 3 19:16:16 UTC 2021
