@@ -1,3 +1,4 @@
+Airline code "FSP", examples:FSP369,A42ED3,Sat Nov 6 02:33:06 UTC 2021
 Airline code "JNY", examples:JNY30,A31D4D,Sat Nov 6 00:51:39 UTC 2021
 Airline code "RUK", examples:RUK9839,407BDC,Fri Nov 5 23:24:30 UTC 2021 RUK9839,407BDC,Fri Nov 5 23:17:46 UTC 2021
 Airline code "VKG", examples:VKG629,45D969,Fri Nov 5 23:10:17 UTC 2021
@@ -19,7 +20,6 @@ Airline code "FOX", examples:FOX1403,478DEF,Fri Nov 5 14:12:39 UTC 2021
 Airline code "PCT", examples:PCT904,3F9AE8,Fri Nov 5 14:42:35 UTC 2021
 Airline code "SEP", examples:SEP1721,7609C3,Fri Nov 5 14:56:17 UTC 2021
 Airline code "VXS", examples:VXS1,4075CD,Fri Nov 5 14:25:26 UTC 2021
-Airline code "FSP", examples:FSP369,A42ED3,Fri Nov 5 13:58:30 UTC 2021
 Airline code "OOI", examples:OOI20,44A7D0,Fri Nov 5 13:03:48 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Fri Nov 5 12:13:03 UTC 2021
 Airline code "EUK", examples:EUK931,407BE6,Fri Nov 5 11:06:44 UTC 2021
