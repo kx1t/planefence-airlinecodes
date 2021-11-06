@@ -1,3 +1,4 @@
+Airline code "SZS", examples:SZS525,4CACB6,Sat Nov 6 07:56:38 UTC 2021
 Airline code "EUK", examples:EUK930,407BE6,Sat Nov 6 06:58:11 UTC 2021 EUK930,407BE6,Sat Nov 6 06:55:53 UTC 2021
 Airline code "VKG", examples:VKG1218,45D067,Sat Nov 6 06:53:31 UTC 2021
 Airline code "DKH", examples:DKH1661,78158A,Sat Nov 6 05:34:26 UTC 2021
@@ -14,7 +15,6 @@ Airline code "KBD", examples:KBD216,398477,Fri Nov 5 18:30:27 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Fri Nov 5 17:41:08 UTC 2021
 Airline code "ITY", examples:ITY160,4CA800,Fri Nov 5 16:11:57 UTC 2021
 Airline code "JTD", examples:JTD865,45AB4D,Fri Nov 5 16:23:52 UTC 2021
-Airline code "SZS", examples:SZS1523,4CAFCD,Fri Nov 5 16:16:52 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Fri Nov 5 15:58:26 UTC 2021
 Airline code "XCH", examples:XCH418U,43E7ED,Fri Nov 5 15:19:26 UTC 2021
 Airline code "ESW", examples:ESW650,600BC8,Fri Nov 5 14:34:26 UTC 2021
