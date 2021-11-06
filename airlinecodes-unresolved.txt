@@ -1,3 +1,4 @@
+Airline code "LWG", examples:LWG1063,39AE39,Sat Nov 6 19:42:03 UTC 2021
 Airline code "URO", examples:URO460,400F0B,Sat Nov 6 18:51:25 UTC 2021
 Airline code "FSF", examples:FSF281C,460944,Sat Nov 6 17:23:36 UTC 2021
 Airline code "ITY", examples:ITY436,4CA5C3,Sat Nov 6 17:00:55 UTC 2021
@@ -80,7 +81,6 @@ Airline code "BAO", examples:BAO252I,3CB089,Sun Oct 31 14:20:13 UTC 2021
 Airline code "FTD", examples:FTD504,A648CE,Sun Oct 31 14:32:17 UTC 2021
 Airline code "KOC", examples:KOC22,4BADB2,Sun Oct 31 08:57:45 UTC 2021 KOC22,4BADB2,Sun Oct 31 08:12:36 UTC 2021
 Airline code "HPK", examples:HPK73,AC0381,Sun Oct 31 02:33:08 UTC 2021
-Airline code "LWG", examples:LWG1571,39AE32,Sat Oct 30 16:29:46 UTC 2021
 Airline code "JKH", examples:JKH32A,3E3F1F,Sat Oct 30 15:20:04 UTC 2021
 Airline code "JSY", examples:JSY307D,501E45,Sat Oct 30 15:19:48 UTC 2021
 Airline code "DCW", examples:DCW123,4D2200,Sat Oct 30 11:06:54 UTC 2021
