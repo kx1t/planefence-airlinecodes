@@ -1,3 +1,6 @@
+Airline code "ASJ", examples:ASJ506,3991A3,Sat Nov 6 12:31:34 UTC 2021
+Airline code "FOX", examples:FOX1230,478E7A,Sat Nov 6 12:24:48 UTC 2021
+Airline code "URO", examples:URO461,400F0B,Sat Nov 6 12:26:48 UTC 2021
 Airline code "JAF", examples:JAF7KH,44B438,Sat Nov 6 11:33:42 UTC 2021
 Airline code "NSZ", examples:NSZ3674,4ACA15,Sat Nov 6 11:50:56 UTC 2021
 Airline code "SZS", examples:SZS531,4CAFCD,Sat Nov 6 11:36:52 UTC 2021
@@ -21,7 +24,6 @@ Airline code "JTD", examples:JTD865,45AB4D,Fri Nov 5 16:23:52 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Fri Nov 5 15:58:26 UTC 2021
 Airline code "XCH", examples:XCH418U,43E7ED,Fri Nov 5 15:19:26 UTC 2021
 Airline code "ESW", examples:ESW650,600BC8,Fri Nov 5 14:34:26 UTC 2021
-Airline code "FOX", examples:FOX1403,478DEF,Fri Nov 5 14:12:39 UTC 2021
 Airline code "PCT", examples:PCT904,3F9AE8,Fri Nov 5 14:42:35 UTC 2021
 Airline code "SEP", examples:SEP1721,7609C3,Fri Nov 5 14:56:17 UTC 2021
 Airline code "VXS", examples:VXS1,4075CD,Fri Nov 5 14:25:26 UTC 2021
@@ -34,7 +36,6 @@ Airline code "JCO", examples:JCO5,424BBF,Thu Nov 4 20:06:42 UTC 2021
 Airline code "BRH", examples:BRH747,00B314,Thu Nov 4 19:57:28 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Thu Nov 4 19:43:52 UTC 2021
 Airline code "LRQ", examples:LRQ562B,4D028F,Thu Nov 4 19:22:18 UTC 2021
-Airline code "URO", examples:URO460,400F0B,Thu Nov 4 19:24:52 UTC 2021
 Airline code "INI", examples:INI241,343183,Thu Nov 4 17:45:18 UTC 2021
 Airline code "QNR", examples:QNR25A,49D317,Thu Nov 4 14:52:25 UTC 2021
 Airline code "UAW", examples:UAW23,400EA0,Thu Nov 4 14:19:43 UTC 2021
@@ -77,7 +78,6 @@ Airline code "GCK", examples:GCK21,440964,Sun Oct 31 16:39:35 UTC 2021 GCK21,440
 Airline code "JME", examples:JME210N,3431C9,Sun Oct 31 15:06:15 UTC 2021
 Airline code "BAO", examples:BAO252I,3CB089,Sun Oct 31 14:20:13 UTC 2021
 Airline code "FTD", examples:FTD504,A648CE,Sun Oct 31 14:32:17 UTC 2021
-Airline code "ASJ", examples:ASJ438,398275,Sun Oct 31 13:16:38 UTC 2021
 Airline code "KOC", examples:KOC22,4BADB2,Sun Oct 31 08:57:45 UTC 2021 KOC22,4BADB2,Sun Oct 31 08:12:36 UTC 2021
 Airline code "HPK", examples:HPK73,AC0381,Sun Oct 31 02:33:08 UTC 2021
 Airline code "LWG", examples:LWG1571,39AE32,Sat Oct 30 16:29:46 UTC 2021
