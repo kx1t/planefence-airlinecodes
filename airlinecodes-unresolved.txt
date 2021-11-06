@@ -1,3 +1,4 @@
+Airline code "NSZ", examples:NSZ3WE,4ACA54,Sat Nov 6 14:39:12 UTC 2021
 Airline code "CSG", examples:CSG2575,7805AA,Sat Nov 6 13:14:51 UTC 2021
 Airline code "NOZ", examples:NOZ1802,47956B,Sat Nov 6 13:01:55 UTC 2021
 Airline code "OOH", examples:OOH74,44A006,Sat Nov 6 13:11:08 UTC 2021
@@ -5,7 +6,6 @@ Airline code "URO", examples:URO461,400F0B,Sat Nov 6 13:33:35 UTC 2021
 Airline code "ASJ", examples:ASJ506,3991A3,Sat Nov 6 12:31:34 UTC 2021
 Airline code "FOX", examples:FOX1230,478E7A,Sat Nov 6 12:24:48 UTC 2021
 Airline code "JAF", examples:JAF7KH,44B438,Sat Nov 6 11:33:42 UTC 2021
-Airline code "NSZ", examples:NSZ3674,4ACA15,Sat Nov 6 11:50:56 UTC 2021
 Airline code "SZS", examples:SZS531,4CAFCD,Sat Nov 6 11:36:52 UTC 2021
 Airline code "ITY", examples:ITY156,4CA993,Sat Nov 6 10:15:01 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Sat Nov 6 09:19:42 UTC 2021
