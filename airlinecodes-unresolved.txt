@@ -1,5 +1,5 @@
+Airline code "JAF", examples:JAF9702,44A88C,Sun Nov 7 04:15:33 UTC 2021
 Airline code "NSZ", examples:NSZ7JT,4ACA15,Sun Nov 7 00:01:56 UTC 2021
-Airline code "JAF", examples:JAF14B,44D1B9,Sat Nov 6 22:55:25 UTC 2021
 Airline code "VKG", examples:VKG1967,45D064,Sat Nov 6 22:08:12 UTC 2021
 Airline code "NOZ", examples:NOZ1793,478742,Sat Nov 6 21:55:11 UTC 2021
 Airline code "UPC", examples:UPC8505,6831F8,Sat Nov 6 21:07:22 UTC 2021
