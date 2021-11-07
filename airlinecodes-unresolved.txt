@@ -1,3 +1,7 @@
+Airline code "GFM", examples:GFM5X,4AC998,Sun Nov 7 11:57:25 UTC 2021
+Airline code "JTD", examples:JTD892,45AB4D,Sun Nov 7 11:57:26 UTC 2021
+Airline code "NOZ", examples:NOZ5351,4ACA05,Sun Nov 7 11:53:33 UTC 2021
+Airline code "RUK", examples:RUK3227,407BDC,Sun Nov 7 11:25:05 UTC 2021 RUK3227,407BDC,Sun Nov 7 11:23:58 UTC 2021
 Airline code "EUK", examples:EUK931,407BE6,Sun Nov 7 10:56:45 UTC 2021 EUK931,407BE6,Sun Nov 7 10:54:29 UTC 2021
 Airline code "OOF", examples:OOF81,44980D,Sun Nov 7 10:54:38 UTC 2021
 Airline code "PCT", examples:PCT488,3F9AE8,Sun Nov 7 10:07:17 UTC 2021
@@ -9,10 +13,7 @@ Airline code "NSZ", examples:NSZ2882,4ACA12,Sun Nov 7 09:01:15 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Sun Nov 7 09:57:14 UTC 2021
 Airline code "CSG", examples:CSG2576,7805AA,Sun Nov 7 08:27:11 UTC 2021
 Airline code "LWG", examples:LWG1071,39AE39,Sun Nov 7 08:51:56 UTC 2021
-Airline code "NOZ", examples:NOZ1494,47875C,Sun Nov 7 08:28:14 UTC 2021
 Airline code "JAF", examples:JAF5EM,44A821,Sun Nov 7 07:29:45 UTC 2021
-Airline code "JTD", examples:JTD517,45AB4E,Sun Nov 7 07:54:08 UTC 2021
-Airline code "RUK", examples:RUK3226,407BDC,Sun Nov 7 07:30:10 UTC 2021 RUK3226,407BDC,Sun Nov 7 07:28:11 UTC 2021
 Airline code "UPC", examples:UPC8505,6831F8,Sat Nov 6 21:07:22 UTC 2021
 Airline code "AZV", examples:AZV944,42444A,Sat Nov 6 20:41:29 UTC 2021
 Airline code "URO", examples:URO460,400F0B,Sat Nov 6 18:51:25 UTC 2021
@@ -65,7 +66,6 @@ Airline code "IDD", examples:IDD621,A819F6,Tue Nov 2 22:07:14 UTC 2021
 Airline code "GJI", examples:GJI55,4CA785,Tue Nov 2 21:15:00 UTC 2021
 Airline code "JPV", examples:JPV452P,3C942D,Tue Nov 2 13:25:57 UTC 2021
 Airline code "EMM", examples:EMM006,4D2168,Tue Nov 2 11:42:49 UTC 2021 EMM006,4D2168,Tue Nov 2 11:42:49 UTC 2021 EMM006,4D2168,Tue Nov 2 11:42:19 UTC 2021
-Airline code "GFM", examples:GFM6Y,4AC999,Mon Nov 1 16:17:28 UTC 2021
 Airline code "JEI", examples:JEI111,3CD003,Mon Nov 1 16:17:30 UTC 2021
 Airline code "KFB", examples:KFB218,A1D81F,Mon Nov 1 16:32:24 UTC 2021 KFB218,A1D81F,Mon Nov 1 16:30:30 UTC 2021
 Airline code "MOZ", examples:MOZ437,440405,Mon Nov 1 16:17:03 UTC 2021
