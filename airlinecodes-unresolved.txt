@@ -1,3 +1,7 @@
+Airline code "GFM", examples:GFM6Y,4AC999,Sun Nov 7 18:59:58 UTC 2021
+Airline code "JTD", examples:JTD718,45AB4E,Sun Nov 7 18:56:01 UTC 2021
+Airline code "RKK", examples:RKK18,A147E4,Sun Nov 7 18:38:31 UTC 2021 RKK18,A147E4,Sun Nov 7 18:30:17 UTC 2021
+Airline code "VKG", examples:VKG1179,45D068,Sun Nov 7 18:39:58 UTC 2021
 Airline code "AJO", examples:AJO341,4D22DC,Sun Nov 7 17:57:09 UTC 2021
 Airline code "HMJ", examples:HMJ208,394979,Sun Nov 7 17:03:45 UTC 2021
 Airline code "JAF", examples:JAF5EM,44A821,Sun Nov 7 17:49:06 UTC 2021
@@ -15,13 +19,10 @@ Airline code "JCL", examples:JCL3,3CD07A,Sun Nov 7 14:40:35 UTC 2021
 Airline code "MJF", examples:MJF37M,4408B6,Sun Nov 7 14:08:44 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Sun Nov 7 13:50:45 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Sun Nov 7 13:37:24 UTC 2021
-Airline code "GFM", examples:GFM5X,4AC998,Sun Nov 7 11:57:25 UTC 2021
-Airline code "JTD", examples:JTD892,45AB4D,Sun Nov 7 11:57:26 UTC 2021
 Airline code "RUK", examples:RUK3227,407BDC,Sun Nov 7 11:25:05 UTC 2021 RUK3227,407BDC,Sun Nov 7 11:23:58 UTC 2021
 Airline code "EUK", examples:EUK931,407BE6,Sun Nov 7 10:56:45 UTC 2021 EUK931,407BE6,Sun Nov 7 10:54:29 UTC 2021
 Airline code "OOF", examples:OOF81,44980D,Sun Nov 7 10:54:38 UTC 2021
 Airline code "PCT", examples:PCT488,3F9AE8,Sun Nov 7 10:07:17 UTC 2021
-Airline code "VKG", examples:VKG1456,45D964,Sun Nov 7 10:17:15 UTC 2021
 Airline code "FOX", examples:FOX1352,47875B,Sun Nov 7 09:34:17 UTC 2021
 Airline code "CSG", examples:CSG2576,7805AA,Sun Nov 7 08:27:11 UTC 2021
 Airline code "LWG", examples:LWG1071,39AE39,Sun Nov 7 08:51:56 UTC 2021
@@ -188,7 +189,6 @@ Airline code "ULA", examples:ULA317,A361E8,Tue Sep 28 21:00:11 UTC 2021
 Airline code "KSF", examples:KSF251,A1F787,Sun Sep 26 11:42:53 UTC 2021
 Airline code "VCJ", examples:VCJ92T,4D229A,Sun Sep 26 10:18:40 UTC 2021
 Airline code "JRT", examples:JRT18,ACB5BA,Sat Sep 25 13:46:17 UTC 2021
-Airline code "RKK", examples:RKK38,A14F52,Thu Sep 23 15:09:27 UTC 2021
 Airline code "VAJ", examples:VAJ81M,500116,Thu Sep 23 14:12:27 UTC 2021
 Airline code "HON", examples:HON53,A4FC1D,Wed Sep 22 16:21:54 UTC 2021
 Airline code "IBJ", examples:IBJ822D,3453CD,Wed Sep 22 16:05:34 UTC 2021
