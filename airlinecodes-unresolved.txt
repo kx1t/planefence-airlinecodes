@@ -1,3 +1,4 @@
+Airline code "NYX", examples:NYX429,511132,Sun Nov 7 20:58:39 UTC 2021
 Airline code "DKH", examples:DKH1658,7817FB,Sun Nov 7 19:47:02 UTC 2021
 Airline code "HYS", examples:HYS252,4A08A5,Sun Nov 7 19:19:49 UTC 2021
 Airline code "NOZ", examples:NOZ5055,4ACA14,Sun Nov 7 19:52:03 UTC 2021
@@ -56,7 +57,6 @@ Airline code "ICF", examples:ICF601,5000B4,Thu Nov 4 11:18:50 UTC 2021
 Airline code "RWZ", examples:RWZ8986,42435B,Thu Nov 4 09:04:11 UTC 2021
 Airline code "JTZ", examples:JTZ419,A4F6BB,Wed Nov 3 23:35:12 UTC 2021
 Airline code "TMN", examples:TMN83,7C1795,Wed Nov 3 22:06:53 UTC 2021
-Airline code "NYX", examples:NYX429,511132,Wed Nov 3 21:22:41 UTC 2021
 Airline code "CXB", examples:CXB767,484361,Wed Nov 3 19:16:16 UTC 2021
 Airline code "TJD", examples:TJD750,300447,Wed Nov 3 16:10:07 UTC 2021
 Airline code "JAV", examples:JAV4491,742AC2,Wed Nov 3 14:03:02 UTC 2021
