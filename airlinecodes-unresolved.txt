@@ -1,3 +1,4 @@
+Airline code "NSZ", examples:NSZ2BL,4ACA53,Sun Nov 7 12:59:19 UTC 2021 NSZ2BL,4ACA53,Sun Nov 7 12:19:27 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Sun Nov 7 11:57:25 UTC 2021
 Airline code "JTD", examples:JTD892,45AB4D,Sun Nov 7 11:57:26 UTC 2021
 Airline code "NOZ", examples:NOZ5351,4ACA05,Sun Nov 7 11:53:33 UTC 2021
@@ -9,7 +10,6 @@ Airline code "VKG", examples:VKG1456,45D964,Sun Nov 7 10:17:15 UTC 2021
 Airline code "FLJ", examples:FLJ52R,407A2A,Sun Nov 7 09:54:42 UTC 2021
 Airline code "FOX", examples:FOX1352,47875B,Sun Nov 7 09:34:17 UTC 2021
 Airline code "ITY", examples:ITY108,4CA82F,Sun Nov 7 09:49:55 UTC 2021
-Airline code "NSZ", examples:NSZ2882,4ACA12,Sun Nov 7 09:01:15 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Sun Nov 7 09:57:14 UTC 2021
 Airline code "CSG", examples:CSG2576,7805AA,Sun Nov 7 08:27:11 UTC 2021
 Airline code "LWG", examples:LWG1071,39AE39,Sun Nov 7 08:51:56 UTC 2021
