@@ -1,3 +1,4 @@
+Airline code "JBC", examples:JBC835B,49D4E4,Mon Nov 8 14:29:53 UTC 2021
 Airline code "BOG", examples:BOG71,A8E0C2,Mon Nov 8 13:30:52 UTC 2021
 Airline code "FOX", examples:FOX1402,478E7A,Mon Nov 8 13:40:38 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Mon Nov 8 13:16:54 UTC 2021
@@ -12,7 +13,6 @@ Airline code "OOI", examples:OOI20,44A7D0,Mon Nov 8 11:18:04 UTC 2021
 Airline code "SZS", examples:SZS526,4CACB4,Mon Nov 8 11:45:33 UTC 2021
 Airline code "JAF", examples:JAF7CX,44D0A1,Mon Nov 8 10:32:37 UTC 2021
 Airline code "GWR", examples:GWR4001,34660C,Mon Nov 8 09:15:22 UTC 2021
-Airline code "JBC", examples:JBC834D,49D39B,Mon Nov 8 09:22:03 UTC 2021
 Airline code "JCO", examples:JCO55L,406A1E,Mon Nov 8 09:41:52 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Mon Nov 8 08:29:51 UTC 2021
 Airline code "FSF", examples:FSF812U,4CAC5E,Mon Nov 8 08:58:51 UTC 2021
