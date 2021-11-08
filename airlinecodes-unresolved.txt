@@ -1,3 +1,4 @@
+Airline code "TJD", examples:TJD975,300829,Mon Nov 8 21:44:57 UTC 2021
 Airline code "BRH", examples:BRH750,00B2E6,Mon Nov 8 20:05:29 UTC 2021
 Airline code "FOX", examples:FOX1403,478E7A,Mon Nov 8 19:30:07 UTC 2021
 Airline code "JTD", examples:JTD708,45AA90,Mon Nov 8 19:18:13 UTC 2021
@@ -70,7 +71,6 @@ Airline code "ICF", examples:ICF601,5000B4,Thu Nov 4 11:18:50 UTC 2021
 Airline code "RWZ", examples:RWZ8986,42435B,Thu Nov 4 09:04:11 UTC 2021
 Airline code "TMN", examples:TMN83,7C1795,Wed Nov 3 22:06:53 UTC 2021
 Airline code "CXB", examples:CXB767,484361,Wed Nov 3 19:16:16 UTC 2021
-Airline code "TJD", examples:TJD750,300447,Wed Nov 3 16:10:07 UTC 2021
 Airline code "JAV", examples:JAV4491,742AC2,Wed Nov 3 14:03:02 UTC 2021
 Airline code "SYO", examples:SYO03,40327F,Wed Nov 3 12:23:12 UTC 2021
 Airline code "KAY", examples:KAY53,3C70B8,Wed Nov 3 11:18:05 UTC 2021
