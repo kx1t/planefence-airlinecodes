@@ -1,3 +1,4 @@
+Airline code "RUK", examples:RUK8499,407BDC,Mon Nov 8 22:48:01 UTC 2021 RUK8499,407BDC,Mon Nov 8 22:42:27 UTC 2021
 Airline code "TJD", examples:TJD975,300829,Mon Nov 8 21:44:57 UTC 2021
 Airline code "BRH", examples:BRH750,00B2E6,Mon Nov 8 20:05:29 UTC 2021
 Airline code "FOX", examples:FOX1403,478E7A,Mon Nov 8 19:30:07 UTC 2021
@@ -12,7 +13,6 @@ Airline code "FJO", examples:FJO54A,4D2330,Mon Nov 8 17:40:56 UTC 2021
 Airline code "ULC", examples:ULC22,4D2305,Mon Nov 8 17:55:55 UTC 2021 ULC22,4D2305,Mon Nov 8 17:55:38 UTC 2021
 Airline code "VXS", examples:VXS3,407A32,Mon Nov 8 17:40:55 UTC 2021
 Airline code "ITY", examples:ITY160,4CA6F1,Mon Nov 8 16:19:32 UTC 2021
-Airline code "RUK", examples:RUK85AM,407BDC,Mon Nov 8 16:59:03 UTC 2021 RUK85AM,407BDC,Mon Nov 8 16:56:03 UTC 2021
 Airline code "SZS", examples:SZS1523,4CACB4,Mon Nov 8 16:29:54 UTC 2021
 Airline code "DFC", examples:DFC2BM,49D44A,Mon Nov 8 15:11:26 UTC 2021
 Airline code "JBC", examples:JBC835B,49D4E4,Mon Nov 8 14:29:53 UTC 2021
