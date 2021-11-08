@@ -1,3 +1,4 @@
+Airline code "NYX", examples:NYX420,511147,Mon Nov 8 05:57:49 UTC 2021
 Airline code "RKK", examples:RKK18,A147E4,Mon Nov 8 00:50:39 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Mon Nov 8 00:49:11 UTC 2021
 Airline code "JTZ", examples:JTZ317,A361FE,Sun Nov 7 23:39:26 UTC 2021
@@ -6,7 +7,6 @@ Airline code "JAF", examples:JAF7AB,44A836,Sun Nov 7 21:16:21 UTC 2021
 Airline code "NSZ", examples:NSZ3QT,4ACA53,Sun Nov 7 21:22:04 UTC 2021
 Airline code "VCJ", examples:VCJ92T,4D229A,Sun Nov 7 21:32:35 UTC 2021
 Airline code "VKG", examples:VKG1457,45D964,Sun Nov 7 21:03:38 UTC 2021
-Airline code "NYX", examples:NYX429,511132,Sun Nov 7 20:58:39 UTC 2021
 Airline code "DKH", examples:DKH1658,7817FB,Sun Nov 7 19:47:02 UTC 2021
 Airline code "HYS", examples:HYS252,4A08A5,Sun Nov 7 19:19:49 UTC 2021
 Airline code "NOZ", examples:NOZ5055,4ACA14,Sun Nov 7 19:52:03 UTC 2021
