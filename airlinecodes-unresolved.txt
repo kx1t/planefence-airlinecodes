@@ -1,3 +1,4 @@
+Airline code "JTZ", examples:JTZ317,A361FE,Sun Nov 7 23:39:26 UTC 2021
 Airline code "HPK", examples:HPK09,A9767B,Sun Nov 7 21:55:08 UTC 2021
 Airline code "JAF", examples:JAF7AB,44A836,Sun Nov 7 21:16:21 UTC 2021
 Airline code "NSZ", examples:NSZ3QT,4ACA53,Sun Nov 7 21:22:04 UTC 2021
@@ -57,7 +58,6 @@ Airline code "UAW", examples:UAW23,400EA0,Thu Nov 4 14:19:43 UTC 2021
 Airline code "JSH", examples:JSH201,471843,Thu Nov 4 12:53:36 UTC 2021
 Airline code "ICF", examples:ICF601,5000B4,Thu Nov 4 11:18:50 UTC 2021
 Airline code "RWZ", examples:RWZ8986,42435B,Thu Nov 4 09:04:11 UTC 2021
-Airline code "JTZ", examples:JTZ419,A4F6BB,Wed Nov 3 23:35:12 UTC 2021
 Airline code "TMN", examples:TMN83,7C1795,Wed Nov 3 22:06:53 UTC 2021
 Airline code "CXB", examples:CXB767,484361,Wed Nov 3 19:16:16 UTC 2021
 Airline code "TJD", examples:TJD750,300447,Wed Nov 3 16:10:07 UTC 2021
