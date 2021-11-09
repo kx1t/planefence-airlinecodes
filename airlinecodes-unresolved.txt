@@ -1,3 +1,4 @@
+Airline code "VLZ", examples:VLZ338A,43EE41,Tue Nov 9 20:43:12 UTC 2021
 Airline code "BRH", examples:BRH721,00B314,Tue Nov 9 19:22:55 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Tue Nov 9 18:10:47 UTC 2021
 Airline code "NOZ", examples:NOZ58U,4784C2,Tue Nov 9 18:33:53 UTC 2021
@@ -82,7 +83,6 @@ Airline code "SYO", examples:SYO03,40327F,Wed Nov 3 12:23:12 UTC 2021
 Airline code "KAY", examples:KAY53,3C70B8,Wed Nov 3 11:18:05 UTC 2021
 Airline code "NKE", examples:NKE495F,49410D,Wed Nov 3 11:34:08 UTC 2021
 Airline code "TEU", examples:TEU9,4D21BC,Wed Nov 3 09:09:04 UTC 2021
-Airline code "VLZ", examples:VLZ291A,43EC73,Wed Nov 3 09:56:05 UTC 2021
 Airline code "VKA", examples:VKA198,5083C0,Wed Nov 3 05:56:49 UTC 2021
 Airline code "MJS", examples:MJS4731,AC38AF,Tue Nov 2 23:32:00 UTC 2021
 Airline code "IDD", examples:IDD621,A819F6,Tue Nov 2 22:07:14 UTC 2021
