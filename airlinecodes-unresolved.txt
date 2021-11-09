@@ -1,13 +1,15 @@
+Airline code "FOX", examples:FOX1227,478731,Tue Nov 9 16:21:34 UTC 2021
+Airline code "ITY", examples:ITY160,4CA719,Tue Nov 9 16:09:38 UTC 2021
+Airline code "JEI", examples:JEI121,3CD003,Tue Nov 9 16:38:58 UTC 2021
+Airline code "JNL", examples:JNL2055,48630E,Tue Nov 9 16:55:01 UTC 2021
+Airline code "SZS", examples:SZS1523,4CAF7E,Tue Nov 9 16:26:33 UTC 2021
 Airline code "NOZ", examples:NOZ1802,478741,Tue Nov 9 14:21:28 UTC 2021
 Airline code "ASJ", examples:ASJ781,393269,Tue Nov 9 13:36:36 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 9 13:13:21 UTC 2021
 Airline code "NSZ", examples:NSZ2883,4ACA0D,Tue Nov 9 13:20:26 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Tue Nov 9 12:13:35 UTC 2021
 Airline code "JSH", examples:JSH201A,471843,Tue Nov 9 11:22:55 UTC 2021
-Airline code "SZS", examples:SZS526,4CAF7E,Tue Nov 9 11:27:12 UTC 2021
-Airline code "FOX", examples:FOX1226,478731,Tue Nov 9 10:07:07 UTC 2021
 Airline code "RDF", examples:RDF27,3DD821,Tue Nov 9 10:09:02 UTC 2021
-Airline code "ITY", examples:ITY156,4CAAA7,Tue Nov 9 09:50:44 UTC 2021
 Airline code "ULC", examples:ULC77,4D229E,Tue Nov 9 09:32:01 UTC 2021
 Airline code "BBX", examples:BBX101,45A2C2,Tue Nov 9 07:22:55 UTC 2021
 Airline code "JAF", examples:JAF965F,44A88C,Tue Nov 9 07:23:58 UTC 2021
@@ -84,7 +86,6 @@ Airline code "VKA", examples:VKA198,5083C0,Wed Nov 3 05:56:49 UTC 2021
 Airline code "MJS", examples:MJS4731,AC38AF,Tue Nov 2 23:32:00 UTC 2021
 Airline code "IDD", examples:IDD621,A819F6,Tue Nov 2 22:07:14 UTC 2021
 Airline code "EMM", examples:EMM006,4D2168,Tue Nov 2 11:42:49 UTC 2021 EMM006,4D2168,Tue Nov 2 11:42:49 UTC 2021 EMM006,4D2168,Tue Nov 2 11:42:19 UTC 2021
-Airline code "JEI", examples:JEI111,3CD003,Mon Nov 1 16:17:30 UTC 2021
 Airline code "MOZ", examples:MOZ437,440405,Mon Nov 1 16:17:03 UTC 2021
 Airline code "GKY", examples:GKY813,4241C2,Mon Nov 1 15:44:48 UTC 2021
 Airline code "NTF", examples:NTF68A,49D3E9,Mon Nov 1 15:32:31 UTC 2021
@@ -115,7 +116,6 @@ Airline code "TBJ", examples:TBJ91,A6BC98,Thu Oct 28 16:01:29 UTC 2021
 Airline code "MJE", examples:MJE001,8964C4,Thu Oct 28 15:19:57 UTC 2021
 Airline code "KEJ", examples:KEJ6496,6830BB,Thu Oct 28 10:58:20 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Thu Oct 28 08:12:11 UTC 2021
-Airline code "JNL", examples:JNL111,485D30,Wed Oct 27 21:06:11 UTC 2021
 Airline code "PJS", examples:PJS400,4B18A1,Wed Oct 27 08:44:01 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Oct 26 22:43:01 UTC 2021
 Airline code "EAU", examples:EAU57B,4D2308,Tue Oct 26 20:05:29 UTC 2021
