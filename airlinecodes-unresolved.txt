@@ -1,3 +1,7 @@
+Airline code "BBX", examples:BBX101,45A2C2,Tue Nov 9 07:22:55 UTC 2021
+Airline code "JAF", examples:JAF965F,44A88C,Tue Nov 9 07:23:58 UTC 2021
+Airline code "JPV", examples:JPV284,440A05,Tue Nov 9 07:50:58 UTC 2021
+Airline code "SZS", examples:SZS525,4CAF7E,Tue Nov 9 08:00:00 UTC 2021
 Airline code "ITY", examples:ITY148,4CA8ED,Tue Nov 9 06:57:15 UTC 2021
 Airline code "JTD", examples:JTD287,45AB4E,Tue Nov 9 06:11:53 UTC 2021
 Airline code "NOZ", examples:NOZ8AG,47A3B0,Tue Nov 9 06:54:56 UTC 2021
@@ -9,12 +13,10 @@ Airline code "TJD", examples:TJD975,300829,Mon Nov 8 21:44:57 UTC 2021
 Airline code "BRH", examples:BRH750,00B2E6,Mon Nov 8 20:05:29 UTC 2021
 Airline code "FOX", examples:FOX1403,478E7A,Mon Nov 8 19:30:07 UTC 2021
 Airline code "URO", examples:URO460,400F0B,Mon Nov 8 19:40:08 UTC 2021
-Airline code "JAF", examples:JAF6BG,44D0A1,Mon Nov 8 18:27:36 UTC 2021
 Airline code "RSJ", examples:RSJ9619,424650,Mon Nov 8 18:21:04 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Mon Nov 8 17:40:56 UTC 2021
 Airline code "ULC", examples:ULC22,4D2305,Mon Nov 8 17:55:55 UTC 2021 ULC22,4D2305,Mon Nov 8 17:55:38 UTC 2021
 Airline code "VXS", examples:VXS3,407A32,Mon Nov 8 17:40:55 UTC 2021
-Airline code "SZS", examples:SZS1523,4CACB4,Mon Nov 8 16:29:54 UTC 2021
 Airline code "DFC", examples:DFC2BM,49D44A,Mon Nov 8 15:11:26 UTC 2021
 Airline code "JBC", examples:JBC835B,49D4E4,Mon Nov 8 14:29:53 UTC 2021
 Airline code "BOG", examples:BOG71,A8E0C2,Mon Nov 8 13:30:52 UTC 2021
@@ -80,7 +82,6 @@ Airline code "VLZ", examples:VLZ291A,43EC73,Wed Nov 3 09:56:05 UTC 2021
 Airline code "VKA", examples:VKA198,5083C0,Wed Nov 3 05:56:49 UTC 2021
 Airline code "MJS", examples:MJS4731,AC38AF,Tue Nov 2 23:32:00 UTC 2021
 Airline code "IDD", examples:IDD621,A819F6,Tue Nov 2 22:07:14 UTC 2021
-Airline code "JPV", examples:JPV452P,3C942D,Tue Nov 2 13:25:57 UTC 2021
 Airline code "EMM", examples:EMM006,4D2168,Tue Nov 2 11:42:49 UTC 2021 EMM006,4D2168,Tue Nov 2 11:42:49 UTC 2021 EMM006,4D2168,Tue Nov 2 11:42:19 UTC 2021
 Airline code "JEI", examples:JEI111,3CD003,Mon Nov 1 16:17:30 UTC 2021
 Airline code "MOZ", examples:MOZ437,440405,Mon Nov 1 16:17:03 UTC 2021
