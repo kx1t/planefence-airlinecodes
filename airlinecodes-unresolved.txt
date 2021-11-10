@@ -1,3 +1,4 @@
+Airline code "NSZ", examples:NSZ2873,4ACA0C,Wed Nov 10 20:17:29 UTC 2021
 Airline code "DKH", examples:DKH1650,78158A,Wed Nov 10 19:52:40 UTC 2021
 Airline code "JPV", examples:JPV284,440A05,Wed Nov 10 19:31:58 UTC 2021
 Airline code "KAY", examples:KAY57,3C78AF,Wed Nov 10 19:53:15 UTC 2021
@@ -9,7 +10,6 @@ Airline code "JSH", examples:JSH202,471843,Wed Nov 10 16:23:41 UTC 2021
 Airline code "SZS", examples:SZS1523,4CACB6,Wed Nov 10 16:27:14 UTC 2021
 Airline code "BFY", examples:BFY162R,48411B,Wed Nov 10 15:19:11 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Wed Nov 10 15:04:11 UTC 2021
-Airline code "NSZ", examples:NSZ3CX,4ACA13,Wed Nov 10 15:16:11 UTC 2021
 Airline code "RUK", examples:RUK5209,407BDC,Wed Nov 10 15:35:10 UTC 2021
 Airline code "EMM", examples:EMM012,4D21E4,Wed Nov 10 14:00:05 UTC 2021 EMM012,4D21E4,Wed Nov 10 14:00:05 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Wed Nov 10 14:24:13 UTC 2021
