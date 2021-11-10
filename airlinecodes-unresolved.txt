@@ -1,3 +1,4 @@
+Airline code "FTD", examples:FTD557,A7196E,Wed Nov 10 18:32:33 UTC 2021
 Airline code "DKH", examples:DKH1661,781783,Wed Nov 10 17:29:25 UTC 2021
 Airline code "ITY", examples:ITY154,4CA759,Wed Nov 10 17:27:45 UTC 2021
 Airline code "NOZ", examples:NOZ5058,4ACA14,Wed Nov 10 17:42:47 UTC 2021
@@ -101,7 +102,6 @@ Airline code "FWR", examples:FWR1049,A0FE84,Sun Oct 31 18:46:23 UTC 2021
 Airline code "GCK", examples:GCK21,440964,Sun Oct 31 16:39:35 UTC 2021 GCK21,440964,Sun Oct 31 16:38:16 UTC 2021
 Airline code "JME", examples:JME210N,3431C9,Sun Oct 31 15:06:15 UTC 2021
 Airline code "BAO", examples:BAO252I,3CB089,Sun Oct 31 14:20:13 UTC 2021
-Airline code "FTD", examples:FTD504,A648CE,Sun Oct 31 14:32:17 UTC 2021
 Airline code "KOC", examples:KOC22,4BADB2,Sun Oct 31 08:57:45 UTC 2021 KOC22,4BADB2,Sun Oct 31 08:12:36 UTC 2021
 Airline code "JKH", examples:JKH32A,3E3F1F,Sat Oct 30 15:20:04 UTC 2021
 Airline code "JSY", examples:JSY307D,501E45,Sat Oct 30 15:19:48 UTC 2021
