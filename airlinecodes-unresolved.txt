@@ -1,3 +1,7 @@
+Airline code "DKH", examples:DKH1661,781783,Wed Nov 10 17:29:25 UTC 2021
+Airline code "ITY", examples:ITY154,4CA759,Wed Nov 10 17:27:45 UTC 2021
+Airline code "NOZ", examples:NOZ5058,4ACA14,Wed Nov 10 17:42:47 UTC 2021
+Airline code "VKG", examples:VKG1325,45D068,Wed Nov 10 17:29:26 UTC 2021
 Airline code "JSH", examples:JSH202,471843,Wed Nov 10 16:23:41 UTC 2021
 Airline code "SZS", examples:SZS1523,4CACB6,Wed Nov 10 16:27:14 UTC 2021
 Airline code "BFY", examples:BFY162R,48411B,Wed Nov 10 15:19:11 UTC 2021
@@ -12,7 +16,6 @@ Airline code "JTD", examples:JTD885,45AB4D,Wed Nov 10 14:15:14 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Wed Nov 10 14:10:21 UTC 2021
 Airline code "RWZ", examples:RWZ8985,42435B,Wed Nov 10 14:45:15 UTC 2021
 Airline code "VLZ", examples:VLZ398A,43EE41,Wed Nov 10 14:58:42 UTC 2021
-Airline code "NOZ", examples:NOZ81R,478741,Wed Nov 10 13:57:52 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Wed Nov 10 13:00:56 UTC 2021
 Airline code "OOH", examples:OOH66,44A3FE,Wed Nov 10 13:40:56 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Wed Nov 10 13:46:12 UTC 2021
@@ -22,8 +25,6 @@ Airline code "EUK", examples:EUK931,407BE6,Wed Nov 10 11:18:48 UTC 2021 EUK931,4
 Airline code "GHA", examples:GHA97,A88D6C,Wed Nov 10 10:58:11 UTC 2021
 Airline code "JNL", examples:JNL0796,4858C7,Wed Nov 10 10:59:30 UTC 2021
 Airline code "LWG", examples:LWG1101,4D2090,Wed Nov 10 10:00:42 UTC 2021
-Airline code "ITY", examples:ITY156,4CA666,Wed Nov 10 09:44:41 UTC 2021
-Airline code "VKG", examples:VKG1324,45D068,Wed Nov 10 07:04:19 UTC 2021
 Airline code "JTZ", examples:JTZ317,A361FE,Tue Nov 9 21:45:41 UTC 2021 JTZ317,A361FE,Tue Nov 9 21:38:18 UTC 2021
 Airline code "BRH", examples:BRH721,00B314,Tue Nov 9 19:22:55 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Tue Nov 9 18:10:47 UTC 2021
@@ -57,7 +58,6 @@ Airline code "RKK", examples:RKK18,A147E4,Mon Nov 8 00:50:39 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Mon Nov 8 00:49:11 UTC 2021
 Airline code "HPK", examples:HPK09,A9767B,Sun Nov 7 21:55:08 UTC 2021
 Airline code "VCJ", examples:VCJ92T,4D229A,Sun Nov 7 21:32:35 UTC 2021
-Airline code "DKH", examples:DKH1658,7817FB,Sun Nov 7 19:47:02 UTC 2021
 Airline code "HYS", examples:HYS252,4A08A5,Sun Nov 7 19:19:49 UTC 2021
 Airline code "AJO", examples:AJO341,4D22DC,Sun Nov 7 17:57:09 UTC 2021
 Airline code "HMJ", examples:HMJ208,394979,Sun Nov 7 17:03:45 UTC 2021
