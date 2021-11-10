@@ -1,10 +1,10 @@
+Airline code "NOZ", examples:NOZ9CQ,4ACA07,Wed Nov 10 06:30:21 UTC 2021
 Airline code "NSZ", examples:NSZ3640,4ACA4F,Wed Nov 10 05:25:15 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Tue Nov 9 22:49:33 UTC 2021
 Airline code "JTZ", examples:JTZ317,A361FE,Tue Nov 9 21:45:41 UTC 2021 JTZ317,A361FE,Tue Nov 9 21:38:18 UTC 2021
 Airline code "VLZ", examples:VLZ338A,43EE41,Tue Nov 9 20:43:12 UTC 2021
 Airline code "BRH", examples:BRH721,00B314,Tue Nov 9 19:22:55 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Tue Nov 9 18:10:47 UTC 2021
-Airline code "NOZ", examples:NOZ58U,4784C2,Tue Nov 9 18:33:53 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Tue Nov 9 17:09:48 UTC 2021
 Airline code "ITY", examples:ITY436,4CA8D0,Tue Nov 9 17:02:17 UTC 2021
 Airline code "KFB", examples:KFB722,A9AC30,Tue Nov 9 17:26:46 UTC 2021 KFB722,A9AC30,Tue Nov 9 17:26:25 UTC 2021
