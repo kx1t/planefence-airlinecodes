@@ -1,4 +1,11 @@
-Airline code "EMM", examples:EMM012,4D21E4,Wed Nov 10 13:59:41 UTC 2021
+Airline code "EMM", examples:EMM012,4D21E4,Wed Nov 10 14:00:05 UTC 2021 EMM012,4D21E4,Wed Nov 10 14:00:05 UTC 2021
+Airline code "FLJ", examples:FLJ61H,407AE1,Wed Nov 10 14:24:13 UTC 2021
+Airline code "FOX", examples:FOX1203,478E7A,Wed Nov 10 14:46:05 UTC 2021
+Airline code "JAF", examples:JAF3202,44A847,Wed Nov 10 14:32:52 UTC 2021
+Airline code "JTD", examples:JTD885,45AB4D,Wed Nov 10 14:15:14 UTC 2021
+Airline code "OOF", examples:OOF55,449BF3,Wed Nov 10 14:10:21 UTC 2021
+Airline code "RWZ", examples:RWZ8985,42435B,Wed Nov 10 14:45:15 UTC 2021
+Airline code "VLZ", examples:VLZ398A,43EE41,Wed Nov 10 14:58:42 UTC 2021
 Airline code "NOZ", examples:NOZ81R,478741,Wed Nov 10 13:57:52 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Wed Nov 10 13:00:56 UTC 2021
 Airline code "NSZ", examples:NSZ5YD,4ACA50,Wed Nov 10 13:02:53 UTC 2021
@@ -7,16 +14,12 @@ Airline code "URO", examples:URO461,400F0B,Wed Nov 10 13:46:12 UTC 2021
 Airline code "VPC", examples:VPC5,511063,Wed Nov 10 12:21:43 UTC 2021
 Airline code "XGO", examples:XGO3BR,3E3AB8,Wed Nov 10 12:08:46 UTC 2021
 Airline code "EUK", examples:EUK931,407BE6,Wed Nov 10 11:18:48 UTC 2021 EUK931,407BE6,Wed Nov 10 11:16:32 UTC 2021
-Airline code "JAF", examples:JAF6WV,44D0A1,Wed Nov 10 11:23:34 UTC 2021
-Airline code "JTD", examples:JTD884,45AB4D,Wed Nov 10 11:31:38 UTC 2021
 Airline code "RUK", examples:RUK3227,407BDC,Wed Nov 10 11:14:26 UTC 2021 RUK3227,407BDC,Wed Nov 10 11:11:52 UTC 2021
 Airline code "SZS", examples:SZS531,4CAF7E,Wed Nov 10 11:46:42 UTC 2021
 Airline code "GHA", examples:GHA97,A88D6C,Wed Nov 10 10:58:11 UTC 2021
 Airline code "JNL", examples:JNL0796,4858C7,Wed Nov 10 10:59:30 UTC 2021
 Airline code "LWG", examples:LWG1101,4D2090,Wed Nov 10 10:00:42 UTC 2021
-Airline code "OOF", examples:OOF81,44980D,Wed Nov 10 10:56:49 UTC 2021
 Airline code "ITY", examples:ITY156,4CA666,Wed Nov 10 09:44:41 UTC 2021
-Airline code "VLZ", examples:VLZ292A,43EC73,Wed Nov 10 09:44:11 UTC 2021
 Airline code "VKG", examples:VKG1324,45D068,Wed Nov 10 07:04:19 UTC 2021
 Airline code "JTZ", examples:JTZ317,A361FE,Tue Nov 9 21:45:41 UTC 2021 JTZ317,A361FE,Tue Nov 9 21:38:18 UTC 2021
 Airline code "BRH", examples:BRH721,00B314,Tue Nov 9 19:22:55 UTC 2021
@@ -24,7 +27,6 @@ Airline code "JCL", examples:JCL3,3CD07A,Tue Nov 9 18:10:47 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Tue Nov 9 17:09:48 UTC 2021
 Airline code "KFB", examples:KFB722,A9AC30,Tue Nov 9 17:26:46 UTC 2021 KFB722,A9AC30,Tue Nov 9 17:26:25 UTC 2021
 Airline code "RTG", examples:RTG5238,47923C,Tue Nov 9 17:02:35 UTC 2021
-Airline code "FOX", examples:FOX1227,478731,Tue Nov 9 16:21:34 UTC 2021
 Airline code "JEI", examples:JEI121,3CD003,Tue Nov 9 16:38:58 UTC 2021
 Airline code "ASJ", examples:ASJ781,393269,Tue Nov 9 13:36:36 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 9 13:13:21 UTC 2021
@@ -46,7 +48,6 @@ Airline code "HLY", examples:HLY95,4076F4,Mon Nov 8 12:58:54 UTC 2021
 Airline code "OOI", examples:OOI20,44A7D0,Mon Nov 8 11:18:04 UTC 2021
 Airline code "GWR", examples:GWR4001,34660C,Mon Nov 8 09:15:22 UTC 2021
 Airline code "JCO", examples:JCO55L,406A1E,Mon Nov 8 09:41:52 UTC 2021
-Airline code "FLJ", examples:FLJ61H,407AE1,Mon Nov 8 08:29:51 UTC 2021
 Airline code "FSF", examples:FSF812U,4CAC5E,Mon Nov 8 08:58:51 UTC 2021
 Airline code "BFD", examples:BFD08T,3C9654,Mon Nov 8 06:58:03 UTC 2021
 Airline code "NYX", examples:NYX420,511147,Mon Nov 8 05:57:49 UTC 2021
@@ -79,7 +80,6 @@ Airline code "INI", examples:INI241,343183,Thu Nov 4 17:45:18 UTC 2021
 Airline code "QNR", examples:QNR25A,49D317,Thu Nov 4 14:52:25 UTC 2021
 Airline code "UAW", examples:UAW23,400EA0,Thu Nov 4 14:19:43 UTC 2021
 Airline code "ICF", examples:ICF601,5000B4,Thu Nov 4 11:18:50 UTC 2021
-Airline code "RWZ", examples:RWZ8986,42435B,Thu Nov 4 09:04:11 UTC 2021
 Airline code "TMN", examples:TMN83,7C1795,Wed Nov 3 22:06:53 UTC 2021
 Airline code "CXB", examples:CXB767,484361,Wed Nov 3 19:16:16 UTC 2021
 Airline code "JAV", examples:JAV4491,742AC2,Wed Nov 3 14:03:02 UTC 2021
