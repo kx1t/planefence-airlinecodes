@@ -1,3 +1,5 @@
+Airline code "EUK", examples:EUK930,407BE6,Thu Nov 11 06:14:20 UTC 2021 EUK930,407BE6,Thu Nov 11 06:12:20 UTC 2021
+Airline code "NOZ", examples:NOZ9CQ,478741,Thu Nov 11 06:18:16 UTC 2021
 Airline code "BFD", examples:BFD65H,3CBDEB,Thu Nov 11 05:38:15 UTC 2021
 Airline code "NSZ", examples:NSZ7PN,4ACA46,Thu Nov 11 05:23:19 UTC 2021
 Airline code "JML", examples:JML100,4D209F,Thu Nov 11 03:54:08 UTC 2021
@@ -5,7 +7,6 @@ Airline code "KFB", examples:KFB218,A1D81F,Thu Nov 11 00:24:17 UTC 2021
 Airline code "GWR", examples:GWR4001,34660C,Wed Nov 10 23:43:04 UTC 2021
 Airline code "SYB", examples:SYB068,C088C1,Wed Nov 10 23:05:36 UTC 2021 SYB068,C088C1,Wed Nov 10 23:04:32 UTC 2021
 Airline code "RUK", examples:RUK1FA,407BDC,Wed Nov 10 22:59:15 UTC 2021 RUK1FA,407BDC,Wed Nov 10 22:54:48 UTC 2021
-Airline code "NOZ", examples:NOZ5375,4ACA4A,Wed Nov 10 21:06:47 UTC 2021
 Airline code "DKH", examples:DKH1650,78158A,Wed Nov 10 19:52:40 UTC 2021
 Airline code "JPV", examples:JPV284,440A05,Wed Nov 10 19:31:58 UTC 2021
 Airline code "KAY", examples:KAY57,3C78AF,Wed Nov 10 19:53:15 UTC 2021
@@ -29,7 +30,6 @@ Airline code "OOH", examples:OOH66,44A3FE,Wed Nov 10 13:40:56 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Wed Nov 10 13:46:12 UTC 2021
 Airline code "VPC", examples:VPC5,511063,Wed Nov 10 12:21:43 UTC 2021
 Airline code "XGO", examples:XGO3BR,3E3AB8,Wed Nov 10 12:08:46 UTC 2021
-Airline code "EUK", examples:EUK931,407BE6,Wed Nov 10 11:18:48 UTC 2021 EUK931,407BE6,Wed Nov 10 11:16:32 UTC 2021
 Airline code "GHA", examples:GHA97,A88D6C,Wed Nov 10 10:58:11 UTC 2021
 Airline code "JNL", examples:JNL0796,4858C7,Wed Nov 10 10:59:30 UTC 2021
 Airline code "LWG", examples:LWG1101,4D2090,Wed Nov 10 10:00:42 UTC 2021
