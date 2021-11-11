@@ -1,3 +1,5 @@
+Airline code "ASJ", examples:ASJ430,398675,Thu Nov 11 20:18:37 UTC 2021
+Airline code "MDO", examples:MDO1542,4D21DD,Thu Nov 11 20:43:05 UTC 2021
 Airline code "DKH", examples:DKH1650,7817FB,Thu Nov 11 19:38:32 UTC 2021
 Airline code "FTD", examples:FTD557,A7196E,Thu Nov 11 19:05:04 UTC 2021
 Airline code "GCT", examples:GCT27,A38972,Thu Nov 11 19:18:46 UTC 2021
@@ -52,7 +54,6 @@ Airline code "JTZ", examples:JTZ317,A361FE,Tue Nov 9 21:45:41 UTC 2021 JTZ317,A3
 Airline code "BRH", examples:BRH721,00B314,Tue Nov 9 19:22:55 UTC 2021
 Airline code "RTG", examples:RTG5238,47923C,Tue Nov 9 17:02:35 UTC 2021
 Airline code "JEI", examples:JEI121,3CD003,Tue Nov 9 16:38:58 UTC 2021
-Airline code "ASJ", examples:ASJ781,393269,Tue Nov 9 13:36:36 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 9 13:13:21 UTC 2021
 Airline code "RDF", examples:RDF27,3DD821,Tue Nov 9 10:09:02 UTC 2021
 Airline code "BBX", examples:BBX101,45A2C2,Tue Nov 9 07:22:55 UTC 2021
@@ -141,7 +142,6 @@ Airline code "XLS", examples:XLS451,A3FFA0,Sun Oct 24 15:17:34 UTC 2021
 Airline code "BOH", examples:BOH711,49D3AC,Sun Oct 24 10:41:02 UTC 2021
 Airline code "OOG", examples:OOG77,449C09,Sun Oct 24 09:00:57 UTC 2021
 Airline code "TWI", examples:TWI290,4BD181,Sun Oct 24 07:41:16 UTC 2021
-Airline code "MDO", examples:MDO3305,4D2197,Sun Oct 24 05:11:57 UTC 2021
 Airline code "JLG", examples:JLG533,A6BD51,Sun Oct 24 00:37:38 UTC 2021
 Airline code "DMS", examples:DMS716,5110AE,Sat Oct 23 21:06:20 UTC 2021
 Airline code "SAR", examples:SAR775,48A5E7,Sat Oct 23 21:06:13 UTC 2021
