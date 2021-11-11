@@ -1,3 +1,6 @@
+Airline code "JAF", examples:JAF3202,44D1A1,Thu Nov 11 13:40:11 UTC 2021
+Airline code "JAV", examples:JAV4491,742AC2,Thu Nov 11 13:22:54 UTC 2021
+Airline code "XGO", examples:XGO5SB,3E4082,Thu Nov 11 13:14:22 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Thu Nov 11 12:49:27 UTC 2021
 Airline code "ITY", examples:ITY150,4CAAA8,Thu Nov 11 12:53:28 UTC 2021
 Airline code "NOZ", examples:NOZ53Y,4ACA09,Thu Nov 11 11:54:46 UTC 2021
@@ -30,13 +33,11 @@ Airline code "FTD", examples:FTD557,A7196E,Wed Nov 10 18:32:33 UTC 2021
 Airline code "JSH", examples:JSH202,471843,Wed Nov 10 16:23:41 UTC 2021
 Airline code "BFY", examples:BFY162R,48411B,Wed Nov 10 15:19:11 UTC 2021
 Airline code "EMM", examples:EMM012,4D21E4,Wed Nov 10 14:00:05 UTC 2021 EMM012,4D21E4,Wed Nov 10 14:00:05 UTC 2021
-Airline code "JAF", examples:JAF3202,44A847,Wed Nov 10 14:32:52 UTC 2021
 Airline code "OOF", examples:OOF55,449BF3,Wed Nov 10 14:10:21 UTC 2021
 Airline code "VLZ", examples:VLZ398A,43EE41,Wed Nov 10 14:58:42 UTC 2021
 Airline code "NSH", examples:NSH5,AD488B,Wed Nov 10 13:00:56 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Wed Nov 10 13:46:12 UTC 2021
 Airline code "VPC", examples:VPC5,511063,Wed Nov 10 12:21:43 UTC 2021
-Airline code "XGO", examples:XGO3BR,3E3AB8,Wed Nov 10 12:08:46 UTC 2021
 Airline code "GHA", examples:GHA97,A88D6C,Wed Nov 10 10:58:11 UTC 2021
 Airline code "JNL", examples:JNL0796,4858C7,Wed Nov 10 10:59:30 UTC 2021
 Airline code "LWG", examples:LWG1101,4D2090,Wed Nov 10 10:00:42 UTC 2021
@@ -90,7 +91,6 @@ Airline code "QNR", examples:QNR25A,49D317,Thu Nov 4 14:52:25 UTC 2021
 Airline code "ICF", examples:ICF601,5000B4,Thu Nov 4 11:18:50 UTC 2021
 Airline code "TMN", examples:TMN83,7C1795,Wed Nov 3 22:06:53 UTC 2021
 Airline code "CXB", examples:CXB767,484361,Wed Nov 3 19:16:16 UTC 2021
-Airline code "JAV", examples:JAV4491,742AC2,Wed Nov 3 14:03:02 UTC 2021
 Airline code "SYO", examples:SYO03,40327F,Wed Nov 3 12:23:12 UTC 2021
 Airline code "NKE", examples:NKE495F,49410D,Wed Nov 3 11:34:08 UTC 2021
 Airline code "TEU", examples:TEU9,4D21BC,Wed Nov 3 09:09:04 UTC 2021
