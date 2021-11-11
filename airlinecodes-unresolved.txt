@@ -1,10 +1,12 @@
+Airline code "DKH", examples:DKH1649,7817FB,Thu Nov 11 14:18:54 UTC 2021
+Airline code "OOE", examples:OOE06,4497C2,Thu Nov 11 14:50:54 UTC 2021
+Airline code "OOI", examples:OOI20,44A7D0,Thu Nov 11 14:18:57 UTC 2021
 Airline code "JAF", examples:JAF3202,44D1A1,Thu Nov 11 13:40:11 UTC 2021
 Airline code "JAV", examples:JAV4491,742AC2,Thu Nov 11 13:22:54 UTC 2021
 Airline code "XGO", examples:XGO5SB,3E4082,Thu Nov 11 13:14:22 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Thu Nov 11 12:49:27 UTC 2021
 Airline code "ITY", examples:ITY150,4CAAA8,Thu Nov 11 12:53:28 UTC 2021
 Airline code "NOZ", examples:NOZ53Y,4ACA09,Thu Nov 11 11:54:46 UTC 2021
-Airline code "OOE", examples:OOE90,449416,Thu Nov 11 11:41:22 UTC 2021
 Airline code "PJS", examples:PJS400,4B18A1,Thu Nov 11 11:14:47 UTC 2021
 Airline code "SZS", examples:SZS526,4CAF7E,Thu Nov 11 11:39:41 UTC 2021
 Airline code "UAW", examples:UAW22,400EA0,Thu Nov 11 11:19:45 UTC 2021
@@ -26,7 +28,6 @@ Airline code "KFB", examples:KFB218,A1D81F,Thu Nov 11 00:24:17 UTC 2021
 Airline code "GWR", examples:GWR4001,34660C,Wed Nov 10 23:43:04 UTC 2021
 Airline code "SYB", examples:SYB068,C088C1,Wed Nov 10 23:05:36 UTC 2021 SYB068,C088C1,Wed Nov 10 23:04:32 UTC 2021
 Airline code "RUK", examples:RUK1FA,407BDC,Wed Nov 10 22:59:15 UTC 2021 RUK1FA,407BDC,Wed Nov 10 22:54:48 UTC 2021
-Airline code "DKH", examples:DKH1650,78158A,Wed Nov 10 19:52:40 UTC 2021
 Airline code "JPV", examples:JPV284,440A05,Wed Nov 10 19:31:58 UTC 2021
 Airline code "KAY", examples:KAY57,3C78AF,Wed Nov 10 19:53:15 UTC 2021
 Airline code "FTD", examples:FTD557,A7196E,Wed Nov 10 18:32:33 UTC 2021
@@ -60,7 +61,6 @@ Airline code "BOG", examples:BOG71,A8E0C2,Mon Nov 8 13:30:52 UTC 2021
 Airline code "XCH", examples:XCH519U,43E7ED,Mon Nov 8 13:12:54 UTC 2021
 Airline code "GJI", examples:GJI55,4CA785,Mon Nov 8 12:12:53 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Mon Nov 8 12:58:54 UTC 2021
-Airline code "OOI", examples:OOI20,44A7D0,Mon Nov 8 11:18:04 UTC 2021
 Airline code "JCO", examples:JCO55L,406A1E,Mon Nov 8 09:41:52 UTC 2021
 Airline code "NYX", examples:NYX420,511147,Mon Nov 8 05:57:49 UTC 2021
 Airline code "RKK", examples:RKK18,A147E4,Mon Nov 8 00:50:39 UTC 2021
