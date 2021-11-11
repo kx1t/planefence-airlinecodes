@@ -1,3 +1,4 @@
+Airline code "KFB", examples:KFB218,A1D81F,Thu Nov 11 00:24:17 UTC 2021
 Airline code "GWR", examples:GWR4001,34660C,Wed Nov 10 23:43:04 UTC 2021
 Airline code "SYB", examples:SYB068,C088C1,Wed Nov 10 23:05:36 UTC 2021 SYB068,C088C1,Wed Nov 10 23:04:32 UTC 2021
 Airline code "RUK", examples:RUK1FA,407BDC,Wed Nov 10 22:59:15 UTC 2021 RUK1FA,407BDC,Wed Nov 10 22:54:48 UTC 2021
@@ -34,7 +35,6 @@ Airline code "JTZ", examples:JTZ317,A361FE,Tue Nov 9 21:45:41 UTC 2021 JTZ317,A3
 Airline code "BRH", examples:BRH721,00B314,Tue Nov 9 19:22:55 UTC 2021
 Airline code "JCL", examples:JCL3,3CD07A,Tue Nov 9 18:10:47 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Tue Nov 9 17:09:48 UTC 2021
-Airline code "KFB", examples:KFB722,A9AC30,Tue Nov 9 17:26:46 UTC 2021 KFB722,A9AC30,Tue Nov 9 17:26:25 UTC 2021
 Airline code "RTG", examples:RTG5238,47923C,Tue Nov 9 17:02:35 UTC 2021
 Airline code "JEI", examples:JEI121,3CD003,Tue Nov 9 16:38:58 UTC 2021
 Airline code "ASJ", examples:ASJ781,393269,Tue Nov 9 13:36:36 UTC 2021
