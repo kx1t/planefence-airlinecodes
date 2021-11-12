@@ -1,16 +1,16 @@
+Airline code "ITY", examples:ITY150,4CA98A,Fri Nov 12 13:02:06 UTC 2021
+Airline code "NOZ", examples:NOZ53Y,4ACA4A,Fri Nov 12 13:42:05 UTC 2021
+Airline code "NSZ", examples:NSZ1KS,4ACA47,Fri Nov 12 13:33:03 UTC 2021
+Airline code "RUK", examples:RUK8499,407BDC,Fri Nov 12 13:41:38 UTC 2021
 Airline code "FSF", examples:FSF200B,460483,Fri Nov 12 12:33:53 UTC 2021
-Airline code "NOZ", examples:NOZ1348,47878D,Fri Nov 12 12:32:46 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Fri Nov 12 12:51:56 UTC 2021
 Airline code "EUK", examples:EUK931,407BE6,Fri Nov 12 11:08:44 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Fri Nov 12 11:22:08 UTC 2021
 Airline code "EMM", examples:EMM012,4D21E4,Fri Nov 12 10:01:19 UTC 2021 EMM012,4D21E4,Fri Nov 12 10:01:17 UTC 2021
 Airline code "JAF", examples:JAF2996,44D1A1,Fri Nov 12 10:31:20 UTC 2021
-Airline code "NSZ", examples:NSZ3502,4ACA53,Fri Nov 12 10:45:50 UTC 2021
-Airline code "RUK", examples:RUK3227,407CAF,Fri Nov 12 10:47:25 UTC 2021
 Airline code "VLZ", examples:VLZ398A,43EE41,Fri Nov 12 10:06:43 UTC 2021
 Airline code "VXS", examples:VXS3,407A32,Fri Nov 12 10:46:18 UTC 2021
 Airline code "FOX", examples:FOX1402,478DEF,Fri Nov 12 09:10:36 UTC 2021
-Airline code "ITY", examples:ITY156,4CA666,Fri Nov 12 09:37:58 UTC 2021
 Airline code "MDO", examples:MDO131,4D21DD,Fri Nov 12 09:57:39 UTC 2021
 Airline code "SZS", examples:SZS525,4CACB6,Fri Nov 12 08:00:35 UTC 2021
 Airline code "VKG", examples:VKG628,45D969,Fri Nov 12 08:54:34 UTC 2021
