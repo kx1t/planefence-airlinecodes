@@ -1,3 +1,4 @@
+Airline code "TJD", examples:TJD975,300829,Fri Nov 12 18:00:33 UTC 2021
 Airline code "JTD", examples:JTD532,45AB4E,Fri Nov 12 17:32:25 UTC 2021
 Airline code "TIV", examples:TIV95,AD3435,Fri Nov 12 16:31:46 UTC 2021
 Airline code "XCH", examples:XCH520U,43E7ED,Fri Nov 12 16:11:33 UTC 2021
@@ -64,7 +65,6 @@ Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 9 13:13:21 UTC 2021
 Airline code "RDF", examples:RDF27,3DD821,Tue Nov 9 10:09:02 UTC 2021
 Airline code "BBX", examples:BBX101,45A2C2,Tue Nov 9 07:22:55 UTC 2021
 Airline code "PCT", examples:PCT489,3F9AE8,Tue Nov 9 02:36:40 UTC 2021
-Airline code "TJD", examples:TJD975,300829,Mon Nov 8 21:44:57 UTC 2021
 Airline code "RSJ", examples:RSJ9619,424650,Mon Nov 8 18:21:04 UTC 2021
 Airline code "JBC", examples:JBC835B,49D4E4,Mon Nov 8 14:29:53 UTC 2021
 Airline code "BOG", examples:BOG71,A8E0C2,Mon Nov 8 13:30:52 UTC 2021
