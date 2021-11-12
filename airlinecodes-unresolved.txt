@@ -1,3 +1,4 @@
+Airline code "AEG", examples:AEG462,5110C7,Fri Nov 12 04:04:54 UTC 2021
 Airline code "DHR", examples:DHR40,A2113B,Fri Nov 12 02:33:38 UTC 2021
 Airline code "NOZ", examples:NOZ61C,47A185,Thu Nov 11 21:30:42 UTC 2021
 Airline code "NSZ", examples:NSZ5YD,4ACA13,Thu Nov 11 21:44:24 UTC 2021
@@ -199,7 +200,6 @@ Airline code "VAJ", examples:VAJ81M,500116,Thu Sep 23 14:12:27 UTC 2021
 Airline code "HON", examples:HON53,A4FC1D,Wed Sep 22 16:21:54 UTC 2021
 Airline code "IBJ", examples:IBJ822D,3453CD,Wed Sep 22 16:05:34 UTC 2021
 Airline code "UAQ", examples:UAQ01,400EE1,Wed Sep 22 10:38:02 UTC 2021
-Airline code "AEG", examples:AEG444,5110C8,Tue Sep 21 20:04:56 UTC 2021
 Airline code "LHA", examples:LHA4225,7BC007,Tue Sep 21 20:05:04 UTC 2021
 Airline code "RJR", examples:RJR005,4D21E5,Tue Sep 21 16:36:44 UTC 2021
 Airline code "GNU", examples:GNU2NF,407BCF,Tue Sep 21 15:23:46 UTC 2021 GNU2NF,407BCF,Tue Sep 21 15:07:00 UTC 2021
