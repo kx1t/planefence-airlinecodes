@@ -1526,6 +1526,7 @@ ETS,Flygtransporter I Nykoping,EXTRANS,Sweden
 ETV,European Executive,EURO EXEC,United Kingdom
 EUC,Eurocontrol,,Belgium
 EUG,Euroguineana de Aviación,EUROGUINEA,Equatorial Guinea
+EUK,Aer Lingus U.K.,GREEN FLIGHT,United Kingdom
 EUL,Euro Link,,Germany
 EUP,Pan Europeenne Air Service,SAVOY,France
 EUT,European 2000 Airlines,FIESTA,Malta
@@ -1734,6 +1735,7 @@ FOM,Freedom Air,FREE AIR,New Zealand
 FOP,Fokker,,Netherlands
 FOR,Formula One Management,FORMULA,United Kingdom
 FOS,Bel Limited,,Russia
+FOX,Flyr AS,GREENSTAR,Norway
 FPA,Flygprestanda,,Sweden
 FPG,TAG Aviation,TAG AVIATION,Switzerland
 FPO,Europe Airpost,FRENCH POST,France
@@ -2433,6 +2435,7 @@ IZG,Zagros Airlines,ZAGROS,Iran
 IZM,Izair,IZMIR,Turkey
 JAB,Air Bagan,AIR BAGAN,Myanmar
 JAD,Aerojal,AEROJAL,Mexico
+JAF,TUI fly Belgium,BEAUTY,Belgium
 JAL,Japan Airlines,,Japan
 JAM,Sunline Express,SUNTRACK,Kenya
 JAR,Airlink,AIRLINK,Austria
@@ -5095,6 +5098,7 @@ URF,Surf Air,SURF AIR,United States
 URG,Air Urga,URGA,Ukraine
 URJ,Star Air,STARAV,Pakistan
 URN,Turan Air,TURAN,Azerbaijan
+URO,European Cargo Limited,EURO,United Kingdom
 URP,ARP 410 Airlines,AIR-ARP,Ukraine
 URV,Uraiavia,URAI,Russia
 URY,Century Aviation,CENTURY AVIA,Mexico
@@ -5217,6 +5221,7 @@ VLT,Vertical-T Air Company,VERTICAL,Russia
 VLU,Valuair,VALUAIR,Singapore
 VLV,Avialift Vladivostok,VLADLIFT,Russia
 VLX,Biz Jet Charter,AVOLAR,United States
+VLZ,Volare Aviation,VOLARE,United Kingdom
 VMA,Vero Monmouth Airlines,VERO MONMOUTH,United States
 VME,Aviación Comercial de América,AVIAMERICA,Mexico
 VMM,Grupo Vuelos Mediterraneo,VUELOS MED,Spain
@@ -5289,6 +5294,7 @@ VVV,Valair Aviação Lda,VALAIRJET,Portugal
 VXG,Avirex,AVIREX-GABON,Gabon
 VXN,Sunset Aviation,VIXEN,United States
 VXP,Mali Air Express,AVION EXPRESS,Mali
+VXS,Voluxis,VOLUXIS,United Kingdom
 VXX,Aviaexpress Aircompany,EXPRESSAVIA,Ukraine
 VYT,RAF Valley Flying Training Unit,ANGLESEY,United Kingdom
 VZL,Vzlyet,VZLYET,Russia
