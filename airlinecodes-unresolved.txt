@@ -1,3 +1,4 @@
+Airline code "JTD", examples:JTD532,45AB4E,Fri Nov 12 17:32:25 UTC 2021
 Airline code "TIV", examples:TIV95,AD3435,Fri Nov 12 16:31:46 UTC 2021
 Airline code "XCH", examples:XCH520U,43E7ED,Fri Nov 12 16:11:33 UTC 2021
 Airline code "KBD", examples:KBD216,398477,Fri Nov 12 15:46:14 UTC 2021
@@ -20,7 +21,6 @@ Airline code "VXS", examples:VXS3,407A32,Fri Nov 12 10:46:18 UTC 2021
 Airline code "FOX", examples:FOX1402,478DEF,Fri Nov 12 09:10:36 UTC 2021
 Airline code "MDO", examples:MDO131,4D21DD,Fri Nov 12 09:57:39 UTC 2021
 Airline code "VKG", examples:VKG628,45D969,Fri Nov 12 08:54:34 UTC 2021
-Airline code "JTD", examples:JTD531,45AB4E,Fri Nov 12 07:24:25 UTC 2021
 Airline code "AEG", examples:AEG462,5110C7,Fri Nov 12 04:04:54 UTC 2021
 Airline code "DHR", examples:DHR40,A2113B,Fri Nov 12 02:33:38 UTC 2021
 Airline code "ASJ", examples:ASJ430,398675,Thu Nov 11 20:18:37 UTC 2021
