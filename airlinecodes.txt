@@ -1453,6 +1453,7 @@ EMD,Eaglemed (Ballard Aviation),EAGLEMED,United States
 EME,Eastern Metro Express,EMAIR,United States
 EMI,Premium Air Shuttle,BLUE SHUTTLE,Nigeria
 EMJ,Yellow Air Taxi/Friendship Airways,,United States
+EMM,Emperor Aviation,RULER,Malta
 EMN,Examiner Training Agency,AGENCY,United Kingdom
 EMP,Empire Air Service,EMPIRE,United States
 EMR,Zenmour Airlines,ZENMOUR,Mauritania
@@ -1760,6 +1761,7 @@ FSB,FSB Flugservice & Development,SEABIRD,Germany
 FSC,Four Star Aviation / Four Star Cargo,FOUR STAR,United States
 FSD,EFS-Flugservice,FLUGSERVICE,Germany
 FSE,Alpine Flightservice,,Switzerland
+FSF,Fly7 Finland,ROCKY,Finland
 FSH,Flash Airlines,FLASH,Egypt
 FSL,Flight Safety Limited,FLIGHTSAFETY,United Kingdom
 FSR,Flightstar Corporation,FLIGHTSTAR,United States
@@ -2402,7 +2404,7 @@ ITF,Avita-Servicos Aéreos,AIR AVITA,Angola
 ITH,International Trans-Air,INTRANS NIGERIA,Nigeria
 ITI,AirSwift,AIRSWIFT,Philippines
 ITK,Interlink Airlines,INTERLINK,South Africa
-ITL,Ital Fly,,Italy
+ITL,Ital Fly,ITARROW,Italy
 ITN,Industrias Titan,TITANLUX,Spain
 ITO,Aero Citro,AERO CITRO,Mexico
 ITR,Frontier Commuter,OUT BACK,United States
@@ -2410,6 +2412,7 @@ ITS,Inter-State Aviation,INTER-STATE,United States
 ITU,Intervuelos,INTERLOS,Mexico
 ITW,Inter Air,INTER WINGS,Bulgaria
 ITX,Imair Airlines,IMPROTEX,Azerbaijan
+ITY,ITA Airways,,Italy
 IUS,Icarus,ICARUS,Italy
 IVA,Innotech Aviation,INNOTECH,Canada
 IVE,Air Executive,COMPANY EXEC,Spain
@@ -3343,6 +3346,7 @@ NOT,Línea Aérea Costa Norte,COSTA NORTE,Chile
 NOV,Nova Airline,NOVANILE,Sudan
 NOW,Royal Norwegian Air Force,NORWEGIAN,Norway
 NOY,Noy Aviation,NOY AVIATION,Israel
+NOZ,Norwegian Air Shuttle,NORSEMAN,Norway
 NPC,Western Air Couriers,NORPAC,United States
 NPO,Novosibirsk Aviation Production Association,NOVSIB,Russia
 NPR,Air Napier,,New Zealand
@@ -3375,6 +3379,7 @@ NSP,Novosibirsk Aircraft Repairing Plant,NARPAIR,Russia
 NSR,Nine Star Airways,AIR STAR,Thailand
 NSS,Northstar Aviation,NORTHSTAR,United States
 NSW,Country Connection Airlines,,Australia
+NSZ,Norwegian Air Sweden,NORLIGHT,Sweden
 NTA,Northern Thunderbird Air,THUNDERBIRD,Canada
 NTB,Servicios Aéreos Del Norte,SERVINORTE,Mexico
 NTC,Gibson Aviation,NIGHT CHASE,United States
@@ -4105,6 +4110,7 @@ RUA,Rwanda Airlines,,Rwanda
 RUC,Rutas Aéreas,RUTACA,Venezuela
 RUD,Air Anastasia,ANASTASIA,Ukraine
 RUH,Rusich-T,,Russia
+RUK,Ryanair UK,BLUEMAX,United Kingdom
 RUM,Air Rum,AIR RUM,Sierra Leone
 RUN,ACT Havayollari,CARGO TURK,Turkey
 RUR,Rusaero,,Russia
