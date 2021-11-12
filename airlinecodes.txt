@@ -2404,7 +2404,7 @@ ITF,Avita-Servicos Aéreos,AIR AVITA,Angola
 ITH,International Trans-Air,INTRANS NIGERIA,Nigeria
 ITI,AirSwift,AIRSWIFT,Philippines
 ITK,Interlink Airlines,INTERLINK,South Africa
-ITL,Ital Fly,ITARROW,Italy
+ITL,Ital Fly,,Italy
 ITN,Industrias Titan,TITANLUX,Spain
 ITO,Aero Citro,AERO CITRO,Mexico
 ITR,Frontier Commuter,OUT BACK,United States
@@ -2412,7 +2412,7 @@ ITS,Inter-State Aviation,INTER-STATE,United States
 ITU,Intervuelos,INTERLOS,Mexico
 ITW,Inter Air,INTER WINGS,Bulgaria
 ITX,Imair Airlines,IMPROTEX,Azerbaijan
-ITY,ITA Airways,,Italy
+ITY,ITA Airways,ITARROW,Italy
 IUS,Icarus,ICARUS,Italy
 IVA,Innotech Aviation,INNOTECH,Canada
 IVE,Air Executive,COMPANY EXEC,Spain
