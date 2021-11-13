@@ -1,6 +1,6 @@
+Airline code "JTD", examples:JTD872,45AB4D,Sat Nov 13 12:05:24 UTC 2021
 Airline code "HLL", examples:HLL01,407924,Sat Nov 13 11:39:40 UTC 2021
 Airline code "RKK", examples:RKK38,A14F52,Sat Nov 13 09:20:39 UTC 2021
-Airline code "JTD", examples:JTD501,45AB4E,Sat Nov 13 07:50:05 UTC 2021
 Airline code "JTZ", examples:JTZ516,A678E5,Sat Nov 13 03:21:50 UTC 2021
 Airline code "DHR", examples:DHR40,A2113B,Sat Nov 13 02:33:38 UTC 2021
 Airline code "TJD", examples:TJD975,300829,Fri Nov 12 18:00:33 UTC 2021
