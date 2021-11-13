@@ -1,3 +1,4 @@
+Airline code "HLL", examples:HLL01,407924,Sat Nov 13 11:39:40 UTC 2021
 Airline code "RKK", examples:RKK38,A14F52,Sat Nov 13 09:20:39 UTC 2021
 Airline code "JTD", examples:JTD501,45AB4E,Sat Nov 13 07:50:05 UTC 2021
 Airline code "JTZ", examples:JTZ516,A678E5,Sat Nov 13 03:21:50 UTC 2021
@@ -128,7 +129,6 @@ Airline code "WMN", examples:WMN160,A0F347,Thu Oct 28 19:27:52 UTC 2021
 Airline code "TBJ", examples:TBJ91,A6BC98,Thu Oct 28 16:01:29 UTC 2021
 Airline code "MJE", examples:MJE001,8964C4,Thu Oct 28 15:19:57 UTC 2021
 Airline code "KEJ", examples:KEJ6496,6830BB,Thu Oct 28 10:58:20 UTC 2021
-Airline code "HLL", examples:HLL45,407924,Thu Oct 28 08:12:11 UTC 2021
 Airline code "AZD", examples:AZD491,4B0139,Tue Oct 26 22:43:01 UTC 2021
 Airline code "EAU", examples:EAU57B,4D2308,Tue Oct 26 20:05:29 UTC 2021
 Airline code "IFG", examples:IFG550,A26A2C,Tue Oct 26 02:33:10 UTC 2021
