@@ -1,3 +1,4 @@
+Airline code "RKK", examples:RKK38,A14F52,Sat Nov 13 09:20:39 UTC 2021
 Airline code "JTD", examples:JTD501,45AB4E,Sat Nov 13 07:50:05 UTC 2021
 Airline code "JTZ", examples:JTZ516,A678E5,Sat Nov 13 03:21:50 UTC 2021
 Airline code "DHR", examples:DHR40,A2113B,Sat Nov 13 02:33:38 UTC 2021
@@ -72,7 +73,6 @@ Airline code "GJI", examples:GJI55,4CA785,Mon Nov 8 12:12:53 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Mon Nov 8 12:58:54 UTC 2021
 Airline code "JCO", examples:JCO55L,406A1E,Mon Nov 8 09:41:52 UTC 2021
 Airline code "NYX", examples:NYX420,511147,Mon Nov 8 05:57:49 UTC 2021
-Airline code "RKK", examples:RKK18,A147E4,Mon Nov 8 00:50:39 UTC 2021
 Airline code "VCJ", examples:VCJ92T,4D229A,Sun Nov 7 21:32:35 UTC 2021
 Airline code "HYS", examples:HYS252,4A08A5,Sun Nov 7 19:19:49 UTC 2021
 Airline code "AJO", examples:AJO341,4D22DC,Sun Nov 7 17:57:09 UTC 2021
