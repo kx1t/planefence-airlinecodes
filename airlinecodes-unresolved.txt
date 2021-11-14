@@ -1,6 +1,7 @@
+Airline code "FJO", examples:FJO62L,4D2342,Sun Nov 14 12:41:35 UTC 2021
+Airline code "XCH", examples:XCH521U,43E7ED,Sun Nov 14 12:20:50 UTC 2021
 Airline code "SZS", examples:SZS531,4CAF82,Sun Nov 14 11:16:42 UTC 2021
 Airline code "CSG", examples:CSG2576,7805AA,Sun Nov 14 08:53:36 UTC 2021
-Airline code "FJO", examples:FJO62L,4D2342,Sun Nov 14 08:52:48 UTC 2021
 Airline code "JTD", examples:JTD517,45AB4E,Sun Nov 14 07:52:28 UTC 2021
 Airline code "UWD", examples:UWD30,A83E95,Sun Nov 14 00:52:31 UTC 2021 UWD30,A83E95,Sun Nov 14 00:51:56 UTC 2021
 Airline code "HLL", examples:HLL01,407924,Sat Nov 13 15:12:14 UTC 2021
@@ -9,7 +10,6 @@ Airline code "JTZ", examples:JTZ516,A678E5,Sat Nov 13 03:21:50 UTC 2021
 Airline code "DHR", examples:DHR40,A2113B,Sat Nov 13 02:33:38 UTC 2021
 Airline code "TJD", examples:TJD975,300829,Fri Nov 12 18:00:33 UTC 2021
 Airline code "TIV", examples:TIV95,AD3435,Fri Nov 12 16:31:46 UTC 2021
-Airline code "XCH", examples:XCH520U,43E7ED,Fri Nov 12 16:11:33 UTC 2021
 Airline code "KBD", examples:KBD216,398477,Fri Nov 12 15:46:14 UTC 2021
 Airline code "ULC", examples:ULC22,4D2305,Fri Nov 12 15:03:30 UTC 2021
 Airline code "WRC", examples:WRC7753,5083B4,Fri Nov 12 15:59:32 UTC 2021
