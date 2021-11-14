@@ -1,10 +1,10 @@
+Airline code "HLL", examples:HLL01,407924,Sun Nov 14 15:25:36 UTC 2021
+Airline code "JTD", examples:JTD893,45AB4D,Sun Nov 14 15:38:04 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Sun Nov 14 12:41:35 UTC 2021
 Airline code "XCH", examples:XCH521U,43E7ED,Sun Nov 14 12:20:50 UTC 2021
 Airline code "SZS", examples:SZS531,4CAF82,Sun Nov 14 11:16:42 UTC 2021
 Airline code "CSG", examples:CSG2576,7805AA,Sun Nov 14 08:53:36 UTC 2021
-Airline code "JTD", examples:JTD517,45AB4E,Sun Nov 14 07:52:28 UTC 2021
 Airline code "UWD", examples:UWD30,A83E95,Sun Nov 14 00:52:31 UTC 2021 UWD30,A83E95,Sun Nov 14 00:51:56 UTC 2021
-Airline code "HLL", examples:HLL01,407924,Sat Nov 13 15:12:14 UTC 2021
 Airline code "RKK", examples:RKK38,A14F52,Sat Nov 13 09:20:39 UTC 2021
 Airline code "JTZ", examples:JTZ516,A678E5,Sat Nov 13 03:21:50 UTC 2021
 Airline code "DHR", examples:DHR40,A2113B,Sat Nov 13 02:33:38 UTC 2021
