@@ -1,6 +1,6 @@
+Airline code "SZS", examples:SZS531,4CAF82,Sun Nov 14 11:16:42 UTC 2021
 Airline code "CSG", examples:CSG2576,7805AA,Sun Nov 14 08:53:36 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Sun Nov 14 08:52:48 UTC 2021
-Airline code "SZS", examples:SZS525,4CAF7E,Sun Nov 14 08:26:31 UTC 2021
 Airline code "JTD", examples:JTD517,45AB4E,Sun Nov 14 07:52:28 UTC 2021
 Airline code "UWD", examples:UWD30,A83E95,Sun Nov 14 00:52:31 UTC 2021 UWD30,A83E95,Sun Nov 14 00:51:56 UTC 2021
 Airline code "HLL", examples:HLL01,407924,Sat Nov 13 15:12:14 UTC 2021
