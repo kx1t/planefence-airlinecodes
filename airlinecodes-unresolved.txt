@@ -1,3 +1,4 @@
+Airline code "GFM", examples:GFM5X,4AC998,Mon Nov 15 10:31:08 UTC 2021
 Airline code "PCT", examples:PCT500,3F9AE8,Mon Nov 15 09:04:01 UTC 2021
 Airline code "RKK", examples:RKK38,A14F52,Mon Nov 15 09:25:43 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF7E,Mon Nov 15 07:47:59 UTC 2021
@@ -49,7 +50,6 @@ Airline code "XGO", examples:XGO5SB,3E4082,Thu Nov 11 13:14:22 UTC 2021
 Airline code "PJS", examples:PJS400,4B18A1,Thu Nov 11 11:14:47 UTC 2021
 Airline code "UAW", examples:UAW22,400EA0,Thu Nov 11 11:19:45 UTC 2021
 Airline code "HNW", examples:HNW757,AA34CE,Thu Nov 11 10:13:23 UTC 2021
-Airline code "GFM", examples:GFM5X,4AC998,Thu Nov 11 09:25:32 UTC 2021
 Airline code "RWZ", examples:RWZ8986,42435B,Thu Nov 11 08:31:26 UTC 2021
 Airline code "FLJ", examples:FLJ61H,407AE1,Thu Nov 11 07:23:19 UTC 2021
 Airline code "BFD", examples:BFD65H,3CBDEB,Thu Nov 11 05:38:15 UTC 2021
