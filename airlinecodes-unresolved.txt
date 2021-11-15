@@ -1,3 +1,4 @@
+Airline code "OCJ", examples:OCJ202,50011A,Mon Nov 15 17:57:47 UTC 2021
 Airline code "SZS", examples:SZS1523,4CAF7E,Mon Nov 15 16:24:33 UTC 2021
 Airline code "JTD", examples:JTD851,45AB4D,Mon Nov 15 14:28:27 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Mon Nov 15 10:31:08 UTC 2021
@@ -183,7 +184,6 @@ Airline code "HTM", examples:HTM09F,3E0609,Sat Oct 9 18:06:29 UTC 2021
 Airline code "MAO", examples:MAO2,A0B5AA,Wed Oct 6 23:19:24 UTC 2021
 Airline code "BJN", examples:BJN099,7807FC,Wed Oct 6 21:18:43 UTC 2021
 Airline code "CJY", examples:CJY972,C02876,Wed Oct 6 21:12:33 UTC 2021
-Airline code "OCJ", examples:OCJ102,50011B,Sun Oct 3 21:05:44 UTC 2021
 Airline code "LLK", examples:LLK501,46988B,Sat Oct 2 09:10:09 UTC 2021
 Airline code "JCT", examples:JCT73,A9D062,Fri Oct 1 21:00:33 UTC 2021
 Airline code "GJW", examples:GJW29LO,484499,Fri Oct 1 19:06:46 UTC 2021
