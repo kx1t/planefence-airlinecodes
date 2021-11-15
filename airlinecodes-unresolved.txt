@@ -1,9 +1,9 @@
+Airline code "SZS", examples:SZS525,4CAF7E,Mon Nov 15 07:47:59 UTC 2021
 Airline code "KFB", examples:KFB960,AD5C7F,Mon Nov 15 01:31:39 UTC 2021
 Airline code "UWD", examples:UWD30,A83E95,Mon Nov 15 01:02:24 UTC 2021
 Airline code "PPJ", examples:PPJ295,A66244,Sun Nov 14 21:54:43 UTC 2021
 Airline code "CSG", examples:CSG2576,7805AA,Sun Nov 14 16:07:18 UTC 2021
 Airline code "GWR", examples:GWR4001,34660C,Sun Nov 14 16:34:00 UTC 2021
-Airline code "SZS", examples:SZS525,4CAF7E,Sun Nov 14 16:07:15 UTC 2021
 Airline code "HLL", examples:HLL01,407924,Sun Nov 14 15:25:36 UTC 2021
 Airline code "JTD", examples:JTD893,45AB4D,Sun Nov 14 15:38:04 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Sun Nov 14 12:41:35 UTC 2021
