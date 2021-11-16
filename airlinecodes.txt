@@ -1234,7 +1234,6 @@ COE,Comtel Air,,Austria
 COF,Confort Air,CONFORT,Canada
 COH,RAF Coltishall,COLT,United Kingdom
 COL,SC Aviation,,United States
-Column1,#N/A,#N/A,#N/A
 COM,Comair,COMAIR,United States
 CON,Continental Oil,CONOCO,United States
 COO,Corporate Airlink,CORPORATE,Canada
@@ -1990,8 +1989,7 @@ FFM,Firefly,FIREFLY,Malaysia
 FFP,Fischer Air Polska,FLYING FISH,Poland
 FFR,Fischer Air,FISCHER,Czech Republic
 FFS,Florida Department of Agriculture,FORESTRY,United States
-FFT,Frontier Airlines
-ONTIER FLIGHT,United States
+FFT,Frontier Airlines,FRONTIER FLIGHT,United States
 FFU,GEC Marconi Avionics,FERRANTI,United Kingdom
 FFV,Fly540,,Kenya
 FFY,Fun Flying Thai Air Service,FUN FLYING,Thailand
