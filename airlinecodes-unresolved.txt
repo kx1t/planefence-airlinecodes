@@ -1,3 +1,4 @@
+Airline code "PGN", examples:PGN333W,A3A1F2,Tue Nov 16 15:28:54 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 16 13:09:30 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Tue Nov 16 13:51:55 UTC 2021
 Airline code "RDF", examples:RDF32,3DD821,Tue Nov 16 11:40:13 UTC 2021 RDF32,3DD821,Tue Nov 16 11:40:02 UTC 2021 RDF32,3DD821,Tue Nov 16 11:33:02 UTC 2021
@@ -46,7 +47,6 @@ Airline code "HPK", examples:HPK09,A9767B,Thu Nov 11 19:43:15 UTC 2021
 Airline code "JCL", examples:JCL1,3CF106,Thu Nov 11 18:23:56 UTC 2021 JCL1,3CF106,Thu Nov 11 18:23:54 UTC 2021
 Airline code "JAV", examples:JAV4492,742AC2,Thu Nov 11 16:48:03 UTC 2021
 Airline code "DFC", examples:DFC47P,49D44A,Thu Nov 11 15:01:08 UTC 2021
-Airline code "PGN", examples:PGN41,A4D375,Thu Nov 11 15:11:12 UTC 2021
 Airline code "OOE", examples:OOE06,4497C2,Thu Nov 11 14:50:54 UTC 2021
 Airline code "OOI", examples:OOI20,44A7D0,Thu Nov 11 14:18:57 UTC 2021
 Airline code "XGO", examples:XGO5SB,3E4082,Thu Nov 11 13:14:22 UTC 2021
