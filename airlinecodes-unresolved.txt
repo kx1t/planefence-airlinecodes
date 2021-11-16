@@ -1,8 +1,8 @@
+Airline code "SZS", examples:SZS1523,4CAF7E,Tue Nov 16 16:15:51 UTC 2021
 Airline code "PGN", examples:PGN333W,A3A1F2,Tue Nov 16 15:28:54 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 16 13:09:30 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Tue Nov 16 13:51:55 UTC 2021
 Airline code "RDF", examples:RDF32,3DD821,Tue Nov 16 11:40:13 UTC 2021 RDF32,3DD821,Tue Nov 16 11:40:02 UTC 2021 RDF32,3DD821,Tue Nov 16 11:33:02 UTC 2021
-Airline code "SZS", examples:SZS531,4CAF82,Tue Nov 16 11:12:19 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Tue Nov 16 08:03:52 UTC 2021
 Airline code "JTD", examples:JTD287,45AB4E,Tue Nov 16 06:31:01 UTC 2021
 Airline code "KFB", examples:KFB218,A1D81F,Mon Nov 15 19:39:23 UTC 2021
