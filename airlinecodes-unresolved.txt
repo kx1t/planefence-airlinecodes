@@ -1,3 +1,4 @@
+Airline code "HLY", examples:HLY95,4076F4,Tue Nov 16 08:03:52 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF7E,Tue Nov 16 07:52:06 UTC 2021
 Airline code "JTD", examples:JTD287,45AB4E,Tue Nov 16 06:31:01 UTC 2021
 Airline code "KFB", examples:KFB218,A1D81F,Mon Nov 15 19:39:23 UTC 2021
@@ -74,7 +75,6 @@ Airline code "RSJ", examples:RSJ9619,424650,Mon Nov 8 18:21:04 UTC 2021
 Airline code "JBC", examples:JBC835B,49D4E4,Mon Nov 8 14:29:53 UTC 2021
 Airline code "BOG", examples:BOG71,A8E0C2,Mon Nov 8 13:30:52 UTC 2021
 Airline code "GJI", examples:GJI55,4CA785,Mon Nov 8 12:12:53 UTC 2021
-Airline code "HLY", examples:HLY95,4076F4,Mon Nov 8 12:58:54 UTC 2021
 Airline code "JCO", examples:JCO55L,406A1E,Mon Nov 8 09:41:52 UTC 2021
 Airline code "NYX", examples:NYX420,511147,Mon Nov 8 05:57:49 UTC 2021
 Airline code "VCJ", examples:VCJ92T,4D229A,Sun Nov 7 21:32:35 UTC 2021
