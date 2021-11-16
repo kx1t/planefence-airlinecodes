@@ -1,6 +1,6 @@
+Airline code "JTD", examples:JTD287,45AB4E,Tue Nov 16 06:31:01 UTC 2021
 Airline code "KFB", examples:KFB218,A1D81F,Mon Nov 15 19:39:23 UTC 2021
 Airline code "PCT", examples:PCT501,3F9AE8,Mon Nov 15 19:19:20 UTC 2021
-Airline code "JTD", examples:JTD422,45AB4E,Mon Nov 15 18:34:52 UTC 2021
 Airline code "OCJ", examples:OCJ202,50011A,Mon Nov 15 17:57:47 UTC 2021
 Airline code "SZS", examples:SZS1523,4CAF7E,Mon Nov 15 16:24:33 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Mon Nov 15 10:31:08 UTC 2021
