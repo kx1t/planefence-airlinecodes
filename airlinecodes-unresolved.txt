@@ -1,3 +1,4 @@
+Airline code "INI", examples:INI232,343183,Wed Nov 17 12:56:28 UTC 2021 INI232,343183,Wed Nov 17 12:56:23 UTC 2021 INI232,343183,Wed Nov 17 12:56:23 UTC 2021
 Airline code "JTD", examples:JTD884,45AB4D,Wed Nov 17 11:54:57 UTC 2021
 Airline code "SZS", examples:SZS526,4CAF7E,Wed Nov 17 11:32:56 UTC 2021
 Airline code "OBI", examples:OBI2,43C553,Wed Nov 17 09:26:11 UTC 2021
@@ -96,7 +97,6 @@ Airline code "RDH", examples:RDH072,4071AA,Fri Nov 5 11:03:43 UTC 2021
 Airline code "PXG", examples:PXG680,A9033E,Fri Nov 5 00:15:24 UTC 2021 PXG680,A9033E,Fri Nov 5 00:12:36 UTC 2021
 Airline code "RDN", examples:RDN110,AB6EBE,Fri Nov 5 00:55:52 UTC 2021
 Airline code "LRQ", examples:LRQ562B,4D028F,Thu Nov 4 19:22:18 UTC 2021
-Airline code "INI", examples:INI241,343183,Thu Nov 4 17:45:18 UTC 2021
 Airline code "QNR", examples:QNR25A,49D317,Thu Nov 4 14:52:25 UTC 2021
 Airline code "ICF", examples:ICF601,5000B4,Thu Nov 4 11:18:50 UTC 2021
 Airline code "TMN", examples:TMN83,7C1795,Wed Nov 3 22:06:53 UTC 2021
