@@ -1,3 +1,4 @@
+Airline code "KFB", examples:KFB60,A7C583,Wed Nov 17 17:43:47 UTC 2021
 Airline code "GKY", examples:GKY979,42483E,Wed Nov 17 15:11:05 UTC 2021
 Airline code "PGN", examples:PGN333W,A3A1F2,Wed Nov 17 15:42:04 UTC 2021
 Airline code "IFG", examples:IFG550,A26A2C,Wed Nov 17 13:50:33 UTC 2021
@@ -11,7 +12,6 @@ Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 16 13:09:30 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Tue Nov 16 13:51:55 UTC 2021
 Airline code "RDF", examples:RDF32,3DD821,Tue Nov 16 11:40:13 UTC 2021 RDF32,3DD821,Tue Nov 16 11:40:02 UTC 2021 RDF32,3DD821,Tue Nov 16 11:33:02 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Tue Nov 16 08:03:52 UTC 2021
-Airline code "KFB", examples:KFB218,A1D81F,Mon Nov 15 19:39:23 UTC 2021
 Airline code "OCJ", examples:OCJ202,50011A,Mon Nov 15 17:57:47 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Mon Nov 15 10:31:08 UTC 2021
 Airline code "RKK", examples:RKK38,A14F52,Mon Nov 15 09:25:43 UTC 2021
