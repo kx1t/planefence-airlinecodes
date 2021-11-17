@@ -1,7 +1,7 @@
+Airline code "JTD", examples:JTD884,45AB4D,Wed Nov 17 11:54:57 UTC 2021
+Airline code "SZS", examples:SZS526,4CAF7E,Wed Nov 17 11:32:56 UTC 2021
 Airline code "OBI", examples:OBI2,43C553,Wed Nov 17 09:26:11 UTC 2021
-Airline code "SZS", examples:SZS525,4CAF7E,Wed Nov 17 07:43:37 UTC 2021
 Airline code "PCT", examples:PCT505,3F9AE8,Wed Nov 17 04:03:25 UTC 2021
-Airline code "JTD", examples:JTD288,45AB4E,Tue Nov 16 22:04:03 UTC 2021
 Airline code "PGN", examples:PGN333W,A3A1F2,Tue Nov 16 15:28:54 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 16 13:09:30 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Tue Nov 16 13:51:55 UTC 2021
