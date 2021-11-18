@@ -119,7 +119,7 @@ ADY,Aerodyne,AERODYNE,United States
 ADZ,Avio Delta,,Bulgaria
 AEA,Air Europa,EUROPA,Spain
 AEB,Aero Benin,,Benin
-AEC,Aerocesar,,AEROCESAR
+AEC,Aerocesar,AEROCESAR,Colombia
 AED,Aerotrans Airlines,,Russia
 AEE,Aegean Airlines,AEGEAN,Greece
 AEF,Aerea,,Spain
@@ -151,7 +151,7 @@ AFE,Airfast Indonesia,AIRFAST,Indonesia
 AFF,Africa Airways,AFRIWAYS,Benin
 AFG,Ariana Afghan Airlines,ARIANA,Afghanistan
 AFH,Air Fecteau,,Canada
-AFI,Africaone,AFRICAWORLD,The Gambia
+AFI,Africaone,AFRICAWORLD,Gambia
 AFJ,Alliance,,Uganda
 AFK,Africa Air Links,AFRICA LINKS,Sierra Leone
 AFL,Aeroflot Russian Airlines,AEROFLOT,Russia
@@ -279,17 +279,17 @@ AL1,All Argentina,,Argentina
 AL2,All America,,United States
 AL3,All Asia,,China
 ALB,Aero Albatros,ALBATROS,Mexico
-ALC,Southern Jersey Airways, Inc.,ACOM
+ALC,Southern Jersey Airways Inc.,ACOM,United States
 ALD,Albion Aviation,ALBION,United Kingdom
 ALE,Alliance Executive Jets,,Malta
 ALF,Allied Command Europe (Mobile Force),ACEFORCE,Belgium
 ALG,Air Logistics,AIRLOG,United States
-ALI,Airlift AS,BLUELIFT,NO
+ALI,Airlift AS,BLUELIFT,Norway
 ALJ,Heli Ambulance Team,ALPIN HELI,Austria
 ALK,SriLankan Airlines,SRILANKAN,Sri Lanka
 ALL,Aerovallarta,VALLARTA,Mexico
 ALM,Air ALM,,Netherlands Antilles
-ALN,Alpha Jet, S.R.O.,TOLEMAC
+ALN,Alpha Jet S.R.O.,TOLEMAC,United States
 ALO,Allegheny Commuter Airlines,ALLEGHENY,United States
 ALP,Allpoints Jet,ALLPOINTS,China
 ALQ,Altair Aviation (1986),ALTAIR,Canada
@@ -298,7 +298,7 @@ ALS,Aeralp,AERALP,France
 ALT,Aerolíneas Centrales,AERLINEAS CENTRALES,Mexico
 ALU,Air Luxor STP,LUXORJET,São Tomé and Príncipe
 ALV,Aeropostal Alas de Venezuela,AEROPOSTAL,Venezuela
-ALW,Alas Nacionales, S.A.,ALNACIONAL
+ALW,Alas Nacionales S.A.,ALNACIONAL,Dominican Republic
 ALX,Hewa Bora Airways,ALLCONGO,Democratic Republic of the Congo
 ALY,Alyeska Air Service,ALYESKA,United States
 ALZ,Alta Flights (Charters) Ltd.,,Canada
@@ -346,40 +346,40 @@ ANS,Andes Líneas Aéreas,AEROANDES,Argentina
 ANT,Air North Charter - Canada,AIR NORTH,Canada
 ANU,Andalus Lineas Aereas,,Spain
 ANV,Air Nevada,AIR NEVADA,United States
-ANW,Aviacion Del Noroeste,,AVINOR
+ANW,Aviacion Del Noroeste,AVINOR,Mexico
 ANX,Secretaria de Marina,SECRETARIA DEMARINA,Mexico
 ANZ,Air New Zealand,NEW ZEALAND,New Zealand
 AO1,AirOne Atlantic,,Slovakia
-AOA,Alcon Servicios Aéreos, S.A. de C.V.,ALCON
+AOA,Alcon Servicios Aéreos S.A. de C.V.,ALCON,Mexico
 AOB,Aerocaribe Coro,CARIBE CORO,Venezuela
 AOC,AVCOM,AERO AVCOM,Russia
 AOD,Aero Vodochody,AERO CZECH,Czech Republic
 AOE,Air One Executive,,Italy
 AOF,Atair Pty Ltd.,ATAIR,South Africa
 AOG,Aero VIP,,Argentina
-AOI,Astoria,,ASTORIA
+AOI,Astoria,ASTORIA,Canada
 AOJ,Avcon Jet,ASTERIX,Austria
 AOK,Aeroatlantico Colombia,,Colombia
 AOL,Angkor Airlines,,Cambodia
 AOM,AOM French Airlines,,France
 AON,Aero Entreprise,AERO ENTERPRISE,France
-AOO,As, Opened Joint Stock Company,COMPANY AS
+AOO,As Opened Joint Stock Company,COMPANY AS,Ukraine
 AOP,Aeropiloto,AEROPILOTO,Portugal
 AOR,Afro International Ent. Limited,INTER-AFRO,Nigeria
-AOS,Servicios Aéreos Del Sol, S.A. de C.V.,AEROSOL
+AOS,Servicios Aéreos Del Sol S.A. de C.V.,AEROSOL,Mexico
 AOT,Asia Overnight Express,ASIA OVERNIGHT,Philippines
 AOU,Air Tractor,AIR TRACTOR,Croatia
 AOV,Aero Vision,AEROVISION,France
 AOW,Air Andaman (2Y),,Thailand
 AOX,Aerotaxi Del Valle,AEROVALLE,Colombia
 APA,Air Park Aviation Ltd.,CAN-AM,Canada
-APC,Airpac Airlines, Inc.,AIRPAC
+APC,Airpac Airlines Inc.,AIRPAC,United States
 APD,Sabre Pacific,,Australia
 APE,Parcel Express,AIR PARCEL,United States
 APF,Amapola Flyg AB,AMAPOLA,Sweden
 APG,Air People International,AIR PEOPLE,Thailand
-APH,Alpha Aviation, Inc.,AIRFLIGHT
-API,ASA Pesada, Lda.,ASA PESADA
+APH,Alpha Aviation Inc.,AIRFLIGHT,United States
+API,ASA Pesada Lda.,ASA PESADA,
 APJ,Peach Aviation,AIR PEACH,Japan
 APK,Air Peace,,New Zealand
 APL,Appalachian Flying Service, Inc.,APPALACHIAN
