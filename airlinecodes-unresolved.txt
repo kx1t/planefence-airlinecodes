@@ -1,3 +1,4 @@
+Airline code "PCT", examples:PCT509,3F9AE8,Thu Nov 18 20:54:10 UTC 2021
 Airline code "JTD", examples:JTD516,45AB4E,Thu Nov 18 18:26:01 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Thu Nov 18 17:18:41 UTC 2021
 Airline code "GWR", examples:GWR4001,34660C,Thu Nov 18 16:28:55 UTC 2021
@@ -14,7 +15,6 @@ Airline code "PGN", examples:PGN333W,A3A1F2,Wed Nov 17 15:42:04 UTC 2021
 Airline code "UAW", examples:UAW23,400EA0,Wed Nov 17 13:42:36 UTC 2021
 Airline code "INI", examples:INI232,343183,Wed Nov 17 12:56:28 UTC 2021 INI232,343183,Wed Nov 17 12:56:23 UTC 2021 INI232,343183,Wed Nov 17 12:56:23 UTC 2021
 Airline code "OBI", examples:OBI2,43C553,Wed Nov 17 09:26:11 UTC 2021
-Airline code "PCT", examples:PCT505,3F9AE8,Wed Nov 17 04:03:25 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 16 13:09:30 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Tue Nov 16 08:03:52 UTC 2021
 Airline code "OCJ", examples:OCJ202,50011A,Mon Nov 15 17:57:47 UTC 2021
