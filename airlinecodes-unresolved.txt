@@ -1,3 +1,4 @@
+Airline code "HLL", examples:HLL45,407924,Thu Nov 18 17:18:41 UTC 2021
 Airline code "GWR", examples:GWR4001,34660C,Thu Nov 18 16:28:55 UTC 2021
 Airline code "SZS", examples:SZS1523,4CAF82,Thu Nov 18 16:27:54 UTC 2021
 Airline code "RDF", examples:RDF32,3DD821,Thu Nov 18 12:46:14 UTC 2021
@@ -20,7 +21,6 @@ Airline code "OCJ", examples:OCJ202,50011A,Mon Nov 15 17:57:47 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Mon Nov 15 10:31:08 UTC 2021
 Airline code "UWD", examples:UWD30,A83E95,Mon Nov 15 01:02:24 UTC 2021
 Airline code "PPJ", examples:PPJ295,A66244,Sun Nov 14 21:54:43 UTC 2021
-Airline code "HLL", examples:HLL01,407924,Sun Nov 14 15:25:36 UTC 2021
 Airline code "XCH", examples:XCH521U,43E7ED,Sun Nov 14 12:20:50 UTC 2021
 Airline code "JTZ", examples:JTZ516,A678E5,Sat Nov 13 03:21:50 UTC 2021
 Airline code "DHR", examples:DHR40,A2113B,Sat Nov 13 02:33:38 UTC 2021
