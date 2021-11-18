@@ -1,11 +1,11 @@
+Airline code "GWR", examples:GWR4001,34660C,Thu Nov 18 16:28:55 UTC 2021
+Airline code "SZS", examples:SZS1523,4CAF82,Thu Nov 18 16:27:54 UTC 2021
 Airline code "RDF", examples:RDF32,3DD821,Thu Nov 18 12:46:14 UTC 2021
 Airline code "JTD", examples:JTD357,45AA90,Thu Nov 18 11:12:34 UTC 2021
-Airline code "SZS", examples:SZS525,4CAF82,Thu Nov 18 11:12:36 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Thu Nov 18 10:38:12 UTC 2021
 Airline code "RKU", examples:RKU1,C80DAF,Thu Nov 18 03:18:18 UTC 2021
 Airline code "IFG", examples:IFG550,A26A2C,Thu Nov 18 02:33:08 UTC 2021
 Airline code "REH", examples:REH8,A37B02,Thu Nov 18 01:21:15 UTC 2021
-Airline code "GWR", examples:GWR4002,34660C,Wed Nov 17 19:04:23 UTC 2021
 Airline code "RKK", examples:RKK38,A14F52,Wed Nov 17 19:55:07 UTC 2021
 Airline code "KFB", examples:KFB60,A7C583,Wed Nov 17 17:43:47 UTC 2021
 Airline code "GKY", examples:GKY979,42483E,Wed Nov 17 15:11:05 UTC 2021
