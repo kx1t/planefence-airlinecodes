@@ -1,8 +1,8 @@
+Airline code "PCT", examples:PCT511,3F9AE8,Fri Nov 19 18:00:43 UTC 2021
 Airline code "EGT", examples:EGT602,451C29,Fri Nov 19 16:47:51 UTC 2021 EGT602,451C29,Fri Nov 19 16:47:35 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Fri Nov 19 16:32:34 UTC 2021
 Airline code "HLY", examples:HLY47,4076F4,Fri Nov 19 13:36:23 UTC 2021
 Airline code "JTD", examples:JTD387,45AA90,Fri Nov 19 07:29:50 UTC 2021
-Airline code "PCT", examples:PCT510,3F9AE8,Fri Nov 19 07:38:52 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF7E,Fri Nov 19 07:52:53 UTC 2021
 Airline code "XCH", examples:XCH522,43E7ED,Fri Nov 19 07:47:21 UTC 2021
 Airline code "IFG", examples:IFG550,A26A2C,Fri Nov 19 02:33:08 UTC 2021
