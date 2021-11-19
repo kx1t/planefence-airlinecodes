@@ -1,3 +1,4 @@
+Airline code "FJO", examples:FJO54A,4D2330,Fri Nov 19 09:16:22 UTC 2021
 Airline code "JTD", examples:JTD387,45AA90,Fri Nov 19 07:29:50 UTC 2021
 Airline code "PCT", examples:PCT510,3F9AE8,Fri Nov 19 07:38:52 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF7E,Fri Nov 19 07:52:53 UTC 2021
@@ -8,7 +9,6 @@ Airline code "TIV", examples:TIV690,A92C9D,Thu Nov 18 21:06:44 UTC 2021 TIV690,A
 Airline code "HLL", examples:HLL45,407924,Thu Nov 18 17:18:41 UTC 2021
 Airline code "GWR", examples:GWR4001,34660C,Thu Nov 18 16:28:55 UTC 2021
 Airline code "RDF", examples:RDF32,3DD821,Thu Nov 18 12:46:14 UTC 2021
-Airline code "FJO", examples:FJO62L,4D2342,Thu Nov 18 10:38:12 UTC 2021
 Airline code "RKU", examples:RKU1,C80DAF,Thu Nov 18 03:18:18 UTC 2021
 Airline code "REH", examples:REH8,A37B02,Thu Nov 18 01:21:15 UTC 2021
 Airline code "RKK", examples:RKK38,A14F52,Wed Nov 17 19:55:07 UTC 2021
