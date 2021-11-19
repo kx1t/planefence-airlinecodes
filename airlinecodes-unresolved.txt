@@ -1,3 +1,4 @@
+Airline code "IFG", examples:IFG550,A26A2C,Thu Nov 18 23:21:13 UTC 2021
 Airline code "PPJ", examples:PPJ295,A66244,Thu Nov 18 22:26:33 UTC 2021
 Airline code "TIV", examples:TIV690,A92C9D,Thu Nov 18 21:06:44 UTC 2021 TIV690,A92C9D,Thu Nov 18 21:01:07 UTC 2021
 Airline code "PCT", examples:PCT509,3F9AE8,Thu Nov 18 20:54:10 UTC 2021
@@ -8,7 +9,6 @@ Airline code "SZS", examples:SZS1523,4CAF82,Thu Nov 18 16:27:54 UTC 2021
 Airline code "RDF", examples:RDF32,3DD821,Thu Nov 18 12:46:14 UTC 2021
 Airline code "FJO", examples:FJO62L,4D2342,Thu Nov 18 10:38:12 UTC 2021
 Airline code "RKU", examples:RKU1,C80DAF,Thu Nov 18 03:18:18 UTC 2021
-Airline code "IFG", examples:IFG550,A26A2C,Thu Nov 18 02:33:08 UTC 2021
 Airline code "REH", examples:REH8,A37B02,Thu Nov 18 01:21:15 UTC 2021
 Airline code "RKK", examples:RKK38,A14F52,Wed Nov 17 19:55:07 UTC 2021
 Airline code "KFB", examples:KFB60,A7C583,Wed Nov 17 17:43:47 UTC 2021
