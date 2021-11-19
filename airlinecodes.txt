@@ -2750,6 +2750,7 @@ IEP,Elipiu',ELIPIU,Italy
 IFA,FAI Air Service,RED ANGEL,Germany
 IFC,Indian Air Force,INDIAN AIRFORCE,India
 IFF,Interfreight Forwarding,INTERFREIGHT,Sudan
+IFG,Infinity Flight Group,INFINITY,United States
 IFI,Air Lift,HELLAS LIFT,Greece
 IFL,IFL Group,EIFEL,United States
 IFM,Ifly,ICOPTER,Greece
@@ -3053,6 +3054,7 @@ JSY,Jung Sky D.o.o.,JUNG SKY,HR
 JTA,Japan Transocean Air,,Japan
 JTB,Jet Budget,,SX
 JTC,Jet Trans Aviation,,Ghana
+JTD,Jet Time,NEW JET,Denmark
 JTE,National Jet Express,JETEX,Australia
 JTG,Jettime,,Denmark
 JTI,Cirrus Middle East,,Lebanon
@@ -4540,6 +4542,7 @@ PPA,Propheter Aviation,AIR PROP,United States
 PPC,Palau Asia Pacific Airlines,PALAU ASIAPAC,Palau
 PPG,Phoenix Air Transport,PAPAGO,United States
 PPH,Polizeihubschrauberstaffel Niedersachsen,POLICE PHOENIX,Germany
+PPJ,Premier Jets,PREMIER JETS,United States
 PPK,Ramp 66,PELICAN,United States
 PPL,Air Pegasus,,India
 PPM,Pacific Pearl Airways,PACIFIC PEARL,Philippines
@@ -5570,9 +5573,10 @@ SZA,Aerolineas De El Salvador,,El Salvador
 SZB,Samoa Air,SAMOA,Samoa
 SZL,Swaziland Airlink,,Swaziland
 SZN,Air Senegal,AIR SENEGAL,Senegal
+SZS,SAS Ireland,SPINNAKER,Ireland
 SZT,Servicios Aeronáuticos Z,AERO ZEE,Mexico
 SZZ,SUR Lineas Aereas,,Argentina
-T&O,Tom\\'s & co airliners,,France
+T&O,Tom's & co airliners,,France
 T33,THREE,,China
 T9P,Tomp Airlines,,Chile
 TAA,Aeroservicios de La Costa,AERO COSTA,Mexico
@@ -5582,7 +5586,7 @@ TAD,Transporte Aéreo Dominicano,TRANS DOMINICAN,Dominican Republic
 TAE,TAME,TAME,Ecuador
 TAG,TAG Aviation USA,TAG U-S,United States
 TAH,Air Moorea,,France
-TAI,Avianca El Salvador,TACA,SV
+TAI,Avianca El Salvador,TACA,El Salvador
 TAJ,Tunisavia,TUNISAVIA,Tunisia
 TAK,Tatarstan Airlines,,Russia
 TAL,Talair,TALAIR,Papua New Guinea
