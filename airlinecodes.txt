@@ -2026,6 +2026,7 @@ FJE,Silverjet,ENVOY,United Kingdom
 FJI,Fiji Airways,PACIFIC,Fiji
 FJK,Fly Jet Kz,,Kazakhstan
 FJM,Fly Jamaica Airways,GREENHEART,Jamaica
+FJO,Flexjet Operations Malta Limited,FLEX MALTA,Malta
 FJS,Florida Jet Service,FLORIDAJET,United States
 FKA,Flying kangaroo Airline,,Australia
 FKI,FLM Aviation Mohrdieck,KIEL AIR,Germany
@@ -2438,6 +2439,7 @@ GWC,Gulf Wings FZE,GULF WINGS,AE
 GWI,Germanwings,GERMAN WINGS,Germany
 GWL,Great Wall Airlines,GREAT WALL,China
 GWN,Gwyn Aviation,GWYN,United Kingdom
+GWR,Aura Airlines S.L.,LEMON,Spain
 GWS,General Airways,GENAIR,South Africa
 GWY,USA3000 Airlines,GETAWAY,United States
 GXA,Grixona,GRIXONA,Moldova
@@ -2569,6 +2571,7 @@ HLG,Helog,HELOG,Switzerland
 HLH,Hala Air,HALA AIR,Sudan
 HLI,Heli Securite,HELI SAINT-TROPEZ,France
 HLK,Heli-Link,HELI-LINK,Switzerland
+HLL,Holiday Airlines Company,,Thailand
 HLM,Heli Medwest De Mexico,HELIMIDWEST,Mexico
 HLN,Air Holland,ORANGE,Netherlands
 HLO,Samaritan Air Service,HALO,Canada
@@ -4754,6 +4757,7 @@ RCY,Package Express,RACE CITY,United States
 RDA,Rada Airlines,RADA,Belarus
 RDD,Adygeya Airlines,,Russia
 RDE,II Lione Alato Arl,FLIGHT RED,United Kingdom
+RDF,Eurocopter Deutschland GmbH,RED FOX,Germany
 RDK,Irish Air Transport,IRISH TRANS,Ireland
 RDL,Roadair Lines,ROADAIR,Canada
 RDM,Air Ada,AIR ADA,Mauritania
@@ -4770,6 +4774,7 @@ REC,Trans Reco,TRANS-RECO,Mauritania
 RED,International Committee of the Red Cross,RED CROSS,Switzerland
 REF,Reef Air,REEF AIR,New Zealand
 REG,Regional Air Services,REGIONAL SERVICES,Tanzania
+REH,Reach Air Medical Services,REACHMED,United States
 REI,Ray Aviation,RAY AVIATION,Israel
 REJ,SA Airlink Regional,REGIONAL LINK,South Africa
 REK,Reem Air,REEM AIR,Kyrgyzstan
@@ -4838,6 +4843,7 @@ RJZ,Royal Jordanian Air Force,JORDAN AIR FORCE,Jordan
 RKA,Air Afrique,AIRAFRIC,Ivory Coast
 RKC,DAS Airlines,DAS CONGO,Democratic Republic of the Congo
 RKH,Royal Khmer Airlines,KHMER AIR,Cambodia
+RKK,Stephens Investment Holdings LLC,ROCKTOWN,United States
 RKM,RAK Airways,RAKAIR,United Arab Emirates
 RKS,Phenix Jet,ROCKSTAR,United States
 RKT,Rotormotion,ROCKET,United Kingdom
@@ -5733,6 +5739,7 @@ TIN,Taino Tours,TAINO,Dominican Republic
 TIP,C and M Aviation,TRANSPAC,United States
 TIR,Antair,ANTAIR,Mexico
 TIS,Tesis,TESIS,Russia
+TIV,Thrive Aviation,THRIVE,United States
 TIW,Transcarga Intl Airways,TIACA,Venezuela
 TJA,T.J. Air,,United States
 TJJ,Top Jets,THUNDERBOLT,Bulgaria
