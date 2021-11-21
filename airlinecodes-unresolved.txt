@@ -1,3 +1,4 @@
+Airline code "NWC", examples:NWC9015,1427E0,Sun Nov 21 07:23:18 UTC 2021
 Airline code "REH", examples:REH8,A37B02,Sat Nov 20 23:37:46 UTC 2021
 Airline code "GWR", examples:GWR4001,34660C,Sat Nov 20 14:05:16 UTC 2021
 Airline code "BAO", examples:BAO295O,3C5E4F,Sat Nov 20 13:21:12 UTC 2021
@@ -208,7 +209,6 @@ Airline code "GNU", examples:GNU2NF,407BCF,Tue Sep 21 15:23:46 UTC 2021 GNU2NF,4
 Airline code "EPI", examples:EPI595,A1083B,Tue Sep 21 13:14:47 UTC 2021
 Airline code "TYP", examples:TYP00117,43C791,Mon Sep 20 18:53:02 UTC 2021
 Airline code "BEI", examples:BEI494,4071AC,Mon Sep 20 15:47:34 UTC 2021
-Airline code "NWC", examples:NWC9016,1427E0,Sun Sep 19 18:06:00 UTC 2021
 Airline code "NUS", examples:NUS560,A72727,Sat Sep 18 22:23:30 UTC 2021
 Airline code "NDL", examples:NDL350,C05D71,Sat Sep 18 19:31:39 UTC 2021 NDL350,C05D71,Sat Sep 18 19:23:02 UTC 2021
 Airline code "GSH", examples:GSH090,896403,Sat Sep 18 12:47:45 UTC 2021 GSH090,896403,Sat Sep 18 12:47:33 UTC 2021
