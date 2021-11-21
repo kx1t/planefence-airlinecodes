@@ -1,6 +1,6 @@
+Airline code "CSG", examples:CSG2576,7805AA,Sun Nov 21 10:54:11 UTC 2021
+Airline code "NWC", examples:NWC9015,1427E0,Sun Nov 21 10:54:03 UTC 2021
 Airline code "BNO", examples:BNO91J,47A48C,Sun Nov 21 09:31:20 UTC 2021
-Airline code "CSG", examples:CSG2576,7805AA,Sun Nov 21 08:38:18 UTC 2021
-Airline code "NWC", examples:NWC9015,1427E0,Sun Nov 21 07:23:18 UTC 2021
 Airline code "REH", examples:REH8,A37B02,Sat Nov 20 23:37:46 UTC 2021
 Airline code "GWR", examples:GWR4001,34660C,Sat Nov 20 14:05:16 UTC 2021
 Airline code "BAO", examples:BAO295O,3C5E4F,Sat Nov 20 13:21:12 UTC 2021
