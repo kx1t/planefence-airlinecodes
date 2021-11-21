@@ -1,3 +1,4 @@
+Airline code "BNO", examples:BNO91J,47A48C,Sun Nov 21 09:31:20 UTC 2021
 Airline code "CSG", examples:CSG2576,7805AA,Sun Nov 21 08:38:18 UTC 2021
 Airline code "NWC", examples:NWC9015,1427E0,Sun Nov 21 07:23:18 UTC 2021
 Airline code "REH", examples:REH8,A37B02,Sat Nov 20 23:37:46 UTC 2021
@@ -218,7 +219,6 @@ Airline code "RFV", examples:RFV82A,407359,Fri Sep 10 00:42:51 UTC 2021
 Airline code "RSP", examples:RSP69,A77A78,Thu Sep 9 18:06:55 UTC 2021
 Airline code "JAZ", examples:JAZ7935,C017ED,Mon Sep 6 20:04:26 UTC 2021
 Airline code "MBK", examples:MBK601,C00381,Mon Sep 6 20:46:50 UTC 2021
-Airline code "BNO", examples:BNO1N,47C39C,Thu Sep 2 21:05:13 UTC 2021
 Airline code "WFN", examples:WFN3518,C0256E,Tue Aug 31 20:11:58 UTC 2021
 Airline code "RQT", examples:RQT10,A97D2B,Mon Aug 30 21:47:21 UTC 2021
 Airline code "HRF", examples:HRF132,AADFD2,Sun Aug 29 16:31:51 UTC 2021 HRF132,AADFD2,Sun Aug 29 16:30:39 UTC 2021
