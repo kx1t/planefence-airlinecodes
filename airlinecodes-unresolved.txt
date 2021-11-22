@@ -1,10 +1,10 @@
+Airline code "GKY", examples:GKY056,42483E,Mon Nov 22 17:28:42 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Mon Nov 22 16:47:40 UTC 2021
 Airline code "XEN", examples:XEN15,A1CC9A,Mon Nov 22 15:52:15 UTC 2021
 Airline code "GWR", examples:GWR4001,34660C,Mon Nov 22 10:24:07 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Mon Nov 22 09:45:08 UTC 2021
 Airline code "PCT", examples:PCT513,3F9AE8,Mon Nov 22 08:57:00 UTC 2021
 Airline code "PWK", examples:PWK872,AC872F,Mon Nov 22 02:30:52 UTC 2021
-Airline code "GKY", examples:GKY056,42483E,Sun Nov 21 22:39:26 UTC 2021
 Airline code "BAO", examples:BAO295O,3C5E4F,Sun Nov 21 18:46:29 UTC 2021
 Airline code "HRF", examples:HRF139,A3FC98,Sun Nov 21 16:47:04 UTC 2021
 Airline code "XCH", examples:XCH137S,43E7ED,Sun Nov 21 16:34:13 UTC 2021
