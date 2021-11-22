@@ -1,3 +1,4 @@
+Airline code "VYR", examples:VYR686,A91B40,Mon Nov 22 19:50:07 UTC 2021 VYR686,A91B40,Mon Nov 22 19:44:00 UTC 2021
 Airline code "GKY", examples:GKY056,42483E,Mon Nov 22 17:28:42 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Mon Nov 22 16:47:40 UTC 2021
 Airline code "XEN", examples:XEN15,A1CC9A,Mon Nov 22 15:52:15 UTC 2021
