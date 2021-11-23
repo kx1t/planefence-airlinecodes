@@ -1,3 +1,4 @@
+Airline code "CSG", examples:CSG2573,7805AA,Tue Nov 23 09:49:26 UTC 2021 CSG2573,7805AA,Tue Nov 23 09:14:11 UTC 2021
 Airline code "FSK", examples:FSK702,00AE32,Tue Nov 23 01:29:22 UTC 2021
 Airline code "XEN", examples:XEN15,A1CC9A,Tue Nov 23 00:53:23 UTC 2021
 Airline code "VYR", examples:VYR686,A91B40,Mon Nov 22 19:50:07 UTC 2021 VYR686,A91B40,Mon Nov 22 19:44:00 UTC 2021
@@ -10,7 +11,6 @@ Airline code "PWK", examples:PWK872,AC872F,Mon Nov 22 02:30:52 UTC 2021
 Airline code "BAO", examples:BAO295O,3C5E4F,Sun Nov 21 18:46:29 UTC 2021
 Airline code "HRF", examples:HRF139,A3FC98,Sun Nov 21 16:47:04 UTC 2021
 Airline code "XCH", examples:XCH137S,43E7ED,Sun Nov 21 16:34:13 UTC 2021
-Airline code "CSG", examples:CSG2576,7805AA,Sun Nov 21 10:54:11 UTC 2021
 Airline code "NWC", examples:NWC9015,1427E0,Sun Nov 21 10:54:03 UTC 2021
 Airline code "BNO", examples:BNO91J,47A48C,Sun Nov 21 09:31:20 UTC 2021
 Airline code "REH", examples:REH8,A37B02,Sat Nov 20 23:37:46 UTC 2021
