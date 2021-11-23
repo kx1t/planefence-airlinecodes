@@ -1,3 +1,4 @@
+Airline code "BAO", examples:BAO302I,3CB089,Tue Nov 23 15:02:32 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 23 14:54:31 UTC 2021
 Airline code "GWR", examples:GWR4002,34660C,Tue Nov 23 13:35:31 UTC 2021
 Airline code "FSK", examples:FSK702,00AE32,Tue Nov 23 01:29:22 UTC 2021
@@ -8,7 +9,6 @@ Airline code "HLL", examples:HLL45,407924,Mon Nov 22 16:47:40 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Mon Nov 22 09:45:08 UTC 2021
 Airline code "PCT", examples:PCT513,3F9AE8,Mon Nov 22 08:57:00 UTC 2021
 Airline code "PWK", examples:PWK872,AC872F,Mon Nov 22 02:30:52 UTC 2021
-Airline code "BAO", examples:BAO295O,3C5E4F,Sun Nov 21 18:46:29 UTC 2021
 Airline code "HRF", examples:HRF139,A3FC98,Sun Nov 21 16:47:04 UTC 2021
 Airline code "XCH", examples:XCH137S,43E7ED,Sun Nov 21 16:34:13 UTC 2021
 Airline code "NWC", examples:NWC9015,1427E0,Sun Nov 21 10:54:03 UTC 2021
