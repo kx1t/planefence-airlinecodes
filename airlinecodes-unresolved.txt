@@ -1,5 +1,5 @@
+Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 23 14:54:31 UTC 2021
 Airline code "GWR", examples:GWR4002,34660C,Tue Nov 23 13:35:31 UTC 2021
-Airline code "CSG", examples:CSG2573,7805AA,Tue Nov 23 09:49:26 UTC 2021 CSG2573,7805AA,Tue Nov 23 09:14:11 UTC 2021
 Airline code "FSK", examples:FSK702,00AE32,Tue Nov 23 01:29:22 UTC 2021
 Airline code "XEN", examples:XEN15,A1CC9A,Tue Nov 23 00:53:23 UTC 2021
 Airline code "VYR", examples:VYR686,A91B40,Mon Nov 22 19:50:07 UTC 2021 VYR686,A91B40,Mon Nov 22 19:44:00 UTC 2021
