@@ -1,3 +1,4 @@
+Airline code "PGN", examples:PGN333W,A3A1F2,Wed Nov 24 15:16:34 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Wed Nov 24 09:07:02 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Wed Nov 24 08:35:00 UTC 2021
 Airline code "GWR", examples:GWR4001,34660C,Wed Nov 24 08:17:59 UTC 2021
@@ -16,7 +17,6 @@ Airline code "XCH", examples:XCH137S,43E7ED,Sun Nov 21 16:34:13 UTC 2021
 Airline code "NWC", examples:NWC9015,1427E0,Sun Nov 21 10:54:03 UTC 2021
 Airline code "BNO", examples:BNO91J,47A48C,Sun Nov 21 09:31:20 UTC 2021
 Airline code "REH", examples:REH8,A37B02,Sat Nov 20 23:37:46 UTC 2021
-Airline code "PGN", examples:PGN86,ABCD68,Sat Nov 20 01:05:29 UTC 2021
 Airline code "EGT", examples:EGT602,451C29,Fri Nov 19 16:47:51 UTC 2021 EGT602,451C29,Fri Nov 19 16:47:35 UTC 2021
 Airline code "HLY", examples:HLY47,4076F4,Fri Nov 19 13:36:23 UTC 2021
 Airline code "JTD", examples:JTD387,45AA90,Fri Nov 19 07:29:50 UTC 2021
