@@ -1,4 +1,5 @@
-Airline code "GWR", examples:GWR4001,34660C,Wed Nov 24 07:38:41 UTC 2021
+Airline code "FJO", examples:FJO54A,4D2330,Wed Nov 24 08:35:00 UTC 2021
+Airline code "GWR", examples:GWR4001,34660C,Wed Nov 24 08:17:59 UTC 2021
 Airline code "JTZ", examples:JTZ328,A38D34,Wed Nov 24 02:50:35 UTC 2021
 Airline code "VYR", examples:VYR686,A91B40,Tue Nov 23 21:14:25 UTC 2021 VYR686,A91B40,Tue Nov 23 21:07:45 UTC 2021
 Airline code "BAO", examples:BAO302I,3CB089,Tue Nov 23 15:02:32 UTC 2021
@@ -7,7 +8,6 @@ Airline code "FSK", examples:FSK702,00AE32,Tue Nov 23 01:29:22 UTC 2021
 Airline code "XEN", examples:XEN15,A1CC9A,Tue Nov 23 00:53:23 UTC 2021
 Airline code "GKY", examples:GKY056,42483E,Mon Nov 22 17:28:42 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Mon Nov 22 16:47:40 UTC 2021
-Airline code "FJO", examples:FJO54A,4D2330,Mon Nov 22 09:45:08 UTC 2021
 Airline code "PCT", examples:PCT513,3F9AE8,Mon Nov 22 08:57:00 UTC 2021
 Airline code "PWK", examples:PWK872,AC872F,Mon Nov 22 02:30:52 UTC 2021
 Airline code "HRF", examples:HRF139,A3FC98,Sun Nov 21 16:47:04 UTC 2021
