@@ -1,3 +1,4 @@
+Airline code "JTZ", examples:JTZ328,A38D34,Wed Nov 24 02:50:35 UTC 2021
 Airline code "VYR", examples:VYR686,A91B40,Tue Nov 23 21:14:25 UTC 2021 VYR686,A91B40,Tue Nov 23 21:07:45 UTC 2021
 Airline code "BAO", examples:BAO302I,3CB089,Tue Nov 23 15:02:32 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 23 14:54:31 UTC 2021
@@ -32,7 +33,6 @@ Airline code "OBI", examples:OBI2,43C553,Wed Nov 17 09:26:11 UTC 2021
 Airline code "OCJ", examples:OCJ202,50011A,Mon Nov 15 17:57:47 UTC 2021
 Airline code "GFM", examples:GFM5X,4AC998,Mon Nov 15 10:31:08 UTC 2021
 Airline code "UWD", examples:UWD30,A83E95,Mon Nov 15 01:02:24 UTC 2021
-Airline code "JTZ", examples:JTZ516,A678E5,Sat Nov 13 03:21:50 UTC 2021
 Airline code "DHR", examples:DHR40,A2113B,Sat Nov 13 02:33:38 UTC 2021
 Airline code "TJD", examples:TJD975,300829,Fri Nov 12 18:00:33 UTC 2021
 Airline code "KBD", examples:KBD216,398477,Fri Nov 12 15:46:14 UTC 2021
