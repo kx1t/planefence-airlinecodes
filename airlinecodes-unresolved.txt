@@ -1,3 +1,4 @@
+Airline code "JRC", examples:JRC003,48408C,Thu Nov 25 09:59:54 UTC 2021
 Airline code "FSK", examples:FSK702,00AE32,Thu Nov 25 01:20:10 UTC 2021
 Airline code "PCT", examples:PCT519,3F9AE8,Wed Nov 24 19:24:14 UTC 2021
 Airline code "UWD", examples:UWD77,AD9E7A,Wed Nov 24 19:57:02 UTC 2021
