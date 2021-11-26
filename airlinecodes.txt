@@ -1379,7 +1379,7 @@ CWY,Woodgate Aviation,CAUSEWAY,United Kingdom
 CWZ,Capitol Wings Airline,CAPWINGS,United States
 CX0,Copenhagen Express,,Denmark
 CXA,Xiamen Airlines,XIAMEN AIR,China
-CXB,Comlux Aruba,STARLUX,AW
+CXB,Comlux Aruba,STARLUX,Aruba
 CXE,Caicos Express Airways,CAICOS,Turks and Caicos Islands
 CXH,China Xinhua Airlines,XINHUA,China
 CXI,Shanxi Airlines,SHANXI,China
@@ -2121,6 +2121,7 @@ FSD,EFS-Flugservice,FLUGSERVICE,Germany
 FSE,Alpine Flightservice,,Switzerland
 FSF,Fly7 Finland,ROCKY,Finland
 FSH,Flash Airlines,FLASH,Egypt
+FSK,Africa Charter Airlines,AFRICAN SKY,South Africa
 FSL,Flight Safety Limited,FLIGHTSAFETY,United Kingdom
 FSR,Flightstar Corporation,FLIGHTSTAR,United States
 FST,Aeros Limited,FAST TRACK,United Kingdom
@@ -2266,6 +2267,7 @@ GFE,Archer Daniels Midland Co,,United States
 GFF,Griffin Aviation,GRIFFIN AIR,Cyprus
 GFG,Georgian National Airlines,NATIONAL,Georgia
 GFI,Caribbean Star Airlines,CARIB STAR,Antigua and Barbuda
+GFM,Grafair,PARROT,Sweden
 GFN,The 955 Preservation Group,GRIFFON,United Kingdom
 GFO,Aerovías del Golfo,AEROVIAS GOLFO,Mexico
 GFS,Gulfstream Airlines,GULFSTAR,United States
@@ -2439,7 +2441,7 @@ GWC,Gulf Wings FZE,GULF WINGS,AE
 GWI,Germanwings,GERMAN WINGS,Germany
 GWL,Great Wall Airlines,GREAT WALL,China
 GWN,Gwyn Aviation,GWYN,United Kingdom
-GWR,Aura Airlines S.L.,LEMON,Spain
+GWR,Aura Airlines,LEMON,Spain
 GWS,General Airways,GENAIR,South Africa
 GWY,USA3000 Airlines,GETAWAY,United States
 GXA,Grixona,GRIXONA,Moldova
@@ -3036,6 +3038,7 @@ JPQ,Jett Paqueteria,,Mexico
 JPR,Aerosmith Aviation,JASPER,United States
 JPU,Jupiter Airlines,,United Arab Emirates
 JRB,Jc royal.britannica,,United Kingdom
+JRC,JetAir Caribbean,JETAIR,Aruba
 JRF,First Air Transport,,Japan
 JRI,Jetrider International,,United Kingdom
 JRN,Jet Rent,,Mexico
@@ -3071,6 +3074,7 @@ JTT,Jet-2000,,Russia
 JTU,Zhetysu,ZHETYSU,Kazakhstan
 JTX,Jet Aspen Air Lines,,United States
 JTY,Jatayu Airlines,,Indonesia
+JTZ,Nicholas Air,STEEL JET,United States
 JUA,Aero Juarez,JUAREZ,Mexico
 JUB,Jubba Airways,,Kenya
 JUC,Juba Cargo Services & Aviation Company,,Sudan
@@ -4386,6 +4390,7 @@ PCO,Pacific Coastal Airlines,PASCO,Canada
 PCP,Aerolínea Principal Chile,PRINCIPAL,Chile
 PCR,PAC Air,PACAIR,United States
 PCS,Air Palace,AIR PALACE,Mexico
+PCT,Peace Air Togo,PEACEFUL,Togo
 PCV,Pacific Aviation (Australia),PACAV,Australia
 PCW,Trans-Pacific Orient Airways,PACIFIC ORIENT,Philippines
 PCX,Pacific Aviation (United States),,United States
@@ -4428,6 +4433,7 @@ PGF,Paragon Global Flight Support,,United Kingdom
 PGH,Pulkovo Aircraft Services,,Russia
 PGI,Panagra Airways,PANAGRA,United States
 PGL,Premiair Aviation Services,PREMIERE,United Kingdom
+PGN,Tailwind Air,PERGRINE,United States
 PGP,Perm Airlines,PERM AIR,Russia
 PGS,Tauranga Aer Club,,New Zealand
 PGT,Pegasus Airlines,SUNTURK,Turkey
@@ -6125,6 +6131,7 @@ UVM,Uvavemex,UVAVEMEX,Mexico
 UVN,United Aviation,UNITED AVIATION,Kuwait
 UVS,Air Universal,,Sierra Leone
 UVT,Auvia Air,AUVIA,Indonesia
+UWD,Skyward Aviation,UPWARD,United States
 UWJ,Ukrainian Wings,UKRAINIAN WINGS,Ukraine
 UWW,LSM International ,,Russia
 UYA,Yute Air Alaska,,United States
