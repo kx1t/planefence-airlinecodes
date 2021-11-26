@@ -1,3 +1,4 @@
+Airline code "VYR", examples:VYR686,A91B40,Fri Nov 26 20:13:42 UTC 2021
 Airline code "EGC", examples:EGC680,A903A0,Fri Nov 26 12:55:34 UTC 2021
 Airline code "PCT", examples:PCT522,3F9AE8,Thu Nov 25 19:09:15 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Thu Nov 25 18:19:12 UTC 2021
@@ -9,7 +10,6 @@ Airline code "UWD", examples:UWD77,AD9E7A,Wed Nov 24 19:57:02 UTC 2021
 Airline code "JTZ", examples:JTZ328,A38D34,Wed Nov 24 16:16:58 UTC 2021
 Airline code "PGN", examples:PGN333W,A3A1F2,Wed Nov 24 15:16:34 UTC 2021
 Airline code "FJO", examples:FJO54A,4D2330,Wed Nov 24 08:35:00 UTC 2021
-Airline code "VYR", examples:VYR686,A91B40,Tue Nov 23 21:14:25 UTC 2021 VYR686,A91B40,Tue Nov 23 21:07:45 UTC 2021
 Airline code "BAO", examples:BAO302I,3CB089,Tue Nov 23 15:02:32 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 23 14:54:31 UTC 2021
 Airline code "XEN", examples:XEN15,A1CC9A,Tue Nov 23 00:53:23 UTC 2021
