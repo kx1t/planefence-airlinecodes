@@ -1,3 +1,4 @@
+Airline code "HYS", examples:HYS473,4A4D79,Sat Nov 27 22:54:31 UTC 2021
 Airline code "JPV", examples:JPV284,440A05,Sat Nov 27 11:24:46 UTC 2021
 Airline code "CSG", examples:CSG2575,7805AA,Sat Nov 27 06:51:04 UTC 2021
 Airline code "EGC", examples:EGC680,A903A0,Sat Nov 27 02:32:57 UTC 2021
@@ -95,7 +96,6 @@ Airline code "GJI", examples:GJI55,4CA785,Mon Nov 8 12:12:53 UTC 2021
 Airline code "JCO", examples:JCO55L,406A1E,Mon Nov 8 09:41:52 UTC 2021
 Airline code "NYX", examples:NYX420,511147,Mon Nov 8 05:57:49 UTC 2021
 Airline code "VCJ", examples:VCJ92T,4D229A,Sun Nov 7 21:32:35 UTC 2021
-Airline code "HYS", examples:HYS252,4A08A5,Sun Nov 7 19:19:49 UTC 2021
 Airline code "AJO", examples:AJO341,4D22DC,Sun Nov 7 17:57:09 UTC 2021
 Airline code "HMJ", examples:HMJ208,394979,Sun Nov 7 17:03:45 UTC 2021
 Airline code "UPC", examples:UPC8505,6831F8,Sun Nov 7 17:19:48 UTC 2021
