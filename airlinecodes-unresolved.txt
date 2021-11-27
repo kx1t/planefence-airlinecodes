@@ -1,3 +1,4 @@
+Airline code "JPV", examples:JPV284,440A05,Sat Nov 27 11:24:46 UTC 2021
 Airline code "CSG", examples:CSG2575,7805AA,Sat Nov 27 06:51:04 UTC 2021
 Airline code "EGC", examples:EGC680,A903A0,Sat Nov 27 02:32:57 UTC 2021
 Airline code "VYR", examples:VYR686,A91B40,Fri Nov 26 20:13:42 UTC 2021
@@ -75,7 +76,6 @@ Airline code "FLJ", examples:FLJ61H,407AE1,Thu Nov 11 07:23:19 UTC 2021
 Airline code "BFD", examples:BFD65H,3CBDEB,Thu Nov 11 05:38:15 UTC 2021
 Airline code "JML", examples:JML100,4D209F,Thu Nov 11 03:54:08 UTC 2021
 Airline code "SYB", examples:SYB068,C088C1,Wed Nov 10 23:05:36 UTC 2021 SYB068,C088C1,Wed Nov 10 23:04:32 UTC 2021
-Airline code "JPV", examples:JPV284,440A05,Wed Nov 10 19:31:58 UTC 2021
 Airline code "KAY", examples:KAY57,3C78AF,Wed Nov 10 19:53:15 UTC 2021
 Airline code "JSH", examples:JSH202,471843,Wed Nov 10 16:23:41 UTC 2021
 Airline code "BFY", examples:BFY162R,48411B,Wed Nov 10 15:19:11 UTC 2021
