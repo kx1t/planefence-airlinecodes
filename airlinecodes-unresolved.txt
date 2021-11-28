@@ -1,7 +1,7 @@
+Airline code "CSG", examples:CSG2576,7805AA,Sun Nov 28 08:16:36 UTC 2021
 Airline code "XLJ", examples:XLJ605,A7DA01,Sun Nov 28 02:03:57 UTC 2021
 Airline code "HYS", examples:HYS473,4A4D79,Sat Nov 27 22:54:31 UTC 2021
 Airline code "JPV", examples:JPV284,440A05,Sat Nov 27 11:24:46 UTC 2021
-Airline code "CSG", examples:CSG2575,7805AA,Sat Nov 27 06:51:04 UTC 2021
 Airline code "EGC", examples:EGC680,A903A0,Sat Nov 27 02:32:57 UTC 2021
 Airline code "VYR", examples:VYR686,A91B40,Fri Nov 26 20:13:42 UTC 2021
 Airline code "PCT", examples:PCT522,3F9AE8,Thu Nov 25 19:09:15 UTC 2021
