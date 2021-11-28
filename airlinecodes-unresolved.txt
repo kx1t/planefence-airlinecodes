@@ -1,3 +1,4 @@
+Airline code "TJD", examples:TJD750,300447,Sun Nov 28 18:13:22 UTC 2021
 Airline code "HLY", examples:HLY47,4076F4,Sun Nov 28 11:09:00 UTC 2021
 Airline code "CSG", examples:CSG2576,7805AA,Sun Nov 28 08:16:36 UTC 2021
 Airline code "XLJ", examples:XLJ605,A7DA01,Sun Nov 28 02:03:57 UTC 2021
@@ -39,7 +40,6 @@ Airline code "INI", examples:INI232,343183,Wed Nov 17 12:56:28 UTC 2021 INI232,3
 Airline code "OBI", examples:OBI2,43C553,Wed Nov 17 09:26:11 UTC 2021
 Airline code "OCJ", examples:OCJ202,50011A,Mon Nov 15 17:57:47 UTC 2021
 Airline code "DHR", examples:DHR40,A2113B,Sat Nov 13 02:33:38 UTC 2021
-Airline code "TJD", examples:TJD975,300829,Fri Nov 12 18:00:33 UTC 2021
 Airline code "KBD", examples:KBD216,398477,Fri Nov 12 15:46:14 UTC 2021
 Airline code "ULC", examples:ULC22,4D2305,Fri Nov 12 15:03:30 UTC 2021
 Airline code "WRC", examples:WRC7753,5083B4,Fri Nov 12 15:59:32 UTC 2021
