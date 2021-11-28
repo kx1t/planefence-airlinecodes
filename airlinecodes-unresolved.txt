@@ -1,3 +1,4 @@
+Airline code "HLY", examples:HLY47,4076F4,Sun Nov 28 11:09:00 UTC 2021
 Airline code "CSG", examples:CSG2576,7805AA,Sun Nov 28 08:16:36 UTC 2021
 Airline code "XLJ", examples:XLJ605,A7DA01,Sun Nov 28 02:03:57 UTC 2021
 Airline code "HYS", examples:HYS473,4A4D79,Sat Nov 27 22:54:31 UTC 2021
@@ -24,7 +25,6 @@ Airline code "XCH", examples:XCH137S,43E7ED,Sun Nov 21 16:34:13 UTC 2021
 Airline code "NWC", examples:NWC9015,1427E0,Sun Nov 21 10:54:03 UTC 2021
 Airline code "BNO", examples:BNO91J,47A48C,Sun Nov 21 09:31:20 UTC 2021
 Airline code "EGT", examples:EGT602,451C29,Fri Nov 19 16:47:51 UTC 2021 EGT602,451C29,Fri Nov 19 16:47:35 UTC 2021
-Airline code "HLY", examples:HLY47,4076F4,Fri Nov 19 13:36:23 UTC 2021
 Airline code "JTD", examples:JTD387,45AA90,Fri Nov 19 07:29:50 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF7E,Fri Nov 19 07:52:53 UTC 2021
 Airline code "IFG", examples:IFG550,A26A2C,Fri Nov 19 02:33:08 UTC 2021
