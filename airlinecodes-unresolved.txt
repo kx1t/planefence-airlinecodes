@@ -1,3 +1,4 @@
+Airline code "UAW", examples:UAW22,400EA0,Mon Nov 29 14:26:58 UTC 2021
 Airline code "BAO", examples:BAO292P,3C5070,Mon Nov 29 13:15:27 UTC 2021
 Airline code "KFB", examples:KFB15,A0C9FC,Mon Nov 29 01:16:16 UTC 2021
 Airline code "LRQ", examples:LRQ609J,4D0293,Sun Nov 28 20:03:59 UTC 2021
@@ -36,7 +37,6 @@ Airline code "TIV", examples:TIV690,A92C9D,Thu Nov 18 21:06:44 UTC 2021 TIV690,A
 Airline code "RDF", examples:RDF32,3DD821,Thu Nov 18 12:46:14 UTC 2021
 Airline code "RKU", examples:RKU1,C80DAF,Thu Nov 18 03:18:18 UTC 2021
 Airline code "RKK", examples:RKK38,A14F52,Wed Nov 17 19:55:07 UTC 2021
-Airline code "UAW", examples:UAW23,400EA0,Wed Nov 17 13:42:36 UTC 2021
 Airline code "INI", examples:INI232,343183,Wed Nov 17 12:56:28 UTC 2021 INI232,343183,Wed Nov 17 12:56:23 UTC 2021 INI232,343183,Wed Nov 17 12:56:23 UTC 2021
 Airline code "OBI", examples:OBI2,43C553,Wed Nov 17 09:26:11 UTC 2021
 Airline code "OCJ", examples:OCJ202,50011A,Mon Nov 15 17:57:47 UTC 2021
