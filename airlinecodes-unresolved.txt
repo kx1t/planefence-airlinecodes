@@ -1,4 +1,4 @@
-Airline code "CSG", examples:CSG2573,7805AA,Tue Nov 30 10:54:42 UTC 2021 CSG2573,7805AA,Tue Nov 30 10:15:41 UTC 2021
+Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 30 14:41:55 UTC 2021
 Airline code "EEV", examples:EEV5415,A36994,Tue Nov 30 02:33:11 UTC 2021
 Airline code "XEN", examples:XEN51,A65F3C,Mon Nov 29 22:11:31 UTC 2021
 Airline code "DGK", examples:DGK2877,4CC505,Mon Nov 29 20:44:10 UTC 2021
