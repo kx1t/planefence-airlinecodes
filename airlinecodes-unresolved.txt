@@ -1,5 +1,5 @@
+Airline code "BEB", examples:BEB0121,424667,Wed Dec 1 16:06:21 UTC 2021
 Airline code "VAW", examples:VAW400,45209C,Wed Dec 1 11:30:49 UTC 2021
-Airline code "BEB", examples:BEB0121,424667,Wed Dec 1 10:41:25 UTC 2021
 Airline code "LNF", examples:LNF600,008081,Wed Dec 1 04:15:53 UTC 2021
 Airline code "FWR", examples:FWR1049,A0FE84,Tue Nov 30 21:35:15 UTC 2021
 Airline code "NJM", examples:NJM422,A50316,Tue Nov 30 19:25:29 UTC 2021
