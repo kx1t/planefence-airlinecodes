@@ -1296,6 +1296,7 @@ CSC,Sichuan Airlines,SI CHUAN,China
 CSD,Courier Services,DELIVERY,United States
 CSE,CSE Aviation,OXFORD,United Kingdom
 CSF,Clasair,CALEDONIAN,United Kingdom
+CSG,China Southern Airlines Cargo,SOUTHERN CARGO,China
 CSH,Shanghai Airlines,SHANGHAI AIR,China
 CSI,Central Skyport,SKYPORT,United States
 CSJ,Castle Aviation,CASTLE,United States
@@ -2159,6 +2160,7 @@ FWD,Fair Wind Air Charter,FAIR WIND,United Arab Emirates
 FWI,Air Caraïbes,FRENCH WEST,France
 FWK,Flightworks,,United States
 FWL,Florida West International Airways,FLO WEST,United States
+FWR,Flightware,FLIGHTAWARE,United States
 FWQ,Flight West Airlines,UNITY,Australia
 FWY,Fairways Corporation,FAIRWAYS,United States
 FWZ,Flugwerkzeuge Aviation Software,,Austria
@@ -4055,6 +4057,7 @@ NJA,New Japan Aviation,SHIN NIHON,Japan
 NJC,Nashville Jet Charters,NASHVILLE JET,United States
 NJE,NetJets Europe,FRACTION,Portugal
 NJF,NasJet,,Soth Africa
+NJM,Northern Jet Management,NORTHERN JET,United States
 NJS,National Jet Systems,NATIONAL JET,Australia
 NJT,NetJets International,NETJET,United States
 NJU,NetJets UK,,United Kingdom
@@ -6157,6 +6160,7 @@ VAS,ATRAN Cargo Airlines,ATRAN,Russian Federation
 VAT,Visionair,VISIONAIR,Ireland
 VAU,V Australia Airlines,,Australia
 VAV,Angkor Air,,Cambodia
+VAW,Fly2Sky o.o.d.,SOFIA JET,Bulgaria
 VAX,V Air,,Taiwan
 VAZ,Airlines 400,REMONT AIR,Russia
 VBA,V Bird Airlines Netherlands,VEEBEE,Netherlands
@@ -6552,6 +6556,7 @@ XLA,Excel Airways,EXPO,United Kingdom
 XLB,Aircraft Performance Group,,United States
 XLD,Jeppesen Data Plan,,United States
 XLF,XL Airways France,STARWAY,FR
+XLJ,Xcel Jet Management,XCEL JET,United States
 XLG,Lockheed Air Terminal,,United States
 XLK,Safarilink Aviation,SAFARILINK,Kenya
 XLL,Air Excel,TINGA-TINGA,Tanzania
