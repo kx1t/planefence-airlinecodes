@@ -1,3 +1,4 @@
+Airline code "LNF", examples:LNF600,008081,Wed Dec 1 04:15:53 UTC 2021
 Airline code "FWR", examples:FWR1049,A0FE84,Tue Nov 30 21:35:15 UTC 2021
 Airline code "NJM", examples:NJM422,A50316,Tue Nov 30 19:25:29 UTC 2021
 Airline code "XLJ", examples:XLJ605,A7DA01,Tue Nov 30 18:14:34 UTC 2021
