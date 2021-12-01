@@ -1,3 +1,4 @@
+Airline code "HYS", examples:HYS252,4A08A5,Wed Dec 1 19:15:35 UTC 2021
 Airline code "BEB", examples:BEB0121,424667,Wed Dec 1 16:06:21 UTC 2021
 Airline code "VAW", examples:VAW400,45209C,Wed Dec 1 11:30:49 UTC 2021
 Airline code "LNF", examples:LNF600,008081,Wed Dec 1 04:15:53 UTC 2021
@@ -15,7 +16,6 @@ Airline code "UAW", examples:UAW22,400EA0,Mon Nov 29 14:26:58 UTC 2021
 Airline code "BAO", examples:BAO292P,3C5070,Mon Nov 29 13:15:27 UTC 2021
 Airline code "KFB", examples:KFB15,A0C9FC,Mon Nov 29 01:16:16 UTC 2021
 Airline code "LRQ", examples:LRQ609J,4D0293,Sun Nov 28 20:03:59 UTC 2021
-Airline code "HYS", examples:HYS473,4A4D79,Sat Nov 27 22:54:31 UTC 2021
 Airline code "JPV", examples:JPV284,440A05,Sat Nov 27 11:24:46 UTC 2021
 Airline code "EGC", examples:EGC680,A903A0,Sat Nov 27 02:32:57 UTC 2021
 Airline code "VYR", examples:VYR686,A91B40,Fri Nov 26 20:13:42 UTC 2021
