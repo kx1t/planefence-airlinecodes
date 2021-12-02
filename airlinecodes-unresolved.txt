@@ -1,3 +1,4 @@
+Airline code "LTZ", examples:LTZ365,090001,Thu Dec 2 06:46:31 UTC 2021
 Airline code "HYS", examples:HYS473,4A4D79,Wed Dec 1 23:16:58 UTC 2021
 Airline code "BEB", examples:BEB0121,424667,Wed Dec 1 16:06:21 UTC 2021
 Airline code "VAW", examples:VAW400,45209C,Wed Dec 1 11:30:49 UTC 2021
