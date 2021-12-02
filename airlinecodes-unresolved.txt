@@ -1,4 +1,4 @@
-Airline code "HYS", examples:HYS252,4A08A5,Wed Dec 1 19:15:35 UTC 2021
+Airline code "HYS", examples:HYS473,4A4D79,Wed Dec 1 23:16:58 UTC 2021
 Airline code "BEB", examples:BEB0121,424667,Wed Dec 1 16:06:21 UTC 2021
 Airline code "VAW", examples:VAW400,45209C,Wed Dec 1 11:30:49 UTC 2021
 Airline code "LNF", examples:LNF600,008081,Wed Dec 1 04:15:53 UTC 2021
