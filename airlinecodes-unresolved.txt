@@ -1,3 +1,4 @@
+Airline code "HLY", examples:HLY95,4076F4,Thu Dec 2 17:58:32 UTC 2021
 Airline code "RYP", examples:RYP6PP,4CA25B,Thu Dec 2 07:37:57 UTC 2021
 Airline code "LTZ", examples:LTZ365,090001,Thu Dec 2 06:46:31 UTC 2021
 Airline code "HYS", examples:HYS473,4A4D79,Wed Dec 1 23:16:58 UTC 2021
@@ -11,7 +12,6 @@ Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 30 14:41:55 UTC 2021
 Airline code "EEV", examples:EEV5415,A36994,Tue Nov 30 02:33:11 UTC 2021
 Airline code "XEN", examples:XEN51,A65F3C,Mon Nov 29 22:11:31 UTC 2021
 Airline code "DGK", examples:DGK2877,4CC505,Mon Nov 29 20:44:10 UTC 2021
-Airline code "HLY", examples:HLY95,4076F4,Mon Nov 29 18:21:55 UTC 2021
 Airline code "OHC", examples:OHC213,A1C54E,Mon Nov 29 15:11:13 UTC 2021
 Airline code "TJD", examples:TJD750,300447,Mon Nov 29 15:10:51 UTC 2021
 Airline code "UAW", examples:UAW22,400EA0,Mon Nov 29 14:26:58 UTC 2021
