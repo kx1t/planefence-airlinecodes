@@ -1,5 +1,5 @@
+Airline code "HLY", examples:HLY47,4076F4,Sat Dec 4 08:32:55 UTC 2021
 Airline code "NSH", examples:NSH301,A32427,Fri Dec 3 23:56:56 UTC 2021
-Airline code "HLY", examples:HLY95,4076F4,Thu Dec 2 17:58:32 UTC 2021
 Airline code "RYP", examples:RYP6PP,4CA25B,Thu Dec 2 07:37:57 UTC 2021
 Airline code "LTZ", examples:LTZ365,090001,Thu Dec 2 06:46:31 UTC 2021
 Airline code "HYS", examples:HYS473,4A4D79,Wed Dec 1 23:16:58 UTC 2021
