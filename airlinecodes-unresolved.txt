@@ -1,10 +1,10 @@
+Airline code "HYS", examples:HYS473,4A4D79,Sat Dec 4 22:50:52 UTC 2021
 Airline code "RCR", examples:RCR6010,4A1A61,Sat Dec 4 14:35:02 UTC 2021
 Airline code "HLY", examples:HLY47,4076F4,Sat Dec 4 11:16:11 UTC 2021
 Airline code "SAR", examples:SAR117,48A5E2,Sat Dec 4 10:13:03 UTC 2021
 Airline code "NSH", examples:NSH301,A32427,Fri Dec 3 23:56:56 UTC 2021
 Airline code "RYP", examples:RYP6PP,4CA25B,Thu Dec 2 07:37:57 UTC 2021
 Airline code "LTZ", examples:LTZ365,090001,Thu Dec 2 06:46:31 UTC 2021
-Airline code "HYS", examples:HYS473,4A4D79,Wed Dec 1 23:16:58 UTC 2021
 Airline code "BEB", examples:BEB0121,424667,Wed Dec 1 16:06:21 UTC 2021
 Airline code "VAW", examples:VAW400,45209C,Wed Dec 1 11:30:49 UTC 2021
 Airline code "LNF", examples:LNF600,008081,Wed Dec 1 04:15:53 UTC 2021
