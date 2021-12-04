@@ -1,3 +1,4 @@
+Airline code "NSH", examples:NSH301,A32427,Fri Dec 3 23:56:56 UTC 2021
 Airline code "HLY", examples:HLY95,4076F4,Thu Dec 2 17:58:32 UTC 2021
 Airline code "RYP", examples:RYP6PP,4CA25B,Thu Dec 2 07:37:57 UTC 2021
 Airline code "LTZ", examples:LTZ365,090001,Thu Dec 2 06:46:31 UTC 2021
@@ -92,7 +93,6 @@ Airline code "SYB", examples:SYB068,C088C1,Wed Nov 10 23:05:36 UTC 2021 SYB068,C
 Airline code "KAY", examples:KAY57,3C78AF,Wed Nov 10 19:53:15 UTC 2021
 Airline code "JSH", examples:JSH202,471843,Wed Nov 10 16:23:41 UTC 2021
 Airline code "BFY", examples:BFY162R,48411B,Wed Nov 10 15:19:11 UTC 2021
-Airline code "NSH", examples:NSH5,AD488B,Wed Nov 10 13:00:56 UTC 2021
 Airline code "VPC", examples:VPC5,511063,Wed Nov 10 12:21:43 UTC 2021
 Airline code "GHA", examples:GHA97,A88D6C,Wed Nov 10 10:58:11 UTC 2021
 Airline code "JNL", examples:JNL0796,4858C7,Wed Nov 10 10:59:30 UTC 2021
