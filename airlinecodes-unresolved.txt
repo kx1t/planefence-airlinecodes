@@ -1,3 +1,4 @@
+Airline code "RWR", examples:RWR4JT,48C232,Sun Dec 5 15:37:33 UTC 2021
 Airline code "BNO", examples:BNO92J,47A48C,Sun Dec 5 09:22:27 UTC 2021
 Airline code "HYS", examples:HYS473,4A4D79,Sat Dec 4 22:50:52 UTC 2021
 Airline code "RCR", examples:RCR6010,4A1A61,Sat Dec 4 14:35:02 UTC 2021
