@@ -1,6 +1,6 @@
+Airline code "RTG", examples:RTG5252,47923C,Mon Dec 6 12:10:45 UTC 2021
 Airline code "RKU", examples:RKU1,C80DAF,Mon Dec 6 02:48:38 UTC 2021
 Airline code "EEV", examples:EEV5345,A09961,Sun Dec 5 20:30:35 UTC 2021 EEV5345,A09961,Sun Dec 5 20:29:31 UTC 2021
-Airline code "RTG", examples:RTG5250,47923C,Sun Dec 5 20:03:03 UTC 2021
 Airline code "RWR", examples:RWR4JT,48C232,Sun Dec 5 15:37:33 UTC 2021
 Airline code "BNO", examples:BNO92J,47A48C,Sun Dec 5 09:22:27 UTC 2021
 Airline code "HYS", examples:HYS473,4A4D79,Sat Dec 4 22:50:52 UTC 2021
