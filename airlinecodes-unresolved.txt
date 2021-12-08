@@ -1,4 +1,4 @@
-Airline code "HYS", examples:HYS252,4A08A5,Wed Dec 8 19:16:44 UTC 2021
+Airline code "HYS", examples:HYS473,4A4D79,Wed Dec 8 22:50:10 UTC 2021
 Airline code "BNO", examples:BNO92J,47A48C,Wed Dec 8 12:15:08 UTC 2021
 Airline code "TLI", examples:TLI341,3DAA4D,Wed Dec 8 08:29:09 UTC 2021
 Airline code "OHC", examples:OHC213,A1C54E,Tue Dec 7 17:49:07 UTC 2021
