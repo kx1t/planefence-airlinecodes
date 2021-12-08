@@ -812,6 +812,7 @@ BNG,BN Group Limited,VECTIS,United Kingdom
 BNI,Alberni Airways,ALBERNI,Canada
 BNJ,Air Service Liège (ASL),JET BELGIUM,Belgium
 BNL,Blue Nile Ethiopia Trading,NILE TRADING,Ethiopia
+BNO,Babcock Scandinavian AirAmbulance,NORSE,Norway
 BNR,Bonair Aviation,BONAIR,Canada
 BNS,Bancstar - Valley National Corporation,BANCSTAR,United States
 BNT,Bentiu Air Transport,BENTIU AIR,Sudan
@@ -3142,6 +3143,7 @@ KES,Kallat El Saker Air Company,KALLAT EL SKER,Libya
 KEW,Keewatin Air,BLIZZARD,Canada
 KEY,Key Airlines,KEY AIR,United States
 KFA,Kelowna Flightcraft Air Charter,FLIGHTCRAFT,Canada
+KFB,Superior Transportation Associates,MISSION,United States
 KFC,Kremenchuk Flight College,KREMENCHUK,Ukraine
 KFE,SkyFirst LTD,SKYFIRST,Malta
 KFK,Aero Charter Krifka,KRIFKA AIR,Austria
@@ -4242,6 +4244,7 @@ OFF,Challenge International Airlines,CHALLENGE AIR,United States
 OGI,Aerogisa,AEROGISA,Mexico
 OGJ,Bakoji Airlines Services,BAKO AIR,Nigeria
 OGN,Origin Pacific Airways,ORIGIN,New Zealand
+OHC,Jet Select,OHIO CHARTER,United States
 OHK,Oasis Hong Kong Airlines,,Hong Kong
 OHY,Onur Air,ONUR AIR,Turkey
 OIC,Iwamoto Crane Co Ltd,,Japan
@@ -4975,6 +4978,7 @@ RSU,AeroSur,AEROSUR,Bolivia
 RSV,Red Sky Ventures,RED SKY,Namibia
 RSY,I-Fly,,Russia
 RTE,Aeronorte,LUZAVIA,Portugal
+RTG,Rely AS,Reitan,Norway
 RTH,Artis,ARTHELICO,France
 RTL,Rheintalflug,,Austria
 RTM,Trans Am Compania,AERO TRANSAM,Ecuador
@@ -5061,6 +5065,7 @@ SAN,Servicios Aereos Nacionales (SAN),,Ecuador
 SAO,Sahel Aviation Service,SAVSER,Mali
 SAP,Avia Jaynar,TOBOL,Kazakhstan
 SAQ,Safe Air Company,,Kenya
+SAR,SprintAir Cargo,SPRINTAIR CARGO,Poland
 SAS,Scandinavian Airlines,SCANDINAVIAN,Sweden
 SAT,SATA Air Acores,SATA,Portugal
 SAU,United Aviation Services,UNISERVE,Spain
@@ -5739,7 +5744,7 @@ TIB,TRIP Linhas Aéreas,TRIP,Brazil
 TIC,Travel International Air Charters,TRAVEL INTERNATIONAL,Zambia
 TID,Air Tindi,,Canada
 TIE,Time Air,TIME AIR,Czech Republic
-TIG,Tiger Helicopters Ltd,TIGRIS,GB
+TIG,Tiger Helicopters Ltd,TIGRIS,United Kingdom
 TIH,S C Ion Tiriac,TIRIAC AIR,Romania
 TIK,Tic Air,TICAIR,Australia
 TIL,Tajikistan International Airlines,,Tajikistan
@@ -5770,6 +5775,7 @@ TLC,Caribbean Express,CARIB-X,United States
 TLD,Aereo Taxi Autlan,AEREO AUTLAN,Mexico
 TLE,Aero Util,AEROUTIL,Mexico
 TLF,Transport Africa,TRANS-LEONE,Sierra Leone
+TLI,TL Aviation,SPIRIT,Germany
 TLK,Starlink Aviation,STARLINK,Canada
 TLL,Trans Atlantic Airlines,ATLANTIC LEONE,Sierra Leone
 TLM,Thai Lion Mentari,MENTARI,Thailand
