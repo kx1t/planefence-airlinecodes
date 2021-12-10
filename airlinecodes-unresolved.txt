@@ -1,3 +1,4 @@
+Airline code "LRQ", examples:LRQ630K,4D0290,Fri Dec 10 15:14:46 UTC 2021
 Airline code "HYS", examples:HYS473,4A4D79,Wed Dec 8 22:50:10 UTC 2021
 Airline code "BNO", examples:BNO92J,47A48C,Wed Dec 8 12:15:08 UTC 2021
 Airline code "TLI", examples:TLI341,3DAA4D,Wed Dec 8 08:29:09 UTC 2021
@@ -27,7 +28,6 @@ Airline code "DGK", examples:DGK2877,4CC505,Mon Nov 29 20:44:10 UTC 2021
 Airline code "TJD", examples:TJD750,300447,Mon Nov 29 15:10:51 UTC 2021
 Airline code "UAW", examples:UAW22,400EA0,Mon Nov 29 14:26:58 UTC 2021
 Airline code "BAO", examples:BAO292P,3C5070,Mon Nov 29 13:15:27 UTC 2021
-Airline code "LRQ", examples:LRQ609J,4D0293,Sun Nov 28 20:03:59 UTC 2021
 Airline code "JPV", examples:JPV284,440A05,Sat Nov 27 11:24:46 UTC 2021
 Airline code "EGC", examples:EGC680,A903A0,Sat Nov 27 02:32:57 UTC 2021
 Airline code "VYR", examples:VYR686,A91B40,Fri Nov 26 20:13:42 UTC 2021
