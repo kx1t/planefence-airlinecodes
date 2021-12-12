@@ -1,6 +1,7 @@
+Airline code "JPV", examples:JPV284P,440A05,Sun Dec 12 17:04:41 UTC 2021
+Airline code "RQT", examples:RQT10,A97D2B,Sun Dec 12 17:41:02 UTC 2021
 Airline code "HYS", examples:HYS251,4A08A5,Sun Dec 12 16:42:51 UTC 2021
 Airline code "GJM", examples:GJM743,4D2354,Sun Dec 12 09:24:53 UTC 2021
-Airline code "JPV", examples:JPV284,440A05,Sat Dec 11 13:49:36 UTC 2021
 Airline code "VOC", examples:VOC9000,A6EC65,Sat Dec 11 12:39:47 UTC 2021
 Airline code "LRQ", examples:LRQ630K,4D0290,Fri Dec 10 15:14:46 UTC 2021
 Airline code "BNO", examples:BNO92J,47A48C,Wed Dec 8 12:15:08 UTC 2021
@@ -236,7 +237,6 @@ Airline code "RSP", examples:RSP69,A77A78,Thu Sep 9 18:06:55 UTC 2021
 Airline code "JAZ", examples:JAZ7935,C017ED,Mon Sep 6 20:04:26 UTC 2021
 Airline code "MBK", examples:MBK601,C00381,Mon Sep 6 20:46:50 UTC 2021
 Airline code "WFN", examples:WFN3518,C0256E,Tue Aug 31 20:11:58 UTC 2021
-Airline code "RQT", examples:RQT10,A97D2B,Mon Aug 30 21:47:21 UTC 2021
 Airline code "TVQ", examples:TVQ6823,49D283,Sat Aug 28 16:05:18 UTC 2021
 Airline code "SBE", examples:SBE600,A7C847,Sat Aug 28 01:59:48 UTC 2021
 Airline code "EEW", examples:EEW5522,AC8B43,Fri Aug 27 02:39:11 UTC 2021
