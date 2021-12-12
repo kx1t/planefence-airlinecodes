@@ -1,4 +1,4 @@
-Airline code "HYS", examples:HYS473,4A4D79,Sat Dec 11 14:05:12 UTC 2021
+Airline code "HYS", examples:HYS243,4A4D79,Sat Dec 11 23:10:47 UTC 2021
 Airline code "JPV", examples:JPV284,440A05,Sat Dec 11 13:49:36 UTC 2021
 Airline code "VOC", examples:VOC9000,A6EC65,Sat Dec 11 12:39:47 UTC 2021
 Airline code "LRQ", examples:LRQ630K,4D0290,Fri Dec 10 15:14:46 UTC 2021
