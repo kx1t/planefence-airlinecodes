@@ -2317,6 +2317,7 @@ GJA,Globe Jet,,Lebanon
 GJB,Trans-Air-Link,SKY TRUCK,United States
 GJE,Global Air Charters Inc,GLOBAL JETS,United States
 GJI,Gainjet Ireland Limited,GAINSTAR,IE
+GJM,Airhub Airlines,AIRHUB,Malta
 GJS,GoJet Airlines,LINDBERGH,United States
 GJT,Gestión Aérea Ejecutiva,BANJET,Spain
 GKA,US Army Parachute Team,GOLDEN KNIGHTS,United States
@@ -2692,6 +2693,7 @@ HYH,Heli Hungary,HELIHUNGARY,Hungary
 HYM,Himalayan Airlines,,Nepal
 HYP,Hyperion Aviation,HYPERION,Malta
 HYR,Airlink Airways,HIGHFLYER,Ireland
+HYS,HiSky Europe,SKY EUROPE,Romania
 HYT,YTO Cargo Airlines,QUICK AIR,China
 HZA,Horizon Airlines,,Australia
 HZL,Hazelton Airlines,,Australia
@@ -3040,6 +3042,7 @@ JPO,Jetpro,,Mexico
 JPQ,Jett Paqueteria,,Mexico
 JPR,Aerosmith Aviation,JASPER,United States
 JPU,Jupiter Airlines,,United Arab Emirates
+JPV,Jet Pool Network,JETPOOL,Austria
 JRB,Jc royal.britannica,,United Kingdom
 JRC,JetAir Caribbean,JETAIR,Aruba
 JRF,First Air Transport,,Japan
@@ -3507,6 +3510,7 @@ LRC,LACSA,LACSA,Costa Rica
 LRD,Laredo Air,LAREDO AIR,United States
 LRK,Skyjet Aviation Services Ltd,SKYLARK,NG
 LRO,Alrosa-Avia,ALROSA,Russia
+LRQ,Luxembourg Air Ambulance,LUX RESCUE,Luxembourg
 LRR,Lorraine Aviation,LORRAINE,France
 LRS,Sansa,,Costa Rica
 LRT,Lincoln Airlines,,Australia
@@ -4273,6 +4277,7 @@ OMF,Omniflys,OMNIFLYS,Mexico
 OMG,Aeromega,OMEGA,United Kingdom
 OML,Organizacoes Mambra,MAMBRA,Angola
 OMN,Servicios Aereos Ominia,SERVIOMNIA,Mexico
+OMP,Nomadic Aviation,NOMADIC,United States
 OMR,Minair,ORMINE,Central African Republic
 OMS,SalamAir,MAZOON,Oman
 ONE,Avianca Brazil,OCEAN AIR,Brazil
@@ -4936,6 +4941,7 @@ RPK,Royal Airlines,ROYAL PAKISTAN,Pakistan
 RPO,Rainbow Air Polynesia,,United States
 RPS,Global Air Charter,RESPONSE,United States
 RPX,BAC Express Airlines,RAPEX,United Kingdom
+RQT,Airquest Aviation,AIR QUEST,United States
 RQX,Air Engiadina-BRN,,Switzerland
 RRA,Royal Rwanda Airlines,ROYAL RWANDA,Rwanda
 RRB,Aero Club de Castellon,,Spain
@@ -6285,6 +6291,7 @@ VNT,Avient Air Zambia,AVIENT,Zambia
 VNX,Fly Advance,VANCE,United States
 VNZ,Tbilaviamsheni,TBILAVIA,Georgia
 VOA,Viaggio Air,VIAGGIO,Bulgaria
+VOC,Volaris Costa Rica,ROSTA RICAN,Costa Rica
 VOE,Volotea,VOLOTEA,Spain
 VOG,Voyager Airlines,VOYAGER AIR,Bangladesh
 VOI,Volaris,VOLARIS,Mexico
@@ -6541,6 +6548,7 @@ XDT,Date Transformation Corp,,United States
 XDY,Dynair Services,,United States
 XEC,Air Executive Charter,,Germany
 XEL,Excel Charter,HELI EXCEL,United Kingdom
+XEN,ZEN Flight,ZEN JET,United States
 XER,Xerox Corporation,XEROX,United States
 XFA,FlyAsianXpress,FAX AIR,Malaysia
 XFL,Executive Fliteways Inc,EX-FLIGHT,United States
