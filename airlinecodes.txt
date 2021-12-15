@@ -2756,6 +2756,7 @@ IDR,Indicator Company,INDICATOR,Hungary
 IDS,Indonesia Sky,,Indonesia
 IDX,Indonesa Air Aisa X,,Indonesia
 IEA,Inter European Airways,,United Kingdom
+IEI,Italian Army,ITALIAN ARMY,Italy
 IEP,Elipiu',ELIPIU,Italy
 IFA,FAI Air Service,RED ANGEL,Germany
 IFC,Indian Air Force,INDIAN AIRFORCE,India
@@ -2773,7 +2774,7 @@ IGC,Iraq Gate,,Iraq
 IGN,Interguide Air,DIVINE AIR,Nigeria
 IGO,IndiGo Airlines,IFLY,India
 IGS,Isle Grande Flying School,ISLA GRANDE,United States
-IHC,Iran Helicopter Company,HELIRAN,IR
+IHC,Iran Helicopter Company,HELIRAN,Iran
 IHE,Interjet Helicopters,INTERCOPTER,Greece
 IHO,748 Air Services,SEFEAS,Kenya
 IHS,Thryluthjonustan,,Iceland
