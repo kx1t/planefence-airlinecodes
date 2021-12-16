@@ -1,3 +1,4 @@
+Airline code "OOF", examples:OOF55,449BF3,Thu Dec 16 14:28:30 UTC 2021
 Airline code "OOH", examples:OOH84,44A010,Thu Dec 16 11:40:24 UTC 2021
 Airline code "FHV", examples:FHV01,459901,Thu Dec 16 10:53:19 UTC 2021
 Airline code "UAW", examples:UAW22,400EE0,Thu Dec 16 10:54:40 UTC 2021
@@ -70,7 +71,6 @@ Airline code "KBD", examples:KBD216,398477,Fri Nov 12 15:46:14 UTC 2021
 Airline code "ULC", examples:ULC22,4D2305,Fri Nov 12 15:03:30 UTC 2021
 Airline code "WRC", examples:WRC7753,5083B4,Fri Nov 12 15:59:32 UTC 2021
 Airline code "EMM", examples:EMM012,4D21E4,Fri Nov 12 14:57:21 UTC 2021
-Airline code "OOF", examples:OOF05,449BC1,Fri Nov 12 14:10:14 UTC 2021
 Airline code "URO", examples:URO461,400F0B,Fri Nov 12 14:03:32 UTC 2021
 Airline code "ITY", examples:ITY150,4CA98A,Fri Nov 12 13:02:06 UTC 2021
 Airline code "NOZ", examples:NOZ53Y,4ACA4A,Fri Nov 12 13:42:05 UTC 2021
