@@ -1,3 +1,4 @@
+Airline code "RKU", examples:RKU1,C80DAF,Thu Dec 16 00:29:58 UTC 2021
 Airline code "BAO", examples:BAO330N,3C0FE6,Wed Dec 15 18:51:42 UTC 2021
 Airline code "IEI", examples:IEI2856,33FE0B,Wed Dec 15 12:40:13 UTC 2021 IEI2856,33FE0B,Wed Dec 15 12:21:27 UTC 2021 IEI2856,33FE0B,Wed Dec 15 12:21:02 UTC 2021
 Airline code "OMD", examples:OMD545,4CABC9,Mon Dec 13 06:04:49 UTC 2021
@@ -16,7 +17,6 @@ Airline code "KFB", examples:KFB150,A0C9FC,Mon Dec 6 23:13:34 UTC 2021 KFB150,A0
 Airline code "OBI", examples:OBI2,43C553,Mon Dec 6 17:02:46 UTC 2021
 Airline code "NZS", examples:NZS3503,4ACA53,Mon Dec 6 13:21:41 UTC 2021
 Airline code "RTG", examples:RTG5252,47923C,Mon Dec 6 12:10:45 UTC 2021
-Airline code "RKU", examples:RKU1,C80DAF,Mon Dec 6 02:48:38 UTC 2021
 Airline code "EEV", examples:EEV5345,A09961,Sun Dec 5 20:30:35 UTC 2021 EEV5345,A09961,Sun Dec 5 20:29:31 UTC 2021
 Airline code "RWR", examples:RWR4JT,48C232,Sun Dec 5 15:37:33 UTC 2021
 Airline code "RCR", examples:RCR6010,4A1A61,Sat Dec 4 14:35:02 UTC 2021
