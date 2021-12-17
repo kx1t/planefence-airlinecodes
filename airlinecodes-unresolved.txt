@@ -1,3 +1,4 @@
+Airline code "TJD", examples:TJD850,300288,Fri Dec 17 15:47:37 UTC 2021
 Airline code "UAW", examples:UAW20,400EE0,Fri Dec 17 13:22:59 UTC 2021
 Airline code "XCH", examples:XCH532U,43E7ED,Fri Dec 17 09:03:11 UTC 2021
 Airline code "GRB", examples:GRB507,A14D17,Fri Dec 17 08:04:27 UTC 2021
@@ -39,7 +40,6 @@ Airline code "NJM", examples:NJM422,A50316,Tue Nov 30 19:25:29 UTC 2021
 Airline code "XLJ", examples:XLJ605,A7DA01,Tue Nov 30 18:14:34 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 30 14:41:55 UTC 2021
 Airline code "DGK", examples:DGK2877,4CC505,Mon Nov 29 20:44:10 UTC 2021
-Airline code "TJD", examples:TJD750,300447,Mon Nov 29 15:10:51 UTC 2021
 Airline code "EGC", examples:EGC680,A903A0,Sat Nov 27 02:32:57 UTC 2021
 Airline code "VYR", examples:VYR686,A91B40,Fri Nov 26 20:13:42 UTC 2021
 Airline code "PCT", examples:PCT522,3F9AE8,Thu Nov 25 19:09:15 UTC 2021
