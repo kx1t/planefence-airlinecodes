@@ -1,3 +1,4 @@
+Airline code "DMS", examples:DMS5,4632AE,Fri Dec 17 17:50:31 UTC 2021
 Airline code "DCW", examples:DCW1,4D2184,Fri Dec 17 16:27:34 UTC 2021
 Airline code "TJD", examples:TJD850,300288,Fri Dec 17 15:47:37 UTC 2021
 Airline code "UAW", examples:UAW20,400EE0,Fri Dec 17 13:22:59 UTC 2021
@@ -177,7 +178,6 @@ Airline code "BOH", examples:BOH711,49D3AC,Sun Oct 24 10:41:02 UTC 2021
 Airline code "OOG", examples:OOG77,449C09,Sun Oct 24 09:00:57 UTC 2021
 Airline code "TWI", examples:TWI290,4BD181,Sun Oct 24 07:41:16 UTC 2021
 Airline code "JLG", examples:JLG533,A6BD51,Sun Oct 24 00:37:38 UTC 2021
-Airline code "DMS", examples:DMS716,5110AE,Sat Oct 23 21:06:20 UTC 2021
 Airline code "SSR", examples:SSR561,300840,Sat Oct 23 12:18:16 UTC 2021
 Airline code "OOD", examples:OOD55,4493F3,Sat Oct 23 10:28:14 UTC 2021
 Airline code "WDE", examples:WDE22,A97AA1,Fri Oct 22 13:07:25 UTC 2021
