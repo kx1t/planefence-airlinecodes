@@ -1,3 +1,4 @@
+Airline code "KAF", examples:KAF3210,7061F5,Sat Dec 18 13:33:04 UTC 2021
 Airline code "UEE", examples:UEE1,506D8E,Sat Dec 18 11:12:17 UTC 2021
 Airline code "EZZ", examples:EZZ250P,501C0B,Sat Dec 18 05:06:23 UTC 2021
 Airline code "DMS", examples:DMS5,4632AE,Fri Dec 17 18:51:24 UTC 2021
@@ -150,7 +151,6 @@ Airline code "MJS", examples:MJS4731,AC38AF,Tue Nov 2 23:32:00 UTC 2021
 Airline code "IDD", examples:IDD621,A819F6,Tue Nov 2 22:07:14 UTC 2021
 Airline code "MOZ", examples:MOZ437,440405,Mon Nov 1 16:17:03 UTC 2021
 Airline code "NTF", examples:NTF68A,49D3E9,Mon Nov 1 15:32:31 UTC 2021
-Airline code "KAF", examples:KAF001,71BC65,Mon Nov 1 00:24:49 UTC 2021
 Airline code "JSX", examples:JSX8506,A23FB9,Sun Oct 31 21:03:31 UTC 2021
 Airline code "GCK", examples:GCK21,440964,Sun Oct 31 16:39:35 UTC 2021 GCK21,440964,Sun Oct 31 16:38:16 UTC 2021
 Airline code "JME", examples:JME210N,3431C9,Sun Oct 31 15:06:15 UTC 2021
