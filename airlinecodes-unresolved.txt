@@ -1,3 +1,4 @@
+Airline code "EZZ", examples:EZZ250P,501C0B,Sat Dec 18 05:06:23 UTC 2021
 Airline code "DMS", examples:DMS5,4632AE,Fri Dec 17 18:51:24 UTC 2021
 Airline code "DCW", examples:DCW1,4D2184,Fri Dec 17 16:27:34 UTC 2021
 Airline code "TJD", examples:TJD850,300288,Fri Dec 17 15:47:37 UTC 2021
@@ -159,7 +160,6 @@ Airline code "MLM", examples:MLM535,4D2097,Sat Oct 30 06:57:25 UTC 2021
 Airline code "RLI", examples:RLI526,A69CFD,Fri Oct 29 14:38:43 UTC 2021
 Airline code "UPR", examples:UPR291,A41CF8,Fri Oct 29 08:56:59 UTC 2021
 Airline code "CGF", examples:CGF1807,4520D2,Thu Oct 28 21:50:08 UTC 2021
-Airline code "EZZ", examples:EZZ2021,501C0B,Thu Oct 28 20:27:57 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Thu Oct 28 19:27:52 UTC 2021
 Airline code "TBJ", examples:TBJ91,A6BC98,Thu Oct 28 16:01:29 UTC 2021
 Airline code "MJE", examples:MJE001,8964C4,Thu Oct 28 15:19:57 UTC 2021
