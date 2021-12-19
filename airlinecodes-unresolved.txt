@@ -1,4 +1,4 @@
-Airline code "BAO", examples:BAO334P,3C5070,Sun Dec 19 08:35:40 UTC 2021
+Airline code "BAO", examples:BAO355P,3C5070,Sun Dec 19 12:24:25 UTC 2021
 Airline code "UEE", examples:UEE1,506D8E,Sat Dec 18 17:41:30 UTC 2021
 Airline code "KAF", examples:KAF3210,7061F5,Sat Dec 18 13:33:04 UTC 2021
 Airline code "EZZ", examples:EZZ250P,501C0B,Sat Dec 18 05:06:23 UTC 2021
