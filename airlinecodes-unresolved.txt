@@ -1,3 +1,4 @@
+Airline code "SXI", examples:SXI2168,43EDE7,Mon Dec 20 12:49:38 UTC 2021
 Airline code "OOF", examples:OOF81,44980D,Mon Dec 20 11:49:42 UTC 2021
 Airline code "XCH", examples:XCH533U,43E7ED,Mon Dec 20 10:42:25 UTC 2021
 Airline code "OOH", examples:OOH74,44A006,Mon Dec 20 09:50:59 UTC 2021
@@ -131,7 +132,6 @@ Airline code "UPC", examples:UPC8505,6831F8,Sun Nov 7 17:19:48 UTC 2021
 Airline code "MJF", examples:MJF37M,4408B6,Sun Nov 7 14:08:44 UTC 2021
 Airline code "AZV", examples:AZV944,42444A,Sat Nov 6 20:41:29 UTC 2021
 Airline code "JNY", examples:JNY30,A31D4D,Sat Nov 6 15:35:30 UTC 2021
-Airline code "SXI", examples:SXI2159,43EDE5,Sat Nov 6 09:36:33 UTC 2021
 Airline code "FSP", examples:FSP369,A42ED3,Sat Nov 6 02:33:06 UTC 2021
 Airline code "ERY", examples:ERY64,A86A77,Fri Nov 5 19:38:12 UTC 2021 ERY64,A86A77,Fri Nov 5 19:36:45 UTC 2021
 Airline code "ESW", examples:ESW650,600BC8,Fri Nov 5 14:34:26 UTC 2021
