@@ -1,5 +1,6 @@
+Airline code "GKY", examples:GKY336,4241C2,Tue Dec 21 14:48:07 UTC 2021
+Airline code "OOH", examples:OOH49,44A3ED,Tue Dec 21 14:15:34 UTC 2021
 Airline code "NTF", examples:NTF695S,49D0A2,Tue Dec 21 12:54:47 UTC 2021 NTF695S,49D0A2,Tue Dec 21 12:54:47 UTC 2021 NTF695S,49D0A2,Tue Dec 21 12:54:23 UTC 2021
-Airline code "OOH", examples:OOH74,44A006,Tue Dec 21 10:59:27 UTC 2021
 Airline code "NWC", examples:NWC9015,1427E0,Tue Dec 21 09:17:11 UTC 2021
 Airline code "XCH", examples:XCH483H,43E7ED,Mon Dec 20 14:02:41 UTC 2021
 Airline code "SXI", examples:SXI2168,43EDE7,Mon Dec 20 12:49:38 UTC 2021
@@ -14,7 +15,6 @@ Airline code "DCW", examples:DCW1,4D2184,Fri Dec 17 16:27:34 UTC 2021
 Airline code "TJD", examples:TJD850,300288,Fri Dec 17 15:47:37 UTC 2021
 Airline code "UAW", examples:UAW20,400EE0,Fri Dec 17 13:22:59 UTC 2021
 Airline code "GRB", examples:GRB507,A14D17,Fri Dec 17 08:04:27 UTC 2021
-Airline code "GKY", examples:GKY336,4241C2,Thu Dec 16 15:42:05 UTC 2021
 Airline code "OMD", examples:OMD546,4CABCA,Thu Dec 16 09:01:10 UTC 2021
 Airline code "RKU", examples:RKU1,C80DAF,Thu Dec 16 00:29:58 UTC 2021
 Airline code "IEI", examples:IEI2856,33FE0B,Wed Dec 15 12:40:13 UTC 2021 IEI2856,33FE0B,Wed Dec 15 12:21:27 UTC 2021 IEI2856,33FE0B,Wed Dec 15 12:21:02 UTC 2021
