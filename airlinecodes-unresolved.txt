@@ -1,3 +1,4 @@
+Airline code "NWC", examples:NWC9015,1427E0,Tue Dec 21 09:17:11 UTC 2021
 Airline code "XCH", examples:XCH483H,43E7ED,Mon Dec 20 14:02:41 UTC 2021
 Airline code "SXI", examples:SXI2168,43EDE7,Mon Dec 20 12:49:38 UTC 2021
 Airline code "OOF", examples:OOF81,44980D,Mon Dec 20 11:49:42 UTC 2021
@@ -61,7 +62,6 @@ Airline code "FJO", examples:FJO54A,4D2330,Wed Nov 24 08:35:00 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Mon Nov 22 16:47:40 UTC 2021
 Airline code "PWK", examples:PWK872,AC872F,Mon Nov 22 02:30:52 UTC 2021
 Airline code "HRF", examples:HRF139,A3FC98,Sun Nov 21 16:47:04 UTC 2021
-Airline code "NWC", examples:NWC9015,1427E0,Sun Nov 21 10:54:03 UTC 2021
 Airline code "EGT", examples:EGT602,451C29,Fri Nov 19 16:47:51 UTC 2021 EGT602,451C29,Fri Nov 19 16:47:35 UTC 2021
 Airline code "JTD", examples:JTD387,45AA90,Fri Nov 19 07:29:50 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF7E,Fri Nov 19 07:52:53 UTC 2021
