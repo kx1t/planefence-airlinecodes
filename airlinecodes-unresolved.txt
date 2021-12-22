@@ -1,3 +1,4 @@
+Airline code "RKU", examples:RKU1,C80DAF,Wed Dec 22 19:02:35 UTC 2021
 Airline code "NTF", examples:NTF695S,49D0A2,Wed Dec 22 15:32:21 UTC 2021 NTF695S,49D0A2,Wed Dec 22 15:04:30 UTC 2021 NTF695S,49D0A2,Wed Dec 22 15:04:30 UTC 2021
 Airline code "XCH", examples:XCH534U,43E7ED,Wed Dec 22 15:05:39 UTC 2021
 Airline code "OOH", examples:OOH93,44A019,Wed Dec 22 11:49:06 UTC 2021
@@ -17,7 +18,6 @@ Airline code "TJD", examples:TJD850,300288,Fri Dec 17 15:47:37 UTC 2021
 Airline code "UAW", examples:UAW20,400EE0,Fri Dec 17 13:22:59 UTC 2021
 Airline code "GRB", examples:GRB507,A14D17,Fri Dec 17 08:04:27 UTC 2021
 Airline code "OMD", examples:OMD546,4CABCA,Thu Dec 16 09:01:10 UTC 2021
-Airline code "RKU", examples:RKU1,C80DAF,Thu Dec 16 00:29:58 UTC 2021
 Airline code "IEI", examples:IEI2856,33FE0B,Wed Dec 15 12:40:13 UTC 2021 IEI2856,33FE0B,Wed Dec 15 12:21:27 UTC 2021 IEI2856,33FE0B,Wed Dec 15 12:21:02 UTC 2021
 Airline code "XEN", examples:XEN51,A65F3C,Mon Dec 13 06:49:16 UTC 2021
 Airline code "JPV", examples:JPV284P,440A05,Sun Dec 12 17:04:41 UTC 2021
