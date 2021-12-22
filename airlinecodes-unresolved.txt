@@ -1,3 +1,4 @@
+Airline code "CSB", examples:CSB1196,ADF64C,Wed Dec 22 09:19:59 UTC 2021
 Airline code "GKY", examples:GKY336,4241C2,Tue Dec 21 14:48:07 UTC 2021
 Airline code "OOH", examples:OOH49,44A3ED,Tue Dec 21 14:15:34 UTC 2021
 Airline code "NTF", examples:NTF695S,49D0A2,Tue Dec 21 12:54:47 UTC 2021 NTF695S,49D0A2,Tue Dec 21 12:54:47 UTC 2021 NTF695S,49D0A2,Tue Dec 21 12:54:23 UTC 2021
@@ -191,7 +192,6 @@ Airline code "DLX", examples:DLX79,A77160,Sun Oct 17 20:38:17 UTC 2021
 Airline code "UJC", examples:UJC59,A407D6,Sun Oct 17 18:12:54 UTC 2021 UJC59,A407D6,Sun Oct 17 18:05:07 UTC 2021
 Airline code "LSM", examples:LSM97,500127,Sun Oct 17 15:37:30 UTC 2021 LSM97,500127,Sun Oct 17 15:01:06 UTC 2021
 Airline code "GTW", examples:GTW363,A4177F,Fri Oct 15 21:05:40 UTC 2021
-Airline code "CSB", examples:CSB588,C025D2,Fri Oct 15 12:15:44 UTC 2021
 Airline code "TEK", examples:TEK610,A7EF5C,Fri Oct 15 11:45:22 UTC 2021
 Airline code "GCL", examples:GCL3318,3C4D98,Thu Oct 14 18:05:08 UTC 2021
 Airline code "KZN", examples:KZN9401,15065F,Thu Oct 14 18:06:27 UTC 2021
