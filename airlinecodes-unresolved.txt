@@ -1,3 +1,4 @@
+Airline code "WMN", examples:WMN160,A0F347,Thu Dec 23 18:57:45 UTC 2021
 Airline code "CSB", examples:CSB1196,ADF64C,Thu Dec 23 10:47:18 UTC 2021 CSB1196,ADF64C,Thu Dec 23 10:46:33 UTC 2021
 Airline code "RKU", examples:RKU1,C80DAF,Wed Dec 22 19:02:35 UTC 2021
 Airline code "NTF", examples:NTF695S,49D0A2,Wed Dec 22 15:32:21 UTC 2021 NTF695S,49D0A2,Wed Dec 22 15:04:30 UTC 2021 NTF695S,49D0A2,Wed Dec 22 15:04:30 UTC 2021
@@ -162,7 +163,6 @@ Airline code "MLM", examples:MLM535,4D2097,Sat Oct 30 06:57:25 UTC 2021
 Airline code "RLI", examples:RLI526,A69CFD,Fri Oct 29 14:38:43 UTC 2021
 Airline code "UPR", examples:UPR291,A41CF8,Fri Oct 29 08:56:59 UTC 2021
 Airline code "CGF", examples:CGF1807,4520D2,Thu Oct 28 21:50:08 UTC 2021
-Airline code "WMN", examples:WMN160,A0F347,Thu Oct 28 19:27:52 UTC 2021
 Airline code "TBJ", examples:TBJ91,A6BC98,Thu Oct 28 16:01:29 UTC 2021
 Airline code "MJE", examples:MJE001,8964C4,Thu Oct 28 15:19:57 UTC 2021
 Airline code "KEJ", examples:KEJ6496,6830BB,Thu Oct 28 10:58:20 UTC 2021
