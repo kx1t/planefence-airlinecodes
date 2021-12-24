@@ -1293,6 +1293,7 @@ CRX,Cross Aviation,CROSSAIR,United Kingdom
 CRY,Primavia Limited,CARRIERS,United Kingdom
 CRZ,Cruzeiro do Sul Servicos Aereos,,Brazil
 CSA,Czech Airlines,CSA,Czech Republic
+CSB,21 Air,CARGO SOUTH,United States
 CSC,Sichuan Airlines,SI CHUAN,China
 CSD,Courier Services,DELIVERY,United States
 CSE,CSE Aviation,OXFORD,United Kingdom
@@ -2321,6 +2322,7 @@ GJM,Airhub Airlines,AIRHUB,Malta
 GJS,GoJet Airlines,LINDBERGH,United States
 GJT,Gestión Aérea Ejecutiva,BANJET,Spain
 GKA,US Army Parachute Team,GOLDEN KNIGHTS,United States
+GKY,Gama Aviation,GAMA CAYMAN,Cayman Islands
 GLA,Great Lakes Airlines,LAKES AIR,United States
 GLB,Global Airways (GLB),GLO-AIR,United States
 GLC,Global Aircargo,,Bahrain
@@ -4150,6 +4152,7 @@ NTB,Servicios Aéreos Del Norte,SERVINORTE,Mexico
 NTC,Gibson Aviation,NIGHT CHASE,United States
 NTD,Aero Norte,,Mexico
 NTE,Interaire,INTERMEX,Mexico
+NTF,OK Business Aircraft,NETFLIGHT,Czech Republic
 NTG,Servicios Integrales De Aviación,INTEGRALES,Mexico
 NTH,Hokkaido Air System,NORTH AIR,Japan
 NTJ,NextJet,NEXTJET,Sweden
@@ -4183,6 +4186,7 @@ NVR,Novair,NAVIGATOR,Sweden
 NVS,Nouvelle Air Affaires Gabon,NOUVELLE AFFAIRES,GA
 NVY,Royal Navy,NAVY,United Kingdom
 NWA,Delta Airlines,NORTHWEST,United States
+NWC,Aircompany North-West LLC,WEST WAY,Russia
 NWD,New World Jet Corporation,NEW WORLD,United States
 NWE,Northwest Aero Associates,,United States
 NWF,Northwest Flyers,SECOND CITY,United States
@@ -4855,6 +4859,7 @@ RJA,Royal Jordanian,JORDANIAN,Jordan
 RJC,Richmor Aviation,COLUMBIA JET,United States
 RJD,Rotana Jet,,United Arab Emirates
 RJM,Millen Corporation,MILLEN,United Kingdom
+RJR,Air CM Global,MELITA,Malta
 RJS,Aeroservicios Jet,ASERJET,Mexico
 RJT,RA Jet Aeroservicios,RA JET,Mexico
 RJZ,Royal Jordanian Air Force,JORDAN AIR FORCE,Jordan
@@ -5046,7 +5051,6 @@ RYR,Ryanair,RYANAIR,Ireland
 RYS,Buzz (Ryanair),MAGIC SUN,Poland
 RYT,Raya Jet,,Jordan
 RYZ,Ryazan State Air Enterprise,RYAZAN AIR,Russia
-RZ,Superna Airlines,YANGTZE RIVER,China
 RZA,Jet Fighter Flights,,Australia
 RZL,Aero Zambia,AERO ZAMBIA,Zambia
 RZN,Aero Zano,ZANO,Mexico
@@ -5568,6 +5572,7 @@ SXA,Southern Cross Aviation,FERRY,United States
 SXC,Sky Exec Aviation Services,SKY EXEC,Nigeria
 SXD,Sunexpress Deutschland,SUNRISE,Germany
 SXE,Southeast Express Airlines,DOGWOOD EXPRESS,United States
+SXI,Southern Cross International,SOUTHERN CROSS,Netherlands
 SXL,Skyline Flight,SKYLINE,United States
 SXM,Servicios Aéreos Especializados Mexicanos,SERVIMEX,Mexico
 SXN,SaxonAir,SAXONAIR,United Kingdom
@@ -6463,6 +6468,7 @@ WLV,Aviation North,WOLVERINE,United States
 WLX,West Air Luxembourg,WEST LUX,Luxembourg
 WMA,Watermakers Air,WATERMAKERS,United States
 WML,Chantilly Air,MARLIN,United States
+WMN,Trident Aircraft,WATERMAN,United States
 WNA,Winair,WINAIR,United States
 WNR,Wondair on Demand Aviation,WONDAIR,Spain
 WOA,World Airways,WORLD,United States
@@ -6537,6 +6543,7 @@ XBM,CBM America,,United States
 XBO,Baseops International,,United States
 XCA,Colt Transportes Aereos,COLT,Brazil
 XCC,Ecoturistica de Xcalak,XCALAK,Mexico
+XCH,Jet Exchange,EXCHANGE,United Kingdom
 XCL,Contel ASC,,United States
 XCO,Compuflight Operations Service,,United States
 XCS,Compuserve Incorporated,,United States
