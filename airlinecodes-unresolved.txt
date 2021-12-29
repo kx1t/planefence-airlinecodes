@@ -1,3 +1,4 @@
+Airline code "MJS", examples:MJS3522,A36878,Wed Dec 29 17:59:59 UTC 2021
 Airline code "LJX", examples:LJX386,A47227,Mon Dec 27 20:19:27 UTC 2021
 Airline code "RJR", examples:RJR005,4D21E5,Thu Dec 23 19:04:49 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Thu Dec 23 18:57:45 UTC 2021
@@ -152,7 +153,6 @@ Airline code "SYO", examples:SYO03,40327F,Wed Nov 3 12:23:12 UTC 2021
 Airline code "NKE", examples:NKE495F,49410D,Wed Nov 3 11:34:08 UTC 2021
 Airline code "TEU", examples:TEU9,4D21BC,Wed Nov 3 09:09:04 UTC 2021
 Airline code "VKA", examples:VKA198,5083C0,Wed Nov 3 05:56:49 UTC 2021
-Airline code "MJS", examples:MJS4731,AC38AF,Tue Nov 2 23:32:00 UTC 2021
 Airline code "IDD", examples:IDD621,A819F6,Tue Nov 2 22:07:14 UTC 2021
 Airline code "MOZ", examples:MOZ437,440405,Mon Nov 1 16:17:03 UTC 2021
 Airline code "JSX", examples:JSX8506,A23FB9,Sun Oct 31 21:03:31 UTC 2021
