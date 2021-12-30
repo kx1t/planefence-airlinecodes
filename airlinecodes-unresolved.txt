@@ -1,3 +1,4 @@
+Airline code "FSP", examples:FSP377,A44E32,Thu Dec 30 21:32:55 UTC 2021
 Airline code "LSI", examples:LSI514,4CAC2E,Thu Dec 30 19:29:10 UTC 2021
 Airline code "MJS", examples:MJS3522,A36878,Thu Dec 30 02:33:17 UTC 2021
 Airline code "NSH", examples:NSH255,A26BF3,Wed Dec 29 19:52:12 UTC 2021 NSH255,A26BF3,Wed Dec 29 19:51:56 UTC 2021
@@ -139,7 +140,6 @@ Airline code "UPC", examples:UPC8505,6831F8,Sun Nov 7 17:19:48 UTC 2021
 Airline code "MJF", examples:MJF37M,4408B6,Sun Nov 7 14:08:44 UTC 2021
 Airline code "AZV", examples:AZV944,42444A,Sat Nov 6 20:41:29 UTC 2021
 Airline code "JNY", examples:JNY30,A31D4D,Sat Nov 6 15:35:30 UTC 2021
-Airline code "FSP", examples:FSP369,A42ED3,Sat Nov 6 02:33:06 UTC 2021
 Airline code "ERY", examples:ERY64,A86A77,Fri Nov 5 19:38:12 UTC 2021 ERY64,A86A77,Fri Nov 5 19:36:45 UTC 2021
 Airline code "ESW", examples:ESW650,600BC8,Fri Nov 5 14:34:26 UTC 2021
 Airline code "SEP", examples:SEP1721,7609C3,Fri Nov 5 14:56:17 UTC 2021
