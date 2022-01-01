@@ -1,3 +1,4 @@
+Airline code "OOF", examples:OOF55,449BF3,Sat Jan 1 12:58:21 UTC 2022
 Airline code "OOH", examples:OOH53,44A3F1,Fri Dec 31 12:22:02 UTC 2021
 Airline code "FSP", examples:FSP377,A44E32,Thu Dec 30 21:32:55 UTC 2021
 Airline code "LSI", examples:LSI514,4CAC2E,Thu Dec 30 19:29:10 UTC 2021
@@ -13,7 +14,6 @@ Airline code "XCH", examples:XCH534U,43E7ED,Wed Dec 22 15:05:39 UTC 2021
 Airline code "GKY", examples:GKY336,4241C2,Tue Dec 21 14:48:07 UTC 2021
 Airline code "NWC", examples:NWC9015,1427E0,Tue Dec 21 09:17:11 UTC 2021
 Airline code "SXI", examples:SXI2168,43EDE7,Mon Dec 20 12:49:38 UTC 2021
-Airline code "OOF", examples:OOF81,44980D,Mon Dec 20 11:49:42 UTC 2021
 Airline code "FHV", examples:FHV01,459901,Sun Dec 19 21:28:51 UTC 2021
 Airline code "BAO", examples:BAO355P,3C5070,Sun Dec 19 12:24:25 UTC 2021
 Airline code "UEE", examples:UEE1,506D8E,Sat Dec 18 17:41:30 UTC 2021
