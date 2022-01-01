@@ -1,5 +1,6 @@
+Airline code "OOD", examples:OOD80,44900C,Sat Jan 1 15:01:13 UTC 2022
+Airline code "OOF", examples:OOF05,449BC1,Sat Jan 1 15:15:52 UTC 2022
 Airline code "OOE", examples:OOE20,4497D0,Sat Jan 1 14:06:31 UTC 2022
-Airline code "OOF", examples:OOF55,449BF3,Sat Jan 1 12:58:21 UTC 2022
 Airline code "OOH", examples:OOH53,44A3F1,Fri Dec 31 12:22:02 UTC 2021
 Airline code "FSP", examples:FSP377,A44E32,Thu Dec 30 21:32:55 UTC 2021
 Airline code "LSI", examples:LSI514,4CAC2E,Thu Dec 30 19:29:10 UTC 2021
@@ -184,7 +185,6 @@ Airline code "OOG", examples:OOG77,449C09,Sun Oct 24 09:00:57 UTC 2021
 Airline code "TWI", examples:TWI290,4BD181,Sun Oct 24 07:41:16 UTC 2021
 Airline code "JLG", examples:JLG533,A6BD51,Sun Oct 24 00:37:38 UTC 2021
 Airline code "SSR", examples:SSR561,300840,Sat Oct 23 12:18:16 UTC 2021
-Airline code "OOD", examples:OOD55,4493F3,Sat Oct 23 10:28:14 UTC 2021
 Airline code "WDE", examples:WDE22,A97AA1,Fri Oct 22 13:07:25 UTC 2021
 Airline code "EXD", examples:EXD001,009AD8,Fri Oct 22 11:07:49 UTC 2021
 Airline code "JMK", examples:JMK418,4D20A7,Wed Oct 20 01:32:37 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:42 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:21 UTC 2021
