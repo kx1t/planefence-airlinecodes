@@ -1,3 +1,4 @@
+Airline code "JSL", examples:JSL41,A11020,Sun Jan 2 04:30:13 UTC 2022
 Airline code "EEW", examples:EEW5559,A7CC00,Sun Jan 2 02:33:14 UTC 2022
 Airline code "OOD", examples:OOD80,44900C,Sat Jan 1 15:01:13 UTC 2022
 Airline code "OOF", examples:OOF05,449BC1,Sat Jan 1 15:15:52 UTC 2022
