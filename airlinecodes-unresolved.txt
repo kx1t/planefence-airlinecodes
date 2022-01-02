@@ -1,4 +1,4 @@
-Airline code "EEW", examples:EEW5559,A7CC00,Sat Jan 1 22:14:40 UTC 2022
+Airline code "EEW", examples:EEW5559,A7CC00,Sun Jan 2 02:33:14 UTC 2022
 Airline code "OOD", examples:OOD80,44900C,Sat Jan 1 15:01:13 UTC 2022
 Airline code "OOF", examples:OOF05,449BC1,Sat Jan 1 15:15:52 UTC 2022
 Airline code "OOE", examples:OOE20,4497D0,Sat Jan 1 14:06:31 UTC 2022
