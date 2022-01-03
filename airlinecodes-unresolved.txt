@@ -1,3 +1,4 @@
+Airline code "HMJ", examples:HMJ078,4D2358,Mon Jan 3 21:45:52 UTC 2022
 Airline code "DMS", examples:DMS5,4632AE,Mon Jan 3 09:44:12 UTC 2022
 Airline code "OOH", examples:OOH49,44A3ED,Sun Jan 2 11:45:32 UTC 2022
 Airline code "BAO", examples:BAO385G,3C86C7,Sun Jan 2 10:30:24 UTC 2022
@@ -138,7 +139,6 @@ Airline code "JCO", examples:JCO55L,406A1E,Mon Nov 8 09:41:52 UTC 2021
 Airline code "NYX", examples:NYX420,511147,Mon Nov 8 05:57:49 UTC 2021
 Airline code "VCJ", examples:VCJ92T,4D229A,Sun Nov 7 21:32:35 UTC 2021
 Airline code "AJO", examples:AJO341,4D22DC,Sun Nov 7 17:57:09 UTC 2021
-Airline code "HMJ", examples:HMJ208,394979,Sun Nov 7 17:03:45 UTC 2021
 Airline code "UPC", examples:UPC8505,6831F8,Sun Nov 7 17:19:48 UTC 2021
 Airline code "MJF", examples:MJF37M,4408B6,Sun Nov 7 14:08:44 UTC 2021
 Airline code "AZV", examples:AZV944,42444A,Sat Nov 6 20:41:29 UTC 2021
