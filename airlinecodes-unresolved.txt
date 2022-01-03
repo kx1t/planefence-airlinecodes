@@ -1,4 +1,4 @@
-Airline code "DMS", examples:DMS5,4632AE,Sun Jan 2 18:44:55 UTC 2022
+Airline code "DMS", examples:DMS5,4632AE,Mon Jan 3 09:44:12 UTC 2022
 Airline code "OOH", examples:OOH49,44A3ED,Sun Jan 2 11:45:32 UTC 2022
 Airline code "BAO", examples:BAO385G,3C86C7,Sun Jan 2 10:30:24 UTC 2022
 Airline code "JSL", examples:JSL41,A11020,Sun Jan 2 04:30:13 UTC 2022
