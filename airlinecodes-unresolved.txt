@@ -1,4 +1,4 @@
-Airline code "SDG", examples:SDG9201,800CC1,Fri Jan 7 02:59:51 UTC 2022
+Airline code "SDG", examples:SDG8212,8013EE,Fri Jan 7 15:24:14 UTC 2022
 Airline code "NSH", examples:NSH845,AB92F7,Thu Jan 6 21:25:06 UTC 2022
 Airline code "FTK", examples:FTK25,A9DDF6,Thu Jan 6 19:15:16 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Thu Jan 6 16:54:09 UTC 2022
