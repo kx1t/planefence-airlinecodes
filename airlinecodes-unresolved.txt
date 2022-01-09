@@ -1,3 +1,4 @@
+Airline code "JSL", examples:JSL41,A11020,Sun Jan 9 22:05:45 UTC 2022
 Airline code "XSM", examples:XSM55,AD4890,Sun Jan 9 15:38:41 UTC 2022
 Airline code "OOH", examples:OOH74,44A006,Sun Jan 9 12:45:51 UTC 2022
 Airline code "MXY", examples:MXY6400,A033D2,Sat Jan 8 20:45:12 UTC 2022
@@ -14,7 +15,6 @@ Airline code "LJX", examples:LJX386,A47227,Wed Jan 5 14:05:08 UTC 2022
 Airline code "HMJ", examples:HMJ078,4D2358,Mon Jan 3 21:45:52 UTC 2022
 Airline code "DMS", examples:DMS5,4632AE,Mon Jan 3 09:44:12 UTC 2022
 Airline code "BAO", examples:BAO385G,3C86C7,Sun Jan 2 10:30:24 UTC 2022
-Airline code "JSL", examples:JSL41,A11020,Sun Jan 2 04:30:13 UTC 2022
 Airline code "EEW", examples:EEW5559,A7CC00,Sun Jan 2 02:33:14 UTC 2022
 Airline code "OOD", examples:OOD80,44900C,Sat Jan 1 15:01:13 UTC 2022
 Airline code "OOF", examples:OOF05,449BC1,Sat Jan 1 15:15:52 UTC 2022
