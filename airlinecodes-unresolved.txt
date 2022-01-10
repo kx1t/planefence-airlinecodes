@@ -1,3 +1,4 @@
+Airline code "HLY", examples:HLY95,4076F4,Mon Jan 10 16:55:47 UTC 2022
 Airline code "INI", examples:INI211,343183,Mon Jan 10 14:22:50 UTC 2022
 Airline code "MXY", examples:MXY6402,A033D2,Mon Jan 10 00:05:50 UTC 2022
 Airline code "JSL", examples:JSL41,A11020,Sun Jan 9 22:05:45 UTC 2022
@@ -59,7 +60,6 @@ Airline code "RTG", examples:RTG5252,47923C,Mon Dec 6 12:10:45 UTC 2021
 Airline code "EEV", examples:EEV5345,A09961,Sun Dec 5 20:30:35 UTC 2021 EEV5345,A09961,Sun Dec 5 20:29:31 UTC 2021
 Airline code "RWR", examples:RWR4JT,48C232,Sun Dec 5 15:37:33 UTC 2021
 Airline code "RCR", examples:RCR6010,4A1A61,Sat Dec 4 14:35:02 UTC 2021
-Airline code "HLY", examples:HLY47,4076F4,Sat Dec 4 11:16:11 UTC 2021
 Airline code "RYP", examples:RYP6PP,4CA25B,Thu Dec 2 07:37:57 UTC 2021
 Airline code "LTZ", examples:LTZ365,090001,Thu Dec 2 06:46:31 UTC 2021
 Airline code "BEB", examples:BEB0121,424667,Wed Dec 1 16:06:21 UTC 2021
