@@ -1,3 +1,4 @@
+Airline code "LSI", examples:LSI407,4CAC2E,Tue Jan 11 16:51:32 UTC 2022
 Airline code "OOH", examples:OOH84,44A010,Tue Jan 11 11:47:13 UTC 2022
 Airline code "HLY", examples:HLY95,4076F4,Mon Jan 10 16:55:47 UTC 2022
 Airline code "INI", examples:INI211,343183,Mon Jan 10 14:22:50 UTC 2022
@@ -22,7 +23,6 @@ Airline code "OOD", examples:OOD80,44900C,Sat Jan 1 15:01:13 UTC 2022
 Airline code "OOF", examples:OOF05,449BC1,Sat Jan 1 15:15:52 UTC 2022
 Airline code "OOE", examples:OOE20,4497D0,Sat Jan 1 14:06:31 UTC 2022
 Airline code "FSP", examples:FSP377,A44E32,Thu Dec 30 21:32:55 UTC 2021
-Airline code "LSI", examples:LSI514,4CAC2E,Thu Dec 30 19:29:10 UTC 2021
 Airline code "MJS", examples:MJS3522,A36878,Thu Dec 30 02:33:17 UTC 2021
 Airline code "RJR", examples:RJR005,4D21E5,Thu Dec 23 19:04:49 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Thu Dec 23 18:57:45 UTC 2021
