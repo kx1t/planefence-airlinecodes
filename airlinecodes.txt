@@ -436,7 +436,7 @@ ASF,Austrian Air Force,AUSTRIAN AIRFORCE,Austria
 ASG,African Star Airways (PTY) Ltd.,AFRICAN STAR,South Africa
 ASH,Mesa Airlines,AIR SHUTTLE,United States
 ASI,Aerosun International Inc.,AEROSUN,United States
-ASJ,Air Satellite,,Canada
+ASJ,AstonJet,,France
 ASK,Aerosky,MULTISKY,Spain
 ASL,Air Serbia,AIR SERBIA,Serbia
 ASM,Awesome Flight Services (PTY) Ltd.,AWESOME,South Africa
@@ -3963,7 +3963,7 @@ NAF,Royal Netherlands Air Force,NETHERLANDS AIR FORCE,Netherlands
 NAH,Nahanni Air Services Ltd,NAHANNI,Canada
 NAI,North Adria Aviation,NORTH-ADRIA,Croatia
 NAJ,North American Jet Charter Group,JET GROUP,United States
-NAK,École Nationale de l'Aviation Civile,ENAC SCHOOL,France
+NAK,ENAC,ENAC SCHOOL,France
 NAL,Northway Aviation Ltd,NORTHWAY,Canada
 NAM,Nortland Air Manitoba,MANITOBA,Canada
 NAN,Norwegian Air Norway,NORSHIP,Norway
