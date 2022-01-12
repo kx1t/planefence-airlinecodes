@@ -2350,6 +2350,7 @@ GMI,Germania,GERMANIA,Germany
 GMJ,Gamisa Aviación,GAMISA,Spain
 GML,G & L Aviation,GEEANDEL,South Africa
 GMM,Aerotaxis Guamuchil,AEROGUAMUCHIL,Mexico
+GMN,Garmin,GARMIN,United States
 GMQ,Germania Express,CORGI,Germany
 GMR,Golden Myanmar Airlines,GOLDEN MYANMAR,Myanmar
 GMS,Aeroservicios Gama,SERVICIOS GAMA,Mexico
@@ -2590,6 +2591,7 @@ HLT,Helitafe,HELITAFE,Mexico
 HLU,Heli Union Heli Prestations,HELI UNION,France
 HLW,Heliworks,HELIWORKS,Chile
 HLX,Hapag-Lloyd Express (TUIfly),YELLOW CAB,Germany
+HLY,Heli Air,WHISPER,United Kingdom
 HMA,Air Tahoma,TAHOMA,United States
 HMB,CHC Global Operations Canada,HUMMINGBIRD,Canada
 HMC,Heliamerica De Mexico,HELIAMERICA,Mexico
@@ -2821,6 +2823,7 @@ INC,Insel Air International,INSELAIR,Netherlands Antilles
 IND,Iona National Airways,IONA,Ireland
 INE,International Europe,,Spain
 ING,Aeroingenieria,,Chile
+INI,Initium Aviation,INITIUM,Spain
 INK,Sincom-Avia,SINCOM AVIA,Ukraine
 INL,Intal Avia,INTAL AVIA,Kyrgyzstan
 INO,Aeroservicios Intergrados de Norte,INTENOR,Mexico
@@ -3057,6 +3060,7 @@ JSE,Jets Y Servicios Ejecutivos,,Mexico
 JSH,Jetstream Air,,Hungary
 JSI,Jet Air Group,,Russia
 JSJ,JS Air,,Pakistan
+JSL,SelectJet,SELECTJET,United States
 JSM,Jet Stream,,Moldova
 JSN,Suncor Energy Inc,JETSUN,Canada
 JSP,Palmer Aviation,PALMER,United Kingdom
@@ -3521,6 +3525,7 @@ LRW,Al Rida Airways,AL RIDA,Mauritania
 LSA,LANSA,INTERNACIONAL,Dominican Republic
 LSC,Los Cedros Aviación,CEDROS,Chile
 LSE,Línea De Aeroservicios,,Chile
+LSI,Aliscargo Airlines,ALIS,Italy
 LSK,Aurela,AURELA,Lithuania
 LSM,Aerobusinessservice,,Russia
 LSP,Spectrum Aviation Incorporated,AIR TONY,United Kingdom
@@ -3935,6 +3940,7 @@ MXS,Millon Express,MILLON EXPRESS,United States
 MXT,México Transportes Aéreos,TRANSMEX,Mexico
 MXU,Maximus Air Cargo,CARGO MAX,United Arab Emirates
 MXX,Merchant Express Aviation,MERCHANT,Nigeria
+MXY,Breeze Airways,MOXY,United States
 MYA,Myflug,MYFLUG,Iceland
 MYD,Maya Island Air,MYLAND,Belize
 MYI,Mayair,MAYAIR,Mexico
