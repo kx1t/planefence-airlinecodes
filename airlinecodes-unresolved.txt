@@ -1,3 +1,4 @@
+Airline code "DMS", examples:DMS723,5110AE,Wed Jan 12 10:08:30 UTC 2022
 Airline code "HLY", examples:HLY95,407A20,Wed Jan 12 09:48:01 UTC 2022
 Airline code "GMN", examples:GMN56,AC6D33,Wed Jan 12 05:58:01 UTC 2022
 Airline code "MXY", examples:MXY6313,A0719B,Tue Jan 11 23:54:09 UTC 2022
@@ -17,7 +18,6 @@ Airline code "DCW", examples:DCW123,4D2200,Thu Jan 6 16:54:09 UTC 2022
 Airline code "BBK", examples:BBK1651,683240,Thu Jan 6 14:38:02 UTC 2022
 Airline code "LJX", examples:LJX386,A47227,Wed Jan 5 14:05:08 UTC 2022
 Airline code "HMJ", examples:HMJ078,4D2358,Mon Jan 3 21:45:52 UTC 2022
-Airline code "DMS", examples:DMS5,4632AE,Mon Jan 3 09:44:12 UTC 2022
 Airline code "BAO", examples:BAO385G,3C86C7,Sun Jan 2 10:30:24 UTC 2022
 Airline code "EEW", examples:EEW5559,A7CC00,Sun Jan 2 02:33:14 UTC 2022
 Airline code "OOD", examples:OOD80,44900C,Sat Jan 1 15:01:13 UTC 2022
