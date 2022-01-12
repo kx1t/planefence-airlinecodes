@@ -1,8 +1,8 @@
+Airline code "HLY", examples:HLY95,407A20,Wed Jan 12 09:48:01 UTC 2022
 Airline code "GMN", examples:GMN56,AC6D33,Wed Jan 12 05:58:01 UTC 2022
 Airline code "MXY", examples:MXY6313,A0719B,Tue Jan 11 23:54:09 UTC 2022
 Airline code "LSI", examples:LSI407,4CAC2E,Tue Jan 11 19:20:23 UTC 2022
 Airline code "OOH", examples:OOH84,44A010,Tue Jan 11 11:47:13 UTC 2022
-Airline code "HLY", examples:HLY95,4076F4,Mon Jan 10 16:55:47 UTC 2022
 Airline code "INI", examples:INI211,343183,Mon Jan 10 14:22:50 UTC 2022
 Airline code "JSL", examples:JSL41,A11020,Sun Jan 9 22:05:45 UTC 2022
 Airline code "XSM", examples:XSM55,AD4890,Sun Jan 9 15:38:41 UTC 2022
