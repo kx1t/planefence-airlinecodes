@@ -1,3 +1,4 @@
+Airline code "RKU", examples:RKU1,C80DAF,Fri Jan 14 05:31:54 UTC 2022
 Airline code "DMS", examples:DMS723,5110AE,Wed Jan 12 10:08:30 UTC 2022
 Airline code "HLY", examples:HLY95,407A20,Wed Jan 12 09:48:01 UTC 2022
 Airline code "GMN", examples:GMN56,AC6D33,Wed Jan 12 05:58:01 UTC 2022
@@ -28,7 +29,6 @@ Airline code "MJS", examples:MJS3522,A36878,Thu Dec 30 02:33:17 UTC 2021
 Airline code "RJR", examples:RJR005,4D21E5,Thu Dec 23 19:04:49 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Thu Dec 23 18:57:45 UTC 2021
 Airline code "CSB", examples:CSB1196,ADF64C,Thu Dec 23 10:47:18 UTC 2021 CSB1196,ADF64C,Thu Dec 23 10:46:33 UTC 2021
-Airline code "RKU", examples:RKU1,C80DAF,Wed Dec 22 19:02:35 UTC 2021
 Airline code "NTF", examples:NTF695S,49D0A2,Wed Dec 22 15:32:21 UTC 2021 NTF695S,49D0A2,Wed Dec 22 15:04:30 UTC 2021 NTF695S,49D0A2,Wed Dec 22 15:04:30 UTC 2021
 Airline code "XCH", examples:XCH534U,43E7ED,Wed Dec 22 15:05:39 UTC 2021
 Airline code "GKY", examples:GKY336,4241C2,Tue Dec 21 14:48:07 UTC 2021
