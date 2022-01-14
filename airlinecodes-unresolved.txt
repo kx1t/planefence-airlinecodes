@@ -1,4 +1,4 @@
-Airline code "OBI", examples:OBI2,43C553,Fri Jan 14 10:37:35 UTC 2022
+Airline code "OBI", examples:OBI2,43C553,Fri Jan 14 19:14:50 UTC 2022
 Airline code "MMO", examples:MMO130P,4D2025,Fri Jan 14 06:52:34 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Fri Jan 14 05:31:54 UTC 2022
 Airline code "DMS", examples:DMS723,5110AE,Wed Jan 12 10:08:30 UTC 2022
