@@ -1,3 +1,4 @@
+Airline code "MMO", examples:MMO130P,4D2025,Fri Jan 14 06:52:34 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Fri Jan 14 05:31:54 UTC 2022
 Airline code "DMS", examples:DMS723,5110AE,Wed Jan 12 10:08:30 UTC 2022
 Airline code "HLY", examples:HLY95,407A20,Wed Jan 12 09:48:01 UTC 2022
@@ -263,7 +264,6 @@ Airline code "OFL", examples:OFL06C,391DC2,Fri Aug 6 14:18:51 UTC 2021
 Airline code "JLC", examples:JLC23,A635AD,Thu Aug 5 03:57:09 UTC 2021
 Airline code "HST", examples:HST702,503E44,Wed Aug 4 14:05:17 UTC 2021
 Airline code "TKM", examples:TKM55,A73A51,Sun Aug 1 16:34:07 UTC 2021
-Airline code "MMO", examples:MMO180P,4D2025,Fri Jul 30 19:27:37 UTC 2021
 Airline code "FTO", examples:FTO382,A46462,Thu Jul 29 12:01:01 UTC 2021
 Airline code "GCE", examples:GCE0P,4012E0,Mon Jul 26 13:28:29 UTC 2021
 Airline code "VCF", examples:VCF1EG,40753B,Fri Jul 23 09:43:06 UTC 2021
