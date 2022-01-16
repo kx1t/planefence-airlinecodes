@@ -1,3 +1,4 @@
+Airline code "GCL", examples:GCL890,3C4D98,Sun Jan 16 08:48:59 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Sun Jan 16 05:31:44 UTC 2022
 Airline code "OBI", examples:OBI2,43C553,Fri Jan 14 19:14:50 UTC 2022
 Airline code "MMO", examples:MMO130P,4D2025,Fri Jan 14 06:52:34 UTC 2022
@@ -207,7 +208,6 @@ Airline code "UJC", examples:UJC59,A407D6,Sun Oct 17 18:12:54 UTC 2021 UJC59,A40
 Airline code "LSM", examples:LSM97,500127,Sun Oct 17 15:37:30 UTC 2021 LSM97,500127,Sun Oct 17 15:01:06 UTC 2021
 Airline code "GTW", examples:GTW363,A4177F,Fri Oct 15 21:05:40 UTC 2021
 Airline code "TEK", examples:TEK610,A7EF5C,Fri Oct 15 11:45:22 UTC 2021
-Airline code "GCL", examples:GCL3318,3C4D98,Thu Oct 14 18:05:08 UTC 2021
 Airline code "KZN", examples:KZN9401,15065F,Thu Oct 14 18:06:27 UTC 2021
 Airline code "CDX", examples:CDX550,748053,Wed Oct 13 10:19:31 UTC 2021
 Airline code "GLH", examples:GLH1,A16AAD,Tue Oct 12 19:05:40 UTC 2021
