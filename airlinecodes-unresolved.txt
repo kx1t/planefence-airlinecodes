@@ -1,4 +1,4 @@
-Airline code "EVY", examples:EVY10,7CFA72,Mon Jan 17 12:11:56 UTC 2022
+Airline code "EVY", examples:EVY11,7CFA72,Tue Jan 18 09:45:30 UTC 2022
 Airline code "SDG", examples:SDG9201,800C8A,Mon Jan 17 03:42:37 UTC 2022
 Airline code "BBK", examples:BBK1654,683240,Sun Jan 16 19:54:17 UTC 2022
 Airline code "HEP", examples:HEP02,479B34,Sun Jan 16 14:00:29 UTC 2022
