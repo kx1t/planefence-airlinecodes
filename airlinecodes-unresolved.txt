@@ -1,3 +1,4 @@
+Airline code "HOB", examples:HOB5,A43BF3,Tue Jan 18 18:15:22 UTC 2022
 Airline code "RJE", examples:RJE156,A0E1F3,Tue Jan 18 15:39:00 UTC 2022
 Airline code "UAW", examples:UAW23,400EE0,Tue Jan 18 12:39:48 UTC 2022
 Airline code "EVY", examples:EVY11,7CFA72,Tue Jan 18 09:45:30 UTC 2022
@@ -248,7 +249,6 @@ Airline code "NUS", examples:NUS560,A72727,Sat Sep 18 22:23:30 UTC 2021
 Airline code "NDL", examples:NDL350,C05D71,Sat Sep 18 19:31:39 UTC 2021 NDL350,C05D71,Sat Sep 18 19:23:02 UTC 2021
 Airline code "GSH", examples:GSH090,896403,Sat Sep 18 12:47:45 UTC 2021 GSH090,896403,Sat Sep 18 12:47:33 UTC 2021
 Airline code "NBM", examples:NBM1124,C0227B,Sat Sep 18 02:00:16 UTC 2021
-Airline code "HOB", examples:HOB5,A43BF3,Thu Sep 16 21:57:36 UTC 2021
 Airline code "RFV", examples:RFV82A,407359,Fri Sep 10 00:42:51 UTC 2021
 Airline code "RSP", examples:RSP69,A77A78,Thu Sep 9 18:06:55 UTC 2021
 Airline code "JAZ", examples:JAZ7935,C017ED,Mon Sep 6 20:04:26 UTC 2021
