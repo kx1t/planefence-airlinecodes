@@ -1,3 +1,4 @@
+Airline code "UAW", examples:UAW23,400EE0,Tue Jan 18 12:39:48 UTC 2022
 Airline code "EVY", examples:EVY11,7CFA72,Tue Jan 18 09:45:30 UTC 2022
 Airline code "SDG", examples:SDG9201,800C8A,Mon Jan 17 03:42:37 UTC 2022
 Airline code "BBK", examples:BBK1654,683240,Sun Jan 16 19:54:17 UTC 2022
@@ -43,7 +44,6 @@ Airline code "UEE", examples:UEE1,506D8E,Sat Dec 18 17:41:30 UTC 2021
 Airline code "KAF", examples:KAF3210,7061F5,Sat Dec 18 13:33:04 UTC 2021
 Airline code "EZZ", examples:EZZ250P,501C0B,Sat Dec 18 05:06:23 UTC 2021
 Airline code "TJD", examples:TJD850,300288,Fri Dec 17 15:47:37 UTC 2021
-Airline code "UAW", examples:UAW20,400EE0,Fri Dec 17 13:22:59 UTC 2021
 Airline code "GRB", examples:GRB507,A14D17,Fri Dec 17 08:04:27 UTC 2021
 Airline code "OMD", examples:OMD546,4CABCA,Thu Dec 16 09:01:10 UTC 2021
 Airline code "IEI", examples:IEI2856,33FE0B,Wed Dec 15 12:40:13 UTC 2021 IEI2856,33FE0B,Wed Dec 15 12:21:27 UTC 2021 IEI2856,33FE0B,Wed Dec 15 12:21:02 UTC 2021
