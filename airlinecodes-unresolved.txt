@@ -1,3 +1,4 @@
+Airline code "EEV", examples:EEV5113,AC878C,Fri Jan 21 18:22:28 UTC 2022
 Airline code "EVY", examples:EVY87,7CF85C,Thu Jan 20 06:03:15 UTC 2022
 Airline code "HOB", examples:HOB5,A43BF3,Tue Jan 18 18:15:22 UTC 2022
 Airline code "RJE", examples:RJE156,A0E1F3,Tue Jan 18 15:39:00 UTC 2022
@@ -63,7 +64,6 @@ Airline code "SAR", examples:SAR130,48A5E2,Tue Dec 7 14:54:09 UTC 2021
 Airline code "KFB", examples:KFB150,A0C9FC,Mon Dec 6 23:13:34 UTC 2021 KFB150,A0C9FC,Mon Dec 6 23:04:52 UTC 2021
 Airline code "NZS", examples:NZS3503,4ACA53,Mon Dec 6 13:21:41 UTC 2021
 Airline code "RTG", examples:RTG5252,47923C,Mon Dec 6 12:10:45 UTC 2021
-Airline code "EEV", examples:EEV5345,A09961,Sun Dec 5 20:30:35 UTC 2021 EEV5345,A09961,Sun Dec 5 20:29:31 UTC 2021
 Airline code "RWR", examples:RWR4JT,48C232,Sun Dec 5 15:37:33 UTC 2021
 Airline code "RCR", examples:RCR6010,4A1A61,Sat Dec 4 14:35:02 UTC 2021
 Airline code "RYP", examples:RYP6PP,4CA25B,Thu Dec 2 07:37:57 UTC 2021
