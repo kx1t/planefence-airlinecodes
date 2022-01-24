@@ -1,3 +1,4 @@
+Airline code "MJS", examples:MJS4321,AC38AF,Mon Jan 24 02:01:53 UTC 2022
 Airline code "EEV", examples:EEV4757,ACB2C2,Sun Jan 23 17:22:15 UTC 2022
 Airline code "BAO", examples:BAO416I,3CB089,Sun Jan 23 14:04:57 UTC 2022
 Airline code "OOH", examples:OOH74,44A006,Sun Jan 23 14:02:31 UTC 2022
@@ -33,7 +34,6 @@ Airline code "OOD", examples:OOD80,44900C,Sat Jan 1 15:01:13 UTC 2022
 Airline code "OOF", examples:OOF05,449BC1,Sat Jan 1 15:15:52 UTC 2022
 Airline code "OOE", examples:OOE20,4497D0,Sat Jan 1 14:06:31 UTC 2022
 Airline code "FSP", examples:FSP377,A44E32,Thu Dec 30 21:32:55 UTC 2021
-Airline code "MJS", examples:MJS3522,A36878,Thu Dec 30 02:33:17 UTC 2021
 Airline code "RJR", examples:RJR005,4D21E5,Thu Dec 23 19:04:49 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Thu Dec 23 18:57:45 UTC 2021
 Airline code "CSB", examples:CSB1196,ADF64C,Thu Dec 23 10:47:18 UTC 2021 CSB1196,ADF64C,Thu Dec 23 10:46:33 UTC 2021
