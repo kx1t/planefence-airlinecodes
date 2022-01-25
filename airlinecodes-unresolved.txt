@@ -1,3 +1,4 @@
+Airline code "GZR", examples:GZR26,A4B739,Tue Jan 25 12:29:13 UTC 2022
 Airline code "OMD", examples:OMD522,440B9D,Tue Jan 25 11:00:40 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Tue Jan 25 05:34:10 UTC 2022
 Airline code "OOH", examples:OOH84,44A010,Mon Jan 24 13:03:05 UTC 2022
