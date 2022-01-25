@@ -1,3 +1,4 @@
+Airline code "MMO", examples:MMO1301,4D2025,Tue Jan 25 17:07:38 UTC 2022
 Airline code "GZR", examples:GZR26,A4B739,Tue Jan 25 12:29:13 UTC 2022
 Airline code "OMD", examples:OMD522,440B9D,Tue Jan 25 11:00:40 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Tue Jan 25 05:34:10 UTC 2022
@@ -14,7 +15,6 @@ Airline code "BBK", examples:BBK1654,683240,Sun Jan 16 19:54:17 UTC 2022
 Airline code "HEP", examples:HEP02,479B34,Sun Jan 16 14:00:29 UTC 2022
 Airline code "GCL", examples:GCL890,3C4D98,Sun Jan 16 08:48:59 UTC 2022
 Airline code "OBI", examples:OBI2,43C553,Fri Jan 14 19:14:50 UTC 2022
-Airline code "MMO", examples:MMO130P,4D2025,Fri Jan 14 06:52:34 UTC 2022
 Airline code "DMS", examples:DMS723,5110AE,Wed Jan 12 10:08:30 UTC 2022
 Airline code "HLY", examples:HLY95,407A20,Wed Jan 12 09:48:01 UTC 2022
 Airline code "GMN", examples:GMN56,AC6D33,Wed Jan 12 05:58:01 UTC 2022
