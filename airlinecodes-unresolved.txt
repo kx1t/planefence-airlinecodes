@@ -1,3 +1,4 @@
+Airline code "RKU", examples:RKU1,C80DAF,Thu Jan 27 21:55:21 UTC 2022
 Airline code "EVY", examples:EVY98,7CFA72,Thu Jan 27 19:30:13 UTC 2022
 Airline code "NSH", examples:NSH5,AD488B,Thu Jan 27 14:25:44 UTC 2022
 Airline code "EEV", examples:EEV4676,ACB2C2,Wed Jan 26 12:40:05 UTC 2022
@@ -6,7 +7,6 @@ Airline code "XGN", examples:XGN60,A7C6FA,Tue Jan 25 20:46:27 UTC 2022
 Airline code "MMO", examples:MMO1301,4D2025,Tue Jan 25 17:07:38 UTC 2022
 Airline code "GZR", examples:GZR26,A4B739,Tue Jan 25 12:29:13 UTC 2022
 Airline code "OMD", examples:OMD522,440B9D,Tue Jan 25 11:00:40 UTC 2022
-Airline code "RKU", examples:RKU1,C80DAF,Tue Jan 25 05:34:10 UTC 2022
 Airline code "OOH", examples:OOH84,44A010,Mon Jan 24 13:03:05 UTC 2022
 Airline code "SDG", examples:SDG8212,800C8A,Mon Jan 24 11:31:18 UTC 2022
 Airline code "MJS", examples:MJS4321,AC38AF,Mon Jan 24 02:01:53 UTC 2022
