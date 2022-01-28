@@ -508,6 +508,7 @@ AVG,Aviation Legacy,AVILEF,Gambia
 AVH,AV8 Helicopters,KENT HELI,United Kingdom
 AVJ,Avia Traffic Company,ATOMIC,Kyrgyzstan
 AVK,AV8 Helicopters,AVIATE-COPTER,South Africa
+AVL,Aviation Adventures,SKY VENTURES,United States
 AVM,Aviación Ejecutiva Mexicana S.A.,AVEMEX,Mexico
 AVN,Air Vanuatu,AIR VAN,Vanuatu
 AVO,Aviation at Work,AVIATION WORK,South Africa
@@ -1863,6 +1864,7 @@ EVN,Euraviation,EURAVIATION,Italy
 EVR,Aeronautical Academy of Europe,DIANA,Portugal
 EVT,Everett Limited,,Tanzania
 EVX,ATR,GREEN SPIRIT,France
+EVY,Royal Australian Air Force,,Australia
 EWA,East-West Airlines,,Australia
 EWE,Eurowings Europe,,Austria
 EWG,Eurowings,EUROWINGS,Germany
@@ -2458,6 +2460,7 @@ GXY,Galaxy Airlines,GALAX,Japan
 GYP,Eagle Aviation,GYPSY,United Kingdom
 GZA,Excellent Air,EXCELLENT AIR,Germany
 GZD,Grizodubova Air Company,GRIZODUBOVA AIR,Russia
+GZO,Aeromanagement Group,GEZIRA,United States
 GZP,Gazpromavia,GAZPROMAVIA,Russia
 GZQ,Zagros Air,ZAGROS,Iran
 HA1,Hankook Air US,,United States
@@ -3786,6 +3789,7 @@ MMJ,Macau Jet International,MACAUJET,China
 MML,Hunnu Air,TRANS MONGOLIA,Mongolia
 MMM,Aviation Company Meridian,AVIAMERIDIAN,Russia
 MMN,Pro Airways,,United States
+MMO,Malta MedAir,MALIT,Malta
 MMP,AMP Incorporated,AMP-INC,United States
 MMR,Musrata Air Transport,MUSRATA AIR,Libya
 MMS,SAAD (A320) Limited,MUSAAD AIR,Cayman Islands
@@ -4142,6 +4146,7 @@ NSA,Nile Safaris Aviation,NILE SAFARIS,Sudan
 NSC,Societe De Transport Aerien De Mauritanie,TRANS-SOCIETE,Mauritania
 NSE,SATENA,SATENA,Colombia
 NSF,Northamptonshire School of Flying,NORTON,United Kingdom
+NSH,Sterling Aviation,NORTH-SHORE,United States
 NSJ,Nanshan Jet,NANSHAN,China
 NSK,Air Intersalonika,INTERSALONIKA,Greece
 NSL,Neric,NERICAIR,United Kingdom
@@ -4283,6 +4288,7 @@ OLV,Aerolíneas Olve,OLVE,Mexico
 OLX,Olimex Aerotaxi,OLIMEX,Czech Republic
 OLY,Olympic Aviation,OLAVIA,Greece
 OMA,Oman Air,OMAN AIR,Oman
+OMD,Nomadic Aviation,NOMADIC,United States
 OME,Homer Air,,Germany
 OMF,Omniflys,OMNIFLYS,Mexico
 OMG,Aeromega,OMEGA,United Kingdom
@@ -5141,6 +5147,7 @@ SDC,Sunrise Airlines,SUNDANCE,United States
 SDD,Skymaster Air Taxi,SKY DANCE,United States
 SDE,Air Partners Corp.,STAMPEDE,Canada
 SDF,Sundorph Aeronautical Corporation,SUNDORPH,United States
+SDG,Star Air,HI STAR,India
 SDH,Servicio De Helicopteros,ARCOS,Spain
 SDI,San Dima Air,,United States
 SDJ,Club 328,SPACEJET,United Kingdom
@@ -6570,6 +6577,7 @@ XFS,American Flight Service Systems,,United States
 XFX,Airways Corporation of New Zealand,AIRCORP,New Zealand
 XGA,General Aviation Terminal,,Canada
 XGG,IMP Group Aviation Services,,Canada
+XGN,NexGen Flight Solutions,NEXGEN,United States
 XGO,AirGO Flugservice GmbH & Co KG,PASTIS,Germany
 XGS,Global System,,United States
 XGW,Global Weather Dynamics,,United States
