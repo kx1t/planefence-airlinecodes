@@ -1,3 +1,4 @@
+Airline code "OOF", examples:OOF05,449BC1,Fri Jan 28 13:28:36 UTC 2022
 Airline code "UAW", examples:UAW23,400EE0,Fri Jan 28 12:34:54 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Thu Jan 27 21:55:21 UTC 2022
 Airline code "EVY", examples:EVY98,7CFA72,Thu Jan 27 19:30:13 UTC 2022
@@ -35,7 +36,6 @@ Airline code "LJX", examples:LJX386,A47227,Wed Jan 5 14:05:08 UTC 2022
 Airline code "HMJ", examples:HMJ078,4D2358,Mon Jan 3 21:45:52 UTC 2022
 Airline code "EEW", examples:EEW5559,A7CC00,Sun Jan 2 02:33:14 UTC 2022
 Airline code "OOD", examples:OOD80,44900C,Sat Jan 1 15:01:13 UTC 2022
-Airline code "OOF", examples:OOF05,449BC1,Sat Jan 1 15:15:52 UTC 2022
 Airline code "OOE", examples:OOE20,4497D0,Sat Jan 1 14:06:31 UTC 2022
 Airline code "FSP", examples:FSP377,A44E32,Thu Dec 30 21:32:55 UTC 2021
 Airline code "RJR", examples:RJR005,4D21E5,Thu Dec 23 19:04:49 UTC 2021
