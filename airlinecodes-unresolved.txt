@@ -1,3 +1,4 @@
+Airline code "EGC", examples:EGC322,A37666,Fri Jan 28 19:40:41 UTC 2022
 Airline code "OOF", examples:OOF05,449BC1,Fri Jan 28 13:28:36 UTC 2022
 Airline code "UAW", examples:UAW23,400EE0,Fri Jan 28 12:34:54 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Thu Jan 27 21:55:21 UTC 2022
@@ -79,7 +80,6 @@ Airline code "NJM", examples:NJM422,A50316,Tue Nov 30 19:25:29 UTC 2021
 Airline code "XLJ", examples:XLJ605,A7DA01,Tue Nov 30 18:14:34 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 30 14:41:55 UTC 2021
 Airline code "DGK", examples:DGK2877,4CC505,Mon Nov 29 20:44:10 UTC 2021
-Airline code "EGC", examples:EGC680,A903A0,Sat Nov 27 02:32:57 UTC 2021
 Airline code "VYR", examples:VYR686,A91B40,Fri Nov 26 20:13:42 UTC 2021
 Airline code "PCT", examples:PCT522,3F9AE8,Thu Nov 25 19:09:15 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Thu Nov 25 18:19:12 UTC 2021
