@@ -1,3 +1,4 @@
+Airline code "UAW", examples:UAW23,400EE0,Fri Jan 28 12:34:54 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Thu Jan 27 21:55:21 UTC 2022
 Airline code "EVY", examples:EVY98,7CFA72,Thu Jan 27 19:30:13 UTC 2022
 Airline code "NSH", examples:NSH5,AD488B,Thu Jan 27 14:25:44 UTC 2022
@@ -13,7 +14,6 @@ Airline code "MJS", examples:MJS4321,AC38AF,Mon Jan 24 02:01:53 UTC 2022
 Airline code "BAO", examples:BAO416I,3CB089,Sun Jan 23 14:04:57 UTC 2022
 Airline code "HOB", examples:HOB5,A43BF3,Tue Jan 18 18:15:22 UTC 2022
 Airline code "RJE", examples:RJE156,A0E1F3,Tue Jan 18 15:39:00 UTC 2022
-Airline code "UAW", examples:UAW23,400EE0,Tue Jan 18 12:39:48 UTC 2022
 Airline code "BBK", examples:BBK1654,683240,Sun Jan 16 19:54:17 UTC 2022
 Airline code "HEP", examples:HEP02,479B34,Sun Jan 16 14:00:29 UTC 2022
 Airline code "GCL", examples:GCL890,3C4D98,Sun Jan 16 08:48:59 UTC 2022
