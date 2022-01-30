@@ -1,7 +1,7 @@
+Airline code "OOF", examples:OOF98,44981E,Sun Jan 30 11:25:30 UTC 2022
 Airline code "OOH", examples:OOH49,44A3ED,Sun Jan 30 09:43:56 UTC 2022
 Airline code "GCL", examples:GCL442,3C4D8F,Sat Jan 29 00:10:08 UTC 2022
 Airline code "EGC", examples:EGC322,A37666,Fri Jan 28 19:40:41 UTC 2022
-Airline code "OOF", examples:OOF05,449BC1,Fri Jan 28 13:28:36 UTC 2022
 Airline code "UAW", examples:UAW23,400EE0,Fri Jan 28 12:34:54 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Thu Jan 27 21:55:21 UTC 2022
 Airline code "EVY", examples:EVY98,7CFA72,Thu Jan 27 19:30:13 UTC 2022
