@@ -1,4 +1,4 @@
-Airline code "GCL", examples:GCL441,3C4D8F,Sun Jan 30 23:57:59 UTC 2022
+Airline code "GCL", examples:GCL441,3C4D8F,Mon Jan 31 07:56:00 UTC 2022
 Airline code "OOE", examples:OOE06,4497C2,Sun Jan 30 14:52:11 UTC 2022
 Airline code "OOG", examples:OOG54,449FF2,Sun Jan 30 13:01:29 UTC 2022
 Airline code "OOH", examples:OOH74,44A006,Sun Jan 30 12:36:08 UTC 2022
