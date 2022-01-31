@@ -2233,6 +2233,7 @@ GCC,GECAS,GECAS,Ireland
 GCF,Aeronor,AEROCARTO,Spain
 GCH,Gama Aviation Switzerland,GAMA SWISS,Switzerland
 GCK,Aerogem Cargo,,Ghana
+GCL,CargoLogic Germany,SAXONIAN,Germany
 GCM,Comair Flight Services,GLOBECOM,South Africa
 GCN,Gulf Central Airlines,GULF CENTRAL,United States
 GCO,Gemini Air Cargo,GEMINI,United States
@@ -6054,6 +6055,7 @@ UAL,United Airlines,UNITED,United States
 UAR,Aerostar Airlines,AEROSTAR,Ukraine
 UAS,University Air Squadron,,United Kingdom
 UAT,Ukraine Atlantic,,Ukraine
+UAW,UAS/AEF St Athan,,United Kingdom
 UAY,University of Birmingham Air Squadron (RAF),,United Kingdom
 UBA,Myanma Airways,UNIONAIR,Myanmar
 UBD,United Airways,UNITED BANGLADESH,Bangladesh
