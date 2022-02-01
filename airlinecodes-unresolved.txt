@@ -1,4 +1,5 @@
-Airline code "CFW", examples:CFW103,00C456,Tue Feb 1 08:32:23 UTC 2022
+Airline code "CFW", examples:CFW103,00C456,Tue Feb 1 20:23:13 UTC 2022
+Airline code "MJS", examples:MJS3701,A36878,Tue Feb 1 20:09:20 UTC 2022
 Airline code "GRB", examples:GRB275,A745E8,Tue Feb 1 01:15:00 UTC 2022
 Airline code "UAW", examples:UAW23,400EE0,Mon Jan 31 11:29:36 UTC 2022
 Airline code "GCL", examples:GCL441,3C4D8F,Mon Jan 31 07:56:00 UTC 2022
@@ -17,7 +18,6 @@ Airline code "MMO", examples:MMO1301,4D2025,Tue Jan 25 17:07:38 UTC 2022
 Airline code "GZR", examples:GZR26,A4B739,Tue Jan 25 12:29:13 UTC 2022
 Airline code "OMD", examples:OMD522,440B9D,Tue Jan 25 11:00:40 UTC 2022
 Airline code "SDG", examples:SDG8212,800C8A,Mon Jan 24 11:31:18 UTC 2022
-Airline code "MJS", examples:MJS4321,AC38AF,Mon Jan 24 02:01:53 UTC 2022
 Airline code "BAO", examples:BAO416I,3CB089,Sun Jan 23 14:04:57 UTC 2022
 Airline code "HOB", examples:HOB5,A43BF3,Tue Jan 18 18:15:22 UTC 2022
 Airline code "RJE", examples:RJE156,A0E1F3,Tue Jan 18 15:39:00 UTC 2022
