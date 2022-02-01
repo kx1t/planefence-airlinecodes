@@ -1,3 +1,4 @@
+Airline code "CFW", examples:CFW103,00C456,Tue Feb 1 08:32:23 UTC 2022
 Airline code "GRB", examples:GRB275,A745E8,Tue Feb 1 01:15:00 UTC 2022
 Airline code "UAW", examples:UAW23,400EE0,Mon Jan 31 11:29:36 UTC 2022
 Airline code "GCL", examples:GCL441,3C4D8F,Mon Jan 31 07:56:00 UTC 2022
