@@ -1,3 +1,4 @@
+Airline code "WFL", examples:WFL3504,3465C5,Sun Feb 6 09:45:30 UTC 2022
 Airline code "QFY", examples:QFY21,3463D7,Sun Feb 6 08:37:27 UTC 2022
 Airline code "OOF", examples:OOF81,44980D,Sat Feb 5 14:20:56 UTC 2022
 Airline code "OOH", examples:OOH49,44A3ED,Sat Feb 5 14:20:51 UTC 2022
