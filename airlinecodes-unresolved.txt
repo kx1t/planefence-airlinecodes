@@ -1,3 +1,4 @@
+Airline code "EEW", examples:EEW4799,AC878C,Tue Feb 8 12:31:21 UTC 2022
 Airline code "NFX", examples:NFX102,AD07A6,Tue Feb 8 01:14:03 UTC 2022
 Airline code "GBG", examples:GBG808,45209D,Sun Feb 6 21:17:10 UTC 2022
 Airline code "BAO", examples:BAO428I,3CB089,Sun Feb 6 13:48:13 UTC 2022
@@ -43,7 +44,6 @@ Airline code "FHM", examples:FHM5065,4D21B1,Sat Jan 8 16:53:45 UTC 2022
 Airline code "WUF", examples:WUF3NK,40750F,Sat Jan 8 06:53:01 UTC 2022
 Airline code "FTK", examples:FTK25,A9DDF6,Thu Jan 6 19:15:16 UTC 2022
 Airline code "LJX", examples:LJX386,A47227,Wed Jan 5 14:05:08 UTC 2022
-Airline code "EEW", examples:EEW5559,A7CC00,Sun Jan 2 02:33:14 UTC 2022
 Airline code "OOD", examples:OOD80,44900C,Sat Jan 1 15:01:13 UTC 2022
 Airline code "FSP", examples:FSP377,A44E32,Thu Dec 30 21:32:55 UTC 2021
 Airline code "RJR", examples:RJR005,4D21E5,Thu Dec 23 19:04:49 UTC 2021
