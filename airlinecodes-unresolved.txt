@@ -1,10 +1,10 @@
+Airline code "UEE", examples:UEE1,506D8E,Wed Feb 9 17:43:48 UTC 2022
 Airline code "NFX", examples:NFX600,AB0DA1,Wed Feb 9 16:40:48 UTC 2022
 Airline code "TXH", examples:TXH4891,C03C2B,Wed Feb 9 16:21:56 UTC 2022
 Airline code "OOH", examples:OOH88,44A014,Wed Feb 9 14:32:38 UTC 2022
 Airline code "GRB", examples:GRB513,A14D17,Wed Feb 9 13:26:03 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Wed Feb 9 09:47:12 UTC 2022
 Airline code "EEW", examples:EEW4799,AC878C,Wed Feb 9 01:59:46 UTC 2022
-Airline code "UEE", examples:UEE1,506D8E,Tue Feb 8 23:07:06 UTC 2022
 Airline code "GBG", examples:GBG808,45209D,Sun Feb 6 21:17:10 UTC 2022
 Airline code "BAO", examples:BAO428I,3CB089,Sun Feb 6 13:48:13 UTC 2022
 Airline code "WFL", examples:WFL3504,3465C5,Sun Feb 6 09:45:30 UTC 2022
