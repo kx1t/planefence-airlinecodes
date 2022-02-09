@@ -1,3 +1,4 @@
+Airline code "ERU", examples:ERU498,A62E44,Wed Feb 9 19:14:40 UTC 2022
 Airline code "UEE", examples:UEE1,506D8E,Wed Feb 9 17:43:48 UTC 2022
 Airline code "NFX", examples:NFX600,AB0DA1,Wed Feb 9 16:40:48 UTC 2022
 Airline code "TXH", examples:TXH4891,C03C2B,Wed Feb 9 16:21:56 UTC 2022
