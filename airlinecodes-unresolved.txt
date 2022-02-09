@@ -1,6 +1,6 @@
+Airline code "UEE", examples:UEE1,506D8E,Tue Feb 8 23:07:06 UTC 2022
 Airline code "EEW", examples:EEW4799,AC878C,Tue Feb 8 20:33:30 UTC 2022
 Airline code "TXH", examples:TXH4891,C03C2B,Tue Feb 8 20:11:30 UTC 2022
-Airline code "UEE", examples:UEE1,506D8E,Tue Feb 8 20:52:15 UTC 2022
 Airline code "NFX", examples:NFX102,AD07A6,Tue Feb 8 01:14:03 UTC 2022
 Airline code "GBG", examples:GBG808,45209D,Sun Feb 6 21:17:10 UTC 2022
 Airline code "BAO", examples:BAO428I,3CB089,Sun Feb 6 13:48:13 UTC 2022
