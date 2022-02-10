@@ -1,3 +1,4 @@
+Airline code "AYJ", examples:AYJ064,3C45C4,Thu Feb 10 15:29:45 UTC 2022
 Airline code "NFX", examples:NFX102,AAC3B8,Thu Feb 10 01:23:30 UTC 2022
 Airline code "TXH", examples:TXH4891,C03C2B,Wed Feb 9 23:04:36 UTC 2022
 Airline code "ERU", examples:ERU498,A62E44,Wed Feb 9 19:14:40 UTC 2022
