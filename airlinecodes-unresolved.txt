@@ -1,3 +1,4 @@
+Airline code "JMK", examples:JMK429,4D20A7,Thu Feb 10 17:48:19 UTC 2022
 Airline code "AYJ", examples:AYJ064,3C45C4,Thu Feb 10 15:29:45 UTC 2022
 Airline code "NFX", examples:NFX102,AAC3B8,Thu Feb 10 01:23:30 UTC 2022
 Airline code "TXH", examples:TXH4891,C03C2B,Wed Feb 9 23:04:36 UTC 2022
@@ -213,7 +214,6 @@ Airline code "JLG", examples:JLG533,A6BD51,Sun Oct 24 00:37:38 UTC 2021
 Airline code "SSR", examples:SSR561,300840,Sat Oct 23 12:18:16 UTC 2021
 Airline code "WDE", examples:WDE22,A97AA1,Fri Oct 22 13:07:25 UTC 2021
 Airline code "EXD", examples:EXD001,009AD8,Fri Oct 22 11:07:49 UTC 2021
-Airline code "JMK", examples:JMK418,4D20A7,Wed Oct 20 01:32:37 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:42 UTC 2021 JMK418,4D20A7,Wed Oct 20 01:31:21 UTC 2021
 Airline code "NUE", examples:NUE8YR,491310,Tue Oct 19 09:49:24 UTC 2021
 Airline code "LKF", examples:LKF16,A1E54F,Mon Oct 18 16:16:26 UTC 2021
 Airline code "DLX", examples:DLX79,A77160,Sun Oct 17 20:38:17 UTC 2021
