@@ -1,3 +1,4 @@
+Airline code "RJE", examples:RJE156,A0E1F3,Sat Feb 12 02:19:39 UTC 2022
 Airline code "ERU", examples:ERU483,A5F432,Sat Feb 12 00:03:15 UTC 2022
 Airline code "RNI", examples:RNI218,A7FA00,Thu Feb 10 20:04:31 UTC 2022
 Airline code "JMK", examples:JMK429,4D20A7,Thu Feb 10 17:48:19 UTC 2022
@@ -34,7 +35,6 @@ Airline code "GZR", examples:GZR26,A4B739,Tue Jan 25 12:29:13 UTC 2022
 Airline code "OMD", examples:OMD522,440B9D,Tue Jan 25 11:00:40 UTC 2022
 Airline code "SDG", examples:SDG8212,800C8A,Mon Jan 24 11:31:18 UTC 2022
 Airline code "HOB", examples:HOB5,A43BF3,Tue Jan 18 18:15:22 UTC 2022
-Airline code "RJE", examples:RJE156,A0E1F3,Tue Jan 18 15:39:00 UTC 2022
 Airline code "BBK", examples:BBK1654,683240,Sun Jan 16 19:54:17 UTC 2022
 Airline code "HEP", examples:HEP02,479B34,Sun Jan 16 14:00:29 UTC 2022
 Airline code "OBI", examples:OBI2,43C553,Fri Jan 14 19:14:50 UTC 2022
