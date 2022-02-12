@@ -1,10 +1,10 @@
+Airline code "ERU", examples:ERU97,A7B7DC,Sat Feb 12 22:05:00 UTC 2022
 Airline code "EGC", examples:EGC211,A1BD6E,Sat Feb 12 19:18:15 UTC 2022
 Airline code "OOH", examples:OOH52,44A3F0,Sat Feb 12 15:46:07 UTC 2022
 Airline code "OOF", examples:OOF05,449BC1,Sat Feb 12 14:11:23 UTC 2022
 Airline code "OOD", examples:OOD92,449018,Sat Feb 12 11:15:24 UTC 2022
 Airline code "OOG", examples:OOG05,449FC1,Sat Feb 12 11:01:57 UTC 2022
 Airline code "RJE", examples:RJE156,A0E1F3,Sat Feb 12 02:19:39 UTC 2022
-Airline code "ERU", examples:ERU483,A5F432,Sat Feb 12 00:03:15 UTC 2022
 Airline code "RNI", examples:RNI218,A7FA00,Thu Feb 10 20:04:31 UTC 2022
 Airline code "JMK", examples:JMK429,4D20A7,Thu Feb 10 17:48:19 UTC 2022
 Airline code "AYJ", examples:AYJ064,3C45C4,Thu Feb 10 15:29:45 UTC 2022
