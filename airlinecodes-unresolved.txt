@@ -1,3 +1,4 @@
+Airline code "OOF", examples:OOF05,449BC1,Sat Feb 12 14:11:23 UTC 2022
 Airline code "OOD", examples:OOD92,449018,Sat Feb 12 11:15:24 UTC 2022
 Airline code "OOG", examples:OOG05,449FC1,Sat Feb 12 11:01:57 UTC 2022
 Airline code "OOH", examples:OOH88,44A014,Sat Feb 12 11:55:17 UTC 2022
@@ -16,7 +17,6 @@ Airline code "GBG", examples:GBG808,45209D,Sun Feb 6 21:17:10 UTC 2022
 Airline code "BAO", examples:BAO428I,3CB089,Sun Feb 6 13:48:13 UTC 2022
 Airline code "WFL", examples:WFL3504,3465C5,Sun Feb 6 09:45:30 UTC 2022
 Airline code "QFY", examples:QFY21,3463D7,Sun Feb 6 08:37:27 UTC 2022
-Airline code "OOF", examples:OOF81,44980D,Sat Feb 5 14:20:56 UTC 2022
 Airline code "XSM", examples:XSM36,A40B41,Sat Feb 5 02:09:49 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Fri Feb 4 14:27:32 UTC 2022
 Airline code "MJS", examples:MJS3711,A36878,Wed Feb 2 23:05:03 UTC 2022
