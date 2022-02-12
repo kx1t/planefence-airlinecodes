@@ -1,3 +1,4 @@
+Airline code "EGC", examples:EGC211,A1BD6E,Sat Feb 12 18:07:25 UTC 2022
 Airline code "OOH", examples:OOH52,44A3F0,Sat Feb 12 15:46:07 UTC 2022
 Airline code "OOF", examples:OOF05,449BC1,Sat Feb 12 14:11:23 UTC 2022
 Airline code "OOD", examples:OOD92,449018,Sat Feb 12 11:15:24 UTC 2022
@@ -25,7 +26,6 @@ Airline code "CFW", examples:CFW103,00C456,Tue Feb 1 20:23:13 UTC 2022
 Airline code "UAW", examples:UAW23,400EE0,Mon Jan 31 11:29:36 UTC 2022
 Airline code "GCL", examples:GCL441,3C4D8F,Mon Jan 31 07:56:00 UTC 2022
 Airline code "OOE", examples:OOE06,4497C2,Sun Jan 30 14:52:11 UTC 2022
-Airline code "EGC", examples:EGC322,A37666,Fri Jan 28 19:40:41 UTC 2022
 Airline code "EVY", examples:EVY98,7CFA72,Thu Jan 27 19:30:13 UTC 2022
 Airline code "NSH", examples:NSH5,AD488B,Thu Jan 27 14:25:44 UTC 2022
 Airline code "EEV", examples:EEV4676,ACB2C2,Wed Jan 26 12:40:05 UTC 2022
