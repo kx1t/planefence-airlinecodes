@@ -1,3 +1,5 @@
+Airline code "HTY", examples:HTY215,347253,Mon Feb 14 19:24:18 UTC 2022
+Airline code "RJE", examples:RJE156,A0E1F3,Mon Feb 14 19:06:27 UTC 2022
 Airline code "ERU", examples:ERU408,A4CACD,Mon Feb 14 12:34:40 UTC 2022
 Airline code "TFR", examples:TFR21,C822C4,Mon Feb 14 10:09:27 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Mon Feb 14 07:41:01 UTC 2022
@@ -5,12 +7,10 @@ Airline code "RKU", examples:RKU1,C80DAF,Mon Feb 14 00:10:43 UTC 2022
 Airline code "XSM", examples:XSM52,A687C8,Sun Feb 13 21:21:04 UTC 2022
 Airline code "EGC", examples:EGC680,A903A0,Sun Feb 13 20:05:09 UTC 2022
 Airline code "BAO", examples:BAO437I,3CB089,Sun Feb 13 18:26:35 UTC 2022
-Airline code "HTY", examples:HTY217,347253,Sun Feb 13 15:18:32 UTC 2022
 Airline code "OOH", examples:OOH74,44A006,Sun Feb 13 10:49:27 UTC 2022
 Airline code "OOF", examples:OOF05,449BC1,Sat Feb 12 14:11:23 UTC 2022
 Airline code "OOD", examples:OOD92,449018,Sat Feb 12 11:15:24 UTC 2022
 Airline code "OOG", examples:OOG05,449FC1,Sat Feb 12 11:01:57 UTC 2022
-Airline code "RJE", examples:RJE156,A0E1F3,Sat Feb 12 02:19:39 UTC 2022
 Airline code "RNI", examples:RNI218,A7FA00,Thu Feb 10 20:04:31 UTC 2022
 Airline code "JMK", examples:JMK429,4D20A7,Thu Feb 10 17:48:19 UTC 2022
 Airline code "AYJ", examples:AYJ064,3C45C4,Thu Feb 10 15:29:45 UTC 2022
