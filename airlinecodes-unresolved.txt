@@ -1,3 +1,4 @@
+Airline code "ERU", examples:ERU408,A4CACD,Mon Feb 14 12:34:40 UTC 2022
 Airline code "TFR", examples:TFR21,C822C4,Mon Feb 14 10:09:27 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Mon Feb 14 07:41:01 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Mon Feb 14 00:10:43 UTC 2022
@@ -6,7 +7,6 @@ Airline code "EGC", examples:EGC680,A903A0,Sun Feb 13 20:05:09 UTC 2022
 Airline code "BAO", examples:BAO437I,3CB089,Sun Feb 13 18:26:35 UTC 2022
 Airline code "HTY", examples:HTY217,347253,Sun Feb 13 15:18:32 UTC 2022
 Airline code "OOH", examples:OOH74,44A006,Sun Feb 13 10:49:27 UTC 2022
-Airline code "ERU", examples:ERU97,A7B7DC,Sat Feb 12 22:05:00 UTC 2022
 Airline code "OOF", examples:OOF05,449BC1,Sat Feb 12 14:11:23 UTC 2022
 Airline code "OOD", examples:OOD92,449018,Sat Feb 12 11:15:24 UTC 2022
 Airline code "OOG", examples:OOG05,449FC1,Sat Feb 12 11:01:57 UTC 2022
