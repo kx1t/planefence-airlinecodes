@@ -1,3 +1,4 @@
+Airline code "TFR", examples:TFR21,C822C4,Mon Feb 14 10:09:27 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Mon Feb 14 07:41:01 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Mon Feb 14 00:10:43 UTC 2022
 Airline code "XSM", examples:XSM52,A687C8,Sun Feb 13 21:21:04 UTC 2022
