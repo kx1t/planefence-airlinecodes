@@ -1,6 +1,6 @@
+Airline code "ERU", examples:ERU408,A4CACD,Tue Feb 15 00:02:57 UTC 2022
 Airline code "HTY", examples:HTY215,347253,Mon Feb 14 19:24:18 UTC 2022
 Airline code "RJE", examples:RJE156,A0E1F3,Mon Feb 14 19:06:27 UTC 2022
-Airline code "ERU", examples:ERU408,A4CACD,Mon Feb 14 12:34:40 UTC 2022
 Airline code "TFR", examples:TFR21,C822C4,Mon Feb 14 10:09:27 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Mon Feb 14 07:41:01 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Mon Feb 14 00:10:43 UTC 2022
