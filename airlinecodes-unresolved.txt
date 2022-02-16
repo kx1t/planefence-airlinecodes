@@ -1,3 +1,4 @@
+Airline code "MAO", examples:MAO2,A0B5AA,Wed Feb 16 18:53:54 UTC 2022
 Airline code "HTY", examples:HTY212,347253,Wed Feb 16 17:40:36 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Wed Feb 16 09:25:49 UTC 2022
 Airline code "NFX", examples:NFX102,AD07A6,Wed Feb 16 01:29:14 UTC 2022
@@ -235,7 +236,6 @@ Airline code "FRV", examples:FRV0906,020136,Mon Oct 11 21:30:17 UTC 2021
 Airline code "AXE", examples:AXE352P,502D38,Sun Oct 10 21:24:07 UTC 2021
 Airline code "KLJ", examples:KLJ252P,503CB7,Sun Oct 10 19:06:20 UTC 2021
 Airline code "HTM", examples:HTM09F,3E0609,Sat Oct 9 18:06:29 UTC 2021
-Airline code "MAO", examples:MAO2,A0B5AA,Wed Oct 6 23:19:24 UTC 2021
 Airline code "BJN", examples:BJN099,7807FC,Wed Oct 6 21:18:43 UTC 2021
 Airline code "CJY", examples:CJY972,C02876,Wed Oct 6 21:12:33 UTC 2021
 Airline code "LLK", examples:LLK501,46988B,Sat Oct 2 09:10:09 UTC 2021
