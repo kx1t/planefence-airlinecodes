@@ -1,5 +1,5 @@
+Airline code "HTY", examples:HTY216,347253,Thu Feb 17 20:20:51 UTC 2022
 Airline code "NFX", examples:NFX600,AB8B8C,Thu Feb 17 16:35:59 UTC 2022
-Airline code "HTY", examples:HTY211,347253,Thu Feb 17 15:26:42 UTC 2022
 Airline code "TFR", examples:TFR34,C82337,Thu Feb 17 10:36:58 UTC 2022
 Airline code "MAO", examples:MAO2,A0B5AA,Thu Feb 17 00:29:09 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Wed Feb 16 09:25:49 UTC 2022
