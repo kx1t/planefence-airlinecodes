@@ -1,4 +1,4 @@
-Airline code "MAO", examples:MAO2,A0B5AA,Wed Feb 16 18:53:54 UTC 2022
+Airline code "MAO", examples:MAO2,A0B5AA,Thu Feb 17 00:29:09 UTC 2022
 Airline code "HTY", examples:HTY212,347253,Wed Feb 16 17:40:36 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Wed Feb 16 09:25:49 UTC 2022
 Airline code "NFX", examples:NFX102,AD07A6,Wed Feb 16 01:29:14 UTC 2022
