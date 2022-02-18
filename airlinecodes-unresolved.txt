@@ -1,7 +1,7 @@
+Airline code "HTY", examples:HTY215,347253,Fri Feb 18 19:03:30 UTC 2022
 Airline code "YVO", examples:YVO100,0D81A5,Fri Feb 18 16:41:30 UTC 2022
 Airline code "CNP", examples:CNP315,0C2017,Fri Feb 18 08:44:18 UTC 2022
 Airline code "AFT", examples:AFT1421,C013D7,Fri Feb 18 03:56:09 UTC 2022
-Airline code "HTY", examples:HTY216,347253,Thu Feb 17 20:20:51 UTC 2022
 Airline code "NFX", examples:NFX600,AB8B8C,Thu Feb 17 16:35:59 UTC 2022
 Airline code "TFR", examples:TFR34,C82337,Thu Feb 17 10:36:58 UTC 2022
 Airline code "MAO", examples:MAO2,A0B5AA,Thu Feb 17 00:29:09 UTC 2022
