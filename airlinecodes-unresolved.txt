@@ -1,3 +1,4 @@
+Airline code "RCR", examples:RCR2025,4A1A61,Sat Feb 19 10:40:38 UTC 2022
 Airline code "HMJ", examples:HMJ078,4D2358,Sat Feb 19 07:22:37 UTC 2022
 Airline code "HTY", examples:HTY215,347253,Fri Feb 18 19:03:30 UTC 2022
 Airline code "YVO", examples:YVO100,0D81A5,Fri Feb 18 16:41:30 UTC 2022
@@ -86,7 +87,6 @@ Airline code "KFB", examples:KFB150,A0C9FC,Mon Dec 6 23:13:34 UTC 2021 KFB150,A0
 Airline code "NZS", examples:NZS3503,4ACA53,Mon Dec 6 13:21:41 UTC 2021
 Airline code "RTG", examples:RTG5252,47923C,Mon Dec 6 12:10:45 UTC 2021
 Airline code "RWR", examples:RWR4JT,48C232,Sun Dec 5 15:37:33 UTC 2021
-Airline code "RCR", examples:RCR6010,4A1A61,Sat Dec 4 14:35:02 UTC 2021
 Airline code "RYP", examples:RYP6PP,4CA25B,Thu Dec 2 07:37:57 UTC 2021
 Airline code "LTZ", examples:LTZ365,090001,Thu Dec 2 06:46:31 UTC 2021
 Airline code "BEB", examples:BEB0121,424667,Wed Dec 1 16:06:21 UTC 2021
