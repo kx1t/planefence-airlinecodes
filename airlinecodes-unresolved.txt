@@ -1,3 +1,4 @@
+Airline code "HMJ", examples:HMJ078,4D2358,Sat Feb 19 07:22:37 UTC 2022
 Airline code "HTY", examples:HTY215,347253,Fri Feb 18 19:03:30 UTC 2022
 Airline code "YVO", examples:YVO100,0D81A5,Fri Feb 18 16:41:30 UTC 2022
 Airline code "CNP", examples:CNP315,0C2017,Fri Feb 18 08:44:18 UTC 2022
@@ -28,7 +29,6 @@ Airline code "GBG", examples:GBG808,45209D,Sun Feb 6 21:17:10 UTC 2022
 Airline code "WFL", examples:WFL3504,3465C5,Sun Feb 6 09:45:30 UTC 2022
 Airline code "QFY", examples:QFY21,3463D7,Sun Feb 6 08:37:27 UTC 2022
 Airline code "MJS", examples:MJS3711,A36878,Wed Feb 2 23:05:03 UTC 2022
-Airline code "HMJ", examples:HMJ209,4D212B,Wed Feb 2 10:23:32 UTC 2022
 Airline code "CFW", examples:CFW103,00C456,Tue Feb 1 20:23:13 UTC 2022
 Airline code "UAW", examples:UAW23,400EE0,Mon Jan 31 11:29:36 UTC 2022
 Airline code "GCL", examples:GCL441,3C4D8F,Mon Jan 31 07:56:00 UTC 2022
