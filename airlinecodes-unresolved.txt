@@ -1,3 +1,4 @@
+Airline code "TKM", examples:TKM88,AB0069,Sun Feb 20 19:38:34 UTC 2022
 Airline code "YVO", examples:YVO100,0D81A5,Sun Feb 20 16:42:21 UTC 2022
 Airline code "RPG", examples:RPG5699,A24369,Sun Feb 20 15:16:06 UTC 2022
 Airline code "BAO", examples:BAO446I,3CB089,Sun Feb 20 09:16:08 UTC 2022
@@ -282,7 +283,6 @@ Airline code "JTG", examples:JTG573,45AB4D,Sun Aug 8 15:05:04 UTC 2021
 Airline code "OFL", examples:OFL06C,391DC2,Fri Aug 6 14:18:51 UTC 2021
 Airline code "JLC", examples:JLC23,A635AD,Thu Aug 5 03:57:09 UTC 2021
 Airline code "HST", examples:HST702,503E44,Wed Aug 4 14:05:17 UTC 2021
-Airline code "TKM", examples:TKM55,A73A51,Sun Aug 1 16:34:07 UTC 2021
 Airline code "FTO", examples:FTO382,A46462,Thu Jul 29 12:01:01 UTC 2021
 Airline code "GCE", examples:GCE0P,4012E0,Mon Jul 26 13:28:29 UTC 2021
 Airline code "VCF", examples:VCF1EG,40753B,Fri Jul 23 09:43:06 UTC 2021
