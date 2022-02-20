@@ -1,3 +1,4 @@
+Airline code "RNI", examples:RNI272,AB19DA,Sun Feb 20 22:43:12 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Sun Feb 20 20:12:15 UTC 2022
 Airline code "GBG", examples:GBG808,45209D,Sun Feb 20 20:54:48 UTC 2022
 Airline code "TKM", examples:TKM88,AB0069,Sun Feb 20 19:38:34 UTC 2022
@@ -23,7 +24,6 @@ Airline code "EGC", examples:EGC680,A903A0,Sun Feb 13 20:05:09 UTC 2022
 Airline code "OOF", examples:OOF05,449BC1,Sat Feb 12 14:11:23 UTC 2022
 Airline code "OOD", examples:OOD92,449018,Sat Feb 12 11:15:24 UTC 2022
 Airline code "OOG", examples:OOG05,449FC1,Sat Feb 12 11:01:57 UTC 2022
-Airline code "RNI", examples:RNI218,A7FA00,Thu Feb 10 20:04:31 UTC 2022
 Airline code "JMK", examples:JMK429,4D20A7,Thu Feb 10 17:48:19 UTC 2022
 Airline code "AYJ", examples:AYJ064,3C45C4,Thu Feb 10 15:29:45 UTC 2022
 Airline code "TXH", examples:TXH4891,C03C2B,Wed Feb 9 23:04:36 UTC 2022
