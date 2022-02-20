@@ -1,3 +1,4 @@
+Airline code "YVO", examples:YVO100,0D81A5,Sun Feb 20 16:42:21 UTC 2022
 Airline code "RPG", examples:RPG5699,A24369,Sun Feb 20 15:16:06 UTC 2022
 Airline code "BAO", examples:BAO446I,3CB089,Sun Feb 20 09:16:08 UTC 2022
 Airline code "GBG", examples:GBG807,45209B,Sun Feb 20 04:30:34 UTC 2022
@@ -6,7 +7,6 @@ Airline code "OOI", examples:OOI04,44A7C0,Sat Feb 19 15:10:51 UTC 2022
 Airline code "RCR", examples:RCR2025,4A1A61,Sat Feb 19 10:40:38 UTC 2022
 Airline code "HMJ", examples:HMJ078,4D2358,Sat Feb 19 07:22:37 UTC 2022
 Airline code "HTY", examples:HTY215,347253,Fri Feb 18 19:03:30 UTC 2022
-Airline code "YVO", examples:YVO100,0D81A5,Fri Feb 18 16:41:30 UTC 2022
 Airline code "CNP", examples:CNP315,0C2017,Fri Feb 18 08:44:18 UTC 2022
 Airline code "AFT", examples:AFT1421,C013D7,Fri Feb 18 03:56:09 UTC 2022
 Airline code "NFX", examples:NFX600,AB8B8C,Thu Feb 17 16:35:59 UTC 2022
