@@ -1,3 +1,4 @@
+Airline code "GBG", examples:GBG807,45209B,Sun Feb 20 04:30:34 UTC 2022
 Airline code "OOH", examples:OOH88,44A014,Sat Feb 19 15:12:12 UTC 2022
 Airline code "OOI", examples:OOI04,44A7C0,Sat Feb 19 15:10:51 UTC 2022
 Airline code "RCR", examples:RCR2025,4A1A61,Sat Feb 19 10:40:38 UTC 2022
@@ -27,7 +28,6 @@ Airline code "TXH", examples:TXH4891,C03C2B,Wed Feb 9 23:04:36 UTC 2022
 Airline code "UEE", examples:UEE1,506D8E,Wed Feb 9 17:43:48 UTC 2022
 Airline code "GRB", examples:GRB513,A14D17,Wed Feb 9 13:26:03 UTC 2022
 Airline code "EEW", examples:EEW4799,AC878C,Wed Feb 9 01:59:46 UTC 2022
-Airline code "GBG", examples:GBG808,45209D,Sun Feb 6 21:17:10 UTC 2022
 Airline code "WFL", examples:WFL3504,3465C5,Sun Feb 6 09:45:30 UTC 2022
 Airline code "QFY", examples:QFY21,3463D7,Sun Feb 6 08:37:27 UTC 2022
 Airline code "MJS", examples:MJS3711,A36878,Wed Feb 2 23:05:03 UTC 2022
