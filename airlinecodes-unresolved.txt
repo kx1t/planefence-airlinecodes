@@ -1,3 +1,4 @@
+Airline code "GZR", examples:GZR26,A4B739,Mon Feb 21 15:46:33 UTC 2022
 Airline code "TFR", examples:TFR21,7C48C8,Mon Feb 21 10:05:02 UTC 2022
 Airline code "ARN", examples:ARN633,00A2E4,Mon Feb 21 09:42:07 UTC 2022 ARN633,00A2E4,Mon Feb 21 09:38:23 UTC 2022
 Airline code "RNI", examples:RNI272,AB19DA,Sun Feb 20 22:43:12 UTC 2022
@@ -44,7 +45,6 @@ Airline code "EEV", examples:EEV4676,ACB2C2,Wed Jan 26 12:40:05 UTC 2022
 Airline code "AVL", examples:AVL111,A6A5C0,Wed Jan 26 01:17:21 UTC 2022
 Airline code "XGN", examples:XGN60,A7C6FA,Tue Jan 25 20:46:27 UTC 2022
 Airline code "MMO", examples:MMO1301,4D2025,Tue Jan 25 17:07:38 UTC 2022
-Airline code "GZR", examples:GZR26,A4B739,Tue Jan 25 12:29:13 UTC 2022
 Airline code "OMD", examples:OMD522,440B9D,Tue Jan 25 11:00:40 UTC 2022
 Airline code "SDG", examples:SDG8212,800C8A,Mon Jan 24 11:31:18 UTC 2022
 Airline code "HOB", examples:HOB5,A43BF3,Tue Jan 18 18:15:22 UTC 2022
