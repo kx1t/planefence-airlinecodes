@@ -1,3 +1,4 @@
+Airline code "TFR", examples:TFR21,7C48C8,Mon Feb 21 10:05:02 UTC 2022
 Airline code "ARN", examples:ARN633,00A2E4,Mon Feb 21 09:42:07 UTC 2022 ARN633,00A2E4,Mon Feb 21 09:38:23 UTC 2022
 Airline code "RNI", examples:RNI272,AB19DA,Sun Feb 20 22:43:12 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Sun Feb 20 20:12:15 UTC 2022
@@ -14,7 +15,6 @@ Airline code "HTY", examples:HTY215,347253,Fri Feb 18 19:03:30 UTC 2022
 Airline code "CNP", examples:CNP315,0C2017,Fri Feb 18 08:44:18 UTC 2022
 Airline code "AFT", examples:AFT1421,C013D7,Fri Feb 18 03:56:09 UTC 2022
 Airline code "NFX", examples:NFX600,AB8B8C,Thu Feb 17 16:35:59 UTC 2022
-Airline code "TFR", examples:TFR34,C82337,Thu Feb 17 10:36:58 UTC 2022
 Airline code "MAO", examples:MAO2,A0B5AA,Thu Feb 17 00:29:09 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Wed Feb 16 09:25:49 UTC 2022
 Airline code "TJD", examples:TJD401,3001F3,Tue Feb 15 16:59:38 UTC 2022
