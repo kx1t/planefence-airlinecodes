@@ -1,4 +1,4 @@
-Airline code "RNI", examples:RNI12,AC70DA,Tue Feb 22 18:46:22 UTC 2022
+Airline code "RNI", examples:RNI12,AC70DA,Tue Feb 22 19:39:58 UTC 2022
 Airline code "EPI", examples:EPI427,A992C9,Tue Feb 22 17:08:16 UTC 2022
 Airline code "FHM", examples:FHM5061,4D2390,Tue Feb 22 16:57:08 UTC 2022
 Airline code "GCI", examples:GCI2041,320054,Tue Feb 22 14:38:04 UTC 2022
