@@ -1,3 +1,4 @@
+Airline code "RNI", examples:RNI12,AC70DA,Tue Feb 22 18:46:22 UTC 2022
 Airline code "EPI", examples:EPI427,A992C9,Tue Feb 22 17:08:16 UTC 2022
 Airline code "FHM", examples:FHM5061,4D2390,Tue Feb 22 16:57:08 UTC 2022
 Airline code "GCI", examples:GCI2041,320054,Tue Feb 22 14:38:04 UTC 2022
@@ -6,7 +7,6 @@ Airline code "ERU", examples:ERU638,A85BE8,Tue Feb 22 00:03:13 UTC 2022 ERU638,A
 Airline code "ARN", examples:ARN633,00A2E4,Mon Feb 21 18:54:55 UTC 2022
 Airline code "TVP", examples:TVP7305,49D3D3,Mon Feb 21 18:17:08 UTC 2022
 Airline code "GZR", examples:GZR26,A4B739,Mon Feb 21 15:46:33 UTC 2022
-Airline code "RNI", examples:RNI272,AB19DA,Sun Feb 20 22:43:12 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Sun Feb 20 20:12:15 UTC 2022
 Airline code "GBG", examples:GBG808,45209D,Sun Feb 20 20:54:48 UTC 2022
 Airline code "TKM", examples:TKM88,AB0069,Sun Feb 20 19:38:34 UTC 2022
