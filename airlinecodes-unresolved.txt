@@ -1,3 +1,4 @@
+Airline code "TFR", examples:TFR21,7C48C8,Wed Feb 23 10:16:08 UTC 2022
 Airline code "RCR", examples:RCR2029,4A1A61,Wed Feb 23 09:22:34 UTC 2022
 Airline code "ERU", examples:ERU475,A5D421,Wed Feb 23 04:13:20 UTC 2022
 Airline code "AFT", examples:AFT1743,C05A0A,Wed Feb 23 03:22:14 UTC 2022
@@ -6,7 +7,6 @@ Airline code "EGC", examples:EGC957,AD4ECA,Tue Feb 22 23:40:15 UTC 2022
 Airline code "FHM", examples:FHM5065,4D224A,Tue Feb 22 20:03:49 UTC 2022
 Airline code "RNI", examples:RNI12,AC70DA,Tue Feb 22 19:39:58 UTC 2022
 Airline code "GCI", examples:GCI2041,320054,Tue Feb 22 14:38:04 UTC 2022
-Airline code "TFR", examples:TFR21,7C48C8,Tue Feb 22 11:35:46 UTC 2022 TFR21,7C48C8,Tue Feb 22 11:31:21 UTC 2022 TFR21,7C48C8,Tue Feb 22 11:08:26 UTC 2022
 Airline code "ARN", examples:ARN633,00A2E4,Mon Feb 21 18:54:55 UTC 2022
 Airline code "TVP", examples:TVP7305,49D3D3,Mon Feb 21 18:17:08 UTC 2022
 Airline code "GZR", examples:GZR26,A4B739,Mon Feb 21 15:46:33 UTC 2022
