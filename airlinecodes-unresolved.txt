@@ -1,3 +1,4 @@
+Airline code "AFT", examples:AFT1743,C05A0A,Wed Feb 23 03:22:14 UTC 2022
 Airline code "EPI", examples:EPI427,A992C9,Wed Feb 23 00:04:44 UTC 2022
 Airline code "EGC", examples:EGC957,AD4ECA,Tue Feb 22 23:40:15 UTC 2022
 Airline code "FHM", examples:FHM5065,4D224A,Tue Feb 22 20:03:49 UTC 2022
@@ -20,7 +21,6 @@ Airline code "RCR", examples:RCR2025,4A1A61,Sat Feb 19 10:40:38 UTC 2022
 Airline code "HMJ", examples:HMJ078,4D2358,Sat Feb 19 07:22:37 UTC 2022
 Airline code "HTY", examples:HTY215,347253,Fri Feb 18 19:03:30 UTC 2022
 Airline code "CNP", examples:CNP315,0C2017,Fri Feb 18 08:44:18 UTC 2022
-Airline code "AFT", examples:AFT1421,C013D7,Fri Feb 18 03:56:09 UTC 2022
 Airline code "NFX", examples:NFX600,AB8B8C,Thu Feb 17 16:35:59 UTC 2022
 Airline code "MAO", examples:MAO2,A0B5AA,Thu Feb 17 00:29:09 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Wed Feb 16 09:25:49 UTC 2022
