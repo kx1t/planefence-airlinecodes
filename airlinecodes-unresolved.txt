@@ -1,3 +1,4 @@
+Airline code "RCR", examples:RCR2029,4A1A61,Wed Feb 23 09:22:34 UTC 2022
 Airline code "ERU", examples:ERU475,A5D421,Wed Feb 23 04:13:20 UTC 2022
 Airline code "AFT", examples:AFT1743,C05A0A,Wed Feb 23 03:22:14 UTC 2022
 Airline code "EPI", examples:EPI427,A992C9,Wed Feb 23 00:04:44 UTC 2022
@@ -17,7 +18,6 @@ Airline code "RPG", examples:RPG5699,A24369,Sun Feb 20 15:16:06 UTC 2022
 Airline code "BAO", examples:BAO446I,3CB089,Sun Feb 20 09:16:08 UTC 2022
 Airline code "OOH", examples:OOH88,44A014,Sat Feb 19 15:12:12 UTC 2022
 Airline code "OOI", examples:OOI04,44A7C0,Sat Feb 19 15:10:51 UTC 2022
-Airline code "RCR", examples:RCR2025,4A1A61,Sat Feb 19 10:40:38 UTC 2022
 Airline code "HMJ", examples:HMJ078,4D2358,Sat Feb 19 07:22:37 UTC 2022
 Airline code "HTY", examples:HTY215,347253,Fri Feb 18 19:03:30 UTC 2022
 Airline code "CNP", examples:CNP315,0C2017,Fri Feb 18 08:44:18 UTC 2022
