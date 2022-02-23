@@ -1,3 +1,4 @@
+Airline code "EGC", examples:EGC957,AD4ECA,Tue Feb 22 23:40:15 UTC 2022
 Airline code "FHM", examples:FHM5065,4D224A,Tue Feb 22 20:03:49 UTC 2022
 Airline code "RNI", examples:RNI12,AC70DA,Tue Feb 22 19:39:58 UTC 2022
 Airline code "EPI", examples:EPI427,A992C9,Tue Feb 22 17:08:16 UTC 2022
@@ -26,7 +27,6 @@ Airline code "RKU", examples:RKU1,C80DAF,Wed Feb 16 09:25:49 UTC 2022
 Airline code "TJD", examples:TJD401,3001F3,Tue Feb 15 16:59:38 UTC 2022
 Airline code "RJE", examples:RJE156,A0E1F3,Mon Feb 14 19:06:27 UTC 2022
 Airline code "XSM", examples:XSM52,A687C8,Sun Feb 13 21:21:04 UTC 2022
-Airline code "EGC", examples:EGC680,A903A0,Sun Feb 13 20:05:09 UTC 2022
 Airline code "OOF", examples:OOF05,449BC1,Sat Feb 12 14:11:23 UTC 2022
 Airline code "OOD", examples:OOD92,449018,Sat Feb 12 11:15:24 UTC 2022
 Airline code "OOG", examples:OOG05,449FC1,Sat Feb 12 11:01:57 UTC 2022
