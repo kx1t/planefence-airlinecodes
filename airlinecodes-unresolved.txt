@@ -1,3 +1,4 @@
+Airline code "SXV", examples:SXV42,A54E71,Wed Feb 23 18:29:11 UTC 2022
 Airline code "DMS", examples:DMS727,5110AE,Wed Feb 23 17:54:30 UTC 2022
 Airline code "EGC", examples:EGC957,AD4ECA,Wed Feb 23 17:23:26 UTC 2022
 Airline code "NFX", examples:NFX600,AB0DA1,Wed Feb 23 17:15:24 UTC 2022
