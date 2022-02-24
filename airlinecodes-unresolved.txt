@@ -1,3 +1,4 @@
+Airline code "ICY", examples:ICY52,AE64AB,Thu Feb 24 05:13:25 UTC 2022
 Airline code "EPI", examples:EPI599,A368B2,Thu Feb 24 01:49:41 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Wed Feb 23 22:56:42 UTC 2022
 Airline code "SXV", examples:SXV42,A54E71,Wed Feb 23 18:29:11 UTC 2022
