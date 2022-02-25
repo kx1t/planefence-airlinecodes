@@ -1,3 +1,4 @@
+Airline code "ERU", examples:ERU463,A5A534,Fri Feb 25 17:54:59 UTC 2022
 Airline code "NFX", examples:NFX102,AD07A6,Fri Feb 25 01:26:51 UTC 2022
 Airline code "FHM", examples:FHM8169,4D21B1,Thu Feb 24 16:58:11 UTC 2022
 Airline code "BAO", examples:BAO449G,3C86C7,Thu Feb 24 13:57:03 UTC 2022
@@ -11,7 +12,6 @@ Airline code "DMS", examples:DMS727,5110AE,Wed Feb 23 17:54:30 UTC 2022
 Airline code "EGC", examples:EGC957,AD4ECA,Wed Feb 23 17:23:26 UTC 2022
 Airline code "OOH", examples:OOH92,44A018,Wed Feb 23 11:28:19 UTC 2022
 Airline code "RCR", examples:RCR2029,4A1A61,Wed Feb 23 09:22:34 UTC 2022
-Airline code "ERU", examples:ERU475,A5D421,Wed Feb 23 04:13:20 UTC 2022
 Airline code "AFT", examples:AFT1743,C05A0A,Wed Feb 23 03:22:14 UTC 2022
 Airline code "RNI", examples:RNI12,AC70DA,Tue Feb 22 19:39:58 UTC 2022
 Airline code "GCI", examples:GCI2041,320054,Tue Feb 22 14:38:04 UTC 2022
