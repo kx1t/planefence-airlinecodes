@@ -1,5 +1,5 @@
+Airline code "ERU", examples:ERU475,A5D421,Sun Feb 27 03:20:54 UTC 2022
 Airline code "DHR", examples:DHR1,A0B60C,Sun Feb 27 01:53:32 UTC 2022 DHR1,A0B60C,Sun Feb 27 01:48:00 UTC 2022
-Airline code "ERU", examples:ERU419,A4F603,Sun Feb 27 00:03:07 UTC 2022 ERU410,A4D494,Sun Feb 27 00:02:45 UTC 2022 ERU410,A4D494,Sun Feb 27 00:02:43 UTC 2022
 Airline code "FHM", examples:FHM5061,4D224A,Sat Feb 26 16:57:07 UTC 2022
 Airline code "OOH", examples:OOH46,44A3EA,Sat Feb 26 16:08:27 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Sat Feb 26 15:34:49 UTC 2022
