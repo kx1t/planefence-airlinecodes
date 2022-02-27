@@ -1,3 +1,4 @@
+Airline code "OOF", examples:OOF98,44981E,Sun Feb 27 12:12:34 UTC 2022
 Airline code "OOH", examples:OOH49,44A3ED,Sun Feb 27 11:07:25 UTC 2022
 Airline code "OMM", examples:OMM599,505ED0,Sun Feb 27 10:19:47 UTC 2022
 Airline code "ERU", examples:ERU475,A5D421,Sun Feb 27 03:20:54 UTC 2022
@@ -33,7 +34,6 @@ Airline code "MAO", examples:MAO2,A0B5AA,Thu Feb 17 00:29:09 UTC 2022
 Airline code "TJD", examples:TJD401,3001F3,Tue Feb 15 16:59:38 UTC 2022
 Airline code "RJE", examples:RJE156,A0E1F3,Mon Feb 14 19:06:27 UTC 2022
 Airline code "XSM", examples:XSM52,A687C8,Sun Feb 13 21:21:04 UTC 2022
-Airline code "OOF", examples:OOF05,449BC1,Sat Feb 12 14:11:23 UTC 2022
 Airline code "OOD", examples:OOD92,449018,Sat Feb 12 11:15:24 UTC 2022
 Airline code "OOG", examples:OOG05,449FC1,Sat Feb 12 11:01:57 UTC 2022
 Airline code "JMK", examples:JMK429,4D20A7,Thu Feb 10 17:48:19 UTC 2022
