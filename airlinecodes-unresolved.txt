@@ -1,3 +1,4 @@
+Airline code "TFR", examples:TFR21,7C7B68,Mon Feb 28 10:42:54 UTC 2022
 Airline code "HEP", examples:HEP03,478058,Mon Feb 28 09:44:13 UTC 2022
 Airline code "EPI", examples:EPI149,A7CE70,Sun Feb 27 23:52:45 UTC 2022
 Airline code "FHM", examples:FHM5071,4D224A,Sun Feb 27 18:52:37 UTC 2022
@@ -12,7 +13,6 @@ Airline code "TVP", examples:TVP7317,49D418,Fri Feb 25 18:26:03 UTC 2022
 Airline code "NFX", examples:NFX102,AD07A6,Fri Feb 25 01:26:51 UTC 2022
 Airline code "BAO", examples:BAO449G,3C86C7,Thu Feb 24 13:57:03 UTC 2022
 Airline code "DOL", examples:DOL10,43C304,Thu Feb 24 11:52:20 UTC 2022
-Airline code "TFR", examples:TFR21,7C48C8,Thu Feb 24 09:56:26 UTC 2022
 Airline code "ICY", examples:ICY52,AE64AB,Thu Feb 24 05:13:25 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Wed Feb 23 22:56:42 UTC 2022
 Airline code "SXV", examples:SXV42,A54E71,Wed Feb 23 18:29:11 UTC 2022
