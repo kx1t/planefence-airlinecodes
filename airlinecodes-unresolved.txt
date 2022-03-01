@@ -1,3 +1,4 @@
+Airline code "HTY", examples:HTY204,347253,Tue Mar 1 08:33:36 UTC 2022
 Airline code "VTB", examples:VTB200,471843,Mon Feb 28 20:02:39 UTC 2022 VTB200,471843,Mon Feb 28 20:02:16 UTC 2022
 Airline code "HNW", examples:HNW757,AA34CE,Mon Feb 28 15:04:43 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Mon Feb 28 14:34:19 UTC 2022
@@ -32,7 +33,6 @@ Airline code "YVO", examples:YVO100,0D81A5,Sun Feb 20 16:42:21 UTC 2022
 Airline code "RPG", examples:RPG5699,A24369,Sun Feb 20 15:16:06 UTC 2022
 Airline code "OOI", examples:OOI04,44A7C0,Sat Feb 19 15:10:51 UTC 2022
 Airline code "HMJ", examples:HMJ078,4D2358,Sat Feb 19 07:22:37 UTC 2022
-Airline code "HTY", examples:HTY215,347253,Fri Feb 18 19:03:30 UTC 2022
 Airline code "CNP", examples:CNP315,0C2017,Fri Feb 18 08:44:18 UTC 2022
 Airline code "MAO", examples:MAO2,A0B5AA,Thu Feb 17 00:29:09 UTC 2022
 Airline code "TJD", examples:TJD401,3001F3,Tue Feb 15 16:59:38 UTC 2022
