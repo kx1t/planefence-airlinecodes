@@ -1,3 +1,4 @@
+Airline code "OOE", examples:OOE46,4497EA,Wed Mar 2 12:06:58 UTC 2022
 Airline code "TFR", examples:TFR21,C822C4,Wed Mar 2 10:16:47 UTC 2022
 Airline code "FHM", examples:FHM5061,4D21B1,Tue Mar 1 17:06:37 UTC 2022
 Airline code "VTB", examples:VTB600,471841,Tue Mar 1 16:05:14 UTC 2022
@@ -51,7 +52,6 @@ Airline code "MJS", examples:MJS3711,A36878,Wed Feb 2 23:05:03 UTC 2022
 Airline code "CFW", examples:CFW103,00C456,Tue Feb 1 20:23:13 UTC 2022
 Airline code "UAW", examples:UAW23,400EE0,Mon Jan 31 11:29:36 UTC 2022
 Airline code "GCL", examples:GCL441,3C4D8F,Mon Jan 31 07:56:00 UTC 2022
-Airline code "OOE", examples:OOE06,4497C2,Sun Jan 30 14:52:11 UTC 2022
 Airline code "EVY", examples:EVY98,7CFA72,Thu Jan 27 19:30:13 UTC 2022
 Airline code "NSH", examples:NSH5,AD488B,Thu Jan 27 14:25:44 UTC 2022
 Airline code "EEV", examples:EEV4676,ACB2C2,Wed Jan 26 12:40:05 UTC 2022
