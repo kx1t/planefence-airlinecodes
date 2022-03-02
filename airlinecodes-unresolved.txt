@@ -1,3 +1,5 @@
+Airline code "EGT", examples:EGT1502,4520D3,Wed Mar 2 13:59:29 UTC 2022
+Airline code "OOI", examples:OOI04,44A7C0,Wed Mar 2 13:08:20 UTC 2022
 Airline code "OOE", examples:OOE46,4497EA,Wed Mar 2 12:06:58 UTC 2022
 Airline code "TFR", examples:TFR21,C822C4,Wed Mar 2 10:16:47 UTC 2022
 Airline code "FHM", examples:FHM5061,4D21B1,Tue Mar 1 17:06:37 UTC 2022
@@ -32,7 +34,6 @@ Airline code "GBG", examples:GBG808,45209D,Sun Feb 20 20:54:48 UTC 2022
 Airline code "TKM", examples:TKM88,AB0069,Sun Feb 20 19:38:34 UTC 2022
 Airline code "YVO", examples:YVO100,0D81A5,Sun Feb 20 16:42:21 UTC 2022
 Airline code "RPG", examples:RPG5699,A24369,Sun Feb 20 15:16:06 UTC 2022
-Airline code "OOI", examples:OOI04,44A7C0,Sat Feb 19 15:10:51 UTC 2022
 Airline code "HMJ", examples:HMJ078,4D2358,Sat Feb 19 07:22:37 UTC 2022
 Airline code "CNP", examples:CNP315,0C2017,Fri Feb 18 08:44:18 UTC 2022
 Airline code "MAO", examples:MAO2,A0B5AA,Thu Feb 17 00:29:09 UTC 2022
@@ -124,7 +125,6 @@ Airline code "FJO", examples:FJO54A,4D2330,Wed Nov 24 08:35:00 UTC 2021
 Airline code "HLL", examples:HLL45,407924,Mon Nov 22 16:47:40 UTC 2021
 Airline code "PWK", examples:PWK872,AC872F,Mon Nov 22 02:30:52 UTC 2021
 Airline code "HRF", examples:HRF139,A3FC98,Sun Nov 21 16:47:04 UTC 2021
-Airline code "EGT", examples:EGT602,451C29,Fri Nov 19 16:47:51 UTC 2021 EGT602,451C29,Fri Nov 19 16:47:35 UTC 2021
 Airline code "JTD", examples:JTD387,45AA90,Fri Nov 19 07:29:50 UTC 2021
 Airline code "SZS", examples:SZS525,4CAF7E,Fri Nov 19 07:52:53 UTC 2021
 Airline code "IFG", examples:IFG550,A26A2C,Fri Nov 19 02:33:08 UTC 2021
