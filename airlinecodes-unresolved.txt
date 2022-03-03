@@ -1,3 +1,4 @@
+Airline code "FTK", examples:FTK15,AAF59F,Thu Mar 3 21:17:44 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Thu Mar 3 19:00:30 UTC 2022
 Airline code "OOG", examples:OOG88,449C14,Thu Mar 3 16:06:18 UTC 2022
 Airline code "OOE", examples:OOE88,449414,Thu Mar 3 14:47:39 UTC 2022
@@ -73,7 +74,6 @@ Airline code "LSI", examples:LSI407,4CAC2E,Tue Jan 11 19:20:23 UTC 2022
 Airline code "INI", examples:INI211,343183,Mon Jan 10 14:22:50 UTC 2022
 Airline code "JSL", examples:JSL41,A11020,Sun Jan 9 22:05:45 UTC 2022
 Airline code "WUF", examples:WUF3NK,40750F,Sat Jan 8 06:53:01 UTC 2022
-Airline code "FTK", examples:FTK25,A9DDF6,Thu Jan 6 19:15:16 UTC 2022
 Airline code "LJX", examples:LJX386,A47227,Wed Jan 5 14:05:08 UTC 2022
 Airline code "FSP", examples:FSP377,A44E32,Thu Dec 30 21:32:55 UTC 2021
 Airline code "RJR", examples:RJR005,4D21E5,Thu Dec 23 19:04:49 UTC 2021
