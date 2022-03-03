@@ -1,3 +1,4 @@
+Airline code "OOG", examples:OOG88,449C14,Thu Mar 3 16:06:18 UTC 2022
 Airline code "OOE", examples:OOE88,449414,Thu Mar 3 14:47:39 UTC 2022
 Airline code "WVU", examples:WVU591,A7A2C1,Thu Mar 3 14:56:43 UTC 2022
 Airline code "FHM", examples:FHM8141,4D21B1,Thu Mar 3 13:57:33 UTC 2022
@@ -15,7 +16,6 @@ Airline code "DHR", examples:DHR1,A0B60C,Mon Feb 28 12:18:19 UTC 2022
 Airline code "OOF", examples:OOF81,44980D,Mon Feb 28 11:30:10 UTC 2022
 Airline code "HEP", examples:HEP03,478058,Mon Feb 28 09:44:13 UTC 2022
 Airline code "EPI", examples:EPI149,A7CE70,Sun Feb 27 23:52:45 UTC 2022
-Airline code "OOG", examples:OOG54,449FF2,Sun Feb 27 13:09:55 UTC 2022
 Airline code "OMM", examples:OMM599,505ED0,Sun Feb 27 10:19:47 UTC 2022
 Airline code "ERU", examples:ERU475,A5D421,Sun Feb 27 03:20:54 UTC 2022
 Airline code "TVP", examples:TVP7317,49D418,Fri Feb 25 18:26:03 UTC 2022
