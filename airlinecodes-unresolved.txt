@@ -1,3 +1,4 @@
+Airline code "EEW", examples:EEW4763,A77D89,Thu Mar 3 11:15:42 UTC 2022
 Airline code "OOH", examples:OOH49,44A3ED,Thu Mar 3 10:38:06 UTC 2022
 Airline code "TFR", examples:TFR21,C8285C,Thu Mar 3 10:10:47 UTC 2022
 Airline code "FHM", examples:FHM8141,4D21B1,Thu Mar 3 09:25:37 UTC 2022
@@ -47,7 +48,6 @@ Airline code "AYJ", examples:AYJ064,3C45C4,Thu Feb 10 15:29:45 UTC 2022
 Airline code "TXH", examples:TXH4891,C03C2B,Wed Feb 9 23:04:36 UTC 2022
 Airline code "UEE", examples:UEE1,506D8E,Wed Feb 9 17:43:48 UTC 2022
 Airline code "GRB", examples:GRB513,A14D17,Wed Feb 9 13:26:03 UTC 2022
-Airline code "EEW", examples:EEW4799,AC878C,Wed Feb 9 01:59:46 UTC 2022
 Airline code "WFL", examples:WFL3504,3465C5,Sun Feb 6 09:45:30 UTC 2022
 Airline code "QFY", examples:QFY21,3463D7,Sun Feb 6 08:37:27 UTC 2022
 Airline code "MJS", examples:MJS3711,A36878,Wed Feb 2 23:05:03 UTC 2022
