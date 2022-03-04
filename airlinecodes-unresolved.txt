@@ -1,3 +1,4 @@
+Airline code "HMJ", examples:HMJ208,394979,Fri Mar 4 11:25:37 UTC 2022
 Airline code "FHM", examples:FHM8164,4D21B1,Fri Mar 4 07:40:51 UTC 2022
 Airline code "FDV", examples:FDV4794,A0BA4E,Fri Mar 4 01:43:22 UTC 2022
 Airline code "WMU", examples:WMU22,A12FB5,Thu Mar 3 23:35:15 UTC 2022
@@ -40,7 +41,6 @@ Airline code "GBG", examples:GBG808,45209D,Sun Feb 20 20:54:48 UTC 2022
 Airline code "TKM", examples:TKM88,AB0069,Sun Feb 20 19:38:34 UTC 2022
 Airline code "YVO", examples:YVO100,0D81A5,Sun Feb 20 16:42:21 UTC 2022
 Airline code "RPG", examples:RPG5699,A24369,Sun Feb 20 15:16:06 UTC 2022
-Airline code "HMJ", examples:HMJ078,4D2358,Sat Feb 19 07:22:37 UTC 2022
 Airline code "CNP", examples:CNP315,0C2017,Fri Feb 18 08:44:18 UTC 2022
 Airline code "MAO", examples:MAO2,A0B5AA,Thu Feb 17 00:29:09 UTC 2022
 Airline code "TJD", examples:TJD401,3001F3,Tue Feb 15 16:59:38 UTC 2022
