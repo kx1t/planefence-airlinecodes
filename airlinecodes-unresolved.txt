@@ -1,3 +1,4 @@
+Airline code "WFN", examples:WFN3198,C00BF7,Sat Mar 5 04:24:48 UTC 2022
 Airline code "EPI", examples:EPI684,A4EE93,Sat Mar 5 00:39:36 UTC 2022
 Airline code "FTK", examples:FTK25,A9DDF6,Fri Mar 4 19:44:57 UTC 2022
 Airline code "TVP", examples:TVP7325,49D2EE,Fri Mar 4 18:33:41 UTC 2022
@@ -283,7 +284,6 @@ Airline code "RFV", examples:RFV82A,407359,Fri Sep 10 00:42:51 UTC 2021
 Airline code "RSP", examples:RSP69,A77A78,Thu Sep 9 18:06:55 UTC 2021
 Airline code "JAZ", examples:JAZ7935,C017ED,Mon Sep 6 20:04:26 UTC 2021
 Airline code "MBK", examples:MBK601,C00381,Mon Sep 6 20:46:50 UTC 2021
-Airline code "WFN", examples:WFN3518,C0256E,Tue Aug 31 20:11:58 UTC 2021
 Airline code "TVQ", examples:TVQ6823,49D283,Sat Aug 28 16:05:18 UTC 2021
 Airline code "SBE", examples:SBE600,A7C847,Sat Aug 28 01:59:48 UTC 2021
 Airline code "OSF", examples:OSF11T,3F9A92,Mon Aug 23 21:05:30 UTC 2021
