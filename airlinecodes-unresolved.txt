@@ -1,3 +1,5 @@
+Airline code "OOF", examples:OOF55,449BF3,Sat Mar 5 14:34:40 UTC 2022
+Airline code "OOG", examples:OOG54,449FF2,Sat Mar 5 14:14:38 UTC 2022
 Airline code "OOH", examples:OOH42,44A3E6,Sat Mar 5 13:25:11 UTC 2022
 Airline code "OOI", examples:OOI20,44A7D0,Sat Mar 5 12:50:31 UTC 2022
 Airline code "OOE", examples:OOE88,449414,Sat Mar 5 11:50:31 UTC 2022
@@ -7,12 +9,10 @@ Airline code "WFN", examples:WFN3198,C00BF7,Sat Mar 5 04:24:48 UTC 2022
 Airline code "EPI", examples:EPI684,A4EE93,Sat Mar 5 00:39:36 UTC 2022
 Airline code "FTK", examples:FTK25,A9DDF6,Fri Mar 4 19:44:57 UTC 2022
 Airline code "TVP", examples:TVP7325,49D2EE,Fri Mar 4 18:33:41 UTC 2022
-Airline code "OOF", examples:OOF55,449BF3,Fri Mar 4 15:22:08 UTC 2022
 Airline code "HMJ", examples:HMJ208,394979,Fri Mar 4 11:25:37 UTC 2022
 Airline code "FDV", examples:FDV4794,A0BA4E,Fri Mar 4 01:43:22 UTC 2022
 Airline code "WMU", examples:WMU22,A12FB5,Thu Mar 3 23:35:15 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Thu Mar 3 19:00:30 UTC 2022
-Airline code "OOG", examples:OOG88,449C14,Thu Mar 3 16:06:18 UTC 2022
 Airline code "WVU", examples:WVU591,A7A2C1,Thu Mar 3 14:56:43 UTC 2022
 Airline code "EEW", examples:EEW4763,A77D89,Thu Mar 3 11:15:42 UTC 2022
 Airline code "TFR", examples:TFR21,C8285C,Thu Mar 3 10:10:47 UTC 2022
