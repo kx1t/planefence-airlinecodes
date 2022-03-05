@@ -1,3 +1,4 @@
+Airline code "XSM", examples:XSM36,A40B41,Sat Mar 5 18:29:47 UTC 2022
 Airline code "FHM", examples:FHM5065,4D224A,Sat Mar 5 17:29:41 UTC 2022
 Airline code "TMB", examples:TMB719,A99F15,Sat Mar 5 16:23:10 UTC 2022
 Airline code "OOD", examples:OOD80,44900C,Sat Mar 5 15:03:57 UTC 2022
@@ -48,7 +49,6 @@ Airline code "CNP", examples:CNP315,0C2017,Fri Feb 18 08:44:18 UTC 2022
 Airline code "MAO", examples:MAO2,A0B5AA,Thu Feb 17 00:29:09 UTC 2022
 Airline code "TJD", examples:TJD401,3001F3,Tue Feb 15 16:59:38 UTC 2022
 Airline code "RJE", examples:RJE156,A0E1F3,Mon Feb 14 19:06:27 UTC 2022
-Airline code "XSM", examples:XSM52,A687C8,Sun Feb 13 21:21:04 UTC 2022
 Airline code "JMK", examples:JMK429,4D20A7,Thu Feb 10 17:48:19 UTC 2022
 Airline code "AYJ", examples:AYJ064,3C45C4,Thu Feb 10 15:29:45 UTC 2022
 Airline code "TXH", examples:TXH4891,C03C2B,Wed Feb 9 23:04:36 UTC 2022
