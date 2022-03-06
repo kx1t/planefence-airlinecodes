@@ -1,3 +1,5 @@
+Airline code "OOG", examples:OOG85,449C11,Sun Mar 6 09:44:30 UTC 2022
+Airline code "OOH", examples:OOH74,44A006,Sun Mar 6 09:21:49 UTC 2022
 Airline code "EGT", examples:EGT1561,4520D3,Sun Mar 6 08:57:36 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Sat Mar 5 23:50:01 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Sat Mar 5 19:15:02 UTC 2022
@@ -6,9 +8,7 @@ Airline code "XSM", examples:XSM36,A40B41,Sat Mar 5 18:29:47 UTC 2022
 Airline code "FHM", examples:FHM5065,4D224A,Sat Mar 5 17:29:41 UTC 2022
 Airline code "TMB", examples:TMB719,A99F15,Sat Mar 5 16:23:10 UTC 2022
 Airline code "OOD", examples:OOD80,44900C,Sat Mar 5 15:03:57 UTC 2022
-Airline code "OOH", examples:OOH92,44A018,Sat Mar 5 15:43:59 UTC 2022
 Airline code "OOF", examples:OOF55,449BF3,Sat Mar 5 14:34:40 UTC 2022
-Airline code "OOG", examples:OOG54,449FF2,Sat Mar 5 14:14:38 UTC 2022
 Airline code "OOI", examples:OOI20,44A7D0,Sat Mar 5 12:50:31 UTC 2022
 Airline code "OOE", examples:OOE88,449414,Sat Mar 5 11:50:31 UTC 2022
 Airline code "DMS", examples:DMS729,5110AE,Sat Mar 5 09:43:06 UTC 2022
