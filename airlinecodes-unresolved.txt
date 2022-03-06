@@ -1,6 +1,8 @@
+Airline code "OOF", examples:OOF05,449BC1,Sun Mar 6 12:45:42 UTC 2022
+Airline code "OOG", examples:OOG86,100000,Sun Mar 6 12:37:42 UTC 2022
+Airline code "TJD", examples:TJD650,3007A9,Sun Mar 6 12:43:18 UTC 2022
 Airline code "OOH", examples:OOH88,44A014,Sun Mar 6 11:36:20 UTC 2022
 Airline code "WDE", examples:WDE24,A97AA1,Sun Mar 6 11:01:24 UTC 2022
-Airline code "OOG", examples:OOG85,449C11,Sun Mar 6 09:44:30 UTC 2022
 Airline code "EGT", examples:EGT1561,4520D3,Sun Mar 6 08:57:36 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Sat Mar 5 23:50:01 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Sat Mar 5 19:15:02 UTC 2022
@@ -9,7 +11,6 @@ Airline code "XSM", examples:XSM36,A40B41,Sat Mar 5 18:29:47 UTC 2022
 Airline code "FHM", examples:FHM5065,4D224A,Sat Mar 5 17:29:41 UTC 2022
 Airline code "TMB", examples:TMB719,A99F15,Sat Mar 5 16:23:10 UTC 2022
 Airline code "OOD", examples:OOD80,44900C,Sat Mar 5 15:03:57 UTC 2022
-Airline code "OOF", examples:OOF55,449BF3,Sat Mar 5 14:34:40 UTC 2022
 Airline code "OOI", examples:OOI20,44A7D0,Sat Mar 5 12:50:31 UTC 2022
 Airline code "OOE", examples:OOE88,449414,Sat Mar 5 11:50:31 UTC 2022
 Airline code "DMS", examples:DMS729,5110AE,Sat Mar 5 09:43:06 UTC 2022
@@ -48,7 +49,6 @@ Airline code "YVO", examples:YVO100,0D81A5,Sun Feb 20 16:42:21 UTC 2022
 Airline code "RPG", examples:RPG5699,A24369,Sun Feb 20 15:16:06 UTC 2022
 Airline code "CNP", examples:CNP315,0C2017,Fri Feb 18 08:44:18 UTC 2022
 Airline code "MAO", examples:MAO2,A0B5AA,Thu Feb 17 00:29:09 UTC 2022
-Airline code "TJD", examples:TJD401,3001F3,Tue Feb 15 16:59:38 UTC 2022
 Airline code "RJE", examples:RJE156,A0E1F3,Mon Feb 14 19:06:27 UTC 2022
 Airline code "JMK", examples:JMK429,4D20A7,Thu Feb 10 17:48:19 UTC 2022
 Airline code "AYJ", examples:AYJ064,3C45C4,Thu Feb 10 15:29:45 UTC 2022
