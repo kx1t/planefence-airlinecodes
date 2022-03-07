@@ -1,3 +1,4 @@
+Airline code "EEV", examples:EEV5120,ACB2C2,Mon Mar 7 22:14:51 UTC 2022
 Airline code "FSP", examples:FSP727,A9C0CF,Mon Mar 7 20:36:27 UTC 2022
 Airline code "VTB", examples:VTB300,472FD0,Mon Mar 7 19:19:12 UTC 2022
 Airline code "ARN", examples:ARN633,00A2E4,Mon Mar 7 13:33:41 UTC 2022
@@ -64,7 +65,6 @@ Airline code "UAW", examples:UAW23,400EE0,Mon Jan 31 11:29:36 UTC 2022
 Airline code "GCL", examples:GCL441,3C4D8F,Mon Jan 31 07:56:00 UTC 2022
 Airline code "EVY", examples:EVY98,7CFA72,Thu Jan 27 19:30:13 UTC 2022
 Airline code "NSH", examples:NSH5,AD488B,Thu Jan 27 14:25:44 UTC 2022
-Airline code "EEV", examples:EEV4676,ACB2C2,Wed Jan 26 12:40:05 UTC 2022
 Airline code "AVL", examples:AVL111,A6A5C0,Wed Jan 26 01:17:21 UTC 2022
 Airline code "XGN", examples:XGN60,A7C6FA,Tue Jan 25 20:46:27 UTC 2022
 Airline code "MMO", examples:MMO1301,4D2025,Tue Jan 25 17:07:38 UTC 2022
