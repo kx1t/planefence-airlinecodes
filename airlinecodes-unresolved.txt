@@ -1,3 +1,4 @@
+Airline code "VTB", examples:VTB300,472FD0,Mon Mar 7 19:19:12 UTC 2022
 Airline code "ARN", examples:ARN633,00A2E4,Mon Mar 7 13:33:41 UTC 2022
 Airline code "OOH", examples:OOH52,44A3F0,Mon Mar 7 11:22:37 UTC 2022
 Airline code "HTY", examples:HTY203,347253,Mon Mar 7 07:29:02 UTC 2022
@@ -5,7 +6,6 @@ Airline code "WDE", examples:WDE06,A8D972,Sun Mar 6 19:33:00 UTC 2022
 Airline code "FHM", examples:FHM5071,4D224A,Sun Mar 6 18:45:42 UTC 2022
 Airline code "DMS", examples:DMS730,5110AE,Sun Mar 6 16:27:31 UTC 2022
 Airline code "TMB", examples:TMB719,A99F15,Sun Mar 6 16:37:33 UTC 2022
-Airline code "VTB", examples:VTB200,471843,Sun Mar 6 14:58:44 UTC 2022
 Airline code "OOF", examples:OOF05,449BC1,Sun Mar 6 12:45:42 UTC 2022
 Airline code "OOG", examples:OOG86,100000,Sun Mar 6 12:37:42 UTC 2022
 Airline code "TJD", examples:TJD650,3007A9,Sun Mar 6 12:43:18 UTC 2022
