@@ -1,3 +1,4 @@
+Airline code "ARN", examples:ARN633,00A2E4,Mon Mar 7 13:33:41 UTC 2022
 Airline code "OOH", examples:OOH52,44A3F0,Mon Mar 7 11:22:37 UTC 2022
 Airline code "HTY", examples:HTY203,347253,Mon Mar 7 07:29:02 UTC 2022
 Airline code "WDE", examples:WDE06,A8D972,Sun Mar 6 19:33:00 UTC 2022
@@ -41,7 +42,6 @@ Airline code "RCR", examples:RCR2029,4A1A61,Wed Feb 23 09:22:34 UTC 2022
 Airline code "AFT", examples:AFT1743,C05A0A,Wed Feb 23 03:22:14 UTC 2022
 Airline code "RNI", examples:RNI12,AC70DA,Tue Feb 22 19:39:58 UTC 2022
 Airline code "GCI", examples:GCI2041,320054,Tue Feb 22 14:38:04 UTC 2022
-Airline code "ARN", examples:ARN633,00A2E4,Mon Feb 21 18:54:55 UTC 2022
 Airline code "GZR", examples:GZR26,A4B739,Mon Feb 21 15:46:33 UTC 2022
 Airline code "GBG", examples:GBG808,45209D,Sun Feb 20 20:54:48 UTC 2022
 Airline code "TKM", examples:TKM88,AB0069,Sun Feb 20 19:38:34 UTC 2022
