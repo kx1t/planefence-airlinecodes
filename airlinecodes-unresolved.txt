@@ -1,3 +1,4 @@
+Airline code "FSP", examples:FSP727,A9C0CF,Mon Mar 7 20:36:27 UTC 2022
 Airline code "VTB", examples:VTB300,472FD0,Mon Mar 7 19:19:12 UTC 2022
 Airline code "ARN", examples:ARN633,00A2E4,Mon Mar 7 13:33:41 UTC 2022
 Airline code "OOH", examples:OOH52,44A3F0,Mon Mar 7 11:22:37 UTC 2022
@@ -80,7 +81,6 @@ Airline code "INI", examples:INI211,343183,Mon Jan 10 14:22:50 UTC 2022
 Airline code "JSL", examples:JSL41,A11020,Sun Jan 9 22:05:45 UTC 2022
 Airline code "WUF", examples:WUF3NK,40750F,Sat Jan 8 06:53:01 UTC 2022
 Airline code "LJX", examples:LJX386,A47227,Wed Jan 5 14:05:08 UTC 2022
-Airline code "FSP", examples:FSP377,A44E32,Thu Dec 30 21:32:55 UTC 2021
 Airline code "RJR", examples:RJR005,4D21E5,Thu Dec 23 19:04:49 UTC 2021
 Airline code "WMN", examples:WMN160,A0F347,Thu Dec 23 18:57:45 UTC 2021
 Airline code "CSB", examples:CSB1196,ADF64C,Thu Dec 23 10:47:18 UTC 2021 CSB1196,ADF64C,Thu Dec 23 10:46:33 UTC 2021
