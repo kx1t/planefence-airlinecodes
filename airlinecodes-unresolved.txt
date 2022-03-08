@@ -1,3 +1,4 @@
+Airline code "ICY", examples:ICY19000,AE09BE,Tue Mar 8 22:39:28 UTC 2022
 Airline code "KCN", examples:KCN355,A3F844,Tue Mar 8 19:04:42 UTC 2022
 Airline code "TMB", examples:TMB420,A4FC50,Tue Mar 8 19:04:28 UTC 2022
 Airline code "BFX", examples:BFX11Z,3E1F4E,Tue Mar 8 18:07:11 UTC 2022
@@ -41,7 +42,6 @@ Airline code "ERU", examples:ERU475,A5D421,Sun Feb 27 03:20:54 UTC 2022
 Airline code "NFX", examples:NFX102,AD07A6,Fri Feb 25 01:26:51 UTC 2022
 Airline code "BAO", examples:BAO449G,3C86C7,Thu Feb 24 13:57:03 UTC 2022
 Airline code "DOL", examples:DOL10,43C304,Thu Feb 24 11:52:20 UTC 2022
-Airline code "ICY", examples:ICY52,AE64AB,Thu Feb 24 05:13:25 UTC 2022
 Airline code "SXV", examples:SXV42,A54E71,Wed Feb 23 18:29:11 UTC 2022
 Airline code "EGC", examples:EGC957,AD4ECA,Wed Feb 23 17:23:26 UTC 2022
 Airline code "RCR", examples:RCR2029,4A1A61,Wed Feb 23 09:22:34 UTC 2022
