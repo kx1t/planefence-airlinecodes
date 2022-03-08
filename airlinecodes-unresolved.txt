@@ -1,3 +1,5 @@
+Airline code "BFX", examples:BFX11Z,3E1F4E,Tue Mar 8 18:07:11 UTC 2022
+Airline code "OYO", examples:OYO001,39DDE6,Tue Mar 8 18:56:11 UTC 2022
 Airline code "FHM", examples:FHM5065,4D224A,Tue Mar 8 17:48:15 UTC 2022
 Airline code "WDE", examples:WDE06,A8D972,Tue Mar 8 16:10:39 UTC 2022
 Airline code "HOB", examples:HOB3,A9A1ED,Tue Mar 8 15:30:55 UTC 2022
