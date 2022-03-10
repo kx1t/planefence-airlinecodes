@@ -1,3 +1,4 @@
+Airline code "RKU", examples:RKU1,C80DAF,Thu Mar 10 00:33:53 UTC 2022
 Airline code "GRB", examples:GRB337,A6D6D9,Wed Mar 9 17:49:44 UTC 2022
 Airline code "EZZ", examples:EZZ4401,3C09C2,Wed Mar 9 16:12:45 UTC 2022
 Airline code "FHM", examples:FHM8503,4D21B1,Wed Mar 9 16:07:08 UTC 2022
@@ -22,7 +23,6 @@ Airline code "OOF", examples:OOF05,449BC1,Sun Mar 6 12:45:42 UTC 2022
 Airline code "OOG", examples:OOG86,100000,Sun Mar 6 12:37:42 UTC 2022
 Airline code "TJD", examples:TJD650,3007A9,Sun Mar 6 12:43:18 UTC 2022
 Airline code "EGT", examples:EGT1561,4520D3,Sun Mar 6 08:57:36 UTC 2022
-Airline code "RKU", examples:RKU1,C80DAF,Sat Mar 5 23:50:01 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Sat Mar 5 19:15:02 UTC 2022
 Airline code "XSM", examples:XSM36,A40B41,Sat Mar 5 18:29:47 UTC 2022
 Airline code "OOD", examples:OOD80,44900C,Sat Mar 5 15:03:57 UTC 2022
