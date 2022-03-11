@@ -1,3 +1,5 @@
+Airline code "VND", examples:VND653,300762,Fri Mar 11 11:05:02 UTC 2022
+Airline code "YVO", examples:YVO100,0D81A5,Fri Mar 11 11:37:12 UTC 2022
 Airline code "HTY", examples:HTY235,347253,Fri Mar 11 10:12:18 UTC 2022
 Airline code "OOF", examples:OOF81,44980D,Fri Mar 11 10:11:24 UTC 2022
 Airline code "FHM", examples:FHM8179,4D21B1,Fri Mar 11 09:00:52 UTC 2022
@@ -53,7 +55,6 @@ Airline code "GCI", examples:GCI2041,320054,Tue Feb 22 14:38:04 UTC 2022
 Airline code "GZR", examples:GZR26,A4B739,Mon Feb 21 15:46:33 UTC 2022
 Airline code "GBG", examples:GBG808,45209D,Sun Feb 20 20:54:48 UTC 2022
 Airline code "TKM", examples:TKM88,AB0069,Sun Feb 20 19:38:34 UTC 2022
-Airline code "YVO", examples:YVO100,0D81A5,Sun Feb 20 16:42:21 UTC 2022
 Airline code "RPG", examples:RPG5699,A24369,Sun Feb 20 15:16:06 UTC 2022
 Airline code "CNP", examples:CNP315,0C2017,Fri Feb 18 08:44:18 UTC 2022
 Airline code "MAO", examples:MAO2,A0B5AA,Thu Feb 17 00:29:09 UTC 2022
@@ -252,7 +253,6 @@ Airline code "KZN", examples:KZN9401,15065F,Thu Oct 14 18:06:27 UTC 2021
 Airline code "CDX", examples:CDX550,748053,Wed Oct 13 10:19:31 UTC 2021
 Airline code "GLH", examples:GLH1,A16AAD,Tue Oct 12 19:05:40 UTC 2021
 Airline code "JIV", examples:JIV9,4AC90A,Tue Oct 12 19:05:16 UTC 2021
-Airline code "VND", examples:VND1387,300224,Tue Oct 12 12:16:20 UTC 2021
 Airline code "LOL", examples:LOL1011,5140AF,Tue Oct 12 06:22:48 UTC 2021
 Airline code "NCJ", examples:NCJ50,A88E05,Mon Oct 11 23:17:39 UTC 2021
 Airline code "FRV", examples:FRV0906,020136,Mon Oct 11 21:30:17 UTC 2021
