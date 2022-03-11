@@ -1,3 +1,4 @@
+Airline code "WAZ", examples:WAZ100A,89658F,Fri Mar 11 21:30:16 UTC 2022
 Airline code "FJR", examples:FJR301,744DE1,Fri Mar 11 19:19:33 UTC 2022
 Airline code "FHM", examples:FHM8179,4D21B1,Fri Mar 11 18:11:45 UTC 2022
 Airline code "TVP", examples:TVP7325,49D2EE,Fri Mar 11 18:27:36 UTC 2022
