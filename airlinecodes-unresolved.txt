@@ -1,5 +1,5 @@
+Airline code "WDE", examples:WDE24,A97AA1,Fri Mar 11 06:52:50 UTC 2022
 Airline code "VTB", examples:VTB200,471843,Thu Mar 10 17:45:42 UTC 2022
-Airline code "WDE", examples:WDE06,A8D972,Thu Mar 10 12:26:10 UTC 2022
 Airline code "FHM", examples:FHM8169,4D21B1,Thu Mar 10 10:25:45 UTC 2022
 Airline code "TFR", examples:TFR34,C82337,Thu Mar 10 10:12:45 UTC 2022
 Airline code "OOH", examples:OOH84,44A010,Thu Mar 10 08:46:06 UTC 2022
