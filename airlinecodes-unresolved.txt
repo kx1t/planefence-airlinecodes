@@ -1,8 +1,9 @@
+Airline code "EZZ", examples:EZZ9402,501C0B,Sat Mar 12 13:26:46 UTC 2022 EZZ9402,501C0B,Sat Mar 12 13:23:22 UTC 2022
+Airline code "OFL", examples:OFL12C,391DC2,Sat Mar 12 13:06:15 UTC 2022
+Airline code "OOH", examples:OOH93,44A019,Sat Mar 12 13:08:10 UTC 2022
 Airline code "KAF", examples:KAF3229,706216,Sat Mar 12 12:02:47 UTC 2022
 Airline code "WDE", examples:WDE24,A97AA1,Sat Mar 12 11:21:13 UTC 2022
-Airline code "OOH", examples:OOH52,44A3F0,Sat Mar 12 09:13:36 UTC 2022
 Airline code "FHM", examples:FHM8210,4D21B1,Sat Mar 12 08:08:50 UTC 2022
-Airline code "OFL", examples:OFL12C,391DC2,Sat Mar 12 08:45:48 UTC 2022
 Airline code "CFX", examples:CFX2,A55A28,Fri Mar 11 23:06:26 UTC 2022
 Airline code "WAZ", examples:WAZ100A,89658F,Fri Mar 11 21:30:16 UTC 2022
 Airline code "FJR", examples:FJR301,744DE1,Fri Mar 11 19:19:33 UTC 2022
@@ -17,7 +18,6 @@ Airline code "HTY", examples:HTY235,347253,Fri Mar 11 10:12:18 UTC 2022
 Airline code "OOF", examples:OOF81,44980D,Fri Mar 11 10:11:24 UTC 2022
 Airline code "TFR", examples:TFR34,C82337,Thu Mar 10 10:12:45 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Thu Mar 10 00:33:53 UTC 2022
-Airline code "EZZ", examples:EZZ4401,3C09C2,Wed Mar 9 16:12:45 UTC 2022
 Airline code "OYO", examples:OYO001,39DDE6,Wed Mar 9 02:16:13 UTC 2022
 Airline code "HOB", examples:HOB3,A9A1ED,Wed Mar 9 01:49:43 UTC 2022
 Airline code "ICY", examples:ICY19000,AE09BE,Wed Mar 9 01:50:54 UTC 2022
