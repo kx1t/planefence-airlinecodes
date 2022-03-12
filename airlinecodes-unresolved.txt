@@ -1,3 +1,4 @@
+Airline code "WDE", examples:WDE06,A8D972,Sat Mar 12 10:33:21 UTC 2022
 Airline code "OOH", examples:OOH52,44A3F0,Sat Mar 12 09:13:36 UTC 2022
 Airline code "FHM", examples:FHM8210,4D21B1,Sat Mar 12 08:08:50 UTC 2022
 Airline code "OFL", examples:OFL12C,391DC2,Sat Mar 12 08:45:48 UTC 2022
@@ -5,7 +6,6 @@ Airline code "CFX", examples:CFX2,A55A28,Fri Mar 11 23:06:26 UTC 2022
 Airline code "WAZ", examples:WAZ100A,89658F,Fri Mar 11 21:30:16 UTC 2022
 Airline code "FJR", examples:FJR301,744DE1,Fri Mar 11 19:19:33 UTC 2022
 Airline code "TVP", examples:TVP7325,49D2EE,Fri Mar 11 18:27:36 UTC 2022
-Airline code "WDE", examples:WDE24,A97AA1,Fri Mar 11 18:11:42 UTC 2022
 Airline code "GRB", examples:GRB449,A97B00,Fri Mar 11 16:04:11 UTC 2022
 Airline code "VTB", examples:VTB100,47183A,Fri Mar 11 15:10:44 UTC 2022
 Airline code "OOI", examples:OOI15,44A7CB,Fri Mar 11 14:37:23 UTC 2022
