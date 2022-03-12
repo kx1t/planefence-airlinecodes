@@ -1,3 +1,4 @@
+Airline code "VTB", examples:VTB200,471843,Sat Mar 12 14:25:47 UTC 2022
 Airline code "EZZ", examples:EZZ9402,501C0B,Sat Mar 12 13:26:46 UTC 2022 EZZ9402,501C0B,Sat Mar 12 13:23:22 UTC 2022
 Airline code "OFL", examples:OFL12C,391DC2,Sat Mar 12 13:06:15 UTC 2022
 Airline code "OOH", examples:OOH93,44A019,Sat Mar 12 13:08:10 UTC 2022
@@ -9,7 +10,6 @@ Airline code "WAZ", examples:WAZ100A,89658F,Fri Mar 11 21:30:16 UTC 2022
 Airline code "FJR", examples:FJR301,744DE1,Fri Mar 11 19:19:33 UTC 2022
 Airline code "TVP", examples:TVP7325,49D2EE,Fri Mar 11 18:27:36 UTC 2022
 Airline code "GRB", examples:GRB449,A97B00,Fri Mar 11 16:04:11 UTC 2022
-Airline code "VTB", examples:VTB100,47183A,Fri Mar 11 15:10:44 UTC 2022
 Airline code "OOI", examples:OOI15,44A7CB,Fri Mar 11 14:37:23 UTC 2022
 Airline code "TJD", examples:TJD403,3007A6,Fri Mar 11 13:10:47 UTC 2022
 Airline code "VND", examples:VND653,300762,Fri Mar 11 11:05:02 UTC 2022
