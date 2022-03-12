@@ -1,3 +1,4 @@
+Airline code "KAF", examples:KAF3229,706216,Sat Mar 12 12:02:47 UTC 2022
 Airline code "WDE", examples:WDE24,A97AA1,Sat Mar 12 11:21:13 UTC 2022
 Airline code "OOH", examples:OOH52,44A3F0,Sat Mar 12 09:13:36 UTC 2022
 Airline code "FHM", examples:FHM8210,4D21B1,Sat Mar 12 08:08:50 UTC 2022
@@ -99,7 +100,6 @@ Airline code "GKY", examples:GKY336,4241C2,Tue Dec 21 14:48:07 UTC 2021
 Airline code "NWC", examples:NWC9015,1427E0,Tue Dec 21 09:17:11 UTC 2021
 Airline code "SXI", examples:SXI2168,43EDE7,Mon Dec 20 12:49:38 UTC 2021
 Airline code "FHV", examples:FHV01,459901,Sun Dec 19 21:28:51 UTC 2021
-Airline code "KAF", examples:KAF3210,7061F5,Sat Dec 18 13:33:04 UTC 2021
 Airline code "IEI", examples:IEI2856,33FE0B,Wed Dec 15 12:40:13 UTC 2021 IEI2856,33FE0B,Wed Dec 15 12:21:27 UTC 2021 IEI2856,33FE0B,Wed Dec 15 12:21:02 UTC 2021
 Airline code "XEN", examples:XEN51,A65F3C,Mon Dec 13 06:49:16 UTC 2021
 Airline code "JPV", examples:JPV284P,440A05,Sun Dec 12 17:04:41 UTC 2021
