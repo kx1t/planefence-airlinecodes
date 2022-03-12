@@ -1,4 +1,4 @@
-Airline code "WDE", examples:WDE06,A8D972,Sat Mar 12 10:33:21 UTC 2022
+Airline code "WDE", examples:WDE24,A97AA1,Sat Mar 12 11:21:13 UTC 2022
 Airline code "OOH", examples:OOH52,44A3F0,Sat Mar 12 09:13:36 UTC 2022
 Airline code "FHM", examples:FHM8210,4D21B1,Sat Mar 12 08:08:50 UTC 2022
 Airline code "OFL", examples:OFL12C,391DC2,Sat Mar 12 08:45:48 UTC 2022
