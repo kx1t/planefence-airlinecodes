@@ -1,3 +1,5 @@
+Airline code "BHZ", examples:BHZ135,3DD60C,Sun Mar 13 09:12:26 UTC 2022
+Airline code "NHD", examples:NHD251,45A1B6,Sun Mar 13 09:48:37 UTC 2022
 Airline code "FHM", examples:FHM5062,4D224A,Sun Mar 13 02:12:49 UTC 2022
 Airline code "VTB", examples:VTB200,471843,Sat Mar 12 14:25:47 UTC 2022
 Airline code "EZZ", examples:EZZ9402,501C0B,Sat Mar 12 13:26:46 UTC 2022 EZZ9402,501C0B,Sat Mar 12 13:23:22 UTC 2022
@@ -304,7 +306,6 @@ Airline code "HST", examples:HST702,503E44,Wed Aug 4 14:05:17 UTC 2021
 Airline code "FTO", examples:FTO382,A46462,Thu Jul 29 12:01:01 UTC 2021
 Airline code "GCE", examples:GCE0P,4012E0,Mon Jul 26 13:28:29 UTC 2021
 Airline code "VCF", examples:VCF1EG,40753B,Fri Jul 23 09:43:06 UTC 2021
-Airline code "NHD", examples:NHD201,45A1B6,Fri Jul 16 08:09:10 UTC 2021
 Airline code "PUP", examples:PUP163,40275C,Thu Jul 15 18:43:45 UTC 2021
 Airline code "NTP", examples:NTP101P,40676F,Tue Jul 13 11:35:38 UTC 2021
 Airline code "EYY", examples:EYY35YF,407796,Fri Jul 2 15:26:16 UTC 2021
