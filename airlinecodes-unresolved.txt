@@ -1,3 +1,4 @@
+Airline code "RKU", examples:RKU1,C80DAF,Mon Mar 14 00:05:05 UTC 2022
 Airline code "VTB", examples:VTB200,471843,Sun Mar 13 18:32:55 UTC 2022
 Airline code "FHM", examples:FHM5071,4D224A,Sun Mar 13 17:27:33 UTC 2022
 Airline code "XSM", examples:XSM83,A2DAFE,Sun Mar 13 17:00:50 UTC 2022
@@ -22,7 +23,6 @@ Airline code "VND", examples:VND653,300762,Fri Mar 11 11:05:02 UTC 2022
 Airline code "YVO", examples:YVO100,0D81A5,Fri Mar 11 11:37:12 UTC 2022
 Airline code "OOF", examples:OOF81,44980D,Fri Mar 11 10:11:24 UTC 2022
 Airline code "TFR", examples:TFR34,C82337,Thu Mar 10 10:12:45 UTC 2022
-Airline code "RKU", examples:RKU1,C80DAF,Thu Mar 10 00:33:53 UTC 2022
 Airline code "OYO", examples:OYO001,39DDE6,Wed Mar 9 02:16:13 UTC 2022
 Airline code "HOB", examples:HOB3,A9A1ED,Wed Mar 9 01:49:43 UTC 2022
 Airline code "ICY", examples:ICY19000,AE09BE,Wed Mar 9 01:50:54 UTC 2022
