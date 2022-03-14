@@ -1,3 +1,4 @@
+Airline code "HRE", examples:HRE11A,3D92D4,Mon Mar 14 14:09:48 UTC 2022
 Airline code "WDE", examples:WDE24,A97AA1,Mon Mar 14 11:36:01 UTC 2022
 Airline code "TFR", examples:TFR21,C822C4,Mon Mar 14 10:23:09 UTC 2022
 Airline code "HTY", examples:HTY203,347253,Mon Mar 14 07:43:58 UTC 2022
@@ -318,7 +319,6 @@ Airline code "GPW", examples:GPW28,42515E,Tue Jun 8 19:22:21 UTC 2021 GPW28,4251
 Airline code "ZSJ", examples:ZSJ0N,00A163,Tue Jun 8 10:29:40 UTC 2021
 Airline code "DXT", examples:DXT9677,140AE2,Mon Jun 7 22:13:58 UTC 2021
 Airline code "JTN", examples:JTN151,A6CF20,Sat Jun 5 15:22:32 UTC 2021
-Airline code "HRE", examples:HRE22D,3D1A96,Sat May 29 08:39:54 UTC 2021
 Airline code "ACO", examples:ACO2907,A069B7,Sat May 22 21:50:17 UTC 2021
 Airline code "GIS", examples:GIS1,C81E79,Fri May 21 22:08:08 UTC 2021
 Airline code "FDJ", examples:FDJ288,A2EC8B,Thu May 13 00:52:31 UTC 2021
