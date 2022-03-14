@@ -1,7 +1,7 @@
+Airline code "HTY", examples:HTY211,347253,Mon Mar 14 15:30:00 UTC 2022
 Airline code "HRE", examples:HRE11A,3D92D4,Mon Mar 14 14:09:48 UTC 2022
 Airline code "WDE", examples:WDE24,A97AA1,Mon Mar 14 11:36:01 UTC 2022
 Airline code "TFR", examples:TFR21,C822C4,Mon Mar 14 10:23:09 UTC 2022
-Airline code "HTY", examples:HTY203,347253,Mon Mar 14 07:43:58 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Mon Mar 14 00:05:05 UTC 2022
 Airline code "VTB", examples:VTB200,471843,Sun Mar 13 18:32:55 UTC 2022
 Airline code "FHM", examples:FHM5071,4D224A,Sun Mar 13 17:27:33 UTC 2022
