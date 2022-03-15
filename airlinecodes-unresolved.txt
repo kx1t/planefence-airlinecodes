@@ -1,3 +1,4 @@
+Airline code "KSF", examples:KSF37,A6CB60,Tue Mar 15 13:39:34 UTC 2022
 Airline code "WDE", examples:WDE06,A8D972,Tue Mar 15 11:57:41 UTC 2022 WDE24,A97AA1,Tue Mar 15 11:44:35 UTC 2022
 Airline code "KCN", examples:KCN355,A3F844,Tue Mar 15 10:55:42 UTC 2022
 Airline code "TFR", examples:TFR21,7C48C8,Tue Mar 15 10:07:24 UTC 2022
@@ -277,7 +278,6 @@ Airline code "NJF", examples:NJF3XM,490D0A,Fri Oct 1 14:58:20 UTC 2021
 Airline code "EFF", examples:EFF006,4CAB82,Fri Oct 1 07:26:18 UTC 2021
 Airline code "FGR", examples:FGR620,A81441,Thu Sep 30 23:18:39 UTC 2021
 Airline code "ULA", examples:ULA317,A361E8,Tue Sep 28 21:00:11 UTC 2021
-Airline code "KSF", examples:KSF251,A1F787,Sun Sep 26 11:42:53 UTC 2021
 Airline code "JRT", examples:JRT18,ACB5BA,Sat Sep 25 13:46:17 UTC 2021
 Airline code "VAJ", examples:VAJ81M,500116,Thu Sep 23 14:12:27 UTC 2021
 Airline code "HON", examples:HON53,A4FC1D,Wed Sep 22 16:21:54 UTC 2021
