@@ -1,3 +1,4 @@
+Airline code "OYO", examples:OYO003,3989E4,Wed Mar 16 08:04:00 UTC 2022
 Airline code "FHM", examples:FHM5062,4D224A,Wed Mar 16 02:46:57 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Tue Mar 15 20:10:22 UTC 2022
 Airline code "FJR", examples:FJR300,744DE1,Tue Mar 15 18:55:24 UTC 2022
@@ -28,7 +29,6 @@ Airline code "TJD", examples:TJD403,3007A6,Fri Mar 11 13:10:47 UTC 2022
 Airline code "VND", examples:VND653,300762,Fri Mar 11 11:05:02 UTC 2022
 Airline code "YVO", examples:YVO100,0D81A5,Fri Mar 11 11:37:12 UTC 2022
 Airline code "OOF", examples:OOF81,44980D,Fri Mar 11 10:11:24 UTC 2022
-Airline code "OYO", examples:OYO001,39DDE6,Wed Mar 9 02:16:13 UTC 2022
 Airline code "HOB", examples:HOB3,A9A1ED,Wed Mar 9 01:49:43 UTC 2022
 Airline code "ICY", examples:ICY19000,AE09BE,Wed Mar 9 01:50:54 UTC 2022
 Airline code "TMB", examples:TMB420,A4FC50,Tue Mar 8 19:04:28 UTC 2022
