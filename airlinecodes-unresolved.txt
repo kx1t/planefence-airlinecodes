@@ -1,3 +1,4 @@
+Airline code "TFR", examples:TFR21,7C7B68,Wed Mar 16 10:04:59 UTC 2022
 Airline code "HRE", examples:HRE23E,3D17DF,Wed Mar 16 09:10:59 UTC 2022
 Airline code "OYO", examples:OYO003,3989E4,Wed Mar 16 08:04:00 UTC 2022
 Airline code "FHM", examples:FHM5062,4D224A,Wed Mar 16 02:46:57 UTC 2022
@@ -8,7 +9,6 @@ Airline code "XSM", examples:XSM19,A810AC,Tue Mar 15 14:36:55 UTC 2022
 Airline code "KSF", examples:KSF37,A6CB60,Tue Mar 15 13:39:34 UTC 2022
 Airline code "WDE", examples:WDE06,A8D972,Tue Mar 15 11:57:41 UTC 2022 WDE24,A97AA1,Tue Mar 15 11:44:35 UTC 2022
 Airline code "KCN", examples:KCN355,A3F844,Tue Mar 15 10:55:42 UTC 2022
-Airline code "TFR", examples:TFR21,7C48C8,Tue Mar 15 10:07:24 UTC 2022
 Airline code "VTB", examples:VTB200,471843,Tue Mar 15 10:10:50 UTC 2022
 Airline code "DHR", examples:DHR1,A0B60C,Mon Mar 14 20:42:19 UTC 2022
 Airline code "TVP", examples:TVP7305,48CB15,Mon Mar 14 18:05:38 UTC 2022
