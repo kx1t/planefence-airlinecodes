@@ -1,3 +1,4 @@
+Airline code "WAZ", examples:WAZ101A,89659E,Wed Mar 16 23:17:10 UTC 2022
 Airline code "EZZ", examples:EZZ9124,501C0B,Wed Mar 16 20:10:09 UTC 2022
 Airline code "HRE", examples:HRE23E,3D17DF,Wed Mar 16 20:18:11 UTC 2022
 Airline code "OOH", examples:OOH92,44A018,Wed Mar 16 16:39:29 UTC 2022
@@ -23,7 +24,6 @@ Airline code "NHD", examples:NHD251,45A1B6,Sun Mar 13 09:48:37 UTC 2022
 Airline code "OFL", examples:OFL12C,391DC2,Sat Mar 12 13:06:15 UTC 2022
 Airline code "KAF", examples:KAF3229,706216,Sat Mar 12 12:02:47 UTC 2022
 Airline code "CFX", examples:CFX2,A55A28,Fri Mar 11 23:06:26 UTC 2022
-Airline code "WAZ", examples:WAZ100A,89658F,Fri Mar 11 21:30:16 UTC 2022
 Airline code "GRB", examples:GRB449,A97B00,Fri Mar 11 16:04:11 UTC 2022
 Airline code "TJD", examples:TJD403,3007A6,Fri Mar 11 13:10:47 UTC 2022
 Airline code "VND", examples:VND653,300762,Fri Mar 11 11:05:02 UTC 2022
