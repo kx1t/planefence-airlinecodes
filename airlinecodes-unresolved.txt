@@ -1,3 +1,4 @@
+Airline code "VND", examples:VND666,30061C,Fri Mar 18 19:01:09 UTC 2022
 Airline code "HMJ", examples:HMJ208,394979,Fri Mar 18 15:25:21 UTC 2022
 Airline code "TMB", examples:TMB420,A4FC50,Fri Mar 18 15:11:12 UTC 2022 TMB420,A4FC50,Fri Mar 18 15:08:25 UTC 2022
 Airline code "FJR", examples:FJR300,744DE2,Fri Mar 18 14:16:11 UTC 2022 FJR300,744DE2,Fri Mar 18 14:15:49 UTC 2022
@@ -13,7 +14,6 @@ Airline code "EZZ", examples:EZZ202W,501C0B,Thu Mar 17 18:00:25 UTC 2022
 Airline code "XSM", examples:XSM52,A687C8,Thu Mar 17 17:55:43 UTC 2022
 Airline code "TFR", examples:TFR21,7C7B68,Thu Mar 17 10:25:13 UTC 2022
 Airline code "WAZ", examples:WAZ101A,89659E,Thu Mar 17 08:19:26 UTC 2022
-Airline code "VND", examples:VND666,30061C,Thu Mar 17 07:12:33 UTC 2022
 Airline code "VTB", examples:VTB700,471831,Wed Mar 16 16:44:00 UTC 2022
 Airline code "OOI", examples:OOI20,44A7D0,Wed Mar 16 15:24:46 UTC 2022
 Airline code "OYO", examples:OYO003,3989E4,Wed Mar 16 08:04:00 UTC 2022
