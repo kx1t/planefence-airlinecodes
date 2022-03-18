@@ -1,3 +1,4 @@
+Airline code "WNE", examples:WNE3311,C0807F,Thu Mar 17 23:48:10 UTC 2022
 Airline code "KSF", examples:KSF18,A04ADD,Thu Mar 17 21:24:09 UTC 2022
 Airline code "TVP", examples:TVP7321,49D3D3,Thu Mar 17 19:06:32 UTC 2022
 Airline code "EZZ", examples:EZZ202W,501C0B,Thu Mar 17 18:00:25 UTC 2022
