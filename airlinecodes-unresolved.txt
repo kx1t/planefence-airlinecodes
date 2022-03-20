@@ -1,3 +1,4 @@
+Airline code "OOG", examples:OOG54,449FF2,Sun Mar 20 13:46:58 UTC 2022
 Airline code "OOF", examples:OOF05,449BC1,Sun Mar 20 12:57:37 UTC 2022
 Airline code "OOH", examples:OOH84,44A010,Sun Mar 20 11:54:53 UTC 2022
 Airline code "OMM", examples:OMM599,505ED0,Sun Mar 20 08:54:56 UTC 2022
@@ -29,7 +30,6 @@ Airline code "WDE", examples:WDE06,A8D972,Tue Mar 15 11:57:41 UTC 2022 WDE24,A97
 Airline code "KCN", examples:KCN355,A3F844,Tue Mar 15 10:55:42 UTC 2022
 Airline code "DHR", examples:DHR1,A0B60C,Mon Mar 14 20:42:19 UTC 2022
 Airline code "HTY", examples:HTY211,347253,Mon Mar 14 15:30:00 UTC 2022
-Airline code "OOG", examples:OOG54,449FF2,Sun Mar 13 13:54:54 UTC 2022
 Airline code "BHZ", examples:BHZ135,3DD60C,Sun Mar 13 09:12:26 UTC 2022
 Airline code "NHD", examples:NHD251,45A1B6,Sun Mar 13 09:48:37 UTC 2022
 Airline code "OFL", examples:OFL12C,391DC2,Sat Mar 12 13:06:15 UTC 2022
