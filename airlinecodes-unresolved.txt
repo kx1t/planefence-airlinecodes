@@ -1,3 +1,4 @@
+Airline code "WAZ", examples:WAZ7090,89659F,Sun Mar 20 16:31:13 UTC 2022 WAZ7090,89659F,Sun Mar 20 16:31:07 UTC 2022
 Airline code "OOG", examples:OOG54,449FF2,Sun Mar 20 13:46:58 UTC 2022
 Airline code "OOF", examples:OOF05,449BC1,Sun Mar 20 12:57:37 UTC 2022
 Airline code "OOH", examples:OOH84,44A010,Sun Mar 20 11:54:53 UTC 2022
@@ -9,7 +10,6 @@ Airline code "MTU", examples:MTU92,A7A5FA,Sat Mar 19 17:26:24 UTC 2022
 Airline code "DMS", examples:DMS5,4632AE,Sat Mar 19 15:03:24 UTC 2022
 Airline code "YVO", examples:YVO100,0D81A5,Sat Mar 19 15:52:16 UTC 2022
 Airline code "RNI", examples:RNI12,AC70DA,Fri Mar 18 23:19:59 UTC 2022
-Airline code "WAZ", examples:WAZ100A,896590,Fri Mar 18 21:17:34 UTC 2022 WAZ100A,896590,Fri Mar 18 21:15:57 UTC 2022
 Airline code "VND", examples:VND666,30061C,Fri Mar 18 19:01:09 UTC 2022
 Airline code "HMJ", examples:HMJ208,394979,Fri Mar 18 15:25:21 UTC 2022
 Airline code "TMB", examples:TMB420,A4FC50,Fri Mar 18 15:11:12 UTC 2022 TMB420,A4FC50,Fri Mar 18 15:08:25 UTC 2022
