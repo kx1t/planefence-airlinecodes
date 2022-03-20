@@ -1,3 +1,4 @@
+Airline code "EZZ", examples:EZZ202W,501C0B,Sun Mar 20 19:46:40 UTC 2022
 Airline code "MTU", examples:MTU49,A3DF19,Sun Mar 20 18:04:35 UTC 2022
 Airline code "FHM", examples:FHM5071,4D224A,Sun Mar 20 17:30:54 UTC 2022
 Airline code "WAZ", examples:WAZ7090,89659F,Sun Mar 20 16:31:13 UTC 2022 WAZ7090,89659F,Sun Mar 20 16:31:07 UTC 2022
@@ -20,7 +21,6 @@ Airline code "TVP", examples:TVP7324,49D2EE,Fri Mar 18 08:27:25 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Fri Mar 18 00:19:46 UTC 2022
 Airline code "WNE", examples:WNE3311,C0807F,Thu Mar 17 23:48:10 UTC 2022
 Airline code "KSF", examples:KSF18,A04ADD,Thu Mar 17 21:24:09 UTC 2022
-Airline code "EZZ", examples:EZZ202W,501C0B,Thu Mar 17 18:00:25 UTC 2022
 Airline code "XSM", examples:XSM52,A687C8,Thu Mar 17 17:55:43 UTC 2022
 Airline code "TFR", examples:TFR21,7C7B68,Thu Mar 17 10:25:13 UTC 2022
 Airline code "OOI", examples:OOI20,44A7D0,Wed Mar 16 15:24:46 UTC 2022
