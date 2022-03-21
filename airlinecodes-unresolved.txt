@@ -1,3 +1,4 @@
+Airline code "ICY", examples:ICY88,AE6A2F,Mon Mar 21 22:56:35 UTC 2022
 Airline code "TJD", examples:TJD401,3001F3,Mon Mar 21 20:27:18 UTC 2022
 Airline code "TVP", examples:TVP7397,49D418,Mon Mar 21 20:27:31 UTC 2022
 Airline code "VTB", examples:VTB200,471843,Mon Mar 21 20:27:02 UTC 2022
@@ -40,7 +41,6 @@ Airline code "OFL", examples:OFL12C,391DC2,Sat Mar 12 13:06:15 UTC 2022
 Airline code "KAF", examples:KAF3229,706216,Sat Mar 12 12:02:47 UTC 2022
 Airline code "CFX", examples:CFX2,A55A28,Fri Mar 11 23:06:26 UTC 2022
 Airline code "HOB", examples:HOB3,A9A1ED,Wed Mar 9 01:49:43 UTC 2022
-Airline code "ICY", examples:ICY19000,AE09BE,Wed Mar 9 01:50:54 UTC 2022
 Airline code "BFX", examples:BFX11Z,3E1F4E,Tue Mar 8 18:07:11 UTC 2022
 Airline code "EEV", examples:EEV5120,ACB2C2,Mon Mar 7 22:14:51 UTC 2022
 Airline code "FSP", examples:FSP727,A9C0CF,Mon Mar 7 20:36:27 UTC 2022
