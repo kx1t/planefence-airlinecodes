@@ -1,10 +1,12 @@
+Airline code "MMI", examples:MMI2211,33FFBB,Mon Mar 21 15:27:55 UTC 2022
+Airline code "OBI", examples:OBI3,43C553,Mon Mar 21 15:12:44 UTC 2022
+Airline code "TVP", examples:TVP6LP,49D3D5,Mon Mar 21 15:05:23 UTC 2022
 Airline code "VTB", examples:VTB200,471843,Mon Mar 21 14:44:03 UTC 2022
 Airline code "GRB", examples:GRB501,A97B00,Mon Mar 21 13:08:42 UTC 2022
 Airline code "HRE", examples:HRE22D,3D1A96,Mon Mar 21 12:42:03 UTC 2022
 Airline code "OOH", examples:OOH84,44A010,Mon Mar 21 12:06:41 UTC 2022
 Airline code "WDE", examples:WDE24,A97AA1,Mon Mar 21 11:32:04 UTC 2022
 Airline code "TFR", examples:TFR21,C82337,Mon Mar 21 10:23:36 UTC 2022
-Airline code "TVP", examples:TVP6LP,49D3D5,Mon Mar 21 08:36:27 UTC 2022
 Airline code "FTN", examples:FTN4,A5991E,Mon Mar 21 00:43:37 UTC 2022
 Airline code "MTU", examples:MTU76,A8F3D5,Sun Mar 20 22:18:11 UTC 2022
 Airline code "KCN", examples:KCN355,A3F844,Sun Mar 20 21:50:16 UTC 2022
@@ -91,7 +93,6 @@ Airline code "MMO", examples:MMO1301,4D2025,Tue Jan 25 17:07:38 UTC 2022
 Airline code "OMD", examples:OMD522,440B9D,Tue Jan 25 11:00:40 UTC 2022
 Airline code "SDG", examples:SDG8212,800C8A,Mon Jan 24 11:31:18 UTC 2022
 Airline code "BBK", examples:BBK1654,683240,Sun Jan 16 19:54:17 UTC 2022
-Airline code "OBI", examples:OBI2,43C553,Fri Jan 14 19:14:50 UTC 2022
 Airline code "HLY", examples:HLY95,407A20,Wed Jan 12 09:48:01 UTC 2022
 Airline code "GMN", examples:GMN56,AC6D33,Wed Jan 12 05:58:01 UTC 2022
 Airline code "MXY", examples:MXY6313,A0719B,Tue Jan 11 23:54:09 UTC 2022
