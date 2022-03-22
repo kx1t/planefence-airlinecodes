@@ -1,3 +1,4 @@
+Airline code "FJR", examples:FJR300,744DE2,Tue Mar 22 14:16:38 UTC 2022
 Airline code "ICY", examples:ICY52,AE6A30,Tue Mar 22 13:53:58 UTC 2022
 Airline code "HEP", examples:HEP01,479C1E,Tue Mar 22 12:56:48 UTC 2022
 Airline code "HRE", examples:HRE11A,3D92D4,Tue Mar 22 12:44:58 UTC 2022
@@ -28,7 +29,6 @@ Airline code "RNI", examples:RNI12,AC70DA,Fri Mar 18 23:19:59 UTC 2022
 Airline code "VND", examples:VND666,30061C,Fri Mar 18 19:01:09 UTC 2022
 Airline code "HMJ", examples:HMJ208,394979,Fri Mar 18 15:25:21 UTC 2022
 Airline code "TMB", examples:TMB420,A4FC50,Fri Mar 18 15:11:12 UTC 2022 TMB420,A4FC50,Fri Mar 18 15:08:25 UTC 2022
-Airline code "FJR", examples:FJR300,744DE2,Fri Mar 18 14:16:11 UTC 2022 FJR300,744DE2,Fri Mar 18 14:15:49 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Fri Mar 18 00:19:46 UTC 2022
 Airline code "WNE", examples:WNE3311,C0807F,Thu Mar 17 23:48:10 UTC 2022
 Airline code "KSF", examples:KSF18,A04ADD,Thu Mar 17 21:24:09 UTC 2022
