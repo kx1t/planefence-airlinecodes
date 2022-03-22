@@ -1,3 +1,4 @@
+Airline code "TFR", examples:TFR21,C8196A,Tue Mar 22 10:13:09 UTC 2022
 Airline code "FHM", examples:FHM5061,4D224A,Tue Mar 22 09:24:35 UTC 2022
 Airline code "WDE", examples:WDE06,A8D972,Tue Mar 22 09:58:26 UTC 2022
 Airline code "ICY", examples:ICY88,AE6A2F,Mon Mar 21 22:56:35 UTC 2022
@@ -10,7 +11,6 @@ Airline code "OBI", examples:OBI3,43C553,Mon Mar 21 15:12:44 UTC 2022
 Airline code "GRB", examples:GRB501,A97B00,Mon Mar 21 13:08:42 UTC 2022
 Airline code "HRE", examples:HRE22D,3D1A96,Mon Mar 21 12:42:03 UTC 2022
 Airline code "OOH", examples:OOH84,44A010,Mon Mar 21 12:06:41 UTC 2022
-Airline code "TFR", examples:TFR21,C82337,Mon Mar 21 10:23:36 UTC 2022
 Airline code "FTN", examples:FTN4,A5991E,Mon Mar 21 00:43:37 UTC 2022
 Airline code "MTU", examples:MTU76,A8F3D5,Sun Mar 20 22:18:11 UTC 2022
 Airline code "KCN", examples:KCN355,A3F844,Sun Mar 20 21:50:16 UTC 2022
