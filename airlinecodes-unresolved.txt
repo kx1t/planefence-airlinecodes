@@ -1,3 +1,4 @@
+Airline code "WAZ", examples:WAZ101A,89659E,Wed Mar 23 22:49:52 UTC 2022 WAZ101A,89659E,Wed Mar 23 22:49:52 UTC 2022
 Airline code "EGC", examples:EGC624,A8271B,Wed Mar 23 21:02:23 UTC 2022
 Airline code "KDX", examples:KDX2654,A89C18,Wed Mar 23 21:01:03 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Wed Mar 23 20:29:09 UTC 2022
@@ -15,7 +16,6 @@ Airline code "TFR", examples:TFR21,C8285C,Wed Mar 23 10:08:07 UTC 2022
 Airline code "WIK", examples:WIK2,45A18D,Wed Mar 23 10:21:27 UTC 2022
 Airline code "RWF", examples:RWF401,AC4D27,Wed Mar 23 02:42:55 UTC 2022
 Airline code "GIS", examples:GIS1,C81E79,Tue Mar 22 21:16:30 UTC 2022 GIS1,C81E79,Tue Mar 22 21:15:39 UTC 2022
-Airline code "WAZ", examples:WAZ101A,89659E,Tue Mar 22 18:37:44 UTC 2022
 Airline code "FJR", examples:FJR300,744DE2,Tue Mar 22 14:16:38 UTC 2022
 Airline code "HEP", examples:HEP01,479C1E,Tue Mar 22 12:56:48 UTC 2022
 Airline code "OOI", examples:OOI20,44A7D0,Tue Mar 22 11:45:52 UTC 2022
