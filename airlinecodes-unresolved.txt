@@ -1,3 +1,4 @@
+Airline code "KDX", examples:KDX2654,A89C18,Wed Mar 23 09:14:38 UTC 2022
 Airline code "RWF", examples:RWF401,AC4D27,Wed Mar 23 02:42:55 UTC 2022
 Airline code "EGC", examples:EGC957,AD4ECA,Wed Mar 23 01:57:23 UTC 2022
 Airline code "GIS", examples:GIS1,C81E79,Tue Mar 22 21:16:30 UTC 2022 GIS1,C81E79,Tue Mar 22 21:15:39 UTC 2022
