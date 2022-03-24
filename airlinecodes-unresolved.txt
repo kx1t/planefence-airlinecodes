@@ -1,6 +1,7 @@
+Airline code "EGC", examples:EGC957,AD4ECA,Thu Mar 24 16:59:27 UTC 2022
+Airline code "MFO", examples:MFO692,AE0403,Thu Mar 24 16:34:12 UTC 2022
 Airline code "DHR", examples:DHR45,A5708C,Thu Mar 24 15:47:25 UTC 2022
 Airline code "EEV", examples:EEV4628,ACB2C2,Thu Mar 24 14:39:50 UTC 2022
-Airline code "EGC", examples:EGC957,AD4ECA,Thu Mar 24 14:34:20 UTC 2022
 Airline code "FJR", examples:FJR300,744DE2,Thu Mar 24 14:11:18 UTC 2022
 Airline code "GRB", examples:GRB548,A6D6D9,Thu Mar 24 14:50:17 UTC 2022
 Airline code "ICY", examples:ICY10,AE6A30,Thu Mar 24 14:24:47 UTC 2022
