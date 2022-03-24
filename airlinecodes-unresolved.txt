@@ -1,3 +1,4 @@
+Airline code "VTB", examples:VTB200,471843,Thu Mar 24 12:57:00 UTC 2022
 Airline code "GRB", examples:GRB548,A6D6D9,Thu Mar 24 11:54:29 UTC 2022
 Airline code "WDE", examples:WDE06,A8D972,Thu Mar 24 11:39:28 UTC 2022
 Airline code "FHM", examples:FHM8169,4D21B1,Thu Mar 24 10:11:13 UTC 2022
@@ -10,7 +11,6 @@ Airline code "EGC", examples:EGC624,A8271B,Wed Mar 23 21:02:23 UTC 2022
 Airline code "KDX", examples:KDX2654,A89C18,Wed Mar 23 21:01:03 UTC 2022
 Airline code "DCW", examples:DCW123,4D2200,Wed Mar 23 20:29:09 UTC 2022
 Airline code "ICY", examples:ICY10,AE64AB,Wed Mar 23 17:08:49 UTC 2022
-Airline code "VTB", examples:VTB500,470E17,Wed Mar 23 17:01:48 UTC 2022
 Airline code "JZH", examples:JZH419,C0550C,Wed Mar 23 13:36:43 UTC 2022
 Airline code "YVO", examples:YVO100,0D81A5,Wed Mar 23 11:04:26 UTC 2022
 Airline code "OOH", examples:OOH92,44A018,Wed Mar 23 10:34:29 UTC 2022
