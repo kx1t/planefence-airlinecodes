@@ -1,8 +1,8 @@
+Airline code "EGC", examples:EGC957,AD4ECA,Fri Mar 25 00:18:51 UTC 2022
+Airline code "HOB", examples:HOB3,A9A1ED,Fri Mar 25 00:19:21 UTC 2022
 Airline code "RNI", examples:RNI165,A657FC,Thu Mar 24 23:57:34 UTC 2022
 Airline code "ICY", examples:ICY83,AE6A2F,Thu Mar 24 21:22:39 UTC 2022
-Airline code "EGC", examples:EGC957,AD4ECA,Thu Mar 24 19:06:57 UTC 2022
 Airline code "KCN", examples:KCN355,A3F844,Thu Mar 24 19:55:10 UTC 2022
-Airline code "HOB", examples:HOB3,A9A1ED,Thu Mar 24 18:51:54 UTC 2022
 Airline code "EZZ", examples:EZZ202W,501C0B,Thu Mar 24 17:58:45 UTC 2022
 Airline code "MFO", examples:MFO692,AE0403,Thu Mar 24 16:34:12 UTC 2022
 Airline code "DHR", examples:DHR45,A5708C,Thu Mar 24 15:47:25 UTC 2022
