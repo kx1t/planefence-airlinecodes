@@ -1,3 +1,4 @@
+Airline code "GLH", examples:GLH2,A16534,Fri Mar 25 12:55:08 UTC 2022
 Airline code "OOH", examples:OOH49,44A3ED,Fri Mar 25 11:21:13 UTC 2022
 Airline code "DFL", examples:DFL11,4AB43A,Fri Mar 25 10:10:33 UTC 2022
 Airline code "GRB", examples:GRB557,AAE0D0,Fri Mar 25 10:32:57 UTC 2022
@@ -272,7 +273,6 @@ Airline code "GTW", examples:GTW363,A4177F,Fri Oct 15 21:05:40 UTC 2021
 Airline code "TEK", examples:TEK610,A7EF5C,Fri Oct 15 11:45:22 UTC 2021
 Airline code "KZN", examples:KZN9401,15065F,Thu Oct 14 18:06:27 UTC 2021
 Airline code "CDX", examples:CDX550,748053,Wed Oct 13 10:19:31 UTC 2021
-Airline code "GLH", examples:GLH1,A16AAD,Tue Oct 12 19:05:40 UTC 2021
 Airline code "JIV", examples:JIV9,4AC90A,Tue Oct 12 19:05:16 UTC 2021
 Airline code "LOL", examples:LOL1011,5140AF,Tue Oct 12 06:22:48 UTC 2021
 Airline code "NCJ", examples:NCJ50,A88E05,Mon Oct 11 23:17:39 UTC 2021
