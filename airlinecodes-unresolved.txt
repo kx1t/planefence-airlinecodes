@@ -1,3 +1,5 @@
+Airline code "MBK", examples:MBK780,C07EA8,Fri Mar 25 20:57:21 UTC 2022
+Airline code "VYR", examples:VYR686,A91B40,Fri Mar 25 20:12:46 UTC 2022
 Airline code "FJR", examples:FJR301,744DE2,Fri Mar 25 18:59:55 UTC 2022
 Airline code "RNI", examples:RNI218,A7FA00,Fri Mar 25 17:40:07 UTC 2022
 Airline code "NAG", examples:NAG9915,43C6FB,Fri Mar 25 16:07:19 UTC 2022
@@ -145,7 +147,6 @@ Airline code "NJM", examples:NJM422,A50316,Tue Nov 30 19:25:29 UTC 2021
 Airline code "XLJ", examples:XLJ605,A7DA01,Tue Nov 30 18:14:34 UTC 2021
 Airline code "CSG", examples:CSG2574,7805AA,Tue Nov 30 14:41:55 UTC 2021
 Airline code "DGK", examples:DGK2877,4CC505,Mon Nov 29 20:44:10 UTC 2021
-Airline code "VYR", examples:VYR686,A91B40,Fri Nov 26 20:13:42 UTC 2021
 Airline code "PCT", examples:PCT522,3F9AE8,Thu Nov 25 19:09:15 UTC 2021
 Airline code "GFM", examples:GFM6Y,4AC999,Thu Nov 25 18:19:12 UTC 2021
 Airline code "REH", examples:REH50,ACA35D,Thu Nov 25 12:03:56 UTC 2021
@@ -308,7 +309,6 @@ Airline code "NBM", examples:NBM1124,C0227B,Sat Sep 18 02:00:16 UTC 2021
 Airline code "RFV", examples:RFV82A,407359,Fri Sep 10 00:42:51 UTC 2021
 Airline code "RSP", examples:RSP69,A77A78,Thu Sep 9 18:06:55 UTC 2021
 Airline code "JAZ", examples:JAZ7935,C017ED,Mon Sep 6 20:04:26 UTC 2021
-Airline code "MBK", examples:MBK601,C00381,Mon Sep 6 20:46:50 UTC 2021
 Airline code "TVQ", examples:TVQ6823,49D283,Sat Aug 28 16:05:18 UTC 2021
 Airline code "SBE", examples:SBE600,A7C847,Sat Aug 28 01:59:48 UTC 2021
 Airline code "OSF", examples:OSF11T,3F9A92,Mon Aug 23 21:05:30 UTC 2021
