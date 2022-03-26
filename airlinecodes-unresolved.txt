@@ -1,3 +1,4 @@
+Airline code "OOD", examples:OOD55,4493F3,Sat Mar 26 13:34:58 UTC 2022
 Airline code "OOH", examples:OOH42,44A3E6,Sat Mar 26 11:05:54 UTC 2022
 Airline code "GLH", examples:GLH2,A16534,Sat Mar 26 01:01:04 UTC 2022
 Airline code "PDU", examples:PDU65,ABE2C2,Sat Mar 26 01:02:05 UTC 2022
@@ -61,7 +62,6 @@ Airline code "BFX", examples:BFX11Z,3E1F4E,Tue Mar 8 18:07:11 UTC 2022
 Airline code "FSP", examples:FSP727,A9C0CF,Mon Mar 7 20:36:27 UTC 2022
 Airline code "ARN", examples:ARN633,00A2E4,Mon Mar 7 13:33:41 UTC 2022
 Airline code "EGT", examples:EGT1561,4520D3,Sun Mar 6 08:57:36 UTC 2022
-Airline code "OOD", examples:OOD80,44900C,Sat Mar 5 15:03:57 UTC 2022
 Airline code "OOE", examples:OOE88,449414,Sat Mar 5 11:50:31 UTC 2022
 Airline code "WFN", examples:WFN3198,C00BF7,Sat Mar 5 04:24:48 UTC 2022
 Airline code "EPI", examples:EPI684,A4EE93,Sat Mar 5 00:39:36 UTC 2022
