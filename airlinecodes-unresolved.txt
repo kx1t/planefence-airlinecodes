@@ -1,3 +1,4 @@
+Airline code "OOI", examples:OOI15,44A7CB,Sat Mar 26 14:44:15 UTC 2022
 Airline code "OOD", examples:OOD55,4493F3,Sat Mar 26 13:34:58 UTC 2022
 Airline code "OOH", examples:OOH42,44A3E6,Sat Mar 26 11:05:54 UTC 2022
 Airline code "GLH", examples:GLH2,A16534,Sat Mar 26 01:01:04 UTC 2022
@@ -33,7 +34,6 @@ Airline code "JZH", examples:JZH419,C0550C,Wed Mar 23 13:36:43 UTC 2022
 Airline code "WIK", examples:WIK2,45A18D,Wed Mar 23 10:21:27 UTC 2022
 Airline code "RWF", examples:RWF401,AC4D27,Wed Mar 23 02:42:55 UTC 2022
 Airline code "HEP", examples:HEP01,479C1E,Tue Mar 22 12:56:48 UTC 2022
-Airline code "OOI", examples:OOI20,44A7D0,Tue Mar 22 11:45:52 UTC 2022
 Airline code "TJD", examples:TJD401,3001F3,Mon Mar 21 20:27:18 UTC 2022
 Airline code "TVP", examples:TVP7397,49D418,Mon Mar 21 20:27:31 UTC 2022
 Airline code "MMI", examples:MMI2211,33FFBB,Mon Mar 21 15:27:55 UTC 2022
