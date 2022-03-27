@@ -1,6 +1,6 @@
+Airline code "PDU", examples:PDU43,A6E469,Sun Mar 27 18:17:12 UTC 2022
 Airline code "FSP", examples:FSP377,A44E32,Sun Mar 27 15:35:00 UTC 2022
 Airline code "MBK", examples:MBK791,C07905,Sun Mar 27 15:38:58 UTC 2022
-Airline code "PDU", examples:PDU63,ABDB54,Sun Mar 27 15:39:12 UTC 2022
 Airline code "TMB", examples:TMB420,A4FC50,Sun Mar 27 15:14:36 UTC 2022
 Airline code "FJR", examples:FJR300,744DE2,Sun Mar 27 14:29:09 UTC 2022 FJR300,744DE2,Sun Mar 27 14:28:31 UTC 2022
 Airline code "MTU", examples:MTU49,A3DF19,Sun Mar 27 13:06:35 UTC 2022
