@@ -1,3 +1,5 @@
+Airline code "MTU", examples:MTU49,A3DF19,Sun Mar 27 13:06:35 UTC 2022
+Airline code "UEE", examples:UEE1,506D8E,Sun Mar 27 13:33:58 UTC 2022
 Airline code "OOH", examples:OOH74,44A006,Sun Mar 27 12:30:33 UTC 2022
 Airline code "PDU", examples:PDU63,ABDB54,Sun Mar 27 12:35:45 UTC 2022
 Airline code "EZZ", examples:EZZ202W,501C0B,Sun Mar 27 09:50:35 UTC 2022
@@ -41,7 +43,6 @@ Airline code "TVP", examples:TVP7397,49D418,Mon Mar 21 20:27:31 UTC 2022
 Airline code "MMI", examples:MMI2211,33FFBB,Mon Mar 21 15:27:55 UTC 2022
 Airline code "OBI", examples:OBI3,43C553,Mon Mar 21 15:12:44 UTC 2022
 Airline code "FTN", examples:FTN4,A5991E,Mon Mar 21 00:43:37 UTC 2022
-Airline code "MTU", examples:MTU76,A8F3D5,Sun Mar 20 22:18:11 UTC 2022
 Airline code "XSM", examples:XSM19,A810AC,Sun Mar 20 20:21:53 UTC 2022
 Airline code "OOG", examples:OOG54,449FF2,Sun Mar 20 13:46:58 UTC 2022
 Airline code "OMM", examples:OMM599,505ED0,Sun Mar 20 08:54:56 UTC 2022
@@ -90,7 +91,6 @@ Airline code "RJE", examples:RJE156,A0E1F3,Mon Feb 14 19:06:27 UTC 2022
 Airline code "JMK", examples:JMK429,4D20A7,Thu Feb 10 17:48:19 UTC 2022
 Airline code "AYJ", examples:AYJ064,3C45C4,Thu Feb 10 15:29:45 UTC 2022
 Airline code "TXH", examples:TXH4891,C03C2B,Wed Feb 9 23:04:36 UTC 2022
-Airline code "UEE", examples:UEE1,506D8E,Wed Feb 9 17:43:48 UTC 2022
 Airline code "WFL", examples:WFL3504,3465C5,Sun Feb 6 09:45:30 UTC 2022
 Airline code "QFY", examples:QFY21,3463D7,Sun Feb 6 08:37:27 UTC 2022
 Airline code "MJS", examples:MJS3711,A36878,Wed Feb 2 23:05:03 UTC 2022
