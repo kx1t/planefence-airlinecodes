@@ -1,3 +1,4 @@
+Airline code "GBG", examples:GBG807,4520A1,Sun Mar 27 05:13:40 UTC 2022
 Airline code "MBK", examples:MBK791,C07905,Sun Mar 27 02:29:04 UTC 2022
 Airline code "TMB", examples:TMB420,A4FC50,Sat Mar 26 21:37:14 UTC 2022
 Airline code "OOF", examples:OOF55,449BF3,Sat Mar 26 15:25:53 UTC 2022
@@ -81,7 +82,6 @@ Airline code "RCR", examples:RCR2029,4A1A61,Wed Feb 23 09:22:34 UTC 2022
 Airline code "AFT", examples:AFT1743,C05A0A,Wed Feb 23 03:22:14 UTC 2022
 Airline code "GCI", examples:GCI2041,320054,Tue Feb 22 14:38:04 UTC 2022
 Airline code "GZR", examples:GZR26,A4B739,Mon Feb 21 15:46:33 UTC 2022
-Airline code "GBG", examples:GBG808,45209D,Sun Feb 20 20:54:48 UTC 2022
 Airline code "TKM", examples:TKM88,AB0069,Sun Feb 20 19:38:34 UTC 2022
 Airline code "RPG", examples:RPG5699,A24369,Sun Feb 20 15:16:06 UTC 2022
 Airline code "CNP", examples:CNP315,0C2017,Fri Feb 18 08:44:18 UTC 2022
