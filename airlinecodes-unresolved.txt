@@ -1,9 +1,9 @@
+Airline code "WMU", examples:WMU37,A953AE,Mon Mar 28 22:01:36 UTC 2022
 Airline code "DHR", examples:DHR5,AAB76A,Mon Mar 28 20:10:18 UTC 2022
 Airline code "NBM", examples:NBM1124,C0227B,Mon Mar 28 20:24:43 UTC 2022
 Airline code "PDU", examples:PDU57,ABC2B1,Mon Mar 28 20:10:09 UTC 2022
 Airline code "TMB", examples:TMB420,A4FC50,Mon Mar 28 19:35:45 UTC 2022
 Airline code "VQZ", examples:VQZ625,7C6AE5,Mon Mar 28 19:08:33 UTC 2022
-Airline code "WMU", examples:WMU21,A4DF9E,Mon Mar 28 19:08:43 UTC 2022
 Airline code "GLH", examples:GLH3,A15DE5,Mon Mar 28 18:45:58 UTC 2022
 Airline code "MBK", examples:MBK791,C07905,Mon Mar 28 16:01:38 UTC 2022
 Airline code "MTU", examples:MTU96,A7B4D6,Mon Mar 28 14:24:07 UTC 2022
