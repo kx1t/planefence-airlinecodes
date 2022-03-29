@@ -1,3 +1,4 @@
+Airline code "UEE", examples:UEE1,506D8E,Tue Mar 29 10:06:26 UTC 2022
 Airline code "DVY", examples:DVY355,A3F79D,Tue Mar 29 06:32:52 UTC 2022
 Airline code "MAO", examples:MAO2,A0B5AA,Tue Mar 29 05:02:55 UTC 2022
 Airline code "MFO", examples:MFO692,AE0403,Tue Mar 29 05:00:22 UTC 2022
@@ -14,7 +15,6 @@ Airline code "WDW", examples:WDW124,A34B66,Mon Mar 28 00:37:40 UTC 2022
 Airline code "RNI", examples:RNI218,A7FA00,Sun Mar 27 19:54:35 UTC 2022
 Airline code "FSP", examples:FSP377,A44E32,Sun Mar 27 15:35:00 UTC 2022
 Airline code "FJR", examples:FJR300,744DE2,Sun Mar 27 14:29:09 UTC 2022 FJR300,744DE2,Sun Mar 27 14:28:31 UTC 2022
-Airline code "UEE", examples:UEE1,506D8E,Sun Mar 27 13:33:58 UTC 2022
 Airline code "OOH", examples:OOH74,44A006,Sun Mar 27 12:30:33 UTC 2022
 Airline code "EZZ", examples:EZZ202W,501C0B,Sun Mar 27 09:50:35 UTC 2022
 Airline code "GBG", examples:GBG807,4520A1,Sun Mar 27 05:13:40 UTC 2022
