@@ -1,3 +1,4 @@
+Airline code "WMU", examples:WMU48,A0E0BC,Tue Mar 29 22:49:01 UTC 2022
 Airline code "TMB", examples:TMB296,A30C0C,Tue Mar 29 21:25:17 UTC 2022
 Airline code "DVY", examples:DVY355,A3F79D,Tue Mar 29 20:12:04 UTC 2022
 Airline code "PDU", examples:PDU57,ABC2B1,Tue Mar 29 20:12:28 UTC 2022
@@ -9,7 +10,6 @@ Airline code "DFL", examples:DFL11,4AB43A,Tue Mar 29 15:52:56 UTC 2022
 Airline code "MFO", examples:MFO692,AE0403,Tue Mar 29 15:38:05 UTC 2022
 Airline code "MAO", examples:MAO2,A0B5AA,Tue Mar 29 05:02:55 UTC 2022
 Airline code "MBK", examples:MBK121,C00381,Tue Mar 29 00:18:53 UTC 2022
-Airline code "WMU", examples:WMU37,A953AE,Mon Mar 28 22:01:36 UTC 2022
 Airline code "DHR", examples:DHR5,AAB76A,Mon Mar 28 20:10:18 UTC 2022
 Airline code "NBM", examples:NBM1124,C0227B,Mon Mar 28 20:24:43 UTC 2022
 Airline code "VQZ", examples:VQZ625,7C6AE5,Mon Mar 28 19:08:33 UTC 2022
