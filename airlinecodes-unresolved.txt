@@ -1,3 +1,5 @@
+Airline code "MAO", examples:MAO2,A0B5AA,Tue Mar 29 05:02:55 UTC 2022
+Airline code "MFO", examples:MFO692,AE0403,Tue Mar 29 05:00:22 UTC 2022
 Airline code "MBK", examples:MBK121,C00381,Tue Mar 29 00:18:53 UTC 2022
 Airline code "MTU", examples:MTU81,A77AC4,Mon Mar 28 23:08:16 UTC 2022
 Airline code "WMU", examples:WMU37,A953AE,Mon Mar 28 22:01:36 UTC 2022
@@ -28,7 +30,6 @@ Airline code "EGC", examples:EGC957,AD4ECA,Fri Mar 25 00:18:51 UTC 2022
 Airline code "HOB", examples:HOB3,A9A1ED,Fri Mar 25 00:19:21 UTC 2022
 Airline code "ICY", examples:ICY83,AE6A2F,Thu Mar 24 21:22:39 UTC 2022
 Airline code "KCN", examples:KCN355,A3F844,Thu Mar 24 19:55:10 UTC 2022
-Airline code "MFO", examples:MFO692,AE0403,Thu Mar 24 16:34:12 UTC 2022
 Airline code "EEV", examples:EEV4628,ACB2C2,Thu Mar 24 14:39:50 UTC 2022
 Airline code "VTB", examples:VTB200,471843,Thu Mar 24 12:57:00 UTC 2022
 Airline code "WDE", examples:WDE06,A8D972,Thu Mar 24 11:39:28 UTC 2022
@@ -89,7 +90,6 @@ Airline code "GZR", examples:GZR26,A4B739,Mon Feb 21 15:46:33 UTC 2022
 Airline code "TKM", examples:TKM88,AB0069,Sun Feb 20 19:38:34 UTC 2022
 Airline code "RPG", examples:RPG5699,A24369,Sun Feb 20 15:16:06 UTC 2022
 Airline code "CNP", examples:CNP315,0C2017,Fri Feb 18 08:44:18 UTC 2022
-Airline code "MAO", examples:MAO2,A0B5AA,Thu Feb 17 00:29:09 UTC 2022
 Airline code "RJE", examples:RJE156,A0E1F3,Mon Feb 14 19:06:27 UTC 2022
 Airline code "JMK", examples:JMK429,4D20A7,Thu Feb 10 17:48:19 UTC 2022
 Airline code "AYJ", examples:AYJ064,3C45C4,Thu Feb 10 15:29:45 UTC 2022
