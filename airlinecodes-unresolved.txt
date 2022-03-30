@@ -1,3 +1,4 @@
+Airline code "MBK", examples:MBK790,C00381,Wed Mar 30 18:12:43 UTC 2022
 Airline code "PDU", examples:PDU65,ABE2C2,Wed Mar 30 14:25:08 UTC 2022
 Airline code "EZZ", examples:EZZ2001,501C11,Wed Mar 30 13:47:36 UTC 2022
 Airline code "HOB", examples:HOB1,A18E0B,Wed Mar 30 13:26:22 UTC 2022
@@ -7,7 +8,6 @@ Airline code "HMJ", examples:HMJ209,4D212B,Wed Mar 30 12:43:06 UTC 2022
 Airline code "OOH", examples:OOH84,44A010,Wed Mar 30 12:40:50 UTC 2022
 Airline code "PNO", examples:PNO711,C0417C,Wed Mar 30 11:17:52 UTC 2022
 Airline code "YVO", examples:YVO100,0D81A5,Wed Mar 30 11:00:27 UTC 2022
-Airline code "MBK", examples:MBK791,C00381,Wed Mar 30 03:17:40 UTC 2022
 Airline code "MAO", examples:MAO2,A0B5AA,Wed Mar 30 00:30:15 UTC 2022
 Airline code "RKU", examples:RKU1,C80DAF,Wed Mar 30 00:16:07 UTC 2022
 Airline code "WMU", examples:WMU48,A0E0BC,Tue Mar 29 22:49:01 UTC 2022
