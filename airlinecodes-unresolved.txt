@@ -1,3 +1,4 @@
+Airline code "DFL", examples:DFL5920,4AAA68,Thu Mar 31 09:25:54 UTC 2022
 Airline code "SFZ", examples:SFZ9005,7C5BE9,Thu Mar 31 08:15:35 UTC 2022
 Airline code "HOB", examples:HOB1,A18E0B,Wed Mar 30 20:57:27 UTC 2022
 Airline code "PDU", examples:PDU65,ABE2C2,Wed Mar 30 20:57:37 UTC 2022
@@ -17,7 +18,6 @@ Airline code "RNI", examples:RNI218,A7FA00,Tue Mar 29 20:50:37 UTC 2022
 Airline code "UEE", examples:UEE1,506D8E,Tue Mar 29 21:00:01 UTC 2022
 Airline code "FJR", examples:FJR301,744DE2,Tue Mar 29 19:55:27 UTC 2022
 Airline code "MTU", examples:MTU88,A794C5,Tue Mar 29 17:34:31 UTC 2022
-Airline code "DFL", examples:DFL11,4AB43A,Tue Mar 29 15:52:56 UTC 2022
 Airline code "MFO", examples:MFO692,AE0403,Tue Mar 29 15:38:05 UTC 2022
 Airline code "DHR", examples:DHR5,AAB76A,Mon Mar 28 20:10:18 UTC 2022
 Airline code "NBM", examples:NBM1124,C0227B,Mon Mar 28 20:24:43 UTC 2022
