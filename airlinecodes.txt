@@ -3082,7 +3082,7 @@ JSM,Jet Stream,,Moldova
 JSN,Suncor Energy Inc,JETSUN,Canada
 JSP,Palmer Aviation,PALMER,United Kingdom
 JSR,Jusur airways,,Egypt
-JST,Eastern Australia Airlines,,Australia
+JST,Jetstar Airways,,Australia
 JSV,Japan Aircraft Service,,Japan
 JSW,Jigsaw Project,,United Kingdom
 JSX,JetSuiteX Air,BIGSTRIPE,United States
