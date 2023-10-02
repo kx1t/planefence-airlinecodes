@@ -6214,7 +6214,7 @@ VAL,Voyageur Airways,VOYAGEUR,Canada
 VAM,Ameravia,AMERAVIA,Uruguay
 VAN,Caravan Air,CAMEL,Mauritania
 VAP,Phuket Air,PHUKET AIR,Thailand
-VAR,Veca Airlines,VECA,El Salvador
+VAR,United Aviate Academy,VARNEY,United States
 VAS,ATRAN Cargo Airlines,ATRAN,Russian Federation
 VAT,Visionair,VISIONAIR,Ireland
 VAU,V Australia Airlines,,Australia
