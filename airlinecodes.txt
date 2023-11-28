@@ -5281,7 +5281,7 @@ SIE,Sierra Express,SEREX,United States
 SIH,Skynet Airlines,BLUEJET,Ireland
 SII,Aero Servicios Ejecutivos Internacionales,ASEISA,Mexico
 SIJ,Seco International,,Japan
-SIL,Servicios Aeronáuticos Integrales,SERVICIOS INTEGRALES,Mexico
+SIL,Silver Airways,SILVER WINGS,United States
 SIM,Star Air,,Sierra Leone
 SIO,Sirio,SIRIO,Italy
 SIP,Air Spirit,AIR SPIRIT,United States
