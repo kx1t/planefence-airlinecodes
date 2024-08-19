@@ -6550,6 +6550,7 @@ WTP,Westpoint Air,WESTPOINT,Canada
 WTV,Western Aviators,WESTAVIA,United States
 WUE,Adolf Wurth GmbH,FASTY,Germany
 WUK,Wizz Air UK,WIZZ GO,United Kingdom
+WUP,Wheels Up,UPJET,United States
 WVA,Hand D Aviation,WABASH VALLEY,United States
 WVL,Wizz Air Bulgaria,WIZZBUL,Bulgaria
 WVZ,Winair,,HR
