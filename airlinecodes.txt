@@ -6292,7 +6292,7 @@ VIS,Vision Air International,,Pakistan
 VIT,Aviastar Mandiri,AVIASTAR,Indonesia
 VIV,Aeroenlaces Nacionales,AEROENLACES,Mexico
 VIZ,Aerovis Airlines,AEROVIZ,Ukraine
-VJA,ValuJet Airlines,CRITTER,United States
+VJA,Vista America,ICONIC,United States
 VJC,Vietjet Air,VIETJET,Vietnam
 VJE,AvJet Routing,,United Arab Emirates
 VJM,Viajes Ejecutivos Mexicanos,VIAJES MEXICANOS,Mexico
