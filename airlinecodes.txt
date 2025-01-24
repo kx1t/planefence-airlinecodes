@@ -6436,7 +6436,7 @@ WAU,Wizz Air Ukraine,,Ukraine
 WAV,Warbelow's Air Ventures,WARBELOW,United States
 WAW,Wings Airways,WING SHUTTLE,United States
 WAY,Airways,GARONNE,France
-WAZ,Wizz Air,WIZZ SKY,United Arab Emirates
+WAZ,Wizz Air Abu Dabi,WIZZ SKY,United Arab Emirates
 WBA,Finncomm Airlines,WESTBIRD,Finland
 WBR,Multi-Aero,WEBER,United States
 WCA,West Coast Airways,WEST-LEONE,Sierra Leone
@@ -6513,6 +6513,7 @@ WLX,West Air Luxembourg,WEST LUX,Luxembourg
 WMA,Watermakers Air,WATERMAKERS,United States
 WML,Chantilly Air,MARLIN,United States
 WMN,Trident Aircraft,WATERMAN,United States
+WMT,Wizz Air Malta,WIZZAIR MALTA,Malta
 WMU,W.M. Uni. College of Aviation,SKYBRONCO,United States
 WNA,Winair,WINAIR,United States
 WNR,Wondair on Demand Aviation,WONDAIR,Spain
@@ -6564,7 +6565,7 @@ WYC,Wycombe Air Centre,WYCOMBE,United Kingdom
 WYG,Wyoming Airlines,WYOMING,United States
 WYT,2 Sqn No 1 Elementary Flying Training School,WYTON,United Kingdom
 WZP,Zip,ZIPPER,Canada
-WZZ,Wizz Air,WIZZAIR,Hungary
+WZZ,Wizz Air Hungary,WIZZAIR,Hungary
 X9F,FRA Air,,Germany
 XAA,Aeronautical Radio Inc,,United States
 XAB,Xabre Aerolineas,AERO XABRE,Mexico
