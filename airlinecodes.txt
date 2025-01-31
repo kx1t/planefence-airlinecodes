@@ -1596,6 +1596,7 @@ DVN,Adventia,,Spain
 DVY,Legends Airways,DEVIL RAY,United States
 DWA,Dense Airways,,United States
 DWD,Deutsche Luftverkehrsgesellschaft (DLT),,Germany
+DWI,Arajet,DOMINICAN,Dominican Republic
 DWN,Dawn Air,DAWN AIR,United States
 DWR,Delaware Skyways,DELAWARE,United States
 DWT,Darwin Airline,DARWIN,Switzerland
