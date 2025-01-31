@@ -325,7 +325,7 @@ AMT,ATA Airlines,,United States
 AMU,Air Macau,AIR MACAO,Macao
 AMV,AMC Airlines,,Egypt
 AMW,Air Midwest,,United States
-AMX,Aeroméxico,AEROMEXICO,Mexico
+AMX,Aeromexico,AEROMEXICO,Mexico
 AMY,Air Ambar,AIR AMBAR,Dominican Republic
 AMZ,Amiya Airline,AMIYA AIR,Nigeria
 ANA,All Nippon Airways,ALL NIPPON,Japan
