@@ -2400,7 +2400,7 @@ GPL,DLR,GERMAN POLAR,Germany
 GPM,Grup Air-Med,GRUPOMED,Spain
 GPR,GPM Aeroservicio,GPM AEROSERVICIO,Mexico
 GPX,GP Aviation,,Bulgaria
-GRA,Guardian Air Asset Management,FLEX,South Africa
+GRA,Costa Rica Green Airways,,,Costa Rica
 GRB,Phoenix Air Group,GREY BIRD,United States
 GRD,National Grid plc,GRID,United Kingdom
 GRE,Air Scotland,GREECE AIRWAYS,Greece
