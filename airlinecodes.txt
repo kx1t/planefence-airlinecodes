@@ -408,7 +408,7 @@ ARC,Air Routing International Corp.,,United States
 ARD,Aerocondor,,Portugal
 ARE,Aires Aerovías de Integración Regional S.A.,AIRES,Colombia
 ARF,Aero Flight,,Germany
-ARG,Aerolíneas Argentinas,ARGENTINA,Argentina
+ARG,Aerolineas Argentinas,ARGENTINA,Argentina
 ARH,Aerohelicopteros,AEROHELCA,Venezuela
 ARI,Aero Vics,AEROVICS,Mexico
 ARJ,Aerojet de Costa Rica S.A.,,Costa Rica
