@@ -6346,7 +6346,7 @@ VOI,Volaris,VOLARIS,Mexico
 VOL,Blue Chip Jet,BLUE SPEED,Sweden
 VOO,Volotea,,Spain
 VOR,Flight Calibration Services Ltd.,FLIGHT CAL,United Kingdom
-VOS,Rovos Air,ROVOS,South Africa
+VOS,Volaris El Salvador,JETSAL,South Africa
 VOZ,Virgin Australia,VELOCITY,Australia
 VPA,DanubeWings,VIP TAXI,Slovakia
 VPB,Veteran Air,VETERAN,Ukraine
