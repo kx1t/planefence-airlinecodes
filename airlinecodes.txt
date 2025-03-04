@@ -2463,7 +2463,7 @@ GWN,Gwyn Aviation,GWYN,United Kingdom
 GWR,Aura Airlines,LEMON,Spain
 GWS,General Airways,GENAIR,South Africa
 GWY,USA3000 Airlines,GETAWAY,United States
-GXA,Grixona,GRIXONA,Moldova
+GXA,GlobalX Airlines,GEMINI,United States
 GXG,GermanXL,,Germany
 GXL,Star XL German Airlines,STARDUST,Germany
 GXY,Galaxy Airlines,GALAX,Japan
