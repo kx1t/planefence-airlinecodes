@@ -6335,7 +6335,7 @@ VNG,Aero Servicios Vanguardia,VANGUARDIA,Mexico
 VNK,Vipport Joint Stock Company,,Russia
 VNL,Vanilla Air,VANILLA,Japan
 VNP,Virgin Pacific,,Fiji
-VNT,Avient Air Zambia,AVIENT,Zambia
+VNT,Ventura,VENTURA,United States
 VNX,Fly Advance,VANCE,United States
 VNZ,Tbilaviamsheni,TBILAVIA,Georgia
 VOA,Viaggio Air,VIAGGIO,Bulgaria
