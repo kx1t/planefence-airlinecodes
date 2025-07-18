@@ -270,7 +270,8 @@ AKM,Mak Air,MAKAIR,Kazakhstan
 AKN,Alkan Air,ALKAN AIR,Canada
 AKQ,Aerospace Consortium,MOONLIGHT,Kenya
 AKR,Aero Clinker,AERO CLINKER,Mexico
-AKT,Karat,AVIAKARAT,Russia
+AKB,Aktjubavia,KARAB,Kazakhstan
+AKT,Canadian North,ARCTIC,Canada
 AKW,Angkor Airways,,Cambodia
 AKX,Air Nippon Network Co. Ltd.,ALFA WING,Japan
 AKY,Yak-Service,YAK-SERVICE,Russia
