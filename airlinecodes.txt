@@ -2686,7 +2686,7 @@ HTO,Tango Bravo,HELI TANGO,France
 HTP,Heli Trip,HELI TRIP,Mexico
 HTR,Holstenair Lubeck,HOLSTEN,Germany
 HTS,Helitrans Air Service,HELITRANS,United States
-HTT,Air Tchad,HOTEL TANGO,Chad
+HTT,Latitude Air Ambulance,HEARTBEAT,Canada
 HTU,Hongtu Airlines,HONGLAND,China
 HUB,Hub Airlines,HUB,United States
 HUC,Aerolíneas de Techuacán,LINEAS TEHUACAN,Mexico
