@@ -4679,7 +4679,7 @@ PVD,PADAVIATION,,Italy
 PVG,Privilege Style Líneas Aéreas,PRIVILEGE,Spain
 PVI,Panavia,,Panama
 PVK,Association of Private Pilots of Kazakhstan,BORIS,Kazakhstan
-PVL,Professione VOlare,VOLARE,Italy
+PVL,PAL Airlines,PROVINCIAL,Canada
 PVN,Peruvian Airlines,,Peru
 PVO,Bearing Supplies Limited,PROVOST,United Kingdom
 PVS,Privatair Saudi Arabia,PASA,SA
