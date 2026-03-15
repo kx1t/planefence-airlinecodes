@@ -5158,7 +5158,7 @@ SCP,Scorpio Aviation,SCORPIO,Egypt
 SCQ,OSM Aviation Academy,SCAVAC,Norway
 SCR,Silver Cloud Air,SILVER CLOUD,Germany
 SCS,South African Non Scheduled Airways,SOUTHERN CHARTERS,South Africa
-SCT,SAAB-Aircraft,SAAB-CRAFT,Sweden
+SCT,SAAB Aircraft,SAAB CRAFT,Sweden
 SCU,Air Scorpio,SCORPIO UNIVERS,Bulgaria
 SCV,Servicios Aéreos Del Centro,SACSA,Mexico
 SCW,Malmö Aviation,SCANWING,Sweden
