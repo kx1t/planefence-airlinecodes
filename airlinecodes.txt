@@ -4664,7 +4664,7 @@ PTN,Pantanal Linhas Aéreas,PANTANAL,Brazil
 PTO,North West Geomatics,PHOTO,Canada
 PTP,Palau Trans Pacific Airlines,TRANS PACIFIC,Palau
 PTQ,Port Townsend Airways,TOWNSEND,United States
-PTR,Nova Scotia Department of Lands and Forests,PATROL,Canada
+PTR,Porter Airlines,PORTER,Canada
 PTS,Points of Call Airlines,POINTSCALL,Canada
 PTT,Promotora Industria Totolapa,TOTOLAPA,Mexico
 PTV,Puntavia Air Services,PUNTAVIA,Djibouti
