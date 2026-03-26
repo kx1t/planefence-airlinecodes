@@ -5158,7 +5158,7 @@ SCP,Scorpio Aviation,SCORPIO,Egypt
 SCQ,OSM Aviation Academy,SCAVAC,Norway
 SCR,Silver Cloud Air,SILVER CLOUD,Germany
 SCS,South African Non Scheduled Airways,SOUTHERN CHARTERS,South Africa
-SCT,SAAB-Aircraft,SAAB-CRAFT,Sweden
+SCT,SAAB Aircraft,SAAB CRAFT,Sweden
 SCU,Air Scorpio,SCORPIO UNIVERS,Bulgaria
 SCV,Servicios Aéreos Del Centro,SACSA,Mexico
 SCW,Malmö Aviation,SCANWING,Sweden
@@ -5582,7 +5582,7 @@ SWA,Southwest Airlines,SOUTHWEST,United States
 SWB,Swissboogie Parapro,SWISSBOOGIE,Switzerland
 SWC,South West Air,SAINT CLAIR,Canada
 SWD,Southern Winds Airlines,SOUTHERN WINDS,Argentina
-SWE,Swedeways,SWEDELINE,Sweden
+SWE,Svenskt Ambulansflyg,SWEDECARE,Sweden
 SWF,Galair International,GALAIR,United Kingdom
 SWG,Sunwing Airlines,SUNWING,Canada
 SWH,Adler Aviation,SHOCKWAVE,Canada
