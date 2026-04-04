@@ -4589,7 +4589,7 @@ POC,Pocono Air Lines,POCONO,United States
 POE,Porter Airlines,PORTER,Canada
 POF,Police Aux Frontières,AIRPOL,France
 POI,BGB Air,BOJBAN,Kazakhstan
-POL,Rikspolisstyrelsen,,Sweden
+POL,Swedish Police Authority,,Sweden
 PON,Portuguese Navy,PORTUGUESE NAVY,Portugal
 POR,Porteadora De Cosola,PORTEADORA,Mexico
 POT,Polet Airlines,POLET,Russia
@@ -5561,7 +5561,7 @@ SVA,Saudia,SAUDIA,Saudi Arabia
 SVB,Siavia,SIAVIA,Slovenia
 SVD,St. Vincent Grenadines Air (1990),GRENADINES,Saint Vincent and the Grenadines
 SVE,Aero Servicios Expecializados,AEROESPECIAL,Mexico
-SVF,Swedish Armed Forces,SWEDEFORCE,Sweden
+SVF,Swedish Air Force,SWEDEFORCE,Sweden
 SVG,SVG Air,,Saint Vincent and the Grenadines
 SVH,Sterling Helicopters,SILVER,United Kingdom
 SVI,Servicios De Transporte Aéreo,SETRA,Mexico
