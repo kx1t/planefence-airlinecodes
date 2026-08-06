@@ -5552,7 +5552,7 @@ SUO,Aeroservicios De San Luis,SERVICIO SANLUIS,Mexico
 SUP,Aeronautical Charters,SUN SPEED,United States
 SUR,Sun Air,,Egypt
 SUS,Sun Air of Scandinavia,SUNSCAN,Denmark
-SUT,Sistemas Aeronauuticos 2000,SISTEMAS AERONAUTICOS,Mexico
+SUT,Summit Air,SUMMIT,Canada
 SUU,Star West Aviation,SUNSTAR,United States
 SUV,Sundance Air,DANCEAIR,Venezuela
 SUW,Astair,,Russian Federation
